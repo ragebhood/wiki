@@ -1,1 +1,3 @@
-You know how to play already.
+---
+title: How to play
+---
