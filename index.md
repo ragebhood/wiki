@@ -1,1 +1,3 @@
-Hello!
+---
+title: Pagina principala
+---
