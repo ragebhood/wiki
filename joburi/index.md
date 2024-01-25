@@ -1,1 +1,3 @@
-Aici e inceputu la jbouri !!
+---
+title: Inceput joburi
+---
