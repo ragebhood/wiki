@@ -2,4 +2,4 @@
 title: Pagina principala
 ---
 
-buna asta e pagina principala yk
+bine ai venit pe wiki.b-hood.ro!
