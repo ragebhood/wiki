@@ -35,8 +35,8 @@ jobs:
           rm -rf ./wiki/wiki
           mv -f ./wiki/new_wiki ./wiki/wiki
           cd wiki
-          git config --global user.email "liberty.mp@github.com"
-          git config --global user.name "liberty.mp"
+          git config --global user.email "b-hood.ro@github.com"
+          git config --global user.name "b-hood.ro"
           git status
           git add .
           git commit -m "Update posts with ${{ github.sha }}" || true
