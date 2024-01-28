@@ -1,3 +1,7 @@
+---
+title: Garbage man
+---
+
 `#RRGGBB **Garbage Man**`
 >Ai nevoie de minim nivel 1 pentru a putea munci la acest job.
 
