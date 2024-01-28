@@ -1,4 +1,4 @@
-`#RRGGBB` ** Farmer **
+`#RRGGBB**Farmer**`
 > Ai nevoie de minim nivel 1 pentru a putea munci la job
 
 
