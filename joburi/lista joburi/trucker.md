@@ -17,3 +17,11 @@ Muncind la acest job si alegand cursele de skill 6 (ilegale), atunci cand vei li
 Totodata, transportand marfuri ilegale, vei primi din ce in ce mai mult bani pe masura ce livrezi la mai multe locatii fara a te opri din munca.
 
 Ture pentru skill up: Skill 2 - 50 ; Skill 3 - 125 ; Skill 4 - 250 ; Skill 5 - 600 ; Skill 6 - 1500
+
+| Skill  |      Ture     |
+| -------| :-----------: |
+| 2      |   50          |
+| 3      |   125         |
+| 4      |   250         |
+| 5      |   600         |
+| 6      |   1500        |
