@@ -14,6 +14,13 @@ Vehiculul respectiv (bhtractorwork) iti va oferi avantaje doar daca il deti, ace
 Atentie! Daca te vei reconecta, vei pierde faina, iar daca mori si nu ai un backpack de minim nivel 2.
 
 
-Ture necesare skill up: Skill 2 - 50 ; Skill 3 - 120 ; Skill 4 - x ; Skill 5 - x ; Skill 6 - 1350
 
 
+
+| Skill  |      Ture     |
+| -------| :-----------: |
+| 2      |   50          |
+| 3      |   120         |
+| 4      |   x           |
+| 5      |   x           |
+| 6      |   1350        |
