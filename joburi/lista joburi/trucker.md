@@ -1,4 +1,4 @@
-`#RRGGBB`**Trucker**
+`#RRGGBB**Trucker**`
  > Ai nevoie de minim nivel 1 pentru a putea munci la acest job.
 
 
