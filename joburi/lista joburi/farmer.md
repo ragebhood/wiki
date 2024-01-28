@@ -12,3 +12,8 @@ Dupa ce ai livrat faina si ai primit-o, aceasta poate fi vanduta la un business 
 Serverul nostru detine un sistem prin care poti avea vehicule personale de munca ce le poti folosi.
 Vehiculul respectiv (bhtractorwork) iti va oferi avantaje doar daca il deti, acesta oferindu-ti cu 40% mai multa faina cand vei livra balotul.
 Atentie! Daca te vei reconecta, vei pierde faina, iar daca mori si nu ai un backpack de minim nivel 2.
+
+
+Ture necesare skill up: Skill 2 - 50 ; Skill 3 - 120 ; Skill 4 - x ; Skill 5 - x ; Skill 6 - 1350
+
+
