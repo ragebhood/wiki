@@ -1,3 +1,7 @@
+---
+title: Beneficii skinuri
+---
+
 **Rare Skin**
 Skin-ul 'Rare' îți oferă +10 la suta job boost.
 
