@@ -1,5 +1,5 @@
 ---
-title: Informatii despre Backpack
+title: Backpack
 ---
 
 **Backpack**
