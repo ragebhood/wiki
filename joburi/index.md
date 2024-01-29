@@ -1,5 +1,5 @@
 ---
-title: Inceput joburi
+title: Început joburi
 ---
 
 ddd
