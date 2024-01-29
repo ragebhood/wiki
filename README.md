@@ -1,2 +1,1 @@
-# wiki
-wiki
+# Wikipediaul oficial al serverului RAGE B-Hood.
