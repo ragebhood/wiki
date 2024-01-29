@@ -1,3 +1,5 @@
 ---
-title: Bizuri 🧑‍💼
+title: Bizuri
 ---
+
+# Bizuri 🧑‍💼
