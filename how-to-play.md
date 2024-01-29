@@ -31,4 +31,4 @@ Pentru a te putea juca la noi pe server, vei fi nevoit să îți descarci și pl
 > Poți descărca direct de pe acest [link](https://cdn.rgsvc.io/public/files/RAGEMultiplayer_Setup.exe) multiplayerul.
 
 # Conectare
-Felicitări! Esti cu un pas mai aproape să te joci pe cel mai aventuros și captivant server de **GTA:V**. Intră pe masterlist și caută b-hood și apasă conectare.
+Felicitări!! Esti cu un pas mai aproape să te joci pe cel mai aventuros și captivant server de **GTA:V**. Intră pe masterlist și caută b-hood și apasă conectare.
