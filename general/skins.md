@@ -1,5 +1,5 @@
 ---
-title: Beneficii skinuri
+title: Skinuri
 ---
 
 <span style="color:#3061FF;"><strong>Rare Skin</strong></span>
