@@ -1,0 +1,5 @@
+---
+title: Paintball
+---
+
+# Paintball 🔫
