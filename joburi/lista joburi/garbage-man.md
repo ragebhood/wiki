@@ -8,11 +8,13 @@ Acțiunea jobului de gunoier constă în colectarea sacilor de gunoi din tombero
 ::: details Locație job
 ![Locatie job Garbage man](https://i.imgur.com/I0ME4nv.png "Locație job Garbage man")
 :::
-
 ## Muncă
 Pentru a începe munca, folosește comanda `/work` sau apasă pe tasta `Y` din locația jobului.
+::: details Locație start job
+![Locatie job Garbage man](https://i.imgur.com/Tpj7Yem.png "Locație job Garbage man")
+:::
 
-În momentul când ai început munca urmează checkpointul primit, odata ajuns acolo mergi în checkpoint și apasă pe tasta `Y` pentru a colecta gunoiul din tomberon 🚮.
+În momentul când ai început munca ți se va oferi un vehicul de tip `trash` cu care îți vei efectua jobul. Urmează checkpointul primit, odata ajuns acolo mergi în checkpoint și apasă pe tasta `Y` pentru a colecta gunoiul din tomberon 🚮.
 
 Dupa ce ai colectat gunoiul, du-te în spatele masinii de gunoi și apasă pe tasta `Y` pentru a-l încărca în aceasta, urmând apoi să repeți procesul până când vehiculul se va umple sau când vei dori să-l descarci.
 
