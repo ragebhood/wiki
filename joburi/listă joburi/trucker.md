@@ -1,3 +1,6 @@
+---
+title: Trucker
+---
 
 
 # Trucker 🚚 
@@ -11,7 +14,7 @@ Pentru a începe munca, folosește comanda `/work` sau apasă pe tasta `Y` din l
 ![Locatie job Trucker](https://i.imgur.com/onGNa3T.png "Locație job Trucker")
 :::
 
-În momentul când ai început munca ți se va oferi un vehicul de tip `phantom` cu care îți vei efectua jobul. Alege ![cusele](/imgur.com/0fb646b0-0598-4070-a3ff-dd0379c725a3 "cursele") dorite în funcție de skill-ul tău apoi urmează checkpointul primit, odată ajuns acolo mergi în checkpoint și cuplează remorca dând cu spatele către aceasta.
+În momentul când ai început munca ți se va oferi un vehicul de tip `phantom` cu care îți vei efectua jobul. Alege ![cusele](https://i.imgur.com/JuXMHEx.gif "cursele") dorite în funcție de skill-ul tău apoi urmează checkpointul primit, odată ajuns acolo mergi în checkpoint și cuplează remorca dând cu spatele către aceasta.
 
 După ce ai cuplat remorca, du-te la checkpoint-ul primit și încarcă remorcă cu marfă.
 
