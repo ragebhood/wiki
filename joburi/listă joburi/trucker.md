@@ -1,10 +1,9 @@
-
 ---
 title: Trucker
 ---
 
 # Trucker 🚚 
-Actiunea job-ul 'Trucker' consta in transportarea si livrarea marfii in locatiile primite.
+Actiunea job-ul **Trucker** consta in transportarea si livrarea marfii in locatiile primite.
 ::: details Locație job
 ![Locatie job Garbage man](https://i.imgur.com/3UCMpRo.png "Locație job Trucker")
 :::
@@ -34,7 +33,8 @@ Atunci când vei folosi vehiculul personal în timp ce muncești, acesta iti va 
 | 5             | 600|
 | 6             | 1500|
 
-::: danger
-La cursele ilegale, in momentul descarcarii, vei putea primi 'Wanted 2'.
+::: danger ATENȚIE!
+La cursele ilegale, in momentul descarcarii, vei putea primi **Wanted 2**.
+
 Totodata pe masura ce faci mai multe curse ilegale la rand, recompensa in bani va creste.
 :::
