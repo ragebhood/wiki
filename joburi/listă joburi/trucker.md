@@ -6,12 +6,12 @@ title: Trucker
 # Trucker 🚚 
 Actiunea job-ul 'Trucker' consta in transportarea si livrarea marfii in locatiile primite.
 ::: details Locație job
-![Locatie job Garbage man](https://imgur.com/a/XljxwjZ "Locație job Trucker")
+![Locatie job Garbage man](https://i.imgur.com/3UCMpRo.png "Locație job Trucker")
 :::
 ## Muncă
 Pentru a începe munca, folosește comanda `/work` sau apasă pe tasta `Y` din locația jobului.
 ::: details Locație start job
-![Locatie job Garbage man](https://imgur.com/a/2V5vjgI "Locație job Trucker")
+![Locatie job Garbage man](https://i.imgur.com/onGNa3T.png "Locație job Trucker")
 :::
 
 În momentul când ai început munca ți se va oferi un vehicul de tip `phantom` cu care îți vei efectua jobul. Alege cursele dorite in functie de skill-ul tau apoi urmează checkpointul primit, odata ajuns acolo mergi în checkpoint si cupleaza remorca dand cu spatele catre aceasta.
