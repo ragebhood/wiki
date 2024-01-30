@@ -1,19 +1,40 @@
-`#RRGGBB**Trucker**`
- > Ai nevoie de minim nivel 1 pentru a putea munci la acest job.
 
+---
+title: Trucker
+---
 
-Pentru a incepe munca, foloseste comanda [/work] sau apasa pe tasta 'Y' in locul destinat.
+# Trucker 🚚 
 Actiunea job-ul 'Trucker' consta in transportarea si livrarea marfii in locatiile primite.
-Atunci cand incepi munca, iti va fi deschisa o interfata unde va fi necesar sa alegi skill-ul de la care doresti sa primesti cursele, odata ales, vei primi un checkpoint de unde vei lua remorca si ulterior sa o incarci la un alt checkpoint.
-Imediat ce remorca va fi incarcata, iti vor fi marcate 4 locatii unde va trebui sa livrezi marfa incarcata.
+::: details Locație job
+![Locatie job Garbage man](https://imgur.com/a/XljxwjZ "Locație job Trucker")
+:::
+## Muncă
+Pentru a începe munca, folosește comanda `/work` sau apasă pe tasta `Y` din locația jobului.
+::: details Locație start job
+![Locatie job Garbage man](https://imgur.com/a/2V5vjgI "Locație job Trucker")
+:::
 
-Serverul nostru dispune de vehicule personale ce pot fi folosite la acel job, in acest caz, 'Bhertwork'.
-Utilizand vehiculul personal, vei primi un job-boost de 40% urmand sa primesti mai multi bani in momentul livrarii.
+În momentul când ai început munca ți se va oferi un vehicul de tip `phantom` cu care îți vei efectua jobul. Alege cursele dorite in functie de skill-ul tau apoi urmează checkpointul primit, odata ajuns acolo mergi în checkpoint si cupleaza remorca dand cu spatele catre aceasta.
 
+Dupa ce ai cuplat remorca, du-te la checkpoint-ul primit si incarca remorca.
 
+Dupa ce aceasta a fost incarcata, va fi necesar sa mergi la marcajele amplasate pentru a descarca marfa.
 
-La acest job, avansand in skill, vei primi curse noi la skill-urile respective: skill 3, skill 4, skill 5 si skill 6 (curse ilegale).
-Muncind la acest job si alegand cursele de skill 6 (ilegale), atunci cand vei livra marfa, vei avea sansa de a primi 'Wanted 2' pentru 'transport de marfuri ilegale'.
-Totodata, transportand marfuri ilegale, vei primi din ce in ce mai mult bani pe masura ce livrezi la mai multe locatii fara a te opri din munca.
+## Misc
+Acest job se poate practica cu ajutorul unui vehicul personal: `Bhhertwork`.
+Atunci când vei folosi vehiculul personal în timp ce muncești, acesta iti va oferi un job boost de **40%** in momentul descărcării.
 
-Ture pentru skill up: Skill 2 - 50 ; Skill 3 - 125 ; Skill 4 - 250 ; Skill 5 - 600 ; Skill 6 - 1500
+### Ture necesare pentru skill up:
+
+| Skill         |  kg   |
+| ------------- | ----: |
+| 2             | 50|
+| 3             | 125|
+| 4             | 250|
+| 5             | 600|
+| 6             | 1500|
+
+::: danger
+La cursele ilegale, in momentul descarcarii, vei putea primi 'Wanted 2'.
+Totodata pe masura ce faci mai multe curse ilegale la rand, recompensa in bani va creste.
+:::
