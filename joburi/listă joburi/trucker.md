@@ -1,27 +1,35 @@
----
-title: Trucker
----
+
 
 # Trucker 🚚 
-Actiunea job-ul **Trucker** consta in transportarea si livrarea marfii in locatiile primite.
+Actiunea job-ul 'Trucker' consta in transportarea si livrarea marfii in locatiile primite.
 ::: details Locație job
-![Locatie job Garbage man](https://i.imgur.com/3UCMpRo.png "Locație job Trucker")
+![Locatie job Trucker](https://i.imgur.com/3UCMpRo.png "Locație job Trucker")
 :::
 ## Muncă
 Pentru a începe munca, folosește comanda `/work` sau apasă pe tasta `Y` din locația jobului.
 ::: details Locație start job
-![Locatie job Garbage man](https://i.imgur.com/onGNa3T.png "Locație job Trucker")
+![Locatie job Trucker](https://i.imgur.com/onGNa3T.png "Locație job Trucker")
 :::
 
-În momentul când ai început munca ți se va oferi un vehicul de tip `phantom` cu care îți vei efectua jobul. Alege cursele dorite in functie de skill-ul tau apoi urmează checkpointul primit, odata ajuns acolo mergi în checkpoint si cupleaza remorca dand cu spatele catre aceasta.
+În momentul când ai început munca ți se va oferi un vehicul de tip `phantom` cu care îți vei efectua jobul. Alege ![cusele](/imgur.com/0fb646b0-0598-4070-a3ff-dd0379c725a3 "cursele") dorite în funcție de skill-ul tău apoi urmează checkpointul primit, odată ajuns acolo mergi în checkpoint și cuplează remorca dând cu spatele către aceasta.
 
-Dupa ce ai cuplat remorca, du-te la checkpoint-ul primit si incarca remorca.
+După ce ai cuplat remorca, du-te la checkpoint-ul primit și încarcă remorcă cu marfă.
 
-Dupa ce aceasta a fost incarcata, va fi necesar sa mergi la marcajele amplasate pentru a descarca marfa.
+După ce această a fost încărcată, va fi necesar să mergi la marcajele amplasate pentru a descarcă marfa.
+# Informatii despre curse
+'Cursele de la skill 4 cu cisterna'
+Atunci cand efectuezi curse la acest skill, va fi necesar sa incarci cisterna folosind 'Y' in spatele acesteia.
+![Cum încarc cisterna?](https://imgflip.com/gif/8e5aq5 "Cum încarc cisterna?")
 
 ## Misc
 Acest job se poate practica cu ajutorul unui vehicul personal: `Bhhertwork`.
 Atunci când vei folosi vehiculul personal în timp ce muncești, acesta iti va oferi un job boost de **40%** in momentul descărcării.
+
+
+::: danger
+La cursele ilegale, în momentul descărcării, vei putea primi 'Wanted 2'. 
+Totodată pe măsură ce faci mai multe curse ilegale la rând, recompensa în bani va crește.
+:::
 
 ### Ture necesare pentru skill up:
 
@@ -33,8 +41,4 @@ Atunci când vei folosi vehiculul personal în timp ce muncești, acesta iti va 
 | 5             | 600|
 | 6             | 1500|
 
-::: danger ATENȚIE!
-La cursele ilegale, in momentul descarcarii, vei putea primi **Wanted 2**.
 
-Totodata pe masura ce faci mai multe curse ilegale la rand, recompensa in bani va creste.
-:::
