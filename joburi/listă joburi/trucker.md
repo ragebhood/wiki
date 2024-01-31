@@ -14,7 +14,7 @@ Pentru a începe munca, folosește comanda `/work` sau apasă pe tasta `Y` din l
 ![Locatie job Trucker](https://i.imgur.com/onGNa3T.png "Locație job Trucker")
 :::
 
-În momentul când ai început munca ți se va oferi un vehicul de tip `phantom` cu care îți vei efectua jobul. Alege ![cusele](https://i.imgur.com/JuXMHEx.gif "cursele") dorite în funcție de skill-ul tău apoi urmează checkpointul primit, odată ajuns acolo mergi în checkpoint și cuplează remorca dând cu spatele către aceasta.
+În momentul când ai început munca ți se va oferi un vehicul de tip `phantom` cu care îți vei efectua jobul. Alege ![cusele](https://imgur.com/aqeGOYh.png "cursele") dorite în funcție de skill-ul tău apoi urmează checkpointul primit, odată ajuns acolo mergi în checkpoint și cuplează remorca dând cu spatele către aceasta.
 
 După ce ai cuplat remorca, du-te la checkpoint-ul primit și încarcă remorcă cu marfă.
 
@@ -22,7 +22,7 @@ După ce această a fost încărcată, va fi necesar să mergi la marcajele ampl
 # Informatii despre curse
 'Cursele de la skill 4 cu cisterna'
 Atunci cand efectuezi curse la acest skill, va fi necesar sa incarci cisterna folosind 'Y' in spatele acesteia.
-![Cum încarc cisterna?](https://imgflip.com/gif/8e5aq5 "Cum încarc cisterna?")
+![Cum încarc cisterna?](https://i.imgur.com/JuXMHEx.gif "Cum încarc cisterna?")
 
 ## Misc
 Acest job se poate practica cu ajutorul unui vehicul personal: `Bhhertwork`.
