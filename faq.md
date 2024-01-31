@@ -2,7 +2,7 @@
 title: FAQ
 ---
 
-## Întrebări frecvente (FAQ) ❓
+# Întrebări frecvente (FAQ) ❓
 
 # De ce nu mi se deschide nimic cand folosesc '/clothes', '/stats', '/market', sau o alta interfata?
 *Acest lucru poate fi rezolvat dezactivând 'Accelerated CEF Rendering' din setările 'RAGE:MP'* 
