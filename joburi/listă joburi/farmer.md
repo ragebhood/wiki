@@ -1,19 +1,39 @@
-`#RRGGBB**Farmer**`
-> Ai nevoie de minim nivel 1 pentru a putea munci la job
 
+---
+  title: Farmer
+---
 
-Pentru a incepe munca, foloseste comanda [/work].
-Odata inceputa munca, trebuie sa transporti baloti marcati pe harta (cercuri mici galbene) la checkpoint-ul primit.
-Pentru a putea colecta balotul, este necesar sa te deplasezi cu tractorul langa acesta si sa apesi pe tasta 'Y' atunci cand te aflii cu spatele tractorului lipit de balot.
-Pentru a livra faina, poti folosi comanda [/unloadflour] daca ai cel putin jumatate din cantitatea de faina pe care o poti stoca (aceasta depinde de backpack-ul si skill-ul pe care il ai) sau, atunci cand vei 
-ajunge la cantitatea maxima de faina pe care o poti stoca, acesta iti va plasa automat un checkpoint si iti va atasa o remorca unde trebuie sa mergi pentru a putea primi faina in inventar.
-Dupa ce ai livrat faina si ai primit-o, aceasta poate fi vanduta la un business de tip '24/7' intrand in checkpoint-ul de langa casa de marcat.
+# Farmer 🚜
+Acțiunea job-ului de fermier constă în adunarea balotilor și transportarea lor către hambar
+::: details Locație job
+![Locatie job Farmer](https://i.imgur.com/y7OY7ec.png "Locație job Farmer")
+:::
+## Muncă
+Pentru a începe munca, folosește comanda `/work` sau apasă pe tasta `Y` din locația jobului.
+::: details Locație start job
+![Locatie job Farmer](https://i.imgur.com/4nCHdz6.png "Locație Farmer")
+:::
 
-Serverul nostru detine un sistem prin care poti avea vehicule personale de munca ce le poti folosi.
-Vehiculul respectiv (bhtractorwork) iti va oferi avantaje doar daca il deti, acesta oferindu-ti cu 40% mai multa faina cand vei livra balotul.
-Atentie! Daca te vei reconecta, vei pierde faina, iar daca mori si nu ai un backpack de minim nivel 2.
+În momentul când ai început munca ți se va oferi un vehicul de tip `tractor` cu care îți vei efectua jobul. Urmează marcajul primit (cerc galben), odata ajuns acolo mergi cu tractorul langa acesta si apasa pe tasta 'Y' atunci cand te aflii cu spatele tractorului lipit de balot.
+!['Cum iau balotul?](https://i.imgur.com/3woXXdM.gi) "Cum iau balotul?")
 
+După ce ai colectat balotul, este necesar să mergi cu acesta la checkpoint-ul primit pentru a-l depozita în hambar.
+Făina poate fi livrată când hambarul este pe jumătate plin  (cantitatea poate diferi in functie de skillul avut și de backpack) folosindu-te de comanda `/unloadflour` și urmând checkpointul.
 
-Ture necesare skill up: Skill 2 - 50 ; Skill 3 - 120 ; Skill 4 - x ; Skill 5 - x ; Skill 6 - 1350
+Totodata, dacă în timp ce muncești, vehiculul se va umple, ți se va plasa automat un checkpoint pentru a-l descărca.
 
+## Misc
+Acest job se poate practica cu ajutorul unui vehicul personal: `Bhtractorwork`.
+Atunci când vei folosi vehiculul personal în timp ce muncești, acesta iti va oferi cu **40%** mai multă făină atunci când transporți baloți la hambar.
+::: Danger Faina
+Făina din hambar îți va rămâne în momentul în care te vei deconecta sau vei muri, însă făina primită după ce ai livrat-o ('/unloadflour') îți va rămâne doar dacă deți minim 'Backpack' nivel '3'.
+:::
+### Ture necesare pentru skill up:
 
+| Skill         |  kg   |
+| ------------- | ----: |
+| 2             | 50|
+| 3             | 120|
+| 4             | x|
+| 5             | x|
+| 6             | 1350|
