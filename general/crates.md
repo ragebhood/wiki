@@ -7,11 +7,11 @@ Aceste crate-uri sunt niște cutii care te recompensează într-un premiu random
 
 ## Beginner Crate 🌠
 <p align="center">
-    <img width="200" src="https://i.imgur.com/gumPHxE.png" alt="Material Bread logo">
+    <img width="200" src="https://i.imgur.com/uth2aOF.png" alt="Beginner Crate">
 </p>
 Acest crate poate fi obținut doar prin completarea task-urilor de început.
 
-Din acest crate poți primi garantat unul dintre vehiculele 'bhorse718cygts', 'bhudirs32210', 'bhstangshlbgt500', 'bhaguarxesvp8' sau 'bhwm3perf21'.
+Premii: <strong>poți primi garantat unul dintre vehiculele 'bhorse718cygts', 'bhudirs32210', 'bhstangshlbgt500', 'bhaguarxesvp8' sau 'bhwm3perf21'</strong>
 
 ::: danger 
 Vehiculele primite în acest crate vor dispărea atunci când vei acumula 25 de ore jucate în '/stats'.
@@ -22,14 +22,14 @@ Vehiculele primite în acest crate vor dispărea atunci când vei acumula 25 de 
 <p align="center">
     <img width="200" src="https://i.imgur.com/BjvMONe.png" alt="Material Bread logo">
 </p>
-Prețul: <span style="color: #8003fc;">250 de B-Points</span> / <span style="color: #fcba03;">20 de puncte premium</span>.
+Prețul: **<span style="color: #8003fc;">250 de B-Points</span> / <span style="color: #fcba03;">20 de puncte premium</span>**.
 
 Premii: <strong>puncte de respect, B-Points, Gift points, bani sau un vehicul de tip '**Faggio**'</strong>
 
 
 ## Epic Crate 📦
 <p align="center">
- <img width="200" src="https://i.imgur.com/ARZJOwu.png" alt="Material Bread logo">
+ <img width="200" src="https://i.imgur.com/QL4gqQr.png" alt="Epic crate">
 </p>
 Acest crate necesită 500 de B-Points sau 40 de puncte premium pentru a-l achiziționa.
 
@@ -38,7 +38,7 @@ Din acest crate poți primi puncte de respect, b-points, skin-uri, Hidden Color,
 
 ## Legendary Crate 📦
 <p align="center">
- <img width="200" src="https://i.imgur.com/s8vCCgk.png" alt="Material Bread logo">
+ <img width="200" src="https://i.imgur.com/pV5hW9G.png" alt="Legendary crate">
 </p>
 
 Acest crate necesită 1000 de B-Points sau 100 de puncte premium pentru a-l achiziționa.
@@ -46,9 +46,9 @@ Acest crate necesită 1000 de B-Points sau 100 de puncte premium pentru a-l achi
 Din acest crate poți primi puncte de respect, b-points, skin-uri, Hidden Color, puncte premium, Gift-Points, zile de cont VIP, bani, un vehicul de tip 'Brioso' sau un vehicul de tip 'Blazer'.
 
 
- ## Winter Crate ❄️
+## Winter Crate ❄️
 <p align="center">
-    <img width="200" src="https://i.imgur.com/7HBklsb.png" alt="Material Bread logo">
+    <img width="200" src="https://i.imgur.com/wAuxeKF.png" alt="Winter crate">
 </p>
 Acest crate nu se poate achiziționa decât în zilele ce-ți permit cumpărarea crate-urilor vechi în schimbul a 250 de puncte premium.
 
@@ -56,9 +56,9 @@ Din acest crate poți câștigă puncte de respect, materiale, Hidden Color, Mat
 
 
 
- ## Cupidon Crate 💏
+## Cupidon Crate 💏
 <p align="center">
-    <img width="200" src="https://i.imgur.com/f9teS7Y.png" alt="Material Bread logo">
+    <img width="200" src="https://i.imgur.com/2UzIVxJ.png" alt="Cupidon crate">
 </p>
 Acest crate nu se poate achiziționa decât în zilele ce-ți permit cumpărarea crate-urilor vechi în schimbul a 250 de puncte premium.
 
@@ -66,9 +66,9 @@ Din acest crate poți primi bani, Hidden/Matte Color, Money Bag, Vehicle Slot, z
 
 
 
- ## Spring Crate 🌹
+## Spring Crate 🌹
 <p align="center">
-    <img width="200" src="https://i.imgur.com/Yrc6K5c.png" alt="Material Bread logo">
+    <img width="200" src="https://i.imgur.com/6Hl8NPJ.png" alt="Spring crate">
 </p>
 Acest crate nu se poate achiziționa decât în zilele ce-ți permit cumpărarea crate-urilor vechi în schimbul a 250 de puncte premium.
 
@@ -78,7 +78,7 @@ Din acest crate poți primi puncte de respect, Gift Points, Chrome Color, zile d
 
 ## Nostalgia Crate 📦
 <p align="center">
-    <img width="200" src="https://i.imgur.com/hJo1x5F.png" alt="Material Bread logo">
+    <img width="200" src="https://i.imgur.com/CwgJyJR.png" alt="Nostalgia crate">
 </p>
 Acest crate nu se poate achiziționa decât în zilele ce-ți permit cumpărarea crate-urilor vechi în schimbul a 250 de puncte premium.
 
@@ -86,9 +86,9 @@ Din acest crate poți primi puncte de respect, Money Bag, zile de cont VIP sau L
 
 
 
- ## Easter Crate 🐇
+## Easter Crate 🐇
 <p align="center">
-    <img width="200" src="https://i.imgur.com/1KCBFDG.png" alt="Material Bread logo">
+    <img width="200" src="https://i.imgur.com/IZTHxKm.png" alt="Easter crate">
 </p>
 Acest crate nu se poate achiziționa decât în zilele ce-ți permit cumpărarea crate-urilor vechi în schimbul a 250 de puncte premium.
 
@@ -96,9 +96,9 @@ Din acest crate poți primi suma de 25.000.000$, job boost, puncte premium, mate
 
 
 
- ## Workers Crate 👷
+## Workers Crate 👷
 <p align="center">
-    <img width="200" src="https://i.imgur.com/uwq13Zy.png" alt="Material Bread logo">
+    <img width="200" src="https://i.imgur.com/KfGYGYC.png" alt="Workers crate">
 </p>
 Acest crate necesită 3000 de B-Points sau 150 de puncte premium pentru a-l achiziționa.
 
@@ -106,9 +106,9 @@ Din acest crate poți primi Job Boost 50/100/150/250%, zile de cont VIP/Legend/P
 
 
 
- ## Summer Crate 🌴
+## Summer Crate 🌴
 <p align="center">
-    <img width="200" src="https://i.imgur.com/FR4OgsE.png" alt="Material Bread logo">
+    <img width="200" src="https://i.imgur.com/MnS4Jtm.png" alt="Summer crate">
 </p>
 Acest crate nu se poate achiziționa decât în zilele ce-ți permit cumpărarea crate-urilor vechi în schimbul a 250 de puncte premium.
 
@@ -116,9 +116,9 @@ Din acest crate poți primi primi Bani, puncte de respect, Vehicle Slot, zile de
 
 
 
- ## Moonlight Crate 🌛
+## Moonlight Crate 🌛
 <p align="center">
-    <img width="200" src="https://i.imgur.com/GeJFimR.png" alt="Material Bread logo">
+    <img width="200" src="https://i.imgur.com/kbwU7Ou.png" alt="Moonlight crate">
 </p>
 Acest crate poate fi cumpărat de la jucători, obținut la 'Lucky Fisherman' sau primit participând la eveniment.
 
@@ -126,9 +126,9 @@ Din acest crate poți primi Job Boost, Money Stack/Bag/Rain, puncte de respect, 
 
 
 
- ## Autumn Crate 🍂
+## Autumn Crate 🍂
 <p align="center">
-    <img width="200" src="https://i.imgur.com/LVWBFNk.png" alt="Material Bread logo">
+    <img width="200" src="https://i.imgur.com/BHYhjns.png" alt="Autumn crate">
 </p>
 Acest crate nu se poate achiziționa decât în zilele ce-ți permit cumpărarea crate-urilor vechi în schimbul a 250 de puncte premium.
 
@@ -136,9 +136,9 @@ Din acest crate poți primi Money Bag, Vehicle Slot, B-Points, zile de cont, bhw
 
 
 
- ## Halloween Crate 👻
+## Halloween Crate 👻
 <p align="center">
-    <img width="200" src="https://i.imgur.com/SyvluUb.png" alt="Material Bread logo">
+    <img width="200" src="https://i.imgur.com/K5oqdPA.png" alt="Halloween crate">
 </p>
 Acest crate nu se poate achiziționa decât în zilele ce-ți permit cumpărarea crate-urilor vechi în schimbul a 250 de puncte premium.
 
@@ -146,9 +146,9 @@ Din acest crate poți primi Pumpkin with money, Job Boost 250%, armă 'Knuckle',
 
 
 
- ## Winter V2 Crate ⛄
+## Winter V2 Crate ⛄
 <p align="center">
-    <img width="200" src="https://i.imgur.com/lrZsGRE.png" alt="Material Bread logo">
+    <img width="200" src="https://i.imgur.com/wJtEXzJ.png" alt="Winter V2 crate">
 </p>
 Acest crate necesită 4000 de B-Points sau 199 de puncte premium pentru a-l achiziționa.
 
@@ -156,9 +156,9 @@ Din acest crate poți primi puncte de respect, Money Bag, zie de cont VIP sau Pr
 
 
 
- ## Xmas  Crate 🎅
+## Xmas Crate 🎅
 <p align="center">
-    <img width="200" src="https://i.imgur.com/ttnDOAH.png" alt="Material Bread logo">
+    <img width="200" src="https://i.imgur.com/0HnhJhl.png" alt="Xmas crate">
 </p>
 Acest crate necesită 6969 de B-Points sau 250 de puncte premium pentru a-l achiziționa.
 
