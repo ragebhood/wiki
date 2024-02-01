@@ -2,7 +2,10 @@
 title: Crates
 ---
 
- ## Beginner Crate 🌠
+# Crates 📦
+Aceste crate-uri sunt niște cutii care te recompensează într-un premiu random. -- cv descriere mai misto aici
+
+## Beginner Crate 🌠
 <p align="center">
     <img width="200" src="https://i.imgur.com/gumPHxE.png" alt="Material Bread logo">
 </p>
@@ -10,21 +13,18 @@ Acest crate poate fi obținut doar prin completarea task-urilor de început.
 
 Din acest crate poți primi garantat unul dintre vehiculele 'bhorse718cygts', 'bhudirs32210', 'bhstangshlbgt500', 'bhaguarxesvp8' sau 'bhwm3perf21'.
 
-
 ::: danger 
 Vehiculele primite în acest crate vor dispărea atunci când vei acumula 25 de ore jucate în '/stats'.
 :::
 
 
-
- ## Rare Crate 📦
+## Rare Crate 📦
 <p align="center">
-    <img width="200" src="https://i.imgur.com/NsiJDOL.png" alt="Material Bread logo">
+    <img width="200" src="https://i.imgur.com/BjvMONe.png" alt="Material Bread logo">
 </p>
-Acest crate necesită 250 de B-Points sau 20 de puncte premium pentru a-l achiziționa.
+Prețul: <span style="color: #8003fc;">250 de B-Points</span> / <span style="color: #fcba03;">20 de puncte premium</span>.
 
-Din acest crate poți primi puncte de respect, b-points, Gift-Points, bani sau un vehicul de tip 'Faggio'.
-
+Premii: <strong>puncte de respect, B-Points, Gift points, bani sau un vehicul de tip '**Faggio**'</strong>
 
 
 ## Epic Crate 📦
@@ -36,7 +36,6 @@ Acest crate necesită 500 de B-Points sau 40 de puncte premium pentru a-l achizi
 Din acest crate poți primi puncte de respect, b-points, skin-uri, Hidden Color, puncte premium, Gift-Points, zile de cont Premium, bani sau un vehicul de tip 'Blazer'.
 
 
-
 ## Legendary Crate 📦
 <p align="center">
  <img width="200" src="https://i.imgur.com/s8vCCgk.png" alt="Material Bread logo">
@@ -45,7 +44,6 @@ Din acest crate poți primi puncte de respect, b-points, skin-uri, Hidden Color,
 Acest crate necesită 1000 de B-Points sau 100 de puncte premium pentru a-l achiziționa.
 
 Din acest crate poți primi puncte de respect, b-points, skin-uri, Hidden Color, puncte premium, Gift-Points, zile de cont VIP, bani, un vehicul de tip 'Brioso' sau un vehicul de tip 'Blazer'.
-
 
 
  ## Winter Crate ❄️
