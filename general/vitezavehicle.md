@@ -1,13 +1,13 @@
 ---
-title: Viteza vehicule
+title: Viteză vehicule
 ---
 
-## In acest tabel puteti regasi viteza vehiculelor, va recomand sa folositi 'CTRL+F' pentru a va fi mai usor sa gasiti un anume vehicul
+# Viteză vehicule 💨
+În acest tabel puteți regăsi viteza vehiculelor, vă recomand să folosiți `CTRL+F` pentru a vă fi mai ușor să gasiți un anume vehicul.
 
-::: danger Atentie!
-Vitezele sunt aproximativ si pot varia de la un vehicul la altul
+::: danger ATENȚIE!
+Vitezele sunt rotunjite și pot varia de la un vehicul la altul.
 :::
-
 
 
 | Vehicul     | Viteză Inițială | Stage 1 | Stage 2 | Stage 3 |
