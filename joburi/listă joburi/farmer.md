@@ -1,6 +1,5 @@
-
 ---
-  title: Farmer
+title: Farmer
 ---
 
 # Farmer 🚜
