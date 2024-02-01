@@ -1,15 +1,18 @@
 ---
 title: Detective
 ---
-::: details Locatie job 'Detective'
-![Locatie Job]'Accelerated CEF Rendering'](https://i.imgur.com/CfTNpdc.png) "Dezactivare 'Locatie job'")
+::: details Locație job 'Detective'
+![Locație Job](https://i.imgur.com/CfTNpdc.png) "Dezactivare 'Locație job'")
 :::
 ## Detective
-Cu ajutorul acestui job poti gasii jucatorii prin intermediul comenzii `/find`.
+Cu ajutorul acestui job poți găsi jucătorii prin intermediul comenzii `/find`.
 
-## Munca
-Acest job este unul de tip non-profitabil asa ca nu poti profita din el.
+## Muncă
+Acest job este unul de tip non-profitabil așa că nu poți profita din el.
 
-::: danger
-La acest job nu poti primi 'Moonlight Crate' in timp ce evenimentul este activ.
+::: danger Atenție!
+La acest job nu poți primi 'Moonlight Crațe' în timp ce evenimentul este activ.
+:::
+::: tips 
+Acest job îți poate fi de folos în momentul în care dorești să găsești un anumit jucător, mai ales la evenimente.
 :::
