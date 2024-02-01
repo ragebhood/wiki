@@ -3,13 +3,15 @@ title: Crates
 ---
 
 # Crates 📦
+Aceste crate-uri sunt niște cutii care te recompensează într-un premiu random. -- cv descriere mai misto aici
 
 ## Rare Crate 📦
 <p align="center">
-    <img width="200" src="https://i.imgur.com/NsiJDOL.png" alt="Material Bread logo">
+    <img width="200" src="https://i.imgur.com/BjvMONe.png" alt="Material Bread logo">
 </p>
-Acest crate necesită 250 de B-Points sau 20 de puncte premium pentru a-l achiziționa.
-Din acest crate poți primi puncte de respect, b-points, Gift-Points, bani sau un vehicul de tip 'Faggio'.
+Prețul: <span style="color: #8003fc;">250 de B-Points</span> / <span style="color: #fcba03;">20 de puncte premium</span>.
+
+Premii: <strong>puncte de respect, B-Points, Gift points, bani sau un vehicul de tip '**Faggio**'</strong>
 
 
 ## Epic Crate 📦
