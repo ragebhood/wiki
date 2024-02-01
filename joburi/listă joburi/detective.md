@@ -12,10 +12,10 @@ Cu ajutorul acestui job poți găsi jucătorii prin intermediul comenzii `/find`
 ## Muncă
 Nu poți munci la acest job, acesta este unul de tip **non-profitabil**.
 
-::: danger ATENȚIE!
+::: danger ATENȚIE
 La acest job nu poți primi 'Moonlight Crate' în timp ce evenimentul este activ.
 :::
 
-::: tip SFATURI
+::: tip SFAT
 Acest job îți poate fi de folos în momentul în care dorești să găsești un anumit jucător, mai ales la evenimente.
 :::
