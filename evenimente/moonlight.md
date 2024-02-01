@@ -4,11 +4,12 @@ title: Moonlight
 
 ## Moonlight 🌙
 
+Evenimentul **Moonlight** consta in acumularea de cutii de tip **Moonlight Crate** ce-ti pot oferi diferite premii deschizandu-le.
+Totodata cutiile de tip **Moonlight** pot fi vandute si jucatorilor prin intermediul comenzii **'/trade'**.
+
 ::: info
 La acest eveniment nu este necesar sa folosesti o anumita comanda pentru a participa.
 :::
-Evenimentul **Moonlight** consta in acumularea de cutii de tip **Moonlight Crate** ce-ti pot oferi diferite premii deschizandu-le.
-Totodata cutiile de tip **Moonlight** pot fi vandute si jucatorilor prin intermediul comenzii **'/trade'**.
 
 # Cum pot obtine Moonligt Crate participand la eveniment?
 Acestea pot fi obtinute prin diferite activitati precum completarea misiunilor zilnice, completarea misiunii speciale, participand la spargerea Dropbox-ului, la Payday si muncind la job-urile existente.
