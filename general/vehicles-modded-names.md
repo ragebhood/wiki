@@ -12,47 +12,47 @@ title: Denumiri vehicule modate
 
 **bhbuswork** - Autobuz personal
 
-**Bhertwork** - Tir Mercedes
+**bhertwork** - Tir Mercedes personal
 
-**Bhahawork** - Scuter de pizza personal
+**bhahawork** - Scuter de pizza personal
 
-**bhatonmartvantage** - Aston Martin Vantage
+**bhatonmartvantage** - Aston Martin Vantage 'Halloween Edition'
 
-**bhwx6mf96** - BMW x6 Modelul nou ce a putut fi castigat la evenimentul 'Ghost Hunter'
+**bhwx6mf96** - BMW X6M (G06) 'Halloween Edition'
 
-**Bhwasakinjh2** - Kawasaki H2R
+**bhwasakinjh2** - Kawasaki H2R
 
-**Bhudirs5** - Audi RS5
+**bhudirs5** - Audi RS5
 
-**Bhlaren765lt** - McLaren 765LT
+**bhlaren765lt** - McLaren 765LT 'halloween Edition'
 
-**Bhwm2g87** - BMW M2 G87
+**bhwm2g87** - BMW M2 (G87)
 
-**Bhrrarifxxkevo** - Ferrari FXXK Evo
+**bhrrarifxxkevo** - Ferrari FXXK Evo
 
-**Bhagenmk6** - Volkswagen Golf 6
+**bhagenmk6** - Volkswagen Golf 6
 
-**Bhinijrgp** - Mini Cooper RGP
+**bhinijrgp** - Mini Cooper RGP
 
-**Bhndas2000** - Honda S2000
+**bhndas2000** - Honda S2000
 
-**Bhazdarxspirit** - Mazda RX 7
+**bhazdarxspirit** - Mazda RX-7
 
-**Bhotasupra** - Toyota Supra
+**bhotasupra** - Toyota Supra 'Xmas Edition'
 
-**Bhodgechallengersrt** - Dodge Challenger SRT
+**bhodgechallengersrt** - Dodge Challenger SRT 'Xmas Edition'
 
-**Bhishileix** - Mitsubishi Evo IX
+**bhishileix** - Mitsubishi Evo IX
 
-**bhugeotcc307** - Peugeot 307 coupe
+**bhugeotcc307** - Peugeot 307 Coupe
 
-**bhenzc63amg** - Mercedes C63 Amg
+**bhenzc63amg** - Mercedes-AMG C63
 
 **bhorschetaytrs** - Porsche Taycan Turbo S
 
-**bhwf10xd** - BMW Serie 5 F10
+**bhwf10xd** - BMW Seria 5 (F10)
 
-**bhws7lexdrv** - BMW Serie 7LE xDrive
+**bhws7lexdrv** - BMW Seria 7LE xDrive
 
 **bhertsclass500** - Mercedes S500
 
@@ -62,67 +62,67 @@ title: Denumiri vehicule modate
 
 **bhodasuperb** - Skoda Superb
 
-**Bhws1000rr** - BMW S1000RR (Motor)
+**bhws1000rr** - BMW S1000RR
 
-**Bhuster** - Dacia Duster
+**bhuster** - Dacia Duster
 
-**Bhcamry** - Toyota Camry
+**bhcamry** - Toyota Camry
 
-**Bhodgearger** - Dodge Charger
+**bhodgearger** - Dodge Charger
 
-**Bhwi8** - BMW i8
+**bhwi8** - BMW i8
 
-**Bhertsgt63s** - Mercedes AMG GT 63 S
+**bhertsgt63s** - Mercedes-AMG GT 63 S
 
-**Bholetcorvettec7** - Chevrolet Corvette C7
+**bholetcorvettec7** - Chevrolet Corvette C7
 
 **bholf4** - VW Golf 4
 
-**Bholos60** - Volvo S60
+**bholos60** - Volvo S60
 
-**Bhert45** - Mercedes CLA
+**bhert45** - Mercedes-AMG CLA 45
 
-**Bhstanggt** - Mustang GT
+**bhstanggt** - Ford Mustang GT
 
-**Bhudiq8** - Audi Q8
+**bhudiq8** - Audi Q8
 
-**Bhudisbrs3** - Audi RS3
+**bhudisbrs3** - Audi RS3
 
-**Bholvoxc90** - Volvo XC90
+**bholvoxc90** - Volvo XC90
 
 **bhchetbs** - Porsche 911
 
 **bhnaultrs** - Renault Megane RS
 
-**Bhordfocusrs** - Ford Focus RS
+**bhordfocusrs** - Ford Focus RS
 
-**Bhwe46** - BMW Serie 3 e46
+**bhwe46** - BMW Seria 3 (E46)
 
-**Bhupra** - Cupra (Model preluat din Seat Leon Cupra)
+**bhupra** - Seat Leon Cupra
 
-**Bhswagenps** - VW Passat B8
+**bhswagenps** - VW Passat B7
 
-**Bhwx6** - Modelul vechi de BMW X6
+**bhwx6** - BMW X6 (E71)
 
-**bhishievox** - Mitsubishi Evo X
+**bhishievox** - Mitsubishi Lancer Evo X
 
-**Bhiniaventadorlp700** - Lamborghini Aventador LP700
+**bhiniaventadorlp700** - Lamborghini Aventador LP 700-4
 
 **bhfaromeogiulia21** - Alfa Romeo Giulia
 
 **bhsakizx10r** - Kawasaki Ninja ZX-10R
 
-**bhssangtr17** - NISSAN GTR
+**bhssangtr17** - NISSAN GT-R
 
-**bhwm4competition21** - BMW M4 Competition
+**bhwm4competition21** - BMW M4 (G82) Competition
 
-**Bhinioopers** - Mini Cooper S
+**bhinioopers** - Mini Cooper S
 
-**Bhotatacoma24** - Toyota Tacoma
+**bhotatacoma24** - Toyota Tacoma
 
 **bhondacivictyper** - Honda Civic
 
-**bhenzegle53c** - Mercedes GLE 53 Coupe
+**bhenzegle53c** - Mercedes-AMG GLE 53 Coupe
 
 **bhudirs6c8** - Audi RS 6
 
@@ -130,25 +130,25 @@ title: Denumiri vehicule modate
 
 **bhguarftyper22** - Jaguar F Type-R ‘22
 
-**bhyacht3b** - Yacht personal
+**bhyacht3b** - Yacht
 
-**bhwm4g83** - BMW M4 Cabrio
+**bhwm4g83** - BMW M4 (G83) Cabrio
 
-**Bhagenroccor** - VW Scirocco
+**bhagenroccor** - VW Scirocco
 
-**Bhota4rnpro** - Toyota SUV RN PRO
+**bhota4rnpro** - Toyota 4Runner TRD Pro
 
-**Bhstang63** - Mustang ‘63 (Mașina de epocă)
+**bhstang63** - Mustang ‘63 (Mașina de epocă)
 
-**Bhntleycontgt** - Bentley Continental GT
+**bhntleycontgt** - Bentley Continental GT
 
-**bhenzeg63amg** - Mercedes G63
+**bhenzeg63amg** - Mercedes-AMG G63
 
-**Bhurusperf23** - Lamborghini Urus
+**bhurusperf23** - Lamborghini Urus 'Xmas Edition'
 
-**Bherts63cmatic** - Mercedes S63 Coupe
+**bherts63cmatic** - Mercedes-AMG S63 Coupe
 
-**Bhudir820** - Audi R8
+**bhudir820** - Audi R8
 
 **bhlx570** - Lexus LX 570
 
@@ -158,14 +158,57 @@ title: Denumiri vehicule modate
 
 **bhwm8** - BMW M8
 
-**Bhundaisantafe** - Hyundai SantaFe
+**bhundaisantafe** - Hyundai SantaFe
 
 **bhswagenregr50** - VW Tuareg
 
-**Bhotalandcruhat200** - Toyota Land Cruiser
+**bhotalandcruhat200** - Toyota Land Cruiser
 
-**Bhmmerevgmc** - Hummer EV
+**bhmmerevgmc** - Hummer EV
 
-**Bhoversvrs** - Range Rover Sport SVR
+**bhoversvrs** - Range Rover Sport SVR
 
-**Bhntleybentayst** - Bentley Bentayga
+**bhntleybentayst** - Bentley Bentayga StarTech
+
+**bhcatipanigalev4** - Ducati Panigale V4
+
+**bhmcjavelinamx** - AMC Javelin AMX
+
+**bhntleybatur24** - Bentley Batur
+
+**bhordgtmk2** - Ford GT Mk II
+
+**bhrleydavfb** - Harley Davidson Fat Boy
+
+**bhwx7g07** - BMW X7 (G07)
+
+**bheslaroadster20** - Tesla Roadster
+
+**bhswagengolfrmk75** - VW Golf 7.5
+
+**bhswagenpassatb8** - VW Passat B8
+
+**bhdillacct4vbw22** - Cadillac CT4-V Blackwing 
+
+**bhwm5e60v2** - BMW M5 (E60)
+
+**bhorschecayennegt22** - Porsche Cayenne Turbo GT
+
+**bhwm3e30** - BMW M3 (E30)
+
+**bhorschegt2rs17** - Porsche 911 (991) GT2 RS
+
+**bhssanskylinegtr** - Nissan Skyline GT-R (R34)
+
+**bhwm5cs22** - BMW M5 CS (F90)
+
+**bhertcls63samg15** - Mercedes-AMG CLS63 S
+
+**bhudia8lh22** - Audi A8L
+
+**bhchevocam19** - Hennessey Chevrolet Camaro ZL1 'Exorcist'
+
+**bhubaruwrxsti12** - Subaru Impreza WRX STI
+
+**bhwm5e39** - BMW M5 (E39)
+
