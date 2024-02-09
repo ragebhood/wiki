@@ -42,14 +42,14 @@ Vei avea șansa de 1% de a prinde un rechin, care o să te ucidă automat
 
 # Care este cel mai apropiat 24/7 de job?
 
-Cel mai apropiat business de tip '24/7' din raza job-ului 'Fisherman PB' este biz-ul cu id 10, foloseste comanda '/findbiz 10' pentru a-l localiza.
+Cel mai apropiat business de tip '24/7' din raza job-ului 'Fisherman PB' este biz-ul cu id 10, folosește comanda '/findbiz 10' pentru a-l localiza.
 
-Cel mai apropiat business de tip '24/7' din raza job-ului 'Fisherman LS' este biz-ul cu id 1, foloseste comanda '/findbiz 1' pentru a-l localiza.
+Cel mai apropiat business de tip '24/7' din raza job-ului 'Fisherman LS' este biz-ul cu id 1, folosește comanda '/findbiz 1' pentru a-l localiza.
 
-# Cum vand pestele?
+# Cum vând peștele?
 
-Pentru a vinde pestele trebuie sa intri in sageata de langa casa de marcat.
+Pentru a vinde peștele trebuie să intri în săgeata de lângă casa de marcat.
 
-::: tip Cum arata sageata?
-![Sageata biz](https://i.imgur.com/Ff0yuLK.png "Cum arata sageata din biz?")
+::: tip Cum arată săgeata?
+![Săgeata biz](https://i.imgur.com/Ff0yuLK.png "Cum arată săgeata din biz?")
 :::
