@@ -41,3 +41,9 @@ jobs:
           git add .
           git commit -m "Update posts with ${{ github.sha }}" || true
           git push || true
+  check:
+    name: Broken Link Check
+    runs-on: ubuntu-latest
+    steps:
+      - name: Broken Link Check
+        uses: technote-space/broken-link-checker-action@v2
