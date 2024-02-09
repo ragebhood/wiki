@@ -1,19 +1,27 @@
 name: Update wiki posts
 on:
+  repository_dispatch:
   workflow_dispatch:
   push:
     branches:
       - "main"
 jobs:
-  check:
-      name: Broken Link Check
-      runs-on: ubuntu-latest
-      steps:
-        - name: Broken Link Check
-          uses: technote-space/broken-link-checker-action@v2
-          with:
-            TARGET: https://github.com/ragebhood/wiki
-            GITHUB_TOKEN: ${{ secrets.CI_TOKEN }}
+  linkChecker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Link Checker
+        id: lychee
+        uses: lycheeverse/lychee-action@v1.9.0
+
+      - name: Create Issue From File
+        if: env.lychee_exit_code != 0
+        uses: peter-evans/create-issue-from-file@v4
+        with:
+          title: Link Checker Report
+          content-filepath: ./lychee/out.md
+          labels: report, automated issue
   update-posts:
     runs-on: ubuntu-latest
     name: "Update posts" 
