@@ -27,7 +27,7 @@ După ce ai aruncat undița, aștepți să vină peștele că să-l poți aduce 
 ## Misc
 Șansă de 1% de a prinde un sac de bani, un portofel cu puncte premium, puncte 'B-Points' sau un crate de tip 'Workers'
 
-::: danger Atentie!
+::: danger ATENȚIE!
 Vei avea șansa de 1% de a prinde un rechin, care o să te ucidă automat
 :::
 ### Ture necesare pentru skill up:
@@ -40,13 +40,13 @@ Vei avea șansa de 1% de a prinde un rechin, care o să te ucidă automat
 | 5             | 777|
 | 6             | 1550|
 
-# Care este cel mai apropiat 24/7 de job?
+### Care este cel mai apropiat 24/7 de job?
 
 Cel mai apropiat business de tip '24/7' din raza job-ului 'Fisherman PB' este biz-ul cu id 10, folosește comanda '/findbiz 10' pentru a-l localiza.
 
 Cel mai apropiat business de tip '24/7' din raza job-ului 'Fisherman LS' este biz-ul cu id 1, folosește comanda '/findbiz 1' pentru a-l localiza.
 
-# Cum vând peștele?
+### Cum vând peștele?
 
 Pentru a vinde peștele trebuie să intri în săgeata de lângă casa de marcat.
 
