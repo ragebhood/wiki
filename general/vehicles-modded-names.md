@@ -16,7 +16,7 @@ title: Denumiri vehicule modate
 
 **Bhahawork** - Scuter de pizza personal
 
-**bhatonmartvantage** - Aston Martin avantaje
+**bhatonmartvantage** - Aston Martin Vantage
 
 **bhwx6mf96** - BMW x6 Modelul nou ce a putut fi castigat la evenimentul 'Ghost Hunter'
 
@@ -24,11 +24,11 @@ title: Denumiri vehicule modate
 
 **Bhudirs5** - Audi RS5
 
-**Bhlaren765lt** - McLaren 765 lt
+**Bhlaren765lt** - McLaren 765LT
 
 **Bhwm2g87** - BMW M2 G87
 
-**Bhrrarifxxkevo** - Ferrari FXX Evo
+**Bhrrarifxxkevo** - Ferrari FXXK Evo
 
 **Bhagenmk6** - Volkswagen Golf 6
 
@@ -42,7 +42,7 @@ title: Denumiri vehicule modate
 
 **Bhodgechallengersrt** - Dodge Challenger SRT
 
-**Bhishileix** - Mitsubishi Evo 9
+**Bhishileix** - Mitsubishi Evo IX
 
 **bhugeotcc307** - Peugeot 307 coupe
 
