@@ -21,7 +21,7 @@ Pentru a începe munca, mergi in zona de pescuit si apasa 'left-click' pentru a 
 :::
 După ce ai aruncat undița, aștepți să vină peștele că să-l poți aduce la mal. Vei fi sesizat de acea bară de mai jos când peștele este prins. Tu o să trebuiască să ții click stânga, doar cât o să fie bara 'verde' pentru a nu rupe firul la undiță, apoi lași de click și faci procedura asta până aduci peștele la mal. 
 ::: details Cum ar trebui sa arate cand pescuiesc?
-![pescuit](https://streamable.com/rv7rfp "Pescuind")
+![pescuit](https://i.imgur.com/RK1oGJI.gif "Pescuind")
 :::
 
 ## Misc
