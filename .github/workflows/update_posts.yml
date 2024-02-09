@@ -6,26 +6,24 @@ on:
     branches:
       - "main"
 jobs:
-  linkChecker:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-
-      - name: Link Checker
-        id: lychee
-        uses: lycheeverse/lychee-action@v1.9.0
-
-      - name: Create Issue From File
-        if: env.lychee_exit_code != 0
-        uses: peter-evans/create-issue-from-file@v4
-        with:
-          title: Link Checker Report
-          content-filepath: ./lychee/out.md
-          labels: report, automated issue
   update-posts:
     runs-on: ubuntu-latest
     name: "Update posts" 
     steps:
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v1.9.0
+        with:
+          # Check all markdown and html files in repo (default)
+          args: --base . --verbose --no-progress './**/*.md' './**/*.html' './**/*.rst'
+          # Use json as output format (instead of markdown)
+          format: json
+          # Use different output file path
+          output: /tmp/foo.txt
+          # Use a custom GitHub token, which 
+          token: ${{ secrets.CI_TOKEN }}
+          # Fail action on broken links
+          fail: true
+
       - name: Clone posts repository
         uses: actions/checkout@v3
         with:
