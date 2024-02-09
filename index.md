@@ -8,7 +8,7 @@ Aici poți găsi informații utile despre server precum cum funcționează unele
 
 😡 Ai o problemă legata de wikipedia? Intră pe [acest](https://discord.gg/vxwsH733mH) server de discord pentru a o remedia.
 
-Wikipedia Crafted with 💖 by: **[iamCibu](https://github.com/cibucristi)**
+📍 Wikipedia Crafted with 💖 by: **[iamCibu](https://github.com/cibucristi)**
 
 <script setup>
 import Contributors from './.vitepress/Contributors.vue'
