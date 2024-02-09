@@ -33,9 +33,10 @@ După ce ai lăsat o parte din droguri la procesat, mergi la următorul checkpoi
 :::
 
 După ce ai pus la procesat drogurile rămase la 'Laborator', alege-ți recompensa din meniul ce-ți va fi afișat.
-
+::: tip Cum arata acel meniu?
 ![Cum arată meniul? ](https://i.imgur.com/2VLTCRj.png "Cum arată meniul? ")
+:::
 
-::: tips
+::: tip
 La acest job nu poți avansa în skill.
 :::
