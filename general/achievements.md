@@ -20,7 +20,7 @@ Realizările se împart în 3 mari categorii: **ușoare, medii și grele**. Pent
 Poți obține licența de condus de la DMV (Department of Motor Vehicles), poți găsi pe mapă un blip pe care scrie "DMV". // cv imagine aici 
 
 ### Adaugă un player în contacte
-Adaugă un jucător pe aplicația Contacts din telefon. Poți afla mai multe despre telefon [aici](./phone).
+Adaugă un jucător pe aplicația Contacts din telefon. Poți afla mai multe despre telefon [aici](./caca).
 
 ### Omoară un polițist
 Omoară un membru al forțelor guvernului pentru a debloca aceasta realizare.
