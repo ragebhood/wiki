@@ -13,8 +13,6 @@ Linkuri de unde poti cumpăra:
 > [!TIP]
 > Poți achiziționa o copie originală în siguranță de pe siteul [Eneba](https://www.eneba.com/) sub prețul de pe orice platformă menționată mai sus.
 
-![Dezactivare 'Accelerated CEF Rendering']([https://i.imgur.com/2daYsNU.gif "Dezactivare 'Accelerated CEF Rendering'")
-
 > [!IMPORTANT]
 > Dacă îți cumperi jocul de pe **Rockstar Games** nu vei putea folosi platforma [Network Graphics](https://vrp.network/graphics/en), una dintre cele mai populare platforme de instalarea a modurilor.
 
