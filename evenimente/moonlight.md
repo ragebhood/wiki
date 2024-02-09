@@ -12,7 +12,7 @@ La acest eveniment nu este necesar sa folosesti o anumita comanda pentru a parti
 :::
 
 ## Cum pot obtine Moonligt Crate participand la eveniment?
-Acestea pot fi obtinute prin diferite activitati precum completarea misiunilor zilnice, completarea misiunii speciale, participand la spargerea Dropbox-ului, la Payday si muncind la job-urile existente.
+Acestea pot fi obtinute prin diferite activitati precum completarea misiunii speciale, participand la spargerea Dropbox-ului, la Payday si muncind la job-urile existente.
 ## Care sunt sansele sa primesc Moonlight Crate la job-ul X?
 Nu au fost dezvaluite sansele, insa daca ai noroc, poti primi 'Moonlight Crate' la fiecare tura.
 ## Ce pot primi deschizand crate-ul de la eveniment?
