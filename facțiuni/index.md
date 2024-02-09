@@ -1,5 +1,5 @@
 ---
-title: Început facțiuni
+title: Informații generale
 ---
 
-# Început facțiuni 👥
+# Informații generale 👥
