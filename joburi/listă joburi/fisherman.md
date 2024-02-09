@@ -20,8 +20,8 @@ Pentru a începe munca, mergi in zona de pescuit si apasa 'left-click' pentru a 
 ![Locatie job Fisherman](https://i.imgur.com/aSKCUpl.png "Locație job Fisherman")
 :::
 După ce ai aruncat undița, aștepți să vină peștele că să-l poți aduce la mal. Vei fi sesizat de acea bară de mai jos când peștele este prins. Tu o să trebuiască să ții click stânga, doar cât o să fie bara 'verde' pentru a nu rupe firul la undiță, apoi lași de click și faci procedura asta până aduci peștele la mal. 
-::: tip Cum ar trebui sa arate cand pescuiesc?
-![pescuit](https://i.imgur.com/t60gHYG.gif "Pescuind")
+::: details Cum ar trebui sa arate cand pescuiesc?
+![pescuit](https://streamable.com/rv7rfp "Pescuind")
 :::
 
 ## Misc
@@ -50,6 +50,6 @@ Cel mai apropiat business de tip '24/7' din raza job-ului 'Fisherman LS' este bi
 
 Pentru a vinde peștele trebuie să intri în săgeata de lângă casa de marcat.
 
-::: tip Cum arată săgeata?
+::: details Cum arată săgeata?
 ![Săgeata biz](https://i.imgur.com/Ff0yuLK.png "Cum arată săgeata din biz?")
 :::
