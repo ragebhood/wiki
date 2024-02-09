@@ -5,6 +5,22 @@ on:
     branches:
       - "main"
 jobs:
+  broken_link_checker_job:
+      runs-on: ubuntu-latest
+      name: Check for broken links
+      steps:
+        - name: Check for broken links
+          id: link-report
+          uses: celinekurpershoek/link-checker@v1.0.2
+          with:
+            # Required:
+            url: "https://..."
+            # optional:
+            honorRobotExclusions: false
+            ignorePatterns: "github,google"
+            recursiveLinks: false # Check all URLs on all reachable pages (could take a while)
+        - name: Get the result
+          run: echo "${{steps.link-report.outputs.result}}"
   update-posts:
     runs-on: ubuntu-latest
     name: "Update posts" 
@@ -41,9 +57,3 @@ jobs:
           git add .
           git commit -m "Update posts with ${{ github.sha }}" || true
           git push || true
-  check:
-    name: Broken Link Check
-    runs-on: ubuntu-latest
-    steps:
-      - name: Broken Link Check
-        uses: technote-space/broken-link-checker-action@v2
