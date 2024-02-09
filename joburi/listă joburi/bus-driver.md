@@ -17,7 +17,7 @@ Pentru a începe munca, folosește comanda `/work` sau apasă pe tasta `Y` din l
 În momentul când ai început muncă ți se va oferi un vehicul de tip `bus` cu care îți vei efectua jobul. Alege-ți ruta, iar apoi mergi în checkpointurile primite pentru a transporta pasagerii către destinație lor finală.
 
 
-## Mișc
+## Misc
 Acest job se poate practică cu ajutorul unui vehicul personal: `Bhbuswork`.
 Atunci când vei folosi vehiculul personal în timp ce munceșți, acesta îți va oferi un job boost de **40%** în momentul în care vei finaliza ruta.
 
