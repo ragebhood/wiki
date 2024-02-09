@@ -228,5 +228,27 @@ Vitezele sunt rotunjite și pot varia de la un vehicul la altul.
 | Bhotasupra            | 240 km/h        | 250 km/h | 275 km/h | 330 km/h |
 | Bholvoxc90            | 205 km/h        | 215 km/h | 240 km/h | 290 km/h |
 | Bhodgechallengersrt   | 230 km/h        | 240 km/h | 265 km/h | 315 km/h |
+| bhssanskylinegtr	    | 235 km/h	      | 245 km/h | 280 km/h | 330 km/h |
+| bhertcls63samg15	    | 227 km/h 	      | 237 km/h | 272 km/h | 322 km/h |
+| bhudia8lh22		        | 207 km/h	      | 217 km/h | 252 km/h | 302 km/h |
+| bhorschegt2rs17	      | 250 km/h	      | 260 km/h | 295 km/h | 345 km/h |
+| bhubaruwrxsti12 	    | 220 km/h 	      | 230 km/h | 265 km/h | 315 km/h |
+| bhchevocam19	        | 220 km/h 	      | 230 km/h | 265 km/h | 315 km/h |
+| bhwm5e39		          | 207 km/h 	      | 217 km/h | 252 km/h | 302 km/h |
+| bhwm5cs22		          | 230 km/h        | 240 km/h | 265 km/h | 315 km/h |
+| bhwm3e30              | 215 km/h        | 225 km/h | 250 km/h | 300 km/h |
+| bhswagenpassatb8      | 205 km/h        | 215 km/h | 240 km/h | 290 km/h |
+| bhdillacct4vbw22      | 225 km/h        | 235 km/h | 260 km/h | 310 km/h |
+| bhwm5e60v2		        | 170 km/h	       | 180 km/h | 205 km/h | 265 km/h |
+| bhorschecayennegt22    | 230 km/h    | 240 km/h | 265 km/h | 315 km/h |
+| bhcatipanigalev4       | 260 km/h         | 270 km/h | 295 km/h  | 345 km/h |
+| bhmcjavelinamx        | 233 km/h         | 243 km/h | 268 km/h  | 318 km/h |
+| bhntleybatur24          | 245 km/h         | 255 km/h | 280 km/h  | 330 km/h |
+| bhordgtmk2               | 255 km/h         | 265 km/h | 290 km/h | 340 km/h |
+| bhrleydavfb               | 215 km/h         | 225 km/h | 250 km/h | 300 km/h |
+| bhwx7g07                 | 220 km/h         | 230 km/h | 255 km/h | 305 km/h |
+| bheslaroadster20      | 230 km/h         | 240 km/h | 265 km/h | 315 km/h |
+| bhswagengolfrmk75  | 223 km/h        | 233 km/h | 258 km/h  | 308 km/h |
+| 
 
 
