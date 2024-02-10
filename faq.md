@@ -17,3 +17,6 @@ Sistemul metric poate fi schimbat din setările jocului la **Display -> Measurem
 ::: details Tutorial video cum să schimbi din mile în kilometri
 ![Cum schimb din mile in kilometri?](https://i.imgur.com/iBHeExY.gif "Cum schimb din mile in kilometri?'")
 :::
+
+## Cum pot face Screen Shot?
+Nu poți face screenshot dacă nu deții un program special sau nu ai jocul pe Steam. Însă, poți folosi programul Snippet Tool de la Windows utilizând combinația de taste: <kbd>Win</kbd>+<kbd>Shift</kbd>+<kbd>S</kbd>
