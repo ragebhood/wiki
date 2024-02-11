@@ -28,7 +28,7 @@ Capacitatea de depozitare în mașînă este de 10 animale, însă dacă nu ai r
 
 După ce le-ai descărcat, acestea se vor depozita în inventarul tău cu animale, pe care-l poți accesa tastând comanda `/animals`. Tot de acolo o să le poți vinde contra unei sume de bani.
 
-## Mișc
+## Misc
 Armele pot fi îmbunătățite în locația specială în schimbul unei sume de bani folosind comandă `/weaponupgrade`.
 ::: details Unde este această locație?
 ![Locație Weapon upgrade](https://i.imgur.com/Rj6hGUR.png "Locație weapon upgrade")
@@ -48,7 +48,7 @@ Timp de așteptare pentru refolosire radar 300 de secunde, dar o să scadă cât
 | 5             | 725|
 | 6             | 1000|
 
-# Ce arme primesc la fiecare skill la 'Hunter' dacă o îmbunătățesc?
+## Ce arme primesc la fiecare skill la 'Hunter' dacă o îmbunătățesc?
 
 `Skill 2` - **Sawnoff**
 
@@ -60,7 +60,7 @@ Timp de așteptare pentru refolosire radar 300 de secunde, dar o să scadă cât
 
 `Skill 6` - **Heavy Sniper MK2**
 
-# Ce animale pot vană în funcție de skill?
+## Ce animale pot vană în funcție de skill?
 
 `Skill 1` - **Comorant, Rabbit și Coyote**
 
@@ -74,7 +74,7 @@ Timp de așteptare pentru refolosire radar 300 de secunde, dar o să scadă cât
 
 `Skill 6` - **Panther, Alien, Bear și Montain Lion**
 
-::: tip
+::: tip SFAT
 'Alien' îl vei putea vâna doar dacă ai armă avansată de la skill 5. Vei primi câte 1 punct premium pe fiecare alien vânat.
 :::
 # Cum arată aceste animale?
@@ -84,10 +84,10 @@ Timp de așteptare pentru refolosire radar 300 de secunde, dar o să scadă cât
     <img width="600" src="https://i.imgur.com/OPrm6qj.png" alt="Material Bread logo">
 </p>
 
-# Cum pot activa vederea ternmica la arma de skill 6?
+## Cum pot activa vederea ternmica la arma de skill 6?
 
 Pentru a activa vederea termică, apasă pe tasta `E` atunci când ținteșți.
 
-# Ce skin îmi oferă avantaj la acest job?
+## Ce skin îmi oferă avantaj la acest job?
 
 Singurul skin ce-ți oferă avantaj la acest job este cel de tip `Winter V2`. Acesta îți va permite să încarci 11 animale, să alergi cu toate animalele în mâna și șansă de 33% să primeșți 2 puncte premium atunci când ucizi un `Alien`.
