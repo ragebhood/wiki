@@ -12,12 +12,12 @@ Acțiunea jobului de pescar industrial constă în prinderea peștilor folosindu
 ## Muncă
 Pentru a începe muncă, folosește comanda `/work` sau apasă pe tasta `Y` din locația jobului.
 ::: details Locație start job
-![Locație job Industrial Fisherman]("https://i.imgur.com/BGL4fWD.png "Locație job Hunter")
+![Locație job Industrial Fisherman]("https://i.imgur.com/BGL4fWD.png "Locație job Industrial Fisherman")
 :::
 
 Atunci când vei începe munca, vei primi  vehicul de tip `Dinghy2` pe perioada muncii. Mergi în zona marcată pe hartă cu un `cerc verde`, aceea o să fie zona ta în care o să pescuieșți.
 ::: details Cum arată zona respectivă?
-![ZONA](https://i.imgur.com/l3DZMvD.png "Zona Hunter")
+![ZONA](https://i.imgur.com/l3DZMvD.png "Zona Industrial")
 :::
 Odată ajuns acolo, da-te jos de la volan și apasă pe tasta Y pentru a începe pescuitul. După ce ai pescuit, mergi un următoarea zona pentru a pescui din nou.
 
