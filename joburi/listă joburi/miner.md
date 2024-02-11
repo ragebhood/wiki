@@ -30,11 +30,11 @@ Târnăcopul poate fi îmbunătățit în locația specială în schimbul unei s
 
 | Skill         |  ture  |
 | ------------- | ----: |
-| 2             | 135|
-| 3             | 333|
-| 4             | 500|
-| 5             | 725|
-| 6             | 1000|
+| 2             | 300|
+| 3             | 750|
+| 4             | 1350|
+| 5             | 2333|
+| 6             | 3333|
 
 ## Ce pickaxe primesc la fiecare skill la 'Hunter' dacă o îmbunătățesc?
 
@@ -62,4 +62,4 @@ Atunci când vei avea skill 6 și undița 'Premium', vei avea șansă de a primi
 
 ## Ce skin îmi oferă avantaj la acest job?
 
-Singurul skin ce-ți oferă avantaj la acest job este cel de tip `Winter V2`, 'Cupidon' și 'Easter'. Acesta îți vor putea dublă sau triplă minereele acumulate.
+Singurul skin ce-ți oferă avantaj la acest job este cel de tip `Winter V2`, `Cupidon` și `Easter`. Aceste skin-uri îți vor putea dublă sau triplă minereele acumulate.
