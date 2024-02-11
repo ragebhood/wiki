@@ -62,4 +62,4 @@ Atunci când vei avea skill 6 și undița 'Premium', vei avea șansă de a primi
 
 ## Ce skin îmi oferă avantaj la acest job?
 
-Singurul skin ce-ți oferă avantaj la acest job este cel de tip `Winter V2`, 'Cupidon' și 'Easter'. Acesta îți vor putea dublă sau triplă minereele acumulate.
+Singurul skin ce-ți oferă avantaj la acest job este cel de tip `Winter V2`, `Cupidon` și `Easter`. Aceste skin-uri îți vor putea dublă sau triplă minereele acumulate.
