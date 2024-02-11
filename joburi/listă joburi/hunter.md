@@ -28,7 +28,7 @@ Capacitatea de depozitare în mașînă este de 10 animale, însă dacă nu ai r
 
 După ce le-ai descărcat, acestea se vor depozita în inventarul tău cu animale, pe care-l poți accesa tastând comanda `/animals`. Tot de acolo o să le poți vinde contra unei sume de bani.
 
-## Misc
+## Caracteristici
 Armele pot fi îmbunătățite în locația specială în schimbul unei sume de bani folosind comandă `/weaponupgrade`.
 ::: details Unde este această locație?
 ![Locație Weapon upgrade](https://i.imgur.com/Rj6hGUR.png "Locație weapon upgrade")
@@ -77,8 +77,7 @@ Timp de așteptare pentru refolosire radar 300 de secunde, dar o să scadă cât
 ::: tip SFAT
 'Alien' îl vei putea vâna doar dacă ai armă avansată de la skill 5. Vei primi câte 1 punct premium pe fiecare alien vânat.
 :::
-# Cum arată aceste animale?
-
+## Cum arată aceste animale?
 
 <p align="center">
     <img width="600" src="https://i.imgur.com/OPrm6qj.png" alt="Material Bread logo">
