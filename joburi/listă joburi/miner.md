@@ -30,11 +30,11 @@ Târnăcopul poate fi îmbunătățit în locația specială în schimbul unei s
 
 | Skill         |  ture  |
 | ------------- | ----: |
-| 2             | 135|
-| 3             | 333|
-| 4             | 500|
-| 5             | 725|
-| 6             | 1000|
+| 2             | 300|
+| 3             | 750|
+| 4             | 1350|
+| 5             | 2333|
+| 6             | 3333|
 
 ## Ce pickaxe primesc la fiecare skill la 'Hunter' dacă o îmbunătățesc?
 
