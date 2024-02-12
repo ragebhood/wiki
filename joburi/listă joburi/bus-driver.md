@@ -24,7 +24,7 @@ Atunci când vei folosi vehiculul personal în timp ce munceșți, acesta îți 
 ### Ture necesare pentru skill up:
 
 | Skill         |  curse  |
-| ------------- | ----: |
+| ------------- | ----:   |
 | 2             | 20|
 | 3             | 45|
 | 4             | 80|
