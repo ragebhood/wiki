@@ -32,7 +32,7 @@ Vei avea șansa de 1% de a prinde un rechin, care o să te ucidă automat
 :::
 ### Ture necesare pentru skill up:
 
-| Skill         |  pesti   |
+| Skill         |  peşti  |
 | ------------- | ----: |
 | 2             | 50|
 | 3             | 150|
