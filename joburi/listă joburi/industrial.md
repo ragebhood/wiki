@@ -33,6 +33,10 @@ Undița poate fi îmbunătățita în locația specială în schimbul unei sume 
 ![Locație Weapon upgrade](https://i.imgur.com/F0dVdkt.png "Locație weapon upgrade")
 :::
 
+::: tip
+Daca deți o undița de tip  `Premium Rod`, vei avea şansa sa primeşti puncte premium in timp ce peşcuieşti.
+:::
+
 ### Ture necesare pentru skill up:
 
 | Skill         | ture de pescuit  |
