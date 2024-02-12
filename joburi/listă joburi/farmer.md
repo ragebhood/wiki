@@ -29,7 +29,7 @@ Făina din hambar îți va rămâne în momentul în care te vei deconecta sau v
 :::
 ### Ture necesare pentru skill up:
 
-| Skill         |  kg   |
+| Skill         | descărcări de făina|
 | ------------- | ----: |
 | 2             | 50|
 | 3             | 120|
