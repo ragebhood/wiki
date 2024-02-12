@@ -50,5 +50,5 @@ Skin-ul 'Halloween' iti ofera 77 la suta 'JobBoost' si 1 'BPoints' pentru fiecar
 Skin-ul ‘Winter v2’ iti ofera sansa de 33 la suta sa primesti 2pp / alien, +1 animal capacitate ‘Hunter’ sansa de 33 la suta de 2x la ‘Miner’ / ‘Industrial’ si sansa 5 la suta de 3x ‘Miner’ / ‘Industrial’.
 
 
-<span style="color:#ffffff;"><strong>Xmas Skin</strong></span>
+<span style="color:#fdffff;"><strong>Xmas Skin</strong></span>
 Skin-ul ‘Xmas’ iti ofera 3 puncte premium, 2 candies, 2 puncte de respect si 100 de ‘B-Points’ daca te joci peste 1801 secunde la un Payday, in caz contrar vei primi 1 punct premium, 1 candies, 1 punct de respect si 25 de 'B-Points'. 
