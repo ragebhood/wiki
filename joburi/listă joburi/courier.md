@@ -29,7 +29,7 @@ La acest job ai o șansă de 50% de a primi bacșiș din partea clientului
 
 ### Ture necesare pentru skill up:
 
-| Skill         |  kg   |
+| Skill         |  colete livrate  |
 | ------------- | ----: |
 | 2             | 30|
 | 3             | 70|
