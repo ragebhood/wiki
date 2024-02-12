@@ -29,7 +29,7 @@ Dacă nu ai tăiat crengile ultimului copac și nu l-ai încărcat, nu vei mai p
 
 
 
-## Mișc
+## Misc
 Acest job se poate practica și cu ajutorul unui vehicul personal: `Bhlumberwork`.
 Atunci când vei folosi vehiculul personal în timp ce munceșți, acesta îți va oferi un job boost de **40%** în momentul descărcării.
 
