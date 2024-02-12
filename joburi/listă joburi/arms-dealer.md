@@ -35,7 +35,7 @@ Colectează-ți mai întâi materialele prelucrate, iar apoi mergi și punele la
 
 ### Ture necesare pentru skill up:
 
-| Skill         |  kg   |
+| Skill         |  ture  |
 | ------------- | ----: |
 | 2             | 30|
 | 3             | 100|
