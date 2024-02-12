@@ -37,7 +37,7 @@ Totodată pe măsură ce faci mai multe curse ilegale la rând, recompensa în b
 
 ### Ture necesare pentru skill up:
 
-| Skill         |  kg   |
+| Skill         |  descărcări  |
 | ------------- | ----: |
 | 2             | 50|
 | 3             | 125|
