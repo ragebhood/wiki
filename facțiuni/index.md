@@ -7,6 +7,7 @@ title: Informații generale
 Dacă faci parte dintr-o facțiune ești obligat să cunoști și acest regulament, pe lângă regulamentul facțiunii respective în care ești și regulamentul general al serverului mai este necesar să înveți și [acest](https://ragepanel.b-hood.ro/rules/view/regulament-general-factiuni "Regulament factiuni") 
 
 Pentru a aplica la o facțiune, apasă [aici](https://ragepanel.b-hood.ro/factions "Regulament facțiune")
+
 Pentru a avansa în rank la o facțiune, o să trebuiască să ai raportul complet și un număr de zile care este prezentat mai jos:
 
 ::: danger ATENȚIE!
