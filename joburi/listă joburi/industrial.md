@@ -35,7 +35,7 @@ Undița poate fi îmbunătățita în locația specială în schimbul unei sume 
 
 ### Ture necesare pentru skill up:
 
-| Skill         |  animale   |
+| Skill         | ture de pescuit  |
 | ------------- | ----:  |
 | 2             | 300 |
 | 3             | 750 |
