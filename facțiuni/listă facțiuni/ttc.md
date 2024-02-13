@@ -27,5 +27,6 @@ Nu se poate folosi comanda /restore înainte de a acumula toate punctele necesar
 De-a lungul procesului de revizie, mecanicul îți va oferi instrucțiuni referitoare la ce trebuie să faci pentru a duce această operațiune la final cu succes.
 Primul pas este să parchezi mașina la unul dintre elevatoarele disponibile, să oprești motorul și să ridici capota ca ulterior mecanicul să îți solicite să tastezi `/accept restore`.
 (!) Pentru a ridica capota, trebuie să accesați Car Panel (tasta P) și să apăsați pe icon-ul specific capotei: 
-![Deschidere capota](https://imgur.com/a/MQrrZjw "Deschidere capota").
+![Deschidere capotă](https://i.imgur.com/1HGleee.png "Deschidere capotă")
+![Capotă deschisă](https://i.imgur.com/1HGleee.png "Capotă deschisă")
 Acest hotkey poate fi modificat din meniul de Setări. (adaugată legatură dupa creearea paginii respective)
