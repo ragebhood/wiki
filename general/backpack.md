@@ -2,9 +2,9 @@
 title: Backpack
 ---
 
-**Backpack**
->Primesti gratuit 'Backpack' in momentul in care primesti sau iti cumper cont 'VIP'.
->Nivelul Backpack-ului nu ti se reseteaza daca nu mai ai cont 'VIP', insa nu-i vei mai putea folosi beneficiile, beneficiile se vor reactiva in momentul in care vei obtine din nou cont 'VIP'.
+# Backpack 
+**Primesti gratuit 'Backpack' in momentul in care primesti sau iti cumper cont 'VIP'.**
+**Nivelul Backpack-ului nu ti se reseteaza daca nu mai ai cont 'VIP', insa nu-i vei mai putea folosi beneficiile, beneficiile se vor reactiva in momentul in care vei obtine din nou cont 'VIP'**
 
 
 >Level 1:
