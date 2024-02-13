@@ -19,7 +19,7 @@ Pentru a aplica la această facțiune ai nevoie de minim nivel **7**.
 :::
 
 Dacă simți că vehicululul tău nu mai trage cu putere, atunci cu siguranță va trebui să apelezi la un mecanic.
-Simptomele unui vehicul care necesită revizie: performanța vehiculului este redusă la jumătate și motorul se va opri random la fiecare 100-200 de secunde. În acest punct, jucătorii sunt atenționați pe chat că motorul vehiculului necesită o revizie.
+Simptomele unui vehicul care necesită revizie: performanța vehiculului este redusă la jumătate și motorul se va opri random la fiecare 100-200 de secunde. În acest punct, jucătorii sunt atenționați pe chat că motorul vehiculului necesită o revizie:
 ![Mesaj de atenționare revizie](https://i.imgur.com/RkTDiDL.png "Mesaj de atenționare revizie")
 Aceste simptome vor apărea atunci când ‘Engine Health’ ajunge la 7.500 de puncte (pentru vehiculele fără upgrade la VIP/VIP+), 10.000 de puncte (pentru vehiculele VIP) și/sau 15.000 puncte (vehiculele VIP +):
 ![Verificare Engine Health](https://i.imgur.com/5FfT7Ez.png "Verificare Engine Health")
