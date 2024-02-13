@@ -22,5 +22,5 @@ Pentru a aplica la această facțiune ai nevoie de minim nivel **10**.
 ![HQ LSPD](https://i.imgur.com/LhjHJK4.png "HQ LSPD")
 :::
 
-# Cu ce ma poate sanctiona politia daca ma prinde fara permis?
-Acestia iti pot acroda **Wanted 5** pentru **conducerea unui vehicul fara a avea drept.**
+# Cu ce mă poate sancționa poliția dacă mă prinde fără permis?
+Aceștia îți pot acroda **Wanted 5** pentru **conducerea unui vehicul fără a avea drept.**
