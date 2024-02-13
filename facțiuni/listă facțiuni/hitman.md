@@ -21,3 +21,7 @@ Pentru a aplica la această facțiune ai nevoie de minim nivel **15**.
 
 ::: details Cum arata?
 ![HQ Hitman](https://i.imgur.com/DMIyo9P.png "HQ Hitman")
+
+
+# Am voie să ucid Hitman dacă acesta mă urmărește?
+Nu, nu ai voie să faci acest lucru.
