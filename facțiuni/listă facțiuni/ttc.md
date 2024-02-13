@@ -10,11 +10,11 @@ Pentru a aplica la această facțiune ai nevoie de minim nivel **7**.
 
 - Regulamentul facțiunii îl poți găsi în totalitate [aici](https://ragepanel.b-hood.ro/rules/view/regulament-mecanici "Regulament Tow Truck Company").
 
-::: tip Unde se afla aceasta factiune?
+::: details Unde se afla aceasta factiune?
 ![Locație HQ Tow Truck Company](https://i.imgur.com/C7yoBG7.png "Locație HQ Tow Truck Company")
 :::
 
-::: tip Cum arata?
+::: details Cum arata?
 ![HQ Tow Truck Company](https://i.imgur.com/HYOoh6s.png "HQ LSPD")
 :::
 
