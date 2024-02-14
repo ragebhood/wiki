@@ -52,6 +52,6 @@ Avansare Backpack-ului de la nivel 1 la Level 5 costă în total **$350.500.000,
 
 
 
->Cum dau upgrade la Backpack?
+# Cum dau upgrade la Backpack?
 
 Pentru a face acest lucru tastează comandă [/backpack] și selectează secțiunea ‘[+] Upgrade to Bacpack level X’.
