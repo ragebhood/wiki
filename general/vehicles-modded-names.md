@@ -79,13 +79,6 @@ title: Denumiri vehicule modate
 | bherts63cmatic         | Mercedes-AMG S63 Coupe                    |
 | bhudir820              | Audi R8                                   |
 | bhlx570                | Lexus LX 570                              |
-| bhstang63              | Mustang ‘63 (Mașina de epocă)             |
-| bhntleycontgt          | Bentley Continental GT                    |
-| bhenzeg63amg           | Mercedes-AMG G63                          |
-| bhurusperf23           | Lamborghini Urus 'Xmas Edition'           |
-| bherts63cmatic         | Mercedes-AMG S63 Coupe                    |
-| bhudir820              | Audi R8                                   |
-| bhlx570                | Lexus LX 570                              |
 | bhudirs7rabt           | Audi RS7                                  |
 | bhupraformvz5          | Cupra Formentor Z5                        |
 | bhwm8                  | BMW M8                                    |
