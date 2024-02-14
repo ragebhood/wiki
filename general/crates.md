@@ -157,3 +157,12 @@ Prețul: <strong><span style="color: #8003fc;">6969 de B-Points</span> / <span s
 ❗Acest crate se poate achiziționa doar în perioada crăciunului 🎅.
 
 Premii: <strong>bani, race points, free spin, job boost, candies, voucher epic, 3-7x giftbox, premium forged wheels, voucher mythic, rainbow chrome ticket, shard de **Bherts63cmatic**, skin-uri, voucher legendary, vehicul de tip **Audi R8** sau un vehicul de tip **Volvo XC90**</strong>
+
+## Cupidon  V2 Crate 💏
+<p align="center">
+    <img width="200" src="https://i.imgur.com/B1FWV7y.png" alt="Cupidon V2 crate">
+</p>
+
+❗Acest crate se poate achiziționa doar în perioada Sfantului Valentin 💏.
+
+Premii: <strong>free spin, job-boost (150%-200%-250%), materiale, hidden colors, matte colors, rob points, chrome colors, intre 50 si 150 de puncte premium, skin **Cupidon V2**, 500 de puncte premium, cupidon livery  vehicul de tip **Toyota Rav 4 Prime**, vehicul de tip **Mercedes AMG GT Black Edition** si shard-uri de elicopter (**Augusta Westland AW109 VIP**)</strong>
