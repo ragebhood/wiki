@@ -14,11 +14,13 @@ Pentru a aplica la această facțiune ai nevoie de minim nivel **10**.
 
 - Regulamentul facțiunii îl poți găsi în totalitate [aici](https://ragepanel.b-hood.ro/rules/view/regulament-departamente "Link regulament LSPD").
 
-::: tip Unde se afla aceasta factiune?
+::: details Unde se afla aceasta factiune?
 ![Locație LSPD](https://i.imgur.com/Q2k74mD.png "Locație LSPD")
 :::
 
-::: tip Cum arata?
+::: details Cum arata?
 ![HQ LSPD](https://i.imgur.com/LhjHJK4.png "HQ LSPD")
 :::
 
+# Cu ce mă poate sancționa poliția dacă mă prinde fără permis?
+Aceștia îți pot acroda **Wanted 5** pentru **conducerea unui vehicul fără a avea drept.**

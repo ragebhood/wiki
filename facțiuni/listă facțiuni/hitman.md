@@ -4,7 +4,7 @@ title: Hitman Agency
 
 
 <p align="center">
-    <img width="200" src="https://i.imgur.com/rRMoj68.png" alt="Beginner Crate">
+    <img width="400" src="https://i.imgur.com/rRMoj68.png" alt="Beginner Crate">
 </p>
 
 # Hitman Agency 🎯
@@ -21,3 +21,7 @@ Pentru a aplica la această facțiune ai nevoie de minim nivel **15**.
 
 ::: details Cum arata?
 ![HQ Hitman](https://i.imgur.com/DMIyo9P.png "HQ Hitman")
+
+
+# Am voie să ucid Hitman dacă acesta mă urmărește?
+Nu, nu ai voie să faci acest lucru.
