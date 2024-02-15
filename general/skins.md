@@ -2,6 +2,8 @@
 title: Skinuri
 ---
 
+# Skin-uri 👨
+
 <span style="color:#3061FF;"><strong>Rare Skin</strong></span>
 
 Skin-ul **Rare** îți oferă +10 la suta job boost.
