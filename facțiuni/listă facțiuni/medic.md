@@ -1,4 +1,4 @@
-
+---
 title: Paramedic Department
 ---
 
@@ -7,6 +7,7 @@ title: Paramedic Department
     <img width="200" src="https://i.imgur.com/nkuWqm5.png" alt="paramedic">
 </p>
 <br> <br>
+
 # Paramedic Department 🏥
 <br> <br> <br>
 Este o instituție a statului care se ocupă cu acordarea de heal jucătorilor cu HP-ul scăzut în schimbul unei sume de bani.
