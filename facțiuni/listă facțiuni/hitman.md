@@ -4,7 +4,7 @@ title: Hitman Agency
 
 
 <p align="center">
-    <img width="400" src="https://i.imgur.com/rRMoj68.png" alt="Beginner Crate">
+    <img width="400" src="https://i.imgur.com/rRMoj68.png" alt="hitman">
 </p>
 <br> <br>
 # Hitman Agency 🎯
