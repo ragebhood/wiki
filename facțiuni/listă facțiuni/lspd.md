@@ -6,6 +6,7 @@ title: Los Santos Police Department
     <img width="200" src="https://i.imgur.com/vtsWPO6.png" alt="Beginner Crate">
 </p>
 <br> <br>
+
 # Los Santos Police Department 👮 
 <br> <br> <br> 
 Această facțiune este un departament de poliție ce se ocupă cu arestarea suspecților cu wanted cu drept de predare și cu regulile de circulație.
