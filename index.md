@@ -4,7 +4,7 @@ title: Acasă
 
 # Bine ai venit pe wikipedia-ul serverului **[RAGE B-Hood](https://b-hood.ro/)** 👊. 
 
-Salutare, jucătorule! Bucură-te de călătoria ta în Los Santos la noi pe server și pregătește-te să explorezi toate aspectele captivante ale experienței noastre de joc pe RAGE Multiplayer. Aici, vei găsi toate informațiile esențiale pentru a te ajuta să te integrezi perfect în universul nostru, să-ți dezvolți abilitățile și să te bucuri la maxim de fiecare moment petrecut în joc.
+Salutare, jucătorule! 👋 Bucură-te de călătoria ta în Los Santos la noi pe server și pregătește-te să explorezi toate aspectele captivante ale experienței noastre de joc pe RAGE Multiplayer. Aici, vei găsi toate informațiile esențiale pentru a te ajuta să te integrezi perfect în universul nostru, să-ți dezvolți abilitățile și să te bucuri la maxim de fiecare moment petrecut în joc.
 
 ## Ce vei găsi în documentația noastră:
 
