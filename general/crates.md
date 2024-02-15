@@ -100,7 +100,7 @@ Prețul: <strong><span style="color: #8003fc;">3000 de B-Points</span> / <span s
 
 Premii: <strong>job boost 50/100/150/250%, zile de cont VIP/Legend/Premium, skin-uri sau un vehicul ce poate fi folosit la job (tir, mașină de gunoi, scuter de pizza, tractor, mașină de tip **Lumberjack** sau autobuz</strong>
 
-## Summer Crate 🌴
+## Summer Crate 🌴 <Badge type="danger" text="indisponibil" />
 <p align="center">
     <img width="200" src="https://i.imgur.com/MnS4Jtm.png" alt="Summer crate">
 </p>
