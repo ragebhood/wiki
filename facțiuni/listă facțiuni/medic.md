@@ -1,4 +1,4 @@
----
+![Grand Theft Auto V Screenshot 2024 02 15 - 20 39 19 40](https://github.com/Alexander-AIM/wiki/assets/157987605/3f894dbf-ad00-4596-a6b0-906345998cce)---
 title: Paramedic Department
 ---
 
@@ -6,7 +6,7 @@ title: Paramedic Department
 <p align="center">
     <img width="200" src="https://i.imgur.com/nkuWqm5.png" alt="">
 </p>
-
+<br> <br>
 # Paramedic Department 🏥
 <br> <br> <br>
 Este o instituție a statului care se ocupă cu acordarea de heal jucătorilor cu HP-ul scăzut în schimbul unei sume de bani.
