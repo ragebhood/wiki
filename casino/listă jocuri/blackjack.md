@@ -1,4 +1,4 @@
-
+---
 title: Blackjack
 ---
 
@@ -19,9 +19,13 @@ Inițial, dealerul și jucătorul primesc două cărți. Pe lângă cele două c
 
 
 **HIT**: jucătorul mai vrea încă o carte; 
+
 **STAND**: jucătorul nu mai vrea altă carte / se oprește; 
+
 **SPLIT**: opțiune disponibilă atunci când are două cărți cu aceeași valoare; 
+
 **DOUBLE**: jucătorul poate dubla miza inițială. 
+
 Dacă singura carte a dealerului este un AS, jucătorul are opțiunea de a plăti o asigurare (INSURANCE), opțiune ce îi poate limita jucătorului pierderile, în cazul în care dealerul obține un Blackjack. 
 
 ## Când alegi HIT și când alegi STAND la Blackjack?
@@ -43,20 +47,30 @@ Atunci când ai cărți până în 10 cu aceeași valoare (ex: 2-2, 4-4 etc) sau
 
 Dacă prinzi două cărți cu valoarea de 10 (suma inițială de 20): cel mai indicat este să optezi pentru „STAND”, pentru că singura carte câștigătoare ar fi un A (în situația respectivă, cartea AS ar avea valoarea 1). 
 
-Singurele situații favorabile în care este indicat să faci **SPLIT”** la o pereche de cărți cu valoare „10” sunt cele în care dealerul arată fie un 5, fie un 6. La polul opus, dacă ai o pereche de 4 sau o pereche de 5, opțiunea de „SPLIT” nu este justificată. Motivul este cât se poate de evident: ai avea două mâini de pornire foarte slabe. 
+Singurele situații favorabile în care este indicat să faci **SPLIT** la o pereche de cărți cu valoare „10” sunt cele în care dealerul arată fie un 5, fie un 6. La polul opus, dacă ai o pereche de 4 sau o pereche de 5, opțiunea de „SPLIT” nu este justificată. Motivul 
+este cât se poate de evident: ai avea două mâini de pornire foarte slabe. 
 
-În cazul unei perechi de 8, este recomandat să dai mereu **SPLI**, acest „hard 16” fiind recunoscută drept cea mai slabă pe care o poate avea un jucător de Blackjack. În aceste condiții, șansele de a bate dealerul sunt foarte mici și, în mod teoretic, trebuie să mai ceri și o treia carte, pentru a îmbunătăți mâna.
+În cazul unei perechi de 8, este recomandat să dai mereu **SPLI**, acest „hard 16” fiind recunoscută drept cea mai slabă pe care o poate avea un jucător de Blackjack. În aceste condiții, șansele de a bate dealerul sunt foarte mici și, în mod teoretic, trebuie să mai
 
-În această situație, singurele **cărți norocoase** sunt: A, 2, 3, 4, 5. Însă dacă împarți optarii, poți spera la (cel puțin) o mână de 18 (8 + o carte cu valoarea de 10). În cazul în care prima carte a dealerului este o carte cu valoarea de 10 sau A, renunță la opțiunea „SPLIT”, pentru că riști să pierzi ambele mâini. 
+ceri și o treia carte, pentru a îmbunătăți mâna.
 
-În cazul unei perechi de A, **SPLIT** este cea mai bună opțiune pe care o poți avea la îndemână. Asta înseamnă că ai două șanse de peste 30% pentru a obține Blackjack. Chiar dacă cea de-a doua carte nu va fi una cu valoare de 10 (10, J, Q, K), chiar și un 8 sau un 9 pot fi cărți suficient de mari pentru a câștiga mâna respectivă. 
+În această situație, singurele **cărți norocoase** sunt: A, 2, 3, 4, 5. Însă dacă împarți optarii, poți spera la (cel puțin) o mână de 18 (8 + o carte cu valoarea de 10). În cazul în care prima carte a dealerului este o carte cu valoarea de 10 sau A, renunță la
+
+opțiunea „SPLIT”, pentru că riști să pierzi ambele mâini. 
+
+În cazul unei perechi de A, **SPLIT** este cea mai bună opțiune pe care o poți avea la îndemână. Asta înseamnă că ai două șanse de peste 30% pentru a obține Blackjack. Chiar dacă cea de-a doua carte nu va fi una cu valoare de 10 (10, J, Q, K), chiar și un 8 sau un 9
+
+pot fi cărți suficient de mari pentru a câștiga mâna respectivă. 
 
 SPLIT în cazul altor cărți-pereche: ![Split](https://github.com/Alexander-AIM/wiki/assets/157987605/b45e4cbc-4c1b-4294-9e4d-b3c1130fc2a7)
 
 
 9,9: jucătorul cere **SPLIT**, doar dacă dealerul arată o carte cu valoarea cuprinsă între 2 și 6, un 8 sau un 9. În orice altă situație, se recomandă ca jucătorul să opteze pentru **STAND**, având deja un „hard 18”; 
+
 2,2 / 3,3 / 7,7: jucătorul cere **SPLIT**, doar dacă dealerul arată o carte cu o valoare egală sau mai mică de 7; 
+
 6,6: jucătorul cere **SPLIT**, doar dacă dealerul arată o carte cu valoare cuprinsă între 2 și 6; în caz contrar, va cere o altă carte **HIT**, sperând ca valoarea acesteia să nu genereze un **BUST**.
+
 
 ## Când DUBLEZI la jocul de Blackjack?
  
