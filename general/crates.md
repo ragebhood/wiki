@@ -41,7 +41,7 @@ Prețul: <strong><span style="color: #8003fc;">1000 de B-Points</span> / <span s
 
 Premii: <strong>puncte de respect, B-Points, skin-uri, hidden color, puncte premium, gift points, zile de cont VIP, bani, un vehicul de tip **Brioso** sau un vehicul de tip **Blazer**</strong>
 
-## Winter Crate ❄️
+## Winter Crate ❄️ <Badge type="danger" text="indisponibil" />
 <p align="center">
     <img width="200" src="https://i.imgur.com/wAuxeKF.png" alt="Winter crate">
 </p>
@@ -52,7 +52,7 @@ Prețul: <strong><span style="color: #fcba03;"><s>250 de puncte premium</s></spa
 Premii: <strong>puncte de respect, materiale, hidden color, matte color, zile de cont Premium/VIP/Legend, rare voucher, epic voucher, mythic voucher, bani, vehicul de tip **Brawler**, vehicul de tip **Baller3**, vehicul de tip **BWM X6**, vehicul de tip **Mesa2**, vehicul de tip **Blazer4** și skin-uri</strong>
 
 
-## Cupidon Crate 💏
+## Cupidon Crate 💏 <Badge type="danger" text="indisponibil" />
 <p align="center">
     <img width="200" src="https://i.imgur.com/2UzIVxJ.png" alt="Cupidon crate">
 </p>
@@ -62,7 +62,7 @@ Prețul: <strong><span style="color: #fcba03;"><s>250 de puncte premium</s></spa
 
 Premii: <strong>bani, hidden/matte color, money bag, vehicle slot, zile de cont VIP/Legend/Premium, vehicul de tip **Slamvan3**, vehicul de tip **Jester3**, skin-uri, vehicul de tip **Golf 4**, voucher mythic și vehicul de tip **Audi Q8**</strong>
 
-## Spring Crate 🌹
+## Spring Crate 🌹 <Badge type="danger" text="indisponibil" />
 <p align="center">
     <img width="200" src="https://i.imgur.com/6Hl8NPJ.png" alt="Spring crate">
 </p>
@@ -72,7 +72,7 @@ Prețul: <strong><span style="color: #fcba03;"><s>250 de puncte premium</s></spa
 
 Premii: <strong>puncte de respect, gift points, chrome color, zile de cont VIP sau Legend, epic voucher, skin-uri, vehicul de tip **Ellie**, vehicul de tip **Mitsubishi Evo**, vehicul de tip **Audi RS3**, vehicul de tip **Buzzard2** sau mythic voucher</strong>
 
-## Nostalgia Crate 📦
+## Nostalgia Crate 📦 <Badge type="danger" text="indisponibil" />
 <p align="center">
     <img width="200" src="https://i.imgur.com/CwgJyJR.png" alt="Nostalgia crate">
 </p>
@@ -82,7 +82,7 @@ Prețul: <strong><span style="color: #fcba03;"><s>250 de puncte premium</s></spa
 
 Din acest crate poți primi puncte de respect, Money Bag, zile de cont VIP sau Legend, Job boost de 50% sau de 100%, puncte premium, armă 'Musket', vehicul de tip 'Sultan', vehicul de tip 'NRG-500', legendary voucher sau un vehicul de tip 'Infernus' de pe 'SĂ:MP'.
 
-## Easter Crate 🐇
+## Easter Crate 🐇 <Badge type="danger" text="indisponibil" />
 <p align="center">
     <img width="200" src="https://i.imgur.com/IZTHxKm.png" alt="Easter crate">
 </p>
@@ -118,7 +118,7 @@ Acest crate poate fi cumpărat de la jucători sau obținut prin activarea la ev
 
 Premii: <strong>job boost, Money Stack/Bag/Rain, puncte de respect, hidden/matte/chrome color, B-Points, free spin, materiale, vehicle slot, zile de cont Premium/VIP/Legend, rare/epic/legendary voucher și The Glint of Moonlight(10.000 de puncte premium)</strong>
 
-## Autumn Crate 🍂
+## Autumn Crate 🍂 <Badge type="danger" text="indisponibil" />
 <p align="center">
     <img width="200" src="https://i.imgur.com/BHYhjns.png" alt="Autumn crate">
 </p>
@@ -128,7 +128,7 @@ Prețul: <strong><span style="color: #fcba03;"><s>250 de puncte premium</s></spa
 
 Premii: <strong>money bag, vehicle slot, B-Points, zile de cont, shard de **bhws7lexdrv**, skin-uri, mythic / legendary voucher, vehicul de tip **schlagen** sau vehicul de tip **bhertsclass500**</strong>
 
-## Halloween Crate 👻
+## Halloween Crate 👻 <Badge type="danger" text="indisponibil" />
 <p align="center">
     <img width="200" src="https://i.imgur.com/K5oqdPA.png" alt="Halloween crate">
 </p>
