@@ -10,7 +10,7 @@ Vitezele sunt rotunjite și pot varia de la un vehicul la altul.
 :::
 
 
-| Vehicul     | Viteză Inițială | Stage 1 | Stage 2 | Stage 3 |
+| Model       | Viteză Inițială | Stage 1 | Stage 2 | Stage 3 |
 |-------------|-----------------|---------|---------|---------|
 | Cheetah2    | 182 km/h        | 192 km/h | 217 km/h | 267 km/h |
 | Bmx         | 58 km/h         | 68 km/h  | 93 km/h  | 143 km/h |
