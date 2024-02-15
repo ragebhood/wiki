@@ -8,6 +8,6 @@ title: Informații generale
 Administratia nu raspunde de banii pierduti la casino.
 ::: 
 
-# Nivele necesare
+## Nivele necesare
 
 Ai nevoie de nivel 1 pentru a putea intra in cazino, respectiv nivel 5 pentru a te putea juca.
