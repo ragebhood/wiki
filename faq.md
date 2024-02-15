@@ -20,3 +20,9 @@ Sistemul metric poate fi schimbat din setările jocului la **Display -> Measurem
 
 ## Cum pot face Screen Shot?
 Nu poți face screenshot dacă nu deții un program special sau nu ai jocul pe Steam. Însă, poți folosi programul Snippet Tool de la Windows utilizând combinația de taste: <kbd>Win</kbd>+<kbd>Shift</kbd>+<kbd>S</kbd>
+
+## Cu ce arme poți trage dintr-un vehicul?
+Armele cu care se poate trage din vehicul sunt **Pistol**, **Combat Pistol**, **Pistol MK 2**, respectiv **Heavy Pistol**.
+
+## Cum poți face ca un jucător să nu mai aibă cheia de la masina?
+Folosește comanda **/changelock** pentru a face asta.
