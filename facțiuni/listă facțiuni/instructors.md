@@ -2,11 +2,11 @@
 title: School Instructors
 ---
 <p align="center">
-    <img width="400" src="https://i.imgur.com/cVrvVDm.png" alt="">
+    <img width="250" src="https://i.imgur.com/cVrvVDm.png" alt="">
 </p>
 
 # School Instructors 🧑‍🏫
-
+<br> <br> <br>
 Este o facțiune pașnică ce se ocupă cu acordarea licențelor de tip gun, fly și sailing în schimbul unei sume de bani, pe baza unui test acordat.
 
 Pentru a aplica la această facțiune ai nevoie de minim nivel **7**.
