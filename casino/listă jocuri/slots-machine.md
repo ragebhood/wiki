@@ -12,7 +12,7 @@ Acest joc se poate regăși si sub denumirea de **Pacanele**
 Pentru a te așeza la un aparat, apasă tasta `F` în cercul din față aparatului dorit, selectează miza, iar apoi începe să joci.
 
 ::: details Demo
-![image](https://i.imgur.com/BBDpn90.gif "Demo")
+![image](https://i.imgur.com/BBDpn90.gif)
 :::
 
 # Dublaje
