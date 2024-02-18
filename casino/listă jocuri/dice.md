@@ -1,7 +1,7 @@
 ---
 title: Barbut
 ---
-
+# Barbut
 ::: info
 Te poti juca acest joc de noroc oriunde in casino folosindu-te de comanda `/dice`.
 Limita de pierdere este de 50 de mâini pe zi
