@@ -46,13 +46,13 @@ Vă prezentăm aici mâinile câștigătoare în ordine crescătoare:
 #### Quintă
 ![image](https://github.com/Alexander-AIM/wiki/assets/157987605/93cd682c-847d-434a-990a-a745df474f3b)
 
-#### 3 perechi
+#### Trei perechi
 ![image](https://github.com/Alexander-AIM/wiki/assets/157987605/7ac9c068-4145-459e-9f99-935f0cde2d72)
 
-#### două perechi
+#### Două perechi
 ![image](https://github.com/Alexander-AIM/wiki/assets/157987605/027f6de9-3e7e-40e3-a837-8114ce35d773)
 
-#### o pereche
+#### O pereche
 ![image](https://github.com/Alexander-AIM/wiki/assets/157987605/ad41cfe4-c164-4616-ac16-f9109d9a1259)
 
 
