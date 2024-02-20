@@ -9,6 +9,11 @@ La noi pe server avem un sistem prin care poți să faci rost de un vehicul prin
 
 Upgrade-ul costă <p style="color: blue;"> 100 Premium Points</p> și are o șansă de <p style="color: red;"> 70% </p> de reușită.
 
+::: tip SHARD TRADE
+Shard-urile pot fi date prin `/trade` doar in zilele stabilite din `/calendar`
+In acele zile, pot fi date prin trade si shard-urile ce nu se mai pot obtine initial
+:::
+
 ## Vehicule ce pot fi obtinute din shard-uri
 <br>
 
