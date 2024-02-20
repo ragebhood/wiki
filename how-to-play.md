@@ -4,7 +4,7 @@ title: Cum să te joci?
 
 # Cum să te joci? 🎮
 
-## Informații
+### Informații
 Ne bucurăm că îți dorești să intri la noi pe server ca să te distrezi. Pentru a te juca, ai nevoie de o copie originală a jocului **Grand Theft Auto V** achiziționată de pe Rockstar Games / Steam / Epic Games.
 
 Linkuri de unde poti cumpăra:
