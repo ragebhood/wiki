@@ -3,7 +3,7 @@ title: Blackjack
 ---
 
 # Blackjack 🖤
-
+Blackjack-ul este un joc de noroc, acesta a câștigat popularitate deoarece este ușor de jucat, jucătorul ce are suma cărților 21 sau cel mai aproape de 21 câștigă. 
 
 ::: details Unde e masa de Blackjack?
 ![image](https://i.imgur.com/gXqCR9N.gif)
