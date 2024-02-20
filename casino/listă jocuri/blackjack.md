@@ -13,7 +13,7 @@ title: Blackjack
 
 Scopul este ca fiecare jucător să aibă o mână cu o valoare totală de 21 sau mai mare decat a adversarului / adversarilor, fără a depăși valoarea de 21. Valoarea fiecare cărți este, de fapt, cea trecută pe cartea de joc, excepție făcând următoarele cărți: valeții (J), damele (Q), popii (K). Aceste cărți au valoarea 10. 
 
-În cazul așilor (A), aceste cărți au fie valoarea 1, fie valoarea 11. În cazul în care mâna ta este mai mare decât valoarea de 21, atunci vei pierde mâna respectivă – se spune că ești “BUST”. În cazul în care ai valoarea mai mică decât cea a dealerului, însă mâna acestuia depășește valoarea de 21, ai câștigat mâna respectivă. 
+În cazul așilor (A), aceste cărți au fie valoarea 1, fie valoarea 11. În cazul în care mâna ta este mai mare decât valoarea de 21, atunci vei pierde mâna respectivă – se spune că ești **BUST**. În cazul în care ai valoarea mai mică decât cea a dealerului, însă mâna acestuia depășește valoarea de 21, ai câștigat mâna respectivă. 
 
 Inițial, dealerul și jucătorul primesc două cărți. Pe lângă cele două cărți ale sale, jucătorul mai poate vedea și o singură carte a dealerului. În funcție de situația determinată de cărți, jucătorul poate alege una dintre următoarele acțiuni: ![actiuni](https://github.com/Alexander-AIM/wiki/assets/157987605/c6de6894-d367-4481-a1c1-f2bf70f764b4)
 
