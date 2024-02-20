@@ -3,15 +3,14 @@ title: Poker
 ---
 
 # Poker 🃏
-::: details
-Este jocul clasic de poker, ca și cel din realitate, mai jos o să vă prezentăm cum se joacă poker-ul.
-:::
+Poker-ul este un joc clasic care se joacă cu un pachet standard de cărți. Obiectivul jocului este de aranja cărțile în grupuri câștigătoare denumite popular "mâini". Cea mai bună "mână" câștigă potul. Variațiunile de poker sunt numeroase, fiecare jucător are un joc preferat de poker.
 
 ## Reguli generale
+Poker-ul este un joc de pariere, fiecare jucător pornește cu un număr de puncte. 
 
-Poker-ul este un joc clasic care se joacă cu un pachet standard de cărți. Obiectivul jocului este de aranja cărțile în grupuri câștigătoare denumite popular "mâini". Cea mai bună "mână" câștigă potul. Variațiunile de poker sunt numeroase, fiecare jucător are un joc preferat de poker.
-Reguli Generale
-Poker-ul este un joc de pariere. Fiecare jucător pornește cu un număr de puncte. La începutul fiecărei mâini fiecare jucător dă pe masă un număr de puncte. Toate aceste puncte formează potul, care va ajunge la câștigător. În timpul jocului jucătorii pot face parieri suplimentare contribuind la creșterea potului. Oricât pariază un jucător, ceilalți participanți la joc trebuie să îl egaleze pentru a putea continua jocul. Jucătorii pot, de asemenea, să crească bet-ul (denumirea la jocurile oficiale de poker este **Raise**), sau să renunțe la joc (denumirea în engleză este **Fold**). În caz că un jucător renunță, el nu mai poate căștiga și pierde punctele pariate în jocul respectiv.
+La începutul fiecărei mâini fiecare jucător dă pe masă un număr de puncte. Toate aceste puncte formează potul, care va ajunge la câștigător.
+
+În timpul jocului jucătorii pot face parieri suplimentare contribuind la creșterea potului. Oricât pariază un jucător, ceilalți participanți la joc trebuie să îl egaleze pentru a putea continua jocul. Jucătorii pot, de asemenea, să crească bet-ul (denumirea la jocurile oficiale de poker este **Raise**), sau să renunțe la joc (denumirea în engleză este **Fold**). În caz că un jucător renunță, el nu mai poate căștiga și pierde punctele pariate în jocul respectiv.
  
 Un joc de poker este câștigat de jucătorul ce mai este în joc la final și care are cea mai bună mână.
  
@@ -56,12 +55,11 @@ Vă prezentăm aici mâinile câștigătoare în ordine crescătoare:
 ![image](https://github.com/Alexander-AIM/wiki/assets/157987605/ad41cfe4-c164-4616-ac16-f9109d9a1259)
 
 
-::: tip
-A2345 nu este Quintă. Doar la jocul de Hold'em Poker această combinație este acceptată.
+::: tip SFAT
+**A2345** nu este Quintă. Doar la jocul de Hold'em Poker această combinație este acceptată.
 :::
 
-## Reguli in caz de egalitate
-
+## Reguli în caz de egalitate
 Când doi sau mai mulți jucători au la final mâini egale diferențierea se face la cartea cea mai mare.
  
 Când există egalitate și între cărțile cele mai mari, se trece la a 2-a cea mai mare carte, și așa mai departe, până se face diferentirea intre mâini. Exemplu: culoarea A-10-4-3-2 bate culoarea A-9-8-7-6, pentru că 10 este mai mare ca 9.
