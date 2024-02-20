@@ -3,7 +3,7 @@ title: Poker
 ---
 
 # Poker 🃏
-::: details
+::: info
 Este jocul clasic de poker, ca și cel din realitate, mai jos o să vă prezentăm cum se joacă poker-ul.
 :::
 
