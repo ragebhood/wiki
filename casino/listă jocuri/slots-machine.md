@@ -5,7 +5,7 @@ title: Slots machine
 # Slots machine 💁‍♂🎰
 
 
-::: details
+::: info
 Acest joc se poate regăși si sub denumirea de **Pacanele**
 :::
 
