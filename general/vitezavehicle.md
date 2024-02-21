@@ -249,6 +249,8 @@ Vitezele sunt rotunjite și pot varia de la un vehicul la altul.
 | bhwx7g07                 | 220 km/h         | 230 km/h | 255 km/h | 305 km/h |
 | bheslaroadster20      | 230 km/h         | 240 km/h | 265 km/h | 315 km/h |
 | bhswagengolfrmk75  | 223 km/h        | 233 km/h | 258 km/h  | 308 km/h |
-| 
+| bhertgtr22                  | 245 km/h        | 255 km/h | 280 km/h  | 330 km/h |
+| bhotarav4pxse21      | 165 km/h         | 175 km/h | 200 km/h  | 250 km/h |
+
 
 
