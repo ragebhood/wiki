@@ -13,4 +13,12 @@ Această pagină a fost creată special pentru noii jucători care încă nu sun
 
 **gp** - înseamnă gift points.
 
-**s1** - înseamnă Stage 1.
+**s1/s2/s3/s4** - înseamnă Stage 1/2/3/4.
+
+**RC** - înseamnă Rainbow Chrome.
+
+**f** - înseamnă respect pentru un jucător.
+
+**HQ** - înseamnă baza acestuia fie ca este forba despre o factiune sau despre o baza de clan.
+
+****
