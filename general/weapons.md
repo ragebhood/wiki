@@ -13,7 +13,7 @@ Totodată gloanțele pentru armele **fire** pot fi cumpărate din aceași locaț
 Există mai multe modalități de a obține arme pe server precum crearea acestora în locația specială dacă ai banii și materialele necesare, cumpărarea acestora de la jucători și obținerea lor în sistemele de **battlepass** și **daily activity**.
 
 ::: details Unde este locația unde-mi pot crea o armă?
-
+![location](https://i.imgur.com/JeoY8kK.gif)
 :::
 
 ## De câte materiale și bani am nevoie pentru a-mi crea o armă?
