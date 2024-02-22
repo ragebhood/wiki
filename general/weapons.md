@@ -49,9 +49,9 @@ Ai nevoie de minim nivel 3 pentru a-ti crea o arma.
 | Assault Rifle MK2  | 137,500 Materiale, $75,000,000        | 4.2 dmg/glont|
 | Tactical Rifle     | 143,750 Materiale, $100,000,000       | 4.5 dmg/glont|
 | Heavy Rifle        | 150,000 Materiale, $125,000,000       | 5 dmg/glont  |
-| Military Rifle     | -                                     | 5.75 dmg/glont|
-| Musket             | -                                     | 25 dmg/glont  |
-| Gusen Berg         | -                                     |  5.5 dmg/glont |
+| Military Rifle     | Daily activity shop                   | 5.75 dmg/glont|
+| Musket             | Daily activity shop                   | 25 dmg/glont  |
+| Gusen Berg         | Daily activity shop                   |  5.5 dmg/glont |
 
 
 
