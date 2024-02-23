@@ -43,8 +43,8 @@ jobs:
           mv -f ./wiki/wiki/.vitepress ./wiki/new_wiki
           mv -f ./posts/* ./wiki/new_wiki
           rm -rf ./wiki/wiki
-          hunspell -d ro_RO -l -i utf-8 ./wiki/* || true
           mv -f ./wiki/new_wiki ./wiki/wiki
+          hunspell -d ro_RO -l -i utf-8 ./wiki/* || true
           cd wiki
           git config --global user.email "b-hood.ro@github.com"
           git config --global user.name "b-hood.ro"
