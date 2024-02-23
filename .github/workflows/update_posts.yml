@@ -87,16 +87,18 @@ jobs:
           # If typos are found, create an issue with the list of typos and fail the action
           if [ -s "filtered_typos.txt" ]; then
               echo "Typos found:"
-              cat filtered_typos.txt | while read -r line; do
-                  # Format each typo in Markdown
-                  typo_markdown="### Typo Found:\n\`\`\`\n$line\n\`\`\`"
-                  # Create issue using GitHub REST API
-                  echo "Creating issue for typo: $line"
-                  # Escape special characters in the issue body
-                  body=$(echo "$typo_markdown" | jq -Rs 'gsub("\\\"";"\"")')
-                  # Create issue with escaped body
-                  curl -X POST -H "Authorization: token ${{ secrets.CI_TOKEN }}" -H "Accept: application/vnd.github.v3+json" -d "{\"title\":\"Typo Found in Wiki\",\"body\":$body}" "https://api.github.com/repos/ragebhood/wiki/issues" || true
-              done
+              cat filtered_typos.txt
+              
+              # Format typos in Markdown
+              body="### Typos Found:\n\`\`\`\n$(cat filtered_typos.txt)\n\`\`\`"
+              
+              # Create issue using GitHub REST API
+              echo "Creating issue..."
+              # Escape special characters in the issue body
+              escaped_body=$(echo "$body" | jq -Rs 'gsub("\\\"";"\"")')
+              # Create issue with escaped body
+              curl -X POST -H "Authorization: token ${{ secrets.CI_TOKEN }}" -H "Accept: application/vnd.github.v3+json" -d "{\"title\":\"Typos Found in Wiki\",\"body\":$escaped_body}" "https://api.github.com/repos/ragebhood/wiki/issues" || true
+              
               # Fail the action
               exit 1
           fi
