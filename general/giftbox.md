@@ -19,10 +19,29 @@ Poți să vezi ce skill ai prin intermediul comenzii `/skills`.
 - **Skill 5**: 135
 - **Skill 6**: 200
 
-### Premii posibile în funcție de skill
-- **Skill 1**: bani, B-Hood Points, Materiale, [Rare Crate](./crates.md#rare-crate-📦), Hidden Color, Matte Color, [Rare Crate](./crates.md#epic-crate-📦), [Legendary Crate](./crates.md#legendary-crate-📦), [Premium Account](./account%20upgrades/premium) 1-3 zile, [VIP Account](./account%20upgrades/vip) 1-2 zile, Premium Points, Rare Voucher și Bhuster.
-- **Skill 2**: bani, B-Hood Points, Materiale, Hidden Color, Matte Color, [Epic Crate](./crates.md#epic-crate-📦), [Legendary Crate](./crates.md#legendary-crate-📦), [VIP Account](./account%20upgrades/vip) 2-3 zile, Premium Points, Rare Voucher și Bhswagenps.
-- **Skill 3**: bani, B-Hood Points, Materiale, [Epic Crate](./crates.md#epic-crate-📦), [Legendary Crate](./crates.md#legendary-crate-📦), Hidden Color, Matte Color  [Cupidon Crate](./crates.md#cupidon-crate-💏), Drugs, [Premium Account](./account%20upgrades/premium) 4-5 zile, [VIP Account](./account%20upgrades/vip) 3-4 zile, Premium Points, Rare Voucher, Bhwe46.
-- **Skill 4**: bani, B-Hood Points, Materiale, Drugs, Matte Color, [Winter Crate](./crates.md#winter-crate-❄%EF%B8%8F), Chrome Color, [Cupidon Crate](./crates.md#cupidon-crate-💏), [Spring Crate](./crates.md#spring-crate-🌹), [Premium Account](./account%20upgrades/premium) 4-5 zile, [VIP Account](./account%20upgrades/vip) 3-4 zile, MP3, PP, Epic voucher si Bhordfocusrs.
-- **Skill 5**: bani, B-Hood Points, Materiale, Drugs, Matte Color, [Winter Crate](./crates.md#winter-crate-❄%EF%B8%8F), Respect Points, [Cupidon Crate](./crates.md#cupidon-crate-💏), [Spring Crate](./crates.md#spring-crate-🌹), [Premium Account](./account%20upgrades/premium) 4-5 zile, [VIP Account](./account%20upgrades/vip) 3-4 zile, Premium Points, Epic voucher si bhupra.
-- **Skill 6**: bani, B-Hood Points, Materiale, Drugs, Matte Color, Chrome Color, [Winter Crate](./crates.md#winter-crate-❄%EF%B8%8F), [Cupidon Crate](./crates.md#cupidon-crate-💏), [Spring Crate](./crates.md#spring-crate-🌹), Vehicle Slot, [VIP Account](./account%20upgrades/vip) 7 zile, [Legend Account](./account%20upgrades/legend) 1-3 zile, Bhnaultrs, Premium Points, Epic Voucher.
+ ### Premii posibile în funcție de skill
+<hr>
+
+**Giftbox Skill 1**
+| Premii                                       | Sansa         |
+|----------------------------------------------|---------------|
+| 1.  Money $1,000,000-$5,000,00             | (15.1%)       |
+| 2.  BPoints [100-700]                         | (15.1%)       |
+| 3.  Materials [1000-5000]                     | (10%)         |
+| 4.  [Winter Crate](./crates.md#winter-crate-❄%EF%B8%8F)                               | (4%)          |
+| 5.  Hidden Color                               | (8%)          |
+| 6.  [Epic Crate](./crates.md#epic-crate-📦)                           | (8.3%)        |
+| 7.  Matte Color                                | (7%)          |
+| 8.  [Legendary Crate](./crates.md#legendary-crate-📦)                            | (9%)          |
+| 9.  [Premium Account 1d](./account%20upgrades/premium)                         | (2%)          |
+| 10. [Premium Account 2d](./account%20upgrades/premium)                        | (3.3%)        |
+| 11. [Premium Account 3d](./account%20upgrades/premium)                        | (4%)          |
+| 12. [VIP Account 1d](./account%20upgrades/vip)                            | (2.5%)        |
+| 13. [VIP Account 2d](./account%20upgrades/vip)                            | (2%)          |
+| 14. Premium Points [5-50]                     | (5%)          |
+| 15. Rare Voucher                              | (1%)          |
+| 16. Money $5,000,000-$20,000,000            | (3%)          |
+| 17. bhugeotcc307                              | (1%)          |
+
+
+
