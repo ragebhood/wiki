@@ -84,13 +84,16 @@ jobs:
           echo "Filtered typos:"
           cat filtered_typos.txt
 
-          # If typos are found, create an issue with the list of typos and fail the action
+          # If typos are found, create an issue with the list of filenames containing typos and fail the action
           if [ -s "filtered_typos.txt" ]; then
               echo "Typos found:"
               cat filtered_typos.txt
               
-              # Format typos in Markdown
-              body="### Typos Found:\n\`\`\`\n$(cat filtered_typos.txt)\n\`\`\`"
+              # Extract filenames from the list of typos
+              filenames=$(awk -F ':' '{print $1}' filtered_typos.txt)
+              
+              # Format filenames in Markdown
+              body="### Files with Typos Found:\n\`\`\`\n$filenames\n\`\`\`"
               
               # Create issue using GitHub REST API
               echo "Creating issue..."
