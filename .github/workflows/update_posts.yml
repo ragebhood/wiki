@@ -54,6 +54,7 @@ jobs:
                   # Check if the word is in the list of ignored words
                   if ! [[ " ${ignore_words[@]} " =~ " $line " ]]; then
                       echo "$line"
+                      echo "haHA"
                   fi
               done
           }
