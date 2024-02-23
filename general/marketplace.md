@@ -1,4 +1,4 @@
-![image](https://github.com/ragebhood/wiki/assets/81857739/250b2cc2-5130-48c2-ae98-cda1db8a53da)---
+---
 title: Marketplace
 ---
 
