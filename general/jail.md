@@ -35,5 +35,12 @@ După ce părăsești incinta închisorii vei primi Wanted 6 **Escaped Robbery**
 # Admin Jail 🔐
 Dacă ai încălcat regulamentul, vei fi pus în Admin Jail. De aici nu mai poți ieși decât dacă aștepți până trece timpul din sentința setată.
 
-## Cât este DM 21?
-Poti calcula chiar tu acest lucru stind ca la fiecare santiunea de DM se aduga 15 minute de 'Admin Jail' (spre exemplu DM #1 - 15 minute, DM #2 - 30 de minute).
+## Calculator DM
+Poți regăsi un calculator de timp pentru fiecare DM mai jos. Introduci DM-ul la care dorești să afli sentința de timp și primești rezultatul.
+
+
+<script setup>
+import DMCalculator from '.././.vitepress/DMCalculator.vue'
+</script>
+
+<DMCalculator />
