@@ -54,16 +54,12 @@ jobs:
                   # Check if the word is in the list of ignored words
                   if ! [[ " ${ignore_words[@]} " =~ " $line " ]]; then
                       echo "$line"
-                      echo "haHA"
                   fi
               done
           }
 
           # Check for typos and store the result in a file
-          hunspell -d ro_RO,en_US -l -i utf-8 ./wiki/wiki/* > typos.txt || true
-
-          # Filter out ignored words
-          cat typos.txt | filter_ignored > filtered_typos.txt
+          hunspell -d ro_RO,en_US -l -i utf-8 ./wiki/wiki/* | filter_ignored > filtered_typos.txt || true
 
           # Debugging statement to check the output of the filter_ignored function
           echo "Filtered typos:"
