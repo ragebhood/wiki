@@ -36,7 +36,7 @@ jobs:
 
       # Check for typos in wiki directory
       - name: Check for typos
-        run: hunspell -d ro_RO -l -i utf-8 wiki/* || true
+        run: hunspell -d ro_RO -l -i utf-8 ./wiki/* || true
 
       # Update posts
       - name: Update posts
