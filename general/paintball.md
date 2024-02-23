@@ -14,7 +14,7 @@ Atunci când te joci în arena de **Paintball** nu poți fi sancționat pentru *
 Pentru a intra în arena de **Paintball** ai nevoie de nivel 3 și de licență de arme.
 :::
 
-# Informații privind recompensele
+## Informații privind recompensele
 Jucătorii ce vor face cele mai multe **kill-uri** la **Paintball** vor fi recompensați cu o sumă de materiale.
 
 Premiile se acordă în fiecare zi de **Duminică** la ora **22:05**. Primul loc va fi recompensat cu 50.000 de mats, al doilea loc cu 25.000 de mats, iar locul trei va primi 10.000 de mats.
