@@ -48,11 +48,21 @@ jobs:
           # Words to ignore
           ignore_words=("masterlist" "GTA" "Eneba" "Rockstar" "CEF" "gp" "poti" "multiplayerul" "Esti" "Wikipediaul" "intalniti" "masina" "jucatorule" "Editeză" "wikipedia" "iamCibu")
 
-          # Function to filter out ignored words
+          # Function to filter out lines containing ignored words
           filter_ignored() {
-              while read -r line; do
-                  # Check if the word is in the list of ignored words
-                  if ! [[ " ${ignore_words[@]} " =~ " $line " ]]; then
+              while IFS= read -r line; do
+                  # Flag to indicate whether the line should be ignored
+                  ignore_line=false
+                  # Check each word in the line against the list of ignored words
+                  for word in "${ignore_words[@]}"; do
+                      # If the word is found in the line, set the flag and break the loop
+                      if [[ $line == *"$word"* ]]; then
+                          ignore_line=true
+                          break
+                      fi
+                  done
+                  # Output the line if it should not be ignored
+                  if [ "$ignore_line" = false ]; then
                       echo "$line"
                   fi
               done
