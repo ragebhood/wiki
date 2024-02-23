@@ -109,5 +109,6 @@ title: Denumiri vehicule modate
 | bhchevocam19            | Hennessey Chevrolet Camaro ZL1 'Exorcist'     | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhchevocam19.png" width="256" height="128" />                                 |
 | bhubaruwrxsti12         | Subaru Impreza WRX STI                        | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhubaruwrxsti12.png" width="256" height="128" />                                 |
 | bhwm5e39                | BMW M5 (E39)                                  | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhwm5e39.png" width="256" height="128" />                                 |
-| bhubaruwrxsti12         | Subaru Impreza WRX STI                        | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhubaruwrxsti12.png" width="256" height="128" />                                 |
-| bhwm5e39                | BMW M5 (E39)                                  | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhwm5e39.png" width="256" height="128" />                                 |
+| bhertgtr22              | Mercedes GTR 22                               | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhertgtr22.png" width="256" height="128" />                                 |
+| bhotarav4pxse21         | Toyota Rav 4                                  | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhotarav4pxse21.png" width="256" height="128" />                                 |
+| bhgustawestaw109vip     | Heli Audusta VIP                              | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhgustawestaw109vip.png" width="256" height="128" />                                 |
