@@ -44,19 +44,23 @@ jobs:
           mv -f ./posts/* ./wiki/new_wiki
           rm -rf ./wiki/wiki
           mv -f ./wiki/new_wiki ./wiki/wiki
+          
           # Check for typos and store the result in a file
           hunspell -d ro_RO -l -i utf-8 ./wiki/wiki/* > typos.txt || true
+          
           # If typos are found, create an issue with the list of typos and fail the action
           if [ -s "typos.txt" ]; then
             echo "Typos found:"
             cat typos.txt
+            # Format typos in Markdown
+            echo -e "### Typos Found:\n\`\`\`\n$(cat typos.txt)\n\`\`\`" > formatted_typos.md
             # Create issue using GitHub REST API
             echo "Creating issue..."
-            echo "{\"title\":\"Typos found in wiki\",\"body\":\"Typos found: \n$(cat typos.txt)\"}" > issue.json
-            curl -X POST -H "Authorization: token ${{ secrets.CI_TOKEN }}" -H "Accept: application/vnd.github.v3+json" -d @issue.json "https://api.github.com/repos/cibucristi/wiki-website/issues"
+            curl -X POST -H "Authorization: token ${{ secrets.CI_TOKEN }}" -H "Accept: application/vnd.github.v3+json" -d "{\"title\":\"Typos Found in Wiki\",\"body\":\"$(cat formatted_typos.md)\"}" "https://api.github.com/repos/ragebhood/wiki/issues"
             # Fail the action
             exit 1
           fi
+          
           cd wiki
           git config --global user.email "b-hood.ro@github.com"
           git config --global user.name "b-hood.ro"
