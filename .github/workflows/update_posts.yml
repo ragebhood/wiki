@@ -8,10 +8,7 @@ jobs:
   update-posts:
     runs-on: ubuntu-latest
     name: "Update wiki posts" 
-    steps:
-      - name: typos-action
-        uses: crate-ci/typos@v1.18.2
-            
+    steps:  
       - name: Clone posts repository
         uses: actions/checkout@v3
         with:
@@ -28,19 +25,8 @@ jobs:
           ref: "main"
           token: ${{ secrets.CI_TOKEN }}
 
-      - name: Update posts
-        if: always()
-        shell: bash
-        run: |
-          mkdir ./wiki/new_wiki
-          mv -f ./wiki/wiki/.vitepress ./wiki/new_wiki
-          mv -f ./posts/* ./wiki/new_wiki
-          rm -rf ./wiki/wiki
-          mv -f ./wiki/new_wiki ./wiki/wiki
-          cd wiki
-          git config --global user.email "b-hood.ro@github.com"
-          git config --global user.name "b-hood.ro"
-          git status
-          git add .
-          git commit -m "Update posts with ${{ github.sha }}" || true
-          git push || true
+      - name: Check spelling with Typos Action
+        uses: crate-ci/typos@master
+        with:
+          files: ./wiki
+          write_changes: false
