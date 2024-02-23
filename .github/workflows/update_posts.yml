@@ -56,7 +56,10 @@ jobs:
             echo -e "### Typos Found:\n\`\`\`\n$(cat typos.txt)\n\`\`\`" > formatted_typos.md
             # Create issue using GitHub REST API
             echo "Creating issue..."
-            curl -X POST -H "Authorization: token ${{ secrets.CI_TOKEN }}" -H "Accept: application/vnd.github.v3+json" -d "{\"title\":\"Typos Found in Wiki\",\"body\":\"$(cat formatted_typos.md)\"}" "https://api.github.com/repos/ragebhood/wiki/issues"
+            # Escape special characters in the issue body
+            body=$(cat formatted_typos.md | jq -Rs 'gsub("\\\"";"\"")')
+            # Create issue with escaped body
+            curl -X POST -H "Authorization: token ${{ secrets.CI_TOKEN }}" -H "Accept: application/vnd.github.v3+json" -d "{\"title\":\"Typos Found in Wiki\",\"body\":$body}" "https://api.github.com/repos/ragebhood/wiki/issues"
             # Fail the action
             exit 1
           fi
