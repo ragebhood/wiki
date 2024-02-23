@@ -46,7 +46,7 @@ jobs:
           mv -f ./wiki/new_wiki ./wiki/wiki
           
           # Words and patterns to ignore
-          ignore_words=("masterlist" "GTA" "Eneba" "Rockstar" "CEF" "gp" "wikipedia" "iamCibu")
+          ignore_words=("masterlist" "GTA" "Eneba" "Rockstar" "CEF" "gp" "poti" "multiplayerul" "Esti" "Wikipediaul" "intalniti" "masina" "jucatorule" "Editeză" "wikipedia" "iamCibu")
           ignore_patterns=("</?[a-zA-Z][^>]*>")
 
           # Function to filter out lines containing ignored words and patterns
@@ -77,8 +77,8 @@ jobs:
               done
           }
 
-          # Check for typos and store the result in a file
-          hunspell -d ro_RO,en_US -l -i utf-8 ./wiki/wiki/* | filter_ignored > filtered_typos.txt || true
+          # Check for typos in all files recursively within ./wiki/wiki and store the result in a file
+          find ./wiki/wiki -type f -exec hunspell -d ro_RO,en_US -l -i utf-8 {} + | filter_ignored > filtered_typos.txt || true
 
           # Debugging statement to check the output of the filter_ignored function
           echo "Filtered typos:"
