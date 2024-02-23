@@ -53,7 +53,7 @@ jobs:
             # Create issue using GitHub REST API
             echo "Creating issue..."
             echo "{\"title\":\"Typos found in wiki\",\"body\":\"Typos found: \n$(cat typos.txt)\"}" > issue.json
-            curl -X POST -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" -H "Accept: application/vnd.github.v3+json" -d @issue.json "https://api.github.com/repos/cibucristi/wiki-website/issues"
+            curl -X POST -H "Authorization: token ${{ secrets.CI_TOKEN }}" -H "Accept: application/vnd.github.v3+json" -d @issue.json "https://api.github.com/repos/cibucristi/wiki-website/issues"
             # Fail the action
             exit 1
           fi
