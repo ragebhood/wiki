@@ -1,10 +1,14 @@
 ---
 title: Arena de curse
 ---
+**Race Arena**
 
 # Arena de curse 🏁
 
-::: info 
+Race Arena reprezintă un sanctuar al vitezei, un loc captivant unde te poți angaja în competiții de curse diversificate și unde eforturile tale sunt răsplătite prin distincții pentru performanța obținută.
+
+
+::: danger Informatii
 Pentru a participa la o cursă în **Race Arena** ai nevoie de minim nivel 5, iar ca cursa să înceapă sunt necesari cel puțin 3 participanți.
 :::
 
