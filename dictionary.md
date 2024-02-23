@@ -19,6 +19,6 @@ Această pagină a fost creată special pentru noii jucători care încă nu sun
 
 **f** - înseamnă respect pentru un jucător.
 
-**HQ** - înseamnă baza acestuia fie ca este forba despre o factiune sau despre o baza de clan.
+**HQ** - înseamnă baza acestuia fie ca este vorba despre o factiune sau de clan.
 
 ****

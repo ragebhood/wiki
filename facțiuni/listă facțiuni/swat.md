@@ -25,4 +25,4 @@ Pentru a aplica la această facțiune ai nevoie de minim nivel **10**.
 :::
 
 # Cu ce mă poate sancționa poliția dacă mă prinde cu droguri?
-Aceștia îți pot acroda **Wanted 3** pentru **posesie de droguri.**
+Aceștia îți pot acorda **Wanted 3** pentru **posesie de droguri.**

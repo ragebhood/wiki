@@ -32,7 +32,7 @@ Lângă zona ta de pescuit, se află un **Market** (marcat pe harta cu un coș d
 
 ### Cu ce pot fi recompensat?
 
-Poți primi pești normali, 'Bag of Money', 'Rare Voucher', 'Shard (1000 de B-Points), 'Gold Fish (cont VIP o zi), 'Silver Fish (cont premium o zi), 'Moonlight Crate', 'Nostalgia Crațe' și  'Workers crațe'.
+Poți primi pești normali, 'Bag of Money', 'Rare Voucher', 'Shard (1000 de B-Points), 'Gold Fish (cont VIP o zi), 'Silver Fish (cont premium o zi), 'Moonlight Crate', 'Nostalgia Crate' și  'Workers crate'.
 
 ::: danger ATENȚIE!
 Premiile speciale sunt date aleatoriu și pot fi primite doar atunci când prinzi un peste special (roșu)
