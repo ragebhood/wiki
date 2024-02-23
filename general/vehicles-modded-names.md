@@ -5,107 +5,109 @@ title: Denumiri vehicule modate
 
 | Nume vehicul            | Aspect                                        |                                                                 Imagine |
 |-----------------------  |---------------------------------------------  | ----------------------------------------------------------------------: |
-| bhtractorwork           | Tractor personal                              | <img src="https://i.imgur.com/SfBuNIg.jpeg" width="256" height="128" /> |
-| bhtrashwork             | Mașina de gunoi personală                     |                                                                         |
-| bhlumberwork            | Mașina 'Lumbarjack' personală                 |                                                                         |
-| bhbuswork               | Autobuz personal                              |                                                                         |
-| bhertwork               | Tir Mercedes personal                         |                                                                         |
-| bhahawork               | Scuter de pizza personal                      |                                                                         |
-| bhatonmartvantage       | Aston Martin Vantage 'Halloween Edition'      |                                                                         |
-| bhwx6mf96               | BMW X6M (G06) 'Halloween Edition'             |                                                                         |
-| bhwasakinjh2            | Kawasaki H2R                                  |                                                                         |
-| bhudirs5                | Audi RS5                                      |                                                                         |
-| bhlaren765lt            | McLaren 765LT 'halloween Edition'             |                                                                         |
-| bhwm2g87                | BMW M2 (G87)                                  |                                                                         |
-| bhrrarifxxkevo          | Ferrari FXXK Evo                              |                                                                         |
-| bhagenmk6               | Volkswagen Golf 6                             |                                                                         |
-| bhinijrgp               | Mini Cooper RGP                               |                                                                         |
-| bhndas2000              | Honda S2000                                   |                                                                         |
-| bhazdarxspirit          | Mazda RX-7                                    |                                                                         |
-| bhotasupra              | Toyota Supra 'Xmas Edition'                   |                                                                         |
-| bhodgechallengersrt     | Dodge Challenger SRT 'Xmas Edition'           |                                                                         |
-| bhishileix              | Mitsubishi Evo IX                             |                                                                         |
-| bhugeotcc307            | Peugeot 307 Coupe                             |                                                                         |
-| bhenzc63amg             | Mercedes-AMG C63                              |                                                                         |
-| bhorschetaytrs          | Porsche Taycan Turbo S                        |                                                                         |
-| bhwf10xd                | BMW Seria 5 (F10)                             |                                                                         |
-| bhws7lexdrv             | BMW Seria 7LE xDrive                          |                                                                         |
-| bhertsclass500          | Mercedes S500                                 |                                                                         |
-| bheslamsplaid           | Tesla Model S                                 |                                                                         |
-| bhorscemacpr            | Porsche Macan                                 |                                                                         |
-| bhodasuperb             | Skoda Superb                                  |                                                                         |
-| bhws1000rr              | BMW S1000RR                                   |                                                                         |
-| bhuster                 | Dacia Duster                                  |                                                                         |
-| bhcamry                 | Toyota Camry                                  |                                                                         |
-| bhodgearger             | Dodge Charger                                 |                                                                         |
-| bhwi8                   | BMW i8                                        |                                                                         |
-| bhertsgt63s             | Mercedes-AMG GT 63 S                          |                                                                         |
-| bholetcorvettec7        | Chevrolet Corvette C7                         |                                                                         |
-| bholf4                  | VW Golf 4                                     |                                                                         |
-| bholos60                | Volvo S60                                     |                                                                         |
-| bhert45                 | Mercedes-AMG CLA 45                           |                                                                         |
-| bhstanggt               | Ford Mustang GT                               |                                                                         |
-| bhudiq8                 | Audi Q8                                       |                                                                         |
-| bhudisbrs3              | Audi RS3                                      |                                                                         |
-| bholvoxc90              | Volvo XC90                                    |                                                                         |
-| bhchetbs                | Porsche 911                                   |                                                                         |
-| bhnaultrs               | Renault Megane RS                             |                                                                         |
-| bhordfocusrs            | Ford Focus RS                                 |                                                                         |
-| bhwe46                  | BMW Seria 3 (E46)                             |                                                                         |
-| bhupra                  | Seat Leon Cupra                               |                                                                         |
-| bhswagenps              | VW Passat B7                                  |                                                                         |
-| bhwx6                   | BMW X6 (E71)                                  |                                                                         |
-| bhishievox              | Mitsubishi Lancer Evo X                       |                                                                         |
-| bhiniaventadorlp700     | Lamborghini Aventador LP 700-4                |                                                                         |
-| bhfaromeogiulia21       | Alfa Romeo Giulia                             |                                                                         |
-| bhsakizx10r             | Kawasaki Ninja ZX-10R                         |                                                                         |
-| bhssangtr17             | NISSAN GT-R                                   |                                                                         |
-| bhwm4competition21      | BMW M4 (G82) Competition                      |                                                                         |
-| bhinioopers             | Mini Cooper S                                 |                                                                         |
-| bhotatacoma24           | Toyota Tacoma                                 |                                                                         |
-| bhondacivictyper        | Honda Civic                                   |                                                                         |
-| bhenzegle53c            | Mercedes-AMG GLE 53 Coupe                     |                                                                         |
-| bhudirs6c8              | Audi RS 6                                     |                                                                         |
-| bhatonmartdb11          | Aston Martin DB11                             |                                                                         |
-| bhguarftyper22          | Jaguar F Type-R ‘22                           |                                                                         |
-| bhyacht3b               | Yacht                                         |                                                                         |
-| bhwm4g83                | BMW M4 (G83) Cabrio                           |                                                                         |
-| bhagenroccor            | VW Scirocco                                   |                                                                         |
-| bhota4rnpro             | Toyota 4Runner TRD Pro                        |                                                                         |
-| bhstang63               | Mustang ‘63 (Mașina de epocă)                 |                                                                         |
-| bhntleycontgt           | Bentley Continental GT                        |                                                                         |
-| bhenzeg63amg            | Mercedes-AMG G63                              |                                                                         |
-| bhurusperf23            | Lamborghini Urus 'Xmas Edition'               |                                                                         |
-| bherts63cmatic          | Mercedes-AMG S63 Coupe                        |                                                                         |
-| bhudir820               | Audi R8                                       |                                                                         |
-| bhlx570                 | Lexus LX 570                                  |                                                                         |
-| bhudirs7rabt            | Audi RS7                                      |                                                                         |
-| bhupraformvz5           | Cupra Formentor Z5                            |                                                                         |
-| bhwm8                   | BMW M8                                        |                                                                         |
-| bhundaisantafe          | Hyundai SantaFe                               |                                                                         |
-| bhswagenregr50          | VW Tuareg                                     |                                                                         |
-| bhotalandcruhat200      | Toyota Land Cruiser                           |                                                                         |
-| bhmmerevgmc             | Hummer EV                                     |                                                                         |
-| bhoversvrs              | Range Rover Sport SVR                         |                                                                         |
-| bhntleybentayst         | Bentley Bentayga StarTech                     |                                                                         |
-| bhcatipanigalev4        | Ducati Panigale V4                            |                                                                         |
-| bhmcjavelinamx          | AMC Javelin AMX                               |                                                                         |
-| bhntleybatur24          | Bentley Batur                                 |                                                                         |
-| bhordgtmk2              | Ford GT Mk II                                 |                                                                         |
-| bhrleydavfb             | Harley Davidson Fat Boy                       |                                                                         |
-| bhwx7g07                | BMW X7 (G07)                                  |                                                                         |
-| bheslaroadster20        | Tesla Roadster                                |                                                                         |
-| bhswagengolfrmk75       | VW Golf 7.5                                   |                                                                         |
-| bhswagenpassatb8        | VW Passat B8                                  |                                                                         |
-| bhdillacct4vbw22        | Cadillac CT4-V Blackwing                      |                                                                         |
-| bhwm5e60v2              | BMW M5 (E60)                                  |                                                                         |
-| bhorschecayennegt22     | Porsche Cayenne Turbo GT                      |                                                                         |
-| bhwm3e30                | BMW M3 (E30)                                  |                                                                         |
-| bhorschegt2rs17         | Porsche 911 (991) GT2 RS                      |                                                                         |
-| bhssanskylinegtr        | Nissan Skyline GT-R (R34)                     |                                                                         |
-| bhwm5cs22               | BMW M5 CS (F90)                               |                                                                         |
-| bhertcls63samg15        | Mercedes-AMG CLS63 S                          |                                                                         |
-| bhudia8lh22             | Audi A8L                                      |                                                                         |
-| bhchevocam19            | Hennessey Chevrolet Camaro ZL1 'Exorcist'     |                                                                         |
-| bhubaruwrxsti12         | Subaru Impreza WRX STI                        |                                                                         |
-| bhwm5e39                | BMW M5 (E39)                                  |                                                                         |
+| bhtractorwork           | Tractor personal                              | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhtractorwork.png" width="256" height="128" />                                 |
+| bhtrashwork             | Mașina de gunoi personală                     | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhtrashwork.png" width="256" height="128" />                                 |
+| bhlumberwork            | Mașina 'Lumbarjack' personală                 | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhlumberwork.png" width="256" height="128" />                                 |
+| bhbuswork               | Autobuz personal                              | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhbuswork.png" width="256" height="128" />                                 |
+| bhertwork               | Tir Mercedes personal                         | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhertwork.png" width="256" height="128" />                                 |
+| bhahawork               | Scuter de pizza personal                      | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhahawork.png" width="256" height="128" />                                 |
+| bhatonmartvantage       | Aston Martin Vantage 'Halloween Edition'      | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhatonmartvantage.png" width="256" height="128" />                                 |
+| bhwx6mf96               | BMW X6M (G06) 'Halloween Edition'             | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhwx6mf96.png" width="256" height="128" />                                 |
+| bhwasakinjh2            | Kawasaki H2R                                  | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhwasakinjh2.png" width="256" height="128" />                                 |
+| bhudirs5                | Audi RS5                                      | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhudirs5.png" width="256" height="128" />                                 |
+| bhlaren765lt            | McLaren 765LT 'halloween Edition'             | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhlaren765lt.png" width="256" height="128" />                                 |
+| bhwm2g87                | BMW M2 (G87)                                  | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhwm2g87.png" width="256" height="128" />                                 |
+| bhrrarifxxkevo          | Ferrari FXXK Evo                              | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhrrarifxxkevo.png" width="256" height="128" />                                 |
+| bhagenmk6               | Volkswagen Golf 6                             | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhagenmk6.png" width="256" height="128" />                                 |
+| bhinijrgp               | Mini Cooper RGP                               | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhinijrgp.png" width="256" height="128" />                                 |
+| bhndas2000              | Honda S2000                                   | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhndas2000.png" width="256" height="128" />                                 |
+| bhazdarxspirit          | Mazda RX-7                                    | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhazdarxspirit.png" width="256" height="128" />                                 |
+| bhotasupra              | Toyota Supra 'Xmas Edition'                   | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhotasupra.png" width="256" height="128" />                                 |
+| bhodgechallengersrt     | Dodge Challenger SRT 'Xmas Edition'           | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhodgechallengersrt.png" width="256" height="128" />                                 |
+| bhishileix              | Mitsubishi Evo IX                             | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhishileix.png" width="256" height="128" />                                 |
+| bhugeotcc307            | Peugeot 307 Coupe                             | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhugeotcc307.png" width="256" height="128" />                                 |
+| bhenzc63amg             | Mercedes-AMG C63                              | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhenzc63amg.png" width="256" height="128" />                                 |
+| bhorschetaytrs          | Porsche Taycan Turbo S                        | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhorschetaytrs.png" width="256" height="128" />                                 |
+| bhwf10xd                | BMW Seria 5 (F10)                             | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhwf10xd.png" width="256" height="128" />                                 |
+| bhws7lexdrv             | BMW Seria 7LE xDrive                          | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhws7lexdrv.png" width="256" height="128" />                                 |
+| bhertsclass500          | Mercedes S500                                 | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhertsclass500.png" width="256" height="128" />                                 |
+| bheslamsplaid           | Tesla Model S                                 | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bheslamsplaid.png" width="256" height="128" />                                 |
+| bhorscemacpr            | Porsche Macan                                 | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhorscemacpr.png" width="256" height="128" />                                 |
+| bhodasuperb             | Skoda Superb                                  | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhodasuperb.png" width="256" height="128" />                                 |
+| bhws1000rr              | BMW S1000RR                                   | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhws1000rr.png" width="256" height="128" />                                 |
+| bhuster                 | Dacia Duster                                  | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhuster.png" width="256" height="128" />                                 |
+| bhcamry                 | Toyota Camry                                  | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhcamry.png" width="256" height="128" />                                 |
+| bhodgearger             | Dodge Charger                                 | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhodgearger.png" width="256" height="128" />                                 |
+| bhwi8                   | BMW i8                                        | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhwi8.png" width="256" height="128" />                                 |
+| bhertsgt63s             | Mercedes-AMG GT 63 S                          | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhertsgt63s.png" width="256" height="128" />                                 |
+| bholetcorvettec7        | Chevrolet Corvette C7                         | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bholetcorvettec7.png" width="256" height="128" />                                 |
+| bholf4                  | VW Golf 4                                     | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bholf4.png" width="256" height="128" />                                 |
+| bholos60                | Volvo S60                                     | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bholos60.png" width="256" height="128" />                                 |
+| bhert45                 | Mercedes-AMG CLA 45                           | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhert45.png" width="256" height="128" />                                 |
+| bhstanggt               | Ford Mustang GT                               | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhstanggt.png" width="256" height="128" />                                 |
+| bhudiq8                 | Audi Q8                                       | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhudiq8.png" width="256" height="128" />                                 |
+| bhudisbrs3              | Audi RS3                                      | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhudisbrs3.png" width="256" height="128" />                                 |
+| bholvoxc90              | Volvo XC90                                    | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bholvoxc90.png" width="256" height="128" />                                 |
+| bhchetbs                | Porsche 911                                   | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhchetbs.png" width="256" height="128" />                                 |
+| bhnaultrs               | Renault Megane RS                             | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhnaultrs.png" width="256" height="128" />                                 |
+| bhordfocusrs            | Ford Focus RS                                 | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhordfocusrs.png" width="256" height="128" />                                 |
+| bhwe46                  | BMW Seria 3 (E46)                             | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhwe46.png" width="256" height="128" />                                 |
+| bhupra                  | Seat Leon Cupra                               | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhupra.png" width="256" height="128" />                                 |
+| bhswagenps              | VW Passat B7                                  | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhswagenps.png" width="256" height="128" />                                 |
+| bhwx6                   | BMW X6 (E71)                                  | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhwx6.png" width="256" height="128" />                                 |
+| bhishievox              | Mitsubishi Lancer Evo X                       | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhishievox.png" width="256" height="128" />                                 |
+| bhiniaventadorlp700     | Lamborghini Aventador LP 700-4                | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhiniaventadorlp700.png" width="256" height="128" />                                 |
+| bhfaromeogiulia21       | Alfa Romeo Giulia                             | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhfaromeogiulia21.png" width="256" height="128" />                                 |
+| bhsakizx10r             | Kawasaki Ninja ZX-10R                         | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhsakizx10r.png" width="256" height="128" />                                 |
+| bhssangtr17             | NISSAN GT-R                                   | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhssangtr17.png" width="256" height="128" />                                 |
+| bhwm4competition21      | BMW M4 (G82) Competition                      | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhwm4competition21.png" width="256" height="128" />                                 |
+| bhinioopers             | Mini Cooper S                                 | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhinioopers.png" width="256" height="128" />                                 |
+| bhotatacoma24           | Toyota Tacoma                                 | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhotatacoma24.png" width="256" height="128" />                                 |
+| bhondacivictyper        | Honda Civic                                   | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhondacivictyper.png" width="256" height="128" />                                 |
+| bhenzegle53c            | Mercedes-AMG GLE 53 Coupe                     | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhenzegle53c.png" width="256" height="128" />                                 |
+| bhudirs6c8              | Audi RS 6                                     | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhudirs6c8.png" width="256" height="128" />                                 |
+| bhatonmartdb11          | Aston Martin DB11                             | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhatonmartdb11.png" width="256" height="128" />                                 |
+| bhguarftyper22          | Jaguar F Type-R ‘22                           | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhguarftyper22.png" width="256" height="128" />                                 |
+| bhyacht3b               | Yacht                                         | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhyacht3b.png" width="256" height="128" />                                 |
+| bhwm4g83                | BMW M4 (G83) Cabrio                           | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhwm4g83.png" width="256" height="128" />                                 |
+| bhagenroccor            | VW Scirocco                                   | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhagenroccor.png" width="256" height="128" />                                 |
+| bhota4rnpro             | Toyota 4Runner TRD Pro                        | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhota4rnpro.png" width="256" height="128" />                                 |
+| bhstang63               | Mustang ‘63 (Mașina de epocă)                 | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhstang63.png" width="256" height="128" />                                 |
+| bhntleycontgt           | Bentley Continental GT                        | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhntleycontgt.png" width="256" height="128" />                                 |
+| bhenzeg63amg            | Mercedes-AMG G63                              | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhenzeg63amg.png" width="256" height="128" />                                 |
+| bhurusperf23            | Lamborghini Urus 'Xmas Edition'               | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhurusperf23.png" width="256" height="128" />                                 |
+| bherts63cmatic          | Mercedes-AMG S63 Coupe                        | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bherts63cmatic.png" width="256" height="128" />                                 |
+| bhudir820               | Audi R8                                       | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhudir820.png" width="256" height="128" />                                 |
+| bhlx570                 | Lexus LX 570                                  | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhlx570.png" width="256" height="128" />                                 |
+| bhudirs7rabt            | Audi RS7                                      | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhudirs7rabt.png" width="256" height="128" />                                 |
+| bhupraformvz5           | Cupra Formentor Z5                            | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhupraformvz5.png" width="256" height="128" />                                 |
+| bhwm8                   | BMW M8                                        | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhwm8.png" width="256" height="128" />                                 |
+| bhundaisantafe          | Hyundai SantaFe                               | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhundaisantafe.png" width="256" height="128" />                                 |
+| bhswagenregr50          | VW Tuareg                                     | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhswagenregr50.png" width="256" height="128" />                                 |
+| bhotalandcruhak200      | Toyota Land Cruiser                           | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhotalandcruhak200.png" width="256" height="128" />                                 |
+| bhmmerevgmc             | Hummer EV                                     | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhmmerevgmc.png" width="256" height="128" />                                 |
+| bhoversvrs              | Range Rover Sport SVR                         | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhoversvrs.png" width="256" height="128" />                                 |
+| bhntleybentayst         | Bentley Bentayga StarTech                     | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhntleybentayst.png" width="256" height="128" />                                 |
+| bhcatipanigalev4        | Ducati Panigale V4                            | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhcatipanigalev4.png" width="256" height="128" />                                 |
+| bhmcjavelinamx          | AMC Javelin AMX                               | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhmcjavelinamx.png" width="256" height="128" />                                 |
+| bhntleybatur24          | Bentley Batur                                 | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhntleybatur24.png" width="256" height="128" />                                 |
+| bhordgtmk2              | Ford GT Mk II                                 | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhordgtmk2.png" width="256" height="128" />                                 |
+| bhrleydavfb             | Harley Davidson Fat Boy                       | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhrleydavfb.png" width="256" height="128" />                                 |
+| bhwx7g07                | BMW X7 (G07)                                  | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhwx7g07.png" width="256" height="128" />                                 |
+| bheslaroadster20        | Tesla Roadster                                | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bheslaroadster20.png" width="256" height="128" />                                 |
+| bhswagengolfrmk75       | VW Golf 7.5                                   | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhswagengolfrmk75.png" width="256" height="128" />                                 |
+| bhswagenpassatb8        | VW Passat B8                                  | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhswagenpassatb8.png" width="256" height="128" />                                 |
+| bhdillacct4vbw22        | Cadillac CT4-V Blackwing                      | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhdillacct4vbw22.png" width="256" height="128" />                                 |
+| bhwm5e60v2              | BMW M5 (E60)                                  | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhwm5e60v2.png" width="256" height="128" />                                 |
+| bhorschecayennegt22     | Porsche Cayenne Turbo GT                      | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhorschecayennegt22.png" width="256" height="128" />                                 |
+| bhwm3e30                | BMW M3 (E30)                                  | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhwm3e30.png" width="256" height="128" />                                 |
+| bhorschegt2rs17         | Porsche 911 (991) GT2 RS                      | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhorschegt2rs17.png" width="256" height="128" />                                 |
+| bhssanskylinegtr        | Nissan Skyline GT-R (R34)                     | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhssanskylinegtr.png" width="256" height="128" />                                 |
+| bhwm5cs22               | BMW M5 CS (F90)                               | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhwm5cs22.png" width="256" height="128" />                                 |
+| bhertcls63samg15        | Mercedes-AMG CLS63 S                          | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhertcls63samg15.png" width="256" height="128" />                                 |
+| bhudia8lh22             | Audi A8L                                      | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhudia8lh22.png" width="256" height="128" />                                 |
+| bhchevocam19            | Hennessey Chevrolet Camaro ZL1 'Exorcist'     | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhchevocam19.png" width="256" height="128" />                                 |
+| bhubaruwrxsti12         | Subaru Impreza WRX STI                        | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhubaruwrxsti12.png" width="256" height="128" />                                 |
+| bhwm5e39                | BMW M5 (E39)                                  | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhwm5e39.png" width="256" height="128" />                                 |
+| bhubaruwrxsti12         | Subaru Impreza WRX STI                        | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhubaruwrxsti12.png" width="256" height="128" />                                 |
+| bhwm5e39                | BMW M5 (E39)                                  | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhwm5e39.png" width="256" height="128" />                                 |
