@@ -45,23 +45,39 @@ jobs:
           rm -rf ./wiki/wiki
           mv -f ./wiki/new_wiki ./wiki/wiki
           
+          # Words to ignore
+          ignore_words=("masterlist" "GTA" "Eneba" "Rockstar" "CEF" "gp")
+
+          # Function to filter out ignored words
+          filter_ignored() {
+              while read -r line; do
+                  # Check if the word is in the list of ignored words
+                  if ! [[ " ${ignore_words[@]} " =~ " $line " ]]; then
+                      echo "$line"
+                  fi
+              done
+          }
+
           # Check for typos and store the result in a file
           hunspell -d ro_RO,en_US -l -i utf-8 ./wiki/wiki/* > typos.txt || true
-          
+
+          # Filter out ignored words
+          cat typos.txt | filter_ignored > filtered_typos.txt
+
           # If typos are found, create an issue with the list of typos and fail the action
-          if [ -s "typos.txt" ]; then
-            echo "Typos found:"
-            cat typos.txt
-            # Format typos in Markdown
-            echo -e "### Typos Found:\n\`\`\`\n$(cat typos.txt)\n\`\`\`" > formatted_typos.md
-            # Create issue using GitHub REST API
-            echo "Creating issue..."
-            # Escape special characters in the issue body
-            body=$(cat formatted_typos.md | jq -Rs 'gsub("\\\"";"\"")')
-            # Create issue with escaped body
-            curl -X POST -H "Authorization: token ${{ secrets.CI_TOKEN }}" -H "Accept: application/vnd.github.v3+json" -d "{\"title\":\"Typos Found in Wiki\",\"body\":$body}" "https://api.github.com/repos/ragebhood/wiki/issues"
-            # Fail the action
-            exit 1
+          if [ -s "filtered_typos.txt" ]; then
+              echo "Typos found:"
+              cat filtered_typos.txt
+              # Format typos in Markdown
+              echo -e "### Typos Found:\n\`\`\`\n$(cat filtered_typos.txt)\n\`\`\`" > formatted_typos.md
+              # Create issue using GitHub REST API
+              echo "Creating issue..."
+              # Escape special characters in the issue body
+              body=$(cat formatted_typos.md | jq -Rs 'gsub("\\\"";"\"")')
+              # Create issue with escaped body
+              curl -X POST -H "Authorization: token ${{ secrets.CI_TOKEN }}" -H "Accept: application/vnd.github.v3+json" -d "{\"title\":\"Typos Found in Wiki\",\"body\":$body}" "https://api.github.com/repos/ragebhood/wiki/issues"
+              # Fail the action
+              exit 1
           fi
           
           cd wiki
