@@ -5,25 +5,26 @@ title: Arena de curse
 # Arena de curse 🏁
 
 ::: info 
-Pentru a participa la o cursa in **Race Arena** ai nevoie de minim nivel 5, iar ca cursa sa inceapa sunt necesari cel putin 3 participanti.
+Pentru a participa la o cursă în **Race Arena** ai nevoie de minim nivel 5, iar ca cursa să înceapă sunt necesari cel puțin 3 participanți.
 :::
 
-::: details Unde se afla arena de curse?
-![curse](https://www.com)
+::: details Unde se află arena de curse?
+![Grand Theft Auto V Screenshot 2024 02 23 - 00 00 45 25](https://github.com/Alexander-AIM/wiki/assets/157987605/f320a4a1-dbee-40b7-8af8-11a462577541)
+
 :::
 
-Pentru a intra in **Race Arena** apasa pe tasta `Y` atunci cand te afli in fata acesteia.
-Imediat iti va aparea o interfata unde va fi necesar sa votezi pentru tipul de cursa dorit.
+Pentru a intră în **Race Arena** apasă pe tasta `Y` atunci când te afli în față acesteia.
+Imediat îți va apărea o interfață unde va fi necesar să votezi pentru tipul de cursa dorit.
 
 ::: details Ce tipuri de curse sunt disponibile?
-![lista curse disponibile](https://www.com)
+![Grand Theft Auto V Screenshot 2024 02 23 - 00 00 52 46](https://github.com/Alexander-AIM/wiki/assets/157987605/98afb899-ec52-4501-9a8b-ab13231fd745)
+
 :::
 
-Dupa ce este ales tipul de curse va fi necesar sa votezi pentru vehiculul dorit (vehiculele difera in functie de tipul de cursa).
-Odata ales vehiculul va fi necesar sa votezi pentru ruta favorita (la fel difera in functie de tipul de cursa).
+După ce este ales tipul de curse va fi necesar să votezi pentru vehiculul dorit (vehiculele diferă în funcție de tipul de cursa).
+Odată ales vehiculul va fi necesar să votezi pentru ruta favorită (la fel diferă în funcție de tipul de cursa).
 
-## Cate Race Points primesc in functie de locul pe care ma clasez?
+## Câte Race Points primesc în funcție de locul pe care mă clasez?
 
-Cine termina pe primul loc va primi **200 de Race Points**, pe al doilea **150 de Race Points**, pe al treilea **100 de Race Points**, iar restu cate **80 de Race Points**.
-
+Cine termină pe primul loc va primi **200 de Race Points**, pe al doilea **150 de Race Points**, pe al treilea **100 de Race Points**, iar restu câte **80 de Race Points**.
 
