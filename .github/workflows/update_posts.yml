@@ -45,10 +45,11 @@ jobs:
           rm -rf ./wiki/wiki
           mv -f ./wiki/new_wiki ./wiki/wiki
           
-          # Words to ignore
-          ignore_words=("masterlist" "GTA" "Eneba" "Rockstar" "CEF" "gp" "poti" "multiplayerul" "Esti" "Wikipediaul" "intalniti" "masina" "jucatorule" "Editeză" "wikipedia" "iamCibu")
+          # Words and patterns to ignore
+          ignore_words=("masterlist" "GTA" "Eneba" "Rockstar" "CEF" "gp" "wikipedia" "iamCibu")
+          ignore_patterns=("</?[a-zA-Z][^>]*>")
 
-          # Function to filter out lines containing ignored words
+          # Function to filter out lines containing ignored words and patterns
           filter_ignored() {
               while IFS= read -r line; do
                   # Flag to indicate whether the line should be ignored
@@ -57,6 +58,14 @@ jobs:
                   for word in "${ignore_words[@]}"; do
                       # If the word is found in the line, set the flag and break the loop
                       if [[ $line == *"$word"* ]]; then
+                          ignore_line=true
+                          break
+                      fi
+                  done
+                  # Check each pattern in the line against the list of ignored patterns
+                  for pattern in "${ignore_patterns[@]}"; do
+                      # If the pattern is found in the line, set the flag and break the loop
+                      if [[ $line =~ $pattern ]]; then
                           ignore_line=true
                           break
                       fi
