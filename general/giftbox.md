@@ -39,7 +39,7 @@ Poți să vezi ce skill ai prin intermediul comenzii `/skills`.
 | 11. [Premium Account 3d](./account%20upgrades/premium)                        | (4%)          |
 | 12. [VIP Account 1d](./account%20upgrades/vip)                            | (2.5%)        |
 | 13. [VIP Account 2d](./account%20upgrades/vip)                            | (2%)          |
-| 14. Premium Points intre 5 si 50                     | (5%)          |
+| 14. <span style="color: ##f6bfbc;">Premium Points intre 5 si 50</span>                     | (5%)          |
 | 15. Rare Voucher                              | (1%)          |
 | 16. Money $5,000,000-$20,000,000            | (3%)          |
 | 17. bhugeotcc307                              | (1%)          |
@@ -60,10 +60,97 @@ Poți să vezi ce skill ai prin intermediul comenzii `/skills`.
 | 11. [Premium Account 4d](./account%20upgrades/premium)                        | (4%)          |
 | 12. [VIP Account 2d](./account%20upgrades/vip)                            | (3.5%)        |
 | 13. [VIP Account 3d](./account%20upgrades/vip)                            | (3%)          |
-| 14. Premium Points intre 10 si 60                    | (4%)          |
+| 14. <span style="color: ##f6bfbc;">Premium Points intre 10 si 60</span>                   | (4%)          |
 | 15. Rare Voucher                              | (3%)          |
 | 16. Money $7,500,000-$25,000,000            | (3%)          |
 | 17. bhinijrgp                                 | (1%)          |
+
+### Giftbox Skill 3
+| Premii                                       | Șansa         |
+|----------------------------------------------|---------------|
+| 1. Money $3,500,000-$10,000,000            | (17.6%)       |
+| 2. BPoints 350-900                         | (15%)         |
+| 3. Materials[3000-7000                     | (12%)         |
+| 4. [Winter Crate](./crates.md#winter-crate-❄%EF%B8%8F)                               | (4.5%)        |
+| 5. Hidden Color 2x                            | (8.3%)        |
+| 6. [Cupidon Crate](./crates.md#cupidon-crate-💏)                              | (2.5%)        |
+| 7. Matte Color                                | (7%)          |
+| 8. [Spring Crate](./crates.md#spring-crate-🌹)                               | (2%)          |
+| 9. Race Points 100-250                      | (4.3%)        |
+| 10. [Premium Account 4d](./account%20upgrades/premium)                       | (4%)          |
+| 11. [Premium Account 5d](./account%20upgrades/premium)                        | (3%)          |
+| 12. [VIP Account 3d](./account%20upgrades/vip)                            | (3.5%)        |
+| 13. [VIP Account 4d](./account%20upgrades/vip)                            | (4%)          |
+| 14. <span style="color: ##f6bfbc;">Premium Points intre 20 si 65</span>                    | (5%)          |
+| 15. Rare Voucher                              | (3.3%)        |
+| 16. Money $10,000,000-$30,000,000           | (3%)          |
+| 17. bhagenmk6                                 | (1%)          |
+
+### Giftbox Skill 4
+| Premii                                       | Șansa         |
+|----------------------------------------------|---------------|
+| 1. Money $4,000,000-$12,500,000            | (12.6%)       |
+| 2. BPoints 400-1000                        | (14%)         |
+| 3. Materials 4000-8000                     | (12%)         |
+| 4. Race Points 150-250                      | (11%)         |
+| 5. Matte Color 2x                            | (10%)         |
+| 6. [Nostalgia Crate](./crates#nostalgia-crate-📦)                            | (2%)          |
+| 7. Chrome Color                               | (7.9%)        |
+| 8. [Cupidon Crate](./crates.md#cupidon-crate-💏)                              | (3%)          |
+| 9. [Spring Crate](./crates.md#spring-crate-🌹)                                | (3.5%)        |
+| 10. [Premium Account 6d](./account%20upgrades/premium)                       | (5%)          |
+| 11. [VIP Account 4d](./account%20upgrades/vip)                           | (4%)          |
+| 12. MP3                                       | (3%)          |
+| 13. <span style="color: ##f6bfbc;">Premium Points intre 30 si 70</span>                    | (5%)          |
+| 14. Epic Voucher                              | (2%)          |
+| 15. Money $10,000,000-$35,000,000           | (4%)          |
+| 16. bhndas2000                                | (1%)          |
+
+### Giftbox Skill 5
+| Premii                                       | Șansa         |
+|----------------------------------------------|---------------|
+| 1. Money $5,000,000-$15,000,000            | (12%)         |
+| 2. BPoints 500-1100                        | (12%)         |
+| 3. Materials 5000-9500                     | (13%)         |
+| 4. Race Points 200-350                      | (10%)         |
+| 5. Matte Color 3x                            | (9%)          |
+| 6. [Workers Crate](./crates#workers-crate-👷)                              | (3%)          |
+| 7. Respect Points 10-30                    | (8%)          |
+| 8. [Easter Crate](./crates#easter-crate-🐇)                               | (3%)          |
+| 9. [Spring Crate](./crates.md#spring-crate-🌹)                               | (3%)          |
+| 10. [Premium Account 7d](./account%20upgrades/premium)                       | (7%)          |
+| 11. [VIP Account 3d](./account%20upgrades/vip)                           | (5%)          |
+| 12. [VIP Account 5d](./account%20upgrades/vip)                           | (7%)          |
+| 13. [VIP Account 7d](./account%20upgrades/vip)                           | (3%)          |
+| 14. <span style="color: ##f6bfbc;">Premium Points intre 40 si 75</span>                     | (5%)          |
+| 15. Epic Voucher                              | (3%)          |
+| 16. Money $10,000,000-$40,000,000           | (3%)          |
+| 17. bhishileix                                | (1%)          |
+
+### Giftbox Skill 6
+| Premii                                       | Șansa         |
+|----------------------------------------------|---------------|
+| 1. Money $6,000,000-$17,500,000            | (5%)          |
+| 2. BPoints 600-1200                        | (9%)          |
+| 3. Materials 5000-10000                    | (8%)          |
+| 4. Race Points 250-400                      | (3%)          |
+| 5. Matte Color 3x                            | (9%)          |
+| 6. [Workers Crate](./crates#workers-crate-👷)                              | (3%)          |
+| 7. Chrome Color                               | (10%)         |
+| 8. [Summer Crate](./crates#summer-crate-🌴)                                     | (2%)          |
+| 9. [Easter Crate](./crates#easter-crate-🐇)                               | (3%)          |
+| 10. Vehicle Slot                             | (5%)          |
+| 11. [VIP Account 7d](./account%20upgrades/vip)                          | (7%)          |
+| 12. [Legend Account 3d](./account%20upgrades/legend)                        | (6%)          |
+| 13. <span style="color: ##f6bfbc;">Premium Points intre 50 si 100</span>                   | (5%)          |
+| 14. Epic Voucher                              | (4%)          |
+| 15. Money $10,000,000-$45,000,000           | (3%)          |
+| 16. bhazdarxspirit                            | (1%)          |
+
+## Intrebari frecvente
+
+### Dacă primesc un vehicul din giftbox și nu am slot livber, îl mai primesc?
+Da, atunci când câștigi un vehicul din **Giftbox** vei primi și un **VehicleSlot**.
 
 
 
