@@ -1,14 +1,18 @@
 name: Update wiki posts
+
 on:
   workflow_dispatch:
   push:
     branches:
-      - "main"
+      - main
+
 jobs:
   update-posts:
     runs-on: ubuntu-latest
-    name: "Update wiki posts" 
-    steps:  
+    name: Update wiki posts
+
+    steps:
+      # Clone posts repository
       - name: Clone posts repository
         uses: actions/checkout@v3
         with:
@@ -16,6 +20,7 @@ jobs:
           path: "posts"
           token: ${{ secrets.CI_TOKEN }}
 
+      # Clone wiki repository
       - name: Clone wiki repository
         uses: actions/checkout@v3
         with:
@@ -25,8 +30,28 @@ jobs:
           ref: "main"
           token: ${{ secrets.CI_TOKEN }}
 
-      - name: Check spelling with Typos Action
-        uses: crate-ci/typos@master
-        with:
-          files: ./wiki
-          write_changes: false
+      # Install hunspell and Romanian dictionary
+      - name: Install hunspell and Romanian dictionary
+        run: sudo apt-get install hunspell hunspell-ro
+
+      # Check for typos in wiki directory
+      - name: Check for typos
+        run: hunspell -d ro_RO -l -i utf-8 wiki/* || true
+
+      # Update posts
+      - name: Update posts
+        if: always()
+        shell: bash
+        run: |
+          mkdir ./wiki/new_wiki
+          mv -f ./wiki/wiki/.vitepress ./wiki/new_wiki
+          mv -f ./posts/* ./wiki/new_wiki
+          rm -rf ./wiki/wiki
+          mv -f ./wiki/new_wiki ./wiki/wiki
+          cd wiki
+          git config --global user.email "b-hood.ro@github.com"
+          git config --global user.name "b-hood.ro"
+          git status
+          git add .
+          git commit -m "Update posts with ${{ github.sha }}" || true
+          git push || true
