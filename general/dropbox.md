@@ -9,7 +9,7 @@ Dropul reprezintă o cutie care se eliberează la intervale regulate, iar prin i
 Informațiile privind locațiile acestuia sunt comunicate în chat-ul global în momentul eliberării.
 
 ::: danger ATENȚIE!
-Participarea la drop se face doar trăgând cu o armă în el.
+Pentru a participa la drop, trebuie să tragi doar cu o armă de foc în el.
 :::
 
 ## Nivele de Dropbox
