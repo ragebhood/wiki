@@ -97,7 +97,18 @@ jobs:
               # Escape special characters in the issue body
               escaped_body=$(echo "$body" | jq -Rs 'gsub("\\\"";"\"")')
               # Create issue with escaped body
-              curl -X POST -H "Authorization: token ${{ secrets.CI_TOKEN }}" -H "Accept: application/vnd.github.v3+json" -d "{\"title\":\"Typos Found in Wiki\",\"body\":$escaped_body}" "https://api.github.com/repos/ragebhood/wiki/issues" || true
+              issue_response=$(curl -X POST -H "Authorization: token ${{ secrets.CI_TOKEN }}" -H "Accept: application/vnd.github.v3+json" -d "{\"title\":\"Typos Found in Wiki\",\"body\":$escaped_body}" "https://api.github.com/repos/ragebhood/wiki/issues") || true
+              
+              # Get the issue number from the response
+              issue_number=$(echo "$issue_response" | jq -r '.number')
+              
+              # Send messages with the remaining typos if any
+              while IFS= read -r typo_chunk; do
+                  # Escape special characters in the message body
+                  escaped_message=$(echo "$typo_chunk" | jq -Rs 'gsub("\\\"";"\"")')
+                  # Send message with escaped body
+                  curl -X POST -H "Authorization: token ${{ secrets.CI_TOKEN }}" -H "Accept: application/vnd.github.v3+json" -d "{\"body\":$escaped_message}" "https://api.github.com/repos/ragebhood/wiki/issues/$issue_number/comments" || true
+              done < <(split -l 50 filtered_typos.txt)
               
               # Fail the action
               exit 1
