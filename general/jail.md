@@ -32,6 +32,8 @@ După ce ai făcut rost de toate item-urile necesare de evadare, mergi la poarta
 După ce părăsești incinta închisorii vei primi Wanted 6 **Escaped Robbery**.
 :::
 
+---
+
 # Admin Jail 🔐
 Dacă ai încălcat regulamentul, vei fi pus în Admin Jail. De aici nu mai poți ieși decât dacă aștepți până trece timpul din sentința setată.
 
