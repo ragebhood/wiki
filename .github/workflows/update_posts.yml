@@ -9,6 +9,9 @@ jobs:
     runs-on: ubuntu-latest
     name: "Update wiki posts" 
     steps:
+      - name: typos-action
+        uses: crate-ci/typos@v1.18.2
+            
       - name: Clone posts repository
         uses: actions/checkout@v3
         with:
