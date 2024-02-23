@@ -3,6 +3,7 @@ title: Metode de obtinere a punctelor
 ---
 
 # Metode de obtinere a punctelor 📊
+<br>
 
 ::: tip 
 Punctele în joc reprezintă unități esențiale ale progresului și reușitei tale în această aventură digitală captivantă. Cu fiecare acțiune înțeleaptă, obiectiv atins și obstacol depășit, vei acumula puncte care nu doar măsoară, ci și recompensează eforturile tale. Aceste puncte devin moneda ta virtuală, reflectând nu doar priceperea ta în joc, ci și creativitatea, strategia și spiritul competitiv.
