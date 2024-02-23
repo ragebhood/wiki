@@ -46,7 +46,7 @@ jobs:
           mv -f ./wiki/new_wiki ./wiki/wiki
           
           # Words to ignore
-          ignore_words=("masterlist" "GTA" "Eneba" "Rockstar" "CEF" "gp")
+          ignore_words=("masterlist" "GTA" "Eneba" "Rockstar" "CEF" "gp" "poti" "multiplayerul" "Esti" "Wikipediaul" "intalniti" "masina" "jucatorule" "Editeză" "wikipedia" "iamCibu")
 
           # Function to filter out ignored words
           filter_ignored() {
