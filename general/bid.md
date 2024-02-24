@@ -25,6 +25,9 @@ Pentru a licita, apasă pe bunul ce este scos la licitație, <span v-tippy="{con
 ![bidmenu](https://github.com/Alexander-AIM/wiki/assets/157987605/e75fefbc-8e10-4188-8743-f9f2e649c20c)
 :::
 
+
+Licitația este adjudecată de către persoana care a plasat ultima licitație, în condițiile în care nimeni altcineva nu a mai oferit nicio licitație în ultimele 60 de secunde.
+
 ::: danger ATENȚIE!
 Vehiculele ce sunt câștigate la licitație nu vor veni și cu sistemele **Stage**, **VIP**, **Premium Fuel** și **Rainbow**. 
 Singurul tuning ce rămâne pe vehicul este cel ce este pus în **Vehicle mod shop**.
