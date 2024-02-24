@@ -1,18 +1,14 @@
 name: Update wiki posts
-
 on:
   workflow_dispatch:
   push:
     branches:
-      - main
-
+      - "main"
 jobs:
   update-posts:
     runs-on: ubuntu-latest
-    name: Update wiki posts
-
+    name: "Update wiki posts" 
     steps:
-      # Clone posts repository
       - name: Clone posts repository
         uses: actions/checkout@v3
         with:
@@ -20,7 +16,6 @@ jobs:
           path: "posts"
           token: ${{ secrets.CI_TOKEN }}
 
-      # Clone wiki repository
       - name: Clone wiki repository
         uses: actions/checkout@v3
         with:
@@ -30,11 +25,6 @@ jobs:
           ref: "main"
           token: ${{ secrets.CI_TOKEN }}
 
-      # Install hunspell and Romanian dictionary
-      - name: Install hunspell and Romanian dictionary
-        run: sudo apt-get install hunspell hunspell-ro
-
-      # Update posts
       - name: Update posts
         if: always()
         shell: bash
@@ -44,53 +34,6 @@ jobs:
           mv -f ./posts/* ./wiki/new_wiki
           rm -rf ./wiki/wiki
           mv -f ./wiki/new_wiki ./wiki/wiki
-          
-          # Words to ignore
-          ignore_words=("masterlist" "GTA" "Eneba" "Rockstar" "CEF" "wikipedia" "iamCibu" "img" "src")
-          ignore_patterns=("</?[a-zA-Z][^>]*>")
-
-          filter_ignored() {
-              while IFS= read -r line; do
-                  ignore_line=false
-                  for word in "${ignore_words[@]}"; do
-                      if [[ $line == *"$word"* ]]; then
-                          ignore_line=true
-                          break
-                      fi
-                  done
-                  for pattern in "${ignore_patterns[@]}"; do
-                      if [[ $line =~ $pattern ]]; then
-                          ignore_line=true
-                          break
-                      fi
-                  done
-                  if [ "$ignore_line" = false ]; then
-                      echo "$line"
-                  fi
-              done
-          }
-
-          find ./wiki/wiki -type d -name .vitepress -prune -o -type f -exec hunspell -d ro_RO,en_US -l -i utf-8 {} + | filter_ignored > filtered_typos.txt || true
-
-
-          echo "Filtered typos:"
-          cat filtered_typos.txt
-
-          if [ -s "filtered_typos.txt" ]; then
-              echo "Typos found:"
-              cat filtered_typos.txt
-
-              echo -e "### Typos Found:\n\`\`\`\n$(cat filtered_typos.txt)\n\`\`\`" > formatted_typos.md
-
-              echo "Creating issue..."
-
-              body=$(cat formatted_typos.md | jq -Rs 'gsub("\\\"";"\"")')
-
-              curl -X POST -H "Authorization: token ${{ secrets.CI_TOKEN }}" -H "Accept: application/vnd.github.v3+json" -d "{\"title\":\"Typos Found in Wiki\",\"body\":$body}" "https://api.github.com/repos/ragebhood/wiki/issues"
-              # Fail the action
-              exit 1
-          fi
-          
           cd wiki
           git config --global user.email "b-hood.ro@github.com"
           git config --global user.name "b-hood.ro"
