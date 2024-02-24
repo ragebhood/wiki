@@ -3,13 +3,12 @@ title: Drugs dealer
 ---
 
 # Drugs dealer 💊
+Acțiunea jobului de dealer de droguri constă în producerea drogurilor punandu-le la procesat in laboratoarele existente.
 
-::: danger Atenție!
+::: danger ATENȚIE!
 Ai nevoie de minim nivel 3 pentru a putea munci la acest job.
 :::
 
-
-Acțiunea jobului constă în producerea drogurilor punandu-le la procesat in laboratoarele existente.
 ::: details Locație job
 ![Locație job Drugs Dealer](https://i.imgur.com/nMcDXo1.png "Locație job Drugs Dealer")
 :::
@@ -19,7 +18,7 @@ Pentru a începe munca, folosește comânda `/work` sau apasă pe tasta `Y` din 
 ![Locație job Drugs Dealer](https://i.imgur.com/f8Kvbg6.png "Locație job Drugs Dealer")
 :::
 
-::: danger Atenție!
+::: danger ATENȚIE!
 La acest job nu vei beneficia de un vehicul oferit de către acesta
 :::
 Odată ce ai început munca, mergi la checkpointul primit și lasă drogurile la procesat la 'primul laborator'. Pentru a lasă o parte din droguri la procesat, apasă pe tasta 'Y' în interiorul acestuia.
@@ -33,9 +32,7 @@ După ce ai lăsat o parte din droguri la procesat, mergi la următorul checkpoi
 :::
 
 După ce ai pus la procesat drogurile rămase la 'Laborator', alege-ți recompensa din meniul ce-ți va fi afișat.
-::: tip Cum arata acel meniu?
 ![Cum arată meniul? ](https://i.imgur.com/2VLTCRj.png "Cum arată meniul? ")
-:::
 
 ::: tip
 La acest job nu poți avansa în skill.

@@ -1,8 +1,6 @@
 ---
 title: Arena de curse
 ---
-**Race Arena**
-
 # Arena de curse 🏁
 
 Race Arena reprezintă un sanctuar al vitezei, un loc captivant unde te poți angaja în competiții de curse diversificate și unde eforturile tale sunt răsplătite prin distincții pentru performanța obținută.

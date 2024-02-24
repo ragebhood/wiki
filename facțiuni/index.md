@@ -3,6 +3,7 @@ title: Informații generale
 ---
 
 # Informații generale 👥
+Facțiunile sunt grupări de jucători (a.k.a membrii facțiuni) care ajută jucătorii printr-un mod direct sau indirect. Poți vedea ce facțiune îți este potrivită la lista de facțiuni de sub această pagină.
 
 Dacă faci parte dintr-o facțiune ești obligat să cunoști și acest regulament, pe lângă regulamentul facțiunii respective în care ești și regulamentul general al serverului mai este necesar să înveți și [acest](https://ragepanel.b-hood.ro/rules/view/regulament-general-factiuni "Regulament factiuni") 
 
