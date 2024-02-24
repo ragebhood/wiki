@@ -7,7 +7,7 @@ Acest eveniment constă în a pescui unde poți câștigă diferite premii speci
 Pentru a participa la eveniment, folosește comandă `/joinlucky` atunci când evenimentul este activ 🟢.
 
 ## Întrebări adresate frecvent ❓
-Poți găsi aici niște întrebări adresate frecvent despre eveniment. Însă daca nu ai găsit un răspuns pentru întrebarea ta, adreseaz-o pe `/newbie`.
+Poți găsi aici niște întrebări adresate frecvent despre eveniment. Însă dacă nu ai găsit un răspuns pentru întrebarea ta, adreseaz-o pe `/newbie`.
 
 ### Am nevoie de job-ul Fisherman pentru a participa?
 Nu ai nevoie de un job pentru a participa la acest eveniment.
@@ -21,7 +21,7 @@ Poți ajunge pe insulă cu ajutorul unui **vehicul aerian** sau conducând **o b
 ### Unde vând peștele?
 Lângă zona ta de pescuit, se află un **Market** (marcat pe harta cu un coș de cumpărături), iar intrând în săgeata acestuia, vei vinde peștele.
 
-### Care sunt raritațile de pește și culorile acestuia?
+### Care sunt raritățile de pește și culorile acestuia?
 
 | Raritate      |      Culoare  |
 | ------------- | :-----------: |

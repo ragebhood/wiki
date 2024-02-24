@@ -10,11 +10,11 @@ Poker-ul este un joc de pariere, fiecare jucător pornește cu un număr de punc
 
 La începutul fiecărei mâini fiecare jucător dă pe masă un număr de puncte. Toate aceste puncte formează potul, care va ajunge la câștigător.
 
-În timpul jocului jucătorii pot face parieri suplimentare contribuind la creșterea potului. Oricât pariază un jucător, ceilalți participanți la joc trebuie să îl egaleze pentru a putea continua jocul. Jucătorii pot, de asemenea, să crească bet-ul (denumirea la jocurile oficiale de poker este **Raise**), sau să renunțe la joc (denumirea în engleză este **Fold**). În caz că un jucător renunță, el nu mai poate căștiga și pierde punctele pariate în jocul respectiv.
+În timpul jocului jucătorii pot face parieri suplimentare contribuind la creșterea potului. Oricât pariază un jucător, ceilalți participanți la joc trebuie să îl egaleze pentru a putea continua jocul. Jucătorii pot, de asemenea, să crească bet-ul (denumirea la jocurile oficiale de poker este **Raise**), sau să renunțe la joc (denumirea în engleză este **Fold**). În caz că un jucător renunță, el nu mai poate câștiga și pierde punctele pariate în jocul respectiv.
  
 Un joc de poker este câștigat de jucătorul ce mai este în joc la final și care are cea mai bună mână.
  
-Obiectivul unui joc de poker nu este doar de a câștiga cât mai multe mâini posibile, ci de a căștiga cât mai multe puncte posibile. De-a lungul mai multor jocuri, jucătorii buni vor fi aceia care vor reuși să câștige mai mult decât vor pierde.
+Obiectivul unui joc de poker nu este doar de a câștiga cât mai multe mâini posibile, ci de a câștiga cât mai multe puncte posibile. De-a lungul mai multor jocuri, jucătorii buni vor fi aceia care vor reuși să câștige mai mult decât vor pierde.
 
 ## Reguli Poker
 Poker este un popular joc de cărți. Se joacă în 2-5 jucători cu un pachet standard de 52 de cărți. Fiecare masă de joc are stabilită o Deschidere obligatorie. Deschiderea poate fi oricât, gazda mesei stabilește acest lucru. Odată ce a dat Start, fiecărui jucător i se vă lua numărul de puncte stabilit de acea deschidere obligatorie.
@@ -62,7 +62,7 @@ Vă prezentăm aici mâinile câștigătoare în ordine crescătoare:
 ## Reguli în caz de egalitate
 Când doi sau mai mulți jucători au la final mâini egale diferențierea se face la cartea cea mai mare.
  
-Când există egalitate și între cărțile cele mai mari, se trece la a 2-a cea mai mare carte, și așa mai departe, până se face diferentirea intre mâini. Exemplu: culoarea A-10-4-3-2 bate culoarea A-9-8-7-6, pentru că 10 este mai mare ca 9.
+Când există egalitate și între cărțile cele mai mari, se trece la a 2-a cea mai mare carte, și așa mai departe, până se face diferențierea intre mâini. Exemplu: culoarea A-10-4-3-2 bate culoarea A-9-8-7-6, pentru că 10 este mai mare ca 9.
  
 Dacă toate cărțile sunt egale, diferențierea se face la culoare după cum urmează: culoarea cea mai mare este trefla, apoi inima, pica (frunza) și romb.
 

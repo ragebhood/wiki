@@ -18,7 +18,7 @@ Pentru a aplica la această facțiune ai nevoie de minim nivel **7**.
 :::
 
 ## Restore
-Dacă simți că vehicululul tău nu mai trage cu putere, atunci cu siguranță va trebui să apelezi la un mecanic.
+Dacă simți că vehiculul tău nu mai trage cu putere, atunci cu siguranță va trebui să apelezi la un mecanic.
 
 Simptomele unui vehicul care necesită revizie: performanța vehiculului este redusă la jumătate și motorul se va opri random la fiecare **100-200 de secunde**. În acest punct, jucătorii sunt atenționați pe chat că motorul vehiculului necesită o revizie:
 ![Mesaj de atenționare revizie](https://i.imgur.com/RkTDiDL.png "Mesaj de atenționare revizie")

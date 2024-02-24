@@ -3,7 +3,7 @@ title: Dicționar
 ---
 
 # Dicționar 📘
-Această pagină a fost creată special pentru noii jucători care încă nu sunt familiarizați cu termenii argotici deși întălniți la noi pe server.
+Această pagină a fost creată special pentru noii jucători care încă nu sunt familiarizați cu termenii argotici deși întâlniți la noi pe server.
 
 **"re"** - este o formă de salutare între jucători.
 
@@ -19,6 +19,6 @@ Această pagină a fost creată special pentru noii jucători care încă nu sun
 
 **f** - înseamnă respect pentru un jucător.
 
-**HQ** - înseamnă baza acestuia fie ca este vorba despre o factiune sau de clan.
+**HQ** - înseamnă baza acestuia fie ca este vorba despre o facțiune sau de clan.
 
 ****

@@ -7,7 +7,7 @@ title: Cum să te joci?
 ### Informații
 Ne bucurăm că îți dorești să intri la noi pe server ca să te distrezi. Pentru a te juca, ai nevoie de o copie originală a jocului **Grand Theft Auto V** achiziționată de pe Rockstar Games / Steam / Epic Games.
 
-Linkuri de unde poti cumpăra:
+Linkuri de unde poți cumpăra:
 - Rockstar Games: [redirect](https://store.steampowered.com/agecheck/app/271590/)
 - Epic Games: [redirect](https://store.epicgames.com/en-US/p/grand-theft-auto-v)
 - Steam: [redirect](https://store.steampowered.com/agecheck/app/271590/)
@@ -30,7 +30,7 @@ Linkuri de unde poti cumpăra:
 Pentru a te putea juca la noi pe server, vei fi nevoit să îți descarci și platforma unde este serverul. Instalează **[RAGE Multiplayer](https://rage.mp/)**.
 
 > [!NOTE]
-> Poți descărca direct de pe acest [link](https://cdn.rgsvc.io/public/files/RAGEMultiplayer_Setup.exe) multiplayerul.
+> Poți descărca direct de pe acest [link](https://cdn.rgsvc.io/public/files/RAGEMultiplayer_Setup.exe) multiplayer-ul.
 
 ## Conectare
-Felicitări!! Esti cu un pas mai aproape să te joci pe cel mai aventuros și captivant server de **GTA:V**. Intră pe masterlist și caută b-hood și apasă conectare.
+Felicitări!! Ești cu un pas mai aproape să te joci pe cel mai aventuros și captivant server de **GTA:V**. Intră pe masterlist și caută b-hood și apasă conectare.

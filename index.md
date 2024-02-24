@@ -17,7 +17,7 @@ Salutare, jucătorule! 👋 Bucură-te de călătoria ta în Los Santos la noi p
 **Comenzi și Sisteme Unice:** Învață cum să folosești comenzi specifice și să interacționezi cu sistemele unice dezvoltate special pentru serverul nostru.
 
 ## Cum poți contribui:
-Suntem mereu deschiși să primim feedback și sugestii din partea comunității noastre. Dacă ai idei pentru îmbunătățirea documentației sau pentru adăugarea de conținut nou, nu ezita să apeși pe butonul de `Editeză această pagina pe GitHub` și adaugă conținut nou.
+Suntem mereu deschiși să primim feedback și sugestii din partea comunității noastre. Dacă ai idei pentru îmbunătățirea documentației sau pentru adăugarea de conținut nou, nu ezita să apeși pe butonul de `Editează această pagina pe GitHub` și adaugă conținut nou.
 
 ::: danger ATENȚIE!
 Wikipedia-ul este actualizat o data la 7 zile (Luni), pentru a vedea o variantă actualizată în timp real a acestui wikipedia poți vizita link-ul de mai jos.
