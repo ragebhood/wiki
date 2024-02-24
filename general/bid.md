@@ -16,10 +16,19 @@ Vehiculele celor ce au primit o interdictie **permanenta** vor fi scoase la lici
 Poti vedea meniul de licitatii folosind comanda `/auction` unde-ti va aparea acest meniu :arrow_down:.
 
 ::: details Meniu
-![image](https://github.com/Alexander-AIM/wiki/assets/157987605/eededf37-5b4f-4c8b-bcb5-5fcc70a522da)
+![bidmenu](https://github.com/Alexander-AIM/wiki/assets/157987605/eededf37-5b4f-4c8b-bcb5-5fcc70a522da)
 :::
 
-Pentru a licita, apasa pe bunul ce este scos la licitatie, introdu suma dorita, iar apoi apasa pe **Bid**.
+Pentru a licita, apasa pe bunul ce este scos la licitatie, <span v-tippy="{content: 'Sageata albastra din poza de mai jos.', arrow: false}">introdu suma dorita</span>, iar apoi apasa pe <span v-tippy="{content: 'Sageata rosie din poza de mai jos.', arrow: false}">Bid</span>.
+
+![bidmenu](https://github.com/Alexander-AIM/wiki/assets/157987605/e75fefbc-8e10-4188-8743-f9f2e649c20c)
+
+::: danger ATENTIE!
+Vehiculele ce sunt castigate la licitatie nu vor veni si cu sistemele **Stage**, **VIP**, **Premium Fuel** si **Rainbow**. 
+Singurul tunning ce ramane pe vehicul este cel ce este pus in **Vehicle mod shop**.
+:::
+
+
 
 
 
