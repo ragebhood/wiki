@@ -102,13 +102,13 @@ jobs:
               # Debugging statement to check the issue number
               echo "Issue Number: $issue_number"
               
-              # Send messages with the remaining typos if any
+              # Send the list of typos as comments on the issue, splitting them into chunks if needed
               while IFS= read -r typo_chunk; do
                   # Escape special characters in the message body
                   escaped_message=$(echo "$typo_chunk" | jq -Rs 'gsub("\\\"";"\"")')
                   # Send message with escaped body
                   curl -s -X POST -H "Authorization: token ${{ secrets.CI_TOKEN }}" -H "Accept: application/vnd.github.v3+json" -d "{\"body\":$escaped_message}" "https://api.github.com/repos/ragebhood/wiki/issues/$issue_number/comments" || true
-              done < <(tail -n +2 filtered_typos.txt)
+              done < <(split -l 50 filtered_typos.txt - | awk '{print "### Typos Found (continued):\n\`\`\`\n" $0 "\n\`\`\`"}')
               
               # Fail the action
               exit 1
