@@ -45,40 +45,24 @@ jobs:
           rm -rf ./wiki/wiki
           mv -f ./wiki/new_wiki ./wiki/wiki
           
-          # Words and patterns to ignore
+          # Words to ignore
           ignore_words=("masterlist" "GTA" "Eneba" "Rockstar" "CEF" "gp" "poti" "multiplayerul" "Esti" "Wikipediaul" "intalniti" "masina" "jucatorule" "Editeză" "wikipedia" "iamCibu")
-          ignore_patterns=("</?[a-zA-Z][^>]*>")
 
-          # Function to filter out lines containing ignored words and patterns
+          # Function to filter out ignored words
           filter_ignored() {
-              while IFS= read -r line; do
-                  # Flag to indicate whether the line should be ignored
-                  ignore_line=false
-                  # Check each word in the line against the list of ignored words
-                  for word in "${ignore_words[@]}"; do
-                      # If the word is found in the line, set the flag and break the loop
-                      if [[ $line == *"$word"* ]]; then
-                          ignore_line=true
-                          break
-                      fi
-                  done
-                  # Check each pattern in the line against the list of ignored patterns
-                  for pattern in "${ignore_patterns[@]}"; do
-                      # If the pattern is found in the line, set the flag and break the loop
-                      if [[ $line =~ $pattern ]]; then
-                          ignore_line=true
-                          break
-                      fi
-                  done
-                  # Output the line if it should not be ignored
-                  if [ "$ignore_line" = false ]; then
+              while read -r line; do
+                  # Check if the word is in the list of ignored words
+                  if ! [[ " ${ignore_words[@]} " =~ " $line " ]]; then
                       echo "$line"
                   fi
               done
           }
 
-          # Check for typos in all files recursively within ./wiki/wiki and store the result in a file
-          find ./wiki/wiki -type f -exec hunspell -d ro_RO,en_US -l -i utf-8 {} + | filter_ignored > filtered_typos.txt || true
+          # Check for typos and store the result in a file
+          hunspell -d ro_RO,en_US -l -i utf-8 ./wiki/wiki/* > typos.txt || true
+
+          # Filter out ignored words
+          cat typos.txt | filter_ignored > filtered_typos.txt
 
           # Debugging statement to check the output of the filter_ignored function
           echo "Filtered typos:"
