@@ -15,5 +15,12 @@ Vehiculele celor ce au primit o interdictie **permanenta** vor fi scoase la lici
 
 Poti vedea meniul de licitatii folosind comanda `/auction` unde-ti va aparea acest meniu :arrow_down:.
 
+::: details Meniu
+![image](https://github.com/Alexander-AIM/wiki/assets/157987605/eededf37-5b4f-4c8b-bcb5-5fcc70a522da)
+:::
+
+Pentru a licita, apasa pe bunul ce este scos la licitatie, introdu suma dorita, iar apoi apasa pe **Bid**.
+
+
 
 
