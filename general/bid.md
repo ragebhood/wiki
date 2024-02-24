@@ -21,7 +21,9 @@ Poti vedea meniul de licitatii folosind comanda `/auction` unde-ti va aparea ace
 
 Pentru a licita, apasa pe bunul ce este scos la licitatie, <span v-tippy="{content: 'Sageata albastra din poza de mai jos.', arrow: false}">introdu suma dorita</span>, iar apoi apasa pe <span v-tippy="{content: 'Sageata rosie din poza de mai jos.', arrow: false}">Bid</span>.
 
+::: details Meniu licitatie
 ![bidmenu](https://github.com/Alexander-AIM/wiki/assets/157987605/e75fefbc-8e10-4188-8743-f9f2e649c20c)
+:::
 
 ::: danger ATENTIE!
 Vehiculele ce sunt castigate la licitatie nu vor veni si cu sistemele **Stage**, **VIP**, **Premium Fuel** si **Rainbow**. 
