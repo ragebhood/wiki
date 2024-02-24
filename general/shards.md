@@ -7,7 +7,7 @@ La noi pe server avem un sistem prin care poți să faci rost de un vehicul prin
 
 În momentul în care ai obținut 4 shard-uri dintr-un vehicul vei putea da și upgrade.
 
-Upgrade-ul costă <p style="color: blue;"> 100 Premium Points</p> și are o șansă de <p style="color: red;"> 70% </p> de reușită.
+Upgrade-ul costă <span style="color: blue;"> <strong>100 Premium Points</strong> </span> și are o șansă de <span style="color: red;"> <strong>70%</strong> </span> de reușită.
 
 ::: tip SHARD TRADE
 Shard-urile pot fi date prin `/trade` doar in zilele stabilite din `/calendar`
@@ -15,19 +15,18 @@ In acele zile, pot fi date prin trade si shard-urile ce nu se mai pot obtine ini
 :::
 
 ## Vehicule ce pot fi obtinute din shard-uri
-<br>
 
-<img width="100" src="https://ragepanel.b-hood.ro/assets/images/cars/bhsakizx10r.png" alt="Kawa"> **bhsakizx10r - Kawasaki Ninja ZX-10R** - Acest shard nu se mai poate obtine 
-
-<hr>
-<br>
-
-<img width="100" src="https://ragepanel.b-hood.ro/assets/images/cars/krieger.png" alt="Kawa"> **Krieger**- Acest shard nu se mai poate obtine
+<img width="100" src="https://ragepanel.b-hood.ro/assets/images/cars/bhsakizx10r.png" alt="Kawa"> **bhsakizx10r - Kawasaki Ninja ZX-10R** <Badge type="danger" text="indisponibil" />
 
 <hr>
 <br>
 
-<img width="100" src="https://ragepanel.b-hood.ro/assets/images/cars/paragon.png" alt="Kawa"> **Paragon** - Acest shard nu se mai poate obtine
+<img width="100" src="https://ragepanel.b-hood.ro/assets/images/cars/krieger.png" alt="Kawa"> **Krieger** <Badge type="danger" text="indisponibil" />
+
+<hr>
+<br>
+
+<img width="100" src="https://ragepanel.b-hood.ro/assets/images/cars/paragon.png" alt="Kawa"> **Paragon** <Badge type="danger" text="indisponibil" />
 
 <hr>
 <br>
@@ -42,31 +41,31 @@ In acele zile, pot fi date prin trade si shard-urile ce nu se mai pot obtine ini
 <hr>
 <br>
 
-<img width="100" src="https://ragepanel.b-hood.ro/assets/images/cars/bhwm8.png" alt="Kawa"> **bhwm8 BMW M8** - Acest shard nu se mai poate obtine
+<img width="100" src="https://ragepanel.b-hood.ro/assets/images/cars/bhwm8.png" alt="Kawa"> **bhwm8 BMW M8** <Badge type="danger" text="indisponibil" />
 <hr>
 <br>
 
-<img width="100" src="https://ragepanel.b-hood.ro/assets/images/cars/bhlx570.png" alt="Kawa"> **bhlx570 - Lexus LX 570**- Acest shard nu se mai poate obtine
-
-<hr>
-<br>
-
-<img width="100" src="https://ragepanel.b-hood.ro/assets/images/cars/bhupraformvz5.png" alt="Kawa"> **bhupraformvz5 - Cupra Formentor Z5**- Acest shard nu se mai poate obtine
+<img width="100" src="https://ragepanel.b-hood.ro/assets/images/cars/bhlx570.png" alt="Kawa"> **bhlx570 - Lexus LX 570** <Badge type="danger" text="indisponibil" />
 
 <hr>
 <br>
 
-<img width="100" src="https://ragepanel.b-hood.ro/assets/images/cars/zorrusso.png" alt="Kawa"> **Zorrusso**- Acest shard nu se mai poate obtine
+<img width="100" src="https://ragepanel.b-hood.ro/assets/images/cars/bhupraformvz5.png" alt="Kawa"> **bhupraformvz5 - Cupra Formentor Z5**<Badge type="danger" text="indisponibil" />
 
 <hr>
 <br>
 
-<img width="100" src="https://ragepanel.b-hood.ro/assets/images/cars/bhenzeg63amg.png" alt="Kawa"> **bhenzeg63amg - Mercedes G63**- Acest shard nu se mai poate obtine
+<img width="100" src="https://ragepanel.b-hood.ro/assets/images/cars/zorrusso.png" alt="Kawa"> **Zorrusso**<Badge type="danger" text="indisponibil" />
 
 <hr>
 <br>
 
-<img width="100" src="https://ragepanel.b-hood.ro/assets/images/cars/bhudirs7rabt.png" alt="Kawa"> **bhudirs7rabt** - Audi RS7 **- Acest shard nu se mai poate obtine
+<img width="100" src="https://ragepanel.b-hood.ro/assets/images/cars/bhenzeg63amg.png" alt="Kawa"> **bhenzeg63amg - Mercedes G63**<Badge type="danger" text="indisponibil" />
+
+<hr>
+<br>
+
+<img width="100" src="https://ragepanel.b-hood.ro/assets/images/cars/bhudirs7rabt.png" alt="Kawa"> **bhudirs7rabt** - Audi RS7 **<Badge type="danger" text="indisponibil" />
 
 <hr>
 <br>
@@ -81,22 +80,22 @@ In acele zile, pot fi date prin trade si shard-urile ce nu se mai pot obtine ini
 <hr>
 <br>
 
-<img width="100" src="https://ragepanel.b-hood.ro/assets/images/cars/bhudirs5.png" alt="Kawa"> **bhudirs5 - Audi RS5**- Acest shard nu se mai poate obtine
+<img width="100" src="https://ragepanel.b-hood.ro/assets/images/cars/bhudirs5.png" alt="Kawa"> **bhudirs5 - Audi RS5**<Badge type="danger" text="indisponibil" />
 
 <hr>
 <br>
 
-<img width="100" src="https://ragepanel.b-hood.ro/assets/images/cars/bhrrarifxxkevo.png" alt="Kawa"> **bhrrarifxxkevo - Ferrari FXX Evo** - Acest shard nu se mai poate obtine
+<img width="100" src="https://ragepanel.b-hood.ro/assets/images/cars/bhrrarifxxkevo.png" alt="Kawa"> **bhrrarifxxkevo - Ferrari FXX Evo** <Badge type="danger" text="indisponibil" />
 
 <hr>
 <br>
 
-<img width="100" src="https://ragepanel.b-hood.ro/assets/images/cars/bhwm2g87.png" alt="Kawa"> **bhwm2g87 - BMW M2 G87** - Acest shard nu se mai poate obtine
+<img width="100" src="https://ragepanel.b-hood.ro/assets/images/cars/bhwm2g87.png" alt="Kawa"> **bhwm2g87 - BMW M2 G87** <Badge type="danger" text="indisponibil" />
 
 <hr>
 <br>
 
-<img width="100" src="https://ragepanel.b-hood.ro/assets/images/cars/bhwasakinjh2.png" alt="Kawa"> **bhwasakinjh2 - Kawasaki H2R** - Acest shard nu se mai poate obtine
+<img width="100" src="https://ragepanel.b-hood.ro/assets/images/cars/bhwasakinjh2.png" alt="Kawa"> **bhwasakinjh2 - Kawasaki H2R** <Badge type="danger" text="indisponibil" />
 
 <hr>
 <br>
