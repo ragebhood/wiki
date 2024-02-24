@@ -102,8 +102,15 @@ jobs:
               # Create issue with escaped body
               issue_response=$(curl -X POST -H "Authorization: token ${{ secrets.CI_TOKEN }}" -H "Accept: application/vnd.github.v3+json" -d "{\"title\":\"Typos Found in Wiki\",\"body\":$escaped_body}" "https://api.github.com/repos/ragebhood/wiki/issues") || true
               
+              # Debugging statement to check the issue response
+              echo "Issue Response:"
+              echo "$issue_response"
+              
               # Get the issue number from the response
               issue_number=$(echo "$issue_response" | jq -r '.number')
+              
+              # Debugging statement to check the issue number
+              echo "Issue Number: $issue_number"
               
               # Send messages with the remaining typos if any
               while IFS= read -r typo_chunk; do
