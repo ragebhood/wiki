@@ -24,4 +24,4 @@ Pentru a aplica la această facțiune ai nevoie de minim nivel **10**.
 ## Întrebări frecvente
 
 ### Cu ce mă poate sancționa poliția dacă mă prinde fără permis?
-Aceștia îți pot acroda **Wanted 5** pentru **conducerea unui vehicul fără a avea drept.**
+Aceștia îți pot acorda **Wanted 5** pentru **conducerea unui vehicul fără a avea drept.**
