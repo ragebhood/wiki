@@ -4,7 +4,7 @@ title: Courier
 
 # Courier 🛵
 
-Acțiunea job-ului de 'Courier' constă în transportarea coletelor din depozit, la adresele marcate pe hartă în momentul în care începi munca.
+Acțiunea jobului de curier constă în transportarea coletelor din depozit, la adresele marcate pe hartă în momentul în care începi munca.
 
 ::: details Locație job
 ![Locatie job Courier](https://i.imgur.com/ozWT9Es.png "Locație job Courier")
@@ -23,7 +23,7 @@ Mergi cu spatele vehiculului în fața acelui garaj și cu tasta 'Y' iei coletul
 :::
 După ce ai mașina pregătită, o să ți se seteze câte un 'checkpoint' pe hartă, acela fiind locul în care trebuie să livrezi coletele. Când ai ajuns, te dai jos din mașina, mergi în spatele ei și pe tasta 'Y' pentru a lua coletul, apoi intri cu el în ușa casei unde este pus 'checkpoint-ul'. Faci asta până termini de livrat toate coletele și la fiecare colet livrat o să primești o suma de bani în funcție de skill.
 
-::: tips Banii in plus
+::: info Banii in plus
 La acest job ai o șansă de 50% de a primi bacșiș din partea clientului
 :::
 
