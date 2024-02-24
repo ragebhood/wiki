@@ -5,6 +5,29 @@ title: Întrebări frecvente
 # Întrebări frecvente ❓
 Această pagină a fost creată special pentru adresarea soluțiilor rapide pentru cele mai frecventate întrebări adresate la noi pe server. Poți să te uiți la secțiunea "On this Page" pentru a găsii un rezultat.
 
+## Cum pot obține funcția de Helper?
+Pentru a obține funcția de **Helper** este necesară o aplicație pe [panel](https://ragepanel.b-hood.ro/applications/helper/list) și cel puțin 100 de ore jucate.
+
+::: tip SFAT
+Recomandat este să ai cât mai puține sancțiuni în **Last Punish**, un **Faction History** decent și un comportament adecvat pe server.
+:::
+
+::: danger ATENȚIE!
+Aplicațiile **copiate** sau scrise cu **ChatGBT** vor fi respinse sau nu vor fi luate în considerare.
+:::
+
+## Cum pot obține funcția de Lider?
+Pentru a obține funcția de **Lider** este necesară o aplicație pe [panel](https://ragepanel.b-hood.ro/factions/leader) și cel puțin 50 de ore jucate.
+
+::: tip SFAT
+Recomandat este să ai cât mai puține sancțiuni în **Last Punish**, un **Faction History** decent și un comportament adecvat pe server.
+:::
+
+::: danger ATENȚIE!
+Aplicațiile **copiate** sau scrise cu **ChatGBT** vor fi respinse sau nu vor fi luate în considerare.
+:::
+
+
 ## De ce nu mi se deschide nimic cand folosesc '/clothes', '/stats', '/market', sau o alta interfata?
 Această problemă poate fi rezolvată prin dezactivarea setării 'Accelerated CEF Rendering' din setările RAGE:MP, dacă ești deja în joc va fii necesar un restart la rage.
 ::: details Tutorial video cum să-l dezactivezi
