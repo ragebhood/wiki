@@ -45,56 +45,47 @@ jobs:
           rm -rf ./wiki/wiki
           mv -f ./wiki/new_wiki ./wiki/wiki
           
-          # Words and patterns to ignore
+          # Words to ignore
           ignore_words=("masterlist" "GTA" "Eneba" "Rockstar" "CEF" "wikipedia" "iamCibu" "img" "src")
           ignore_patterns=("</?[a-zA-Z][^>]*>")
 
-          # Function to filter out lines containing ignored words and patterns
           filter_ignored() {
               while IFS= read -r line; do
-                  # Flag to indicate whether the line should be ignored
                   ignore_line=false
-                  # Check each word in the line against the list of ignored words
                   for word in "${ignore_words[@]}"; do
-                      # If the word is found in the line, set the flag and break the loop
                       if [[ $line == *"$word"* ]]; then
                           ignore_line=true
                           break
                       fi
                   done
-                  # Check each pattern in the line against the list of ignored patterns
                   for pattern in "${ignore_patterns[@]}"; do
-                      # If the pattern is found in the line, set the flag and break the loop
                       if [[ $line =~ $pattern ]]; then
                           ignore_line=true
                           break
                       fi
                   done
-                  # Output the line if it should not be ignored
                   if [ "$ignore_line" = false ]; then
                       echo "$line"
                   fi
               done
           }
 
-          # Check for typos in all files recursively within ./wiki/wiki and store the result in a file
           find ./wiki/wiki -type d -name .vitepress -prune -o -type f -exec hunspell -d ro_RO,en_US -l -i utf-8 {} + | filter_ignored > filtered_typos.txt || true
 
-          # Debugging statement to check the output of the filter_ignored function
+
           echo "Filtered typos:"
           cat filtered_typos.txt
 
-          # If typos are found, create an issue with the list of typos and fail the action
           if [ -s "filtered_typos.txt" ]; then
               echo "Typos found:"
               cat filtered_typos.txt
-              # Format typos in Markdown
+
               echo -e "### Typos Found:\n\`\`\`\n$(cat filtered_typos.txt)\n\`\`\`" > formatted_typos.md
-              # Create issue using GitHub REST API
+
               echo "Creating issue..."
-              # Escape special characters in the issue body
+
               body=$(cat formatted_typos.md | jq -Rs 'gsub("\\\"";"\"")')
-              # Create issue with escaped body
+
               curl -X POST -H "Authorization: token ${{ secrets.CI_TOKEN }}" -H "Accept: application/vnd.github.v3+json" -d "{\"title\":\"Typos Found in Wiki\",\"body\":$body}" "https://api.github.com/repos/ragebhood/wiki/issues"
               # Fail the action
               exit 1
