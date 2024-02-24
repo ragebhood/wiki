@@ -8,23 +8,23 @@ Această pagină a fost creată special pentru adresarea soluțiilor rapide pent
 ## Cum pot obține funcția de Helper?
 Pentru a obține funcția de **Helper** este necesară o aplicație pe [panel](https://ragepanel.b-hood.ro/applications/helper/list) și cel puțin 100 de ore jucate.
 
-::: tip
+::: tip SFAT
 Recomandat este să ai cât mai puține sancțiuni în **Last Punish**, un **Faction History** decent și un comportament adecvat pe server.
 :::
 
-::: ATENȚIE!
-Aplicațiile **copiate** sau scrise cu **Chat GBT** vor fi respinse sau nu vor fi luate în considerare.
+::: danger ATENȚIE!
+Aplicațiile **copiate** sau scrise cu **ChatGBT** vor fi respinse sau nu vor fi luate în considerare.
 :::
 
 ## Cum pot obține funcția de Lider?
 Pentru a obține funcția de **Lider** este necesară o aplicație pe [panel](https://ragepanel.b-hood.ro/factions/leader) și cel puțin 50 de ore jucate.
 
-::: tip
+::: tip SFAT
 Recomandat este să ai cât mai puține sancțiuni în **Last Punish**, un **Faction History** decent și un comportament adecvat pe server.
 :::
 
-::: ATENȚIE!
-Aplicațiile **copiate** sau scrise cu **Chat GBT** vor fi respinse sau nu vor fi luate în considerare.
+::: danger ATENȚIE!
+Aplicațiile **copiate** sau scrise cu **ChatGBT** vor fi respinse sau nu vor fi luate în considerare.
 :::
 
 
