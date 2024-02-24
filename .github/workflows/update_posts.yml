@@ -78,7 +78,7 @@ jobs:
           }
 
           # Check for typos in all files recursively within ./wiki/wiki and store the result in a file
-          find ./wiki/wiki -type f -exec hunspell -d ro_RO,en_US -l -i utf-8 {} + | filter_ignored > filtered_typos.txt || true
+          find ./wiki/wiki -type d -name .vitepress -prune -o -type f -exec hunspell -d ro_RO,en_US -l -i utf-8 {} + | filter_ignored > filtered_typos.txt || true
 
           # Debugging statement to check the output of the filter_ignored function
           echo "Filtered typos:"
