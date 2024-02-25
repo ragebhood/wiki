@@ -283,129 +283,71 @@ Pentru a deschide geamul va trebui sa apesi tasta `P` sa deschizi **Car Panel**,
 ## Cum pot face ScreenShot?
 Nu poti face **Screenshot** daca nu detii un program special sau nu ai jocul pe Steam. Poti folosi insa tasta `Prt Screen` pentru a faca o captura de ecan ajutandu-te de **Windows**.
 
-Cum pot obtine rob points?
-/nre Poti obtine rob points prin sistemul de ‘Payday’ sau ‘Lucky Wheel’.
+## Unde pot regasi imaginea facuta cu aplicatia Camera de pe telefonul mobil?
+ Poti sa le regasesti in folderul **RAGE:MP** -> **screenshots**.
 
-Cum pot obtine escape points?
-/nre Poti obtine escape points prin sistemul de ‘Payday’ sau ‘Lucky Wheel’.
+## Care este diferenta dintre Industrial Fisherman si Fisherman LS?
+Diferenta dintre aceste 2 job-uri este ca la **Industrial Fisherman** iti este spawnata o barca cu care poti pescui mai multi pesti in aceeasi tura, ulterior ii poti vinde in folosind `/fishes` direct. Cu cat ai o undita mai buna, cu atat vei prinde pesti mai valorosi.
 
-Cum pot obtine free points?
-/nre Poti obtine free points prin sistemul de ‘Payday’.
+## Cum ma predau?
+Te poti preda folosind comanda `/surrender` daca nu este niciun **politist on-duty**.
 
-Cum pot prelua o poza facuta cu telefonul pe joc pentru a avea in calculator?
+## Cat stau in inchisoare in functie de nivelul de wanted avut?
+Pentru fiecare nivel de **Wanted**, vei petrece 5 minute in inchisoare. Spre exemplu: Daca ai **Wanted 3**, vei petrece 15 minute in inchisoare.
 
-/nre Poti sa le regasesti in folderul “ragemp - screenshots”.
+## Cu cat mi se mareste sentinta in inchisoare daca sunt pedepsit de catre un politist?
+Aceasta se va mari cu **2 minute** de fiecare data cand un politist te sanctioneaza pentru comportamentul din interiorul inchisorii.
 
-Cat este DM 21?
-Poti calcula chiar tu acest lucru stind ca la fiecare santiunea de DM se aduga 15 minute de 'Admin Jail'[...]
-(spre exemplu DM #1 - 15 minute, DM #2 - 30 de minute).
+## Cati bani platesc la arestarea/predarea mea?
+Vei plati 5.000$ pentru fiecare nivel de **Wanted** detinut. Spre exemplu: Daca ai **Wanted 2**, vei plati 10.000$
 
-Care este diferenta dintre Industrial Fisherman si Fisherman LS?
-/nre Diferenta dintre aceste 2 job-uri este ca la ‘Industrial Fisherman’ iti este spawnata o barca cu care poti pescui mai [...]
-/nre  [...]  multi pesti in aceeasi tura, ulterior ii poti vinde in (/fishes) direct. Cu cat ai o undita mai buna, cu atat vei [...]
-/re  [...] prinde pesti mai valorosi.
+## Cand expira numerele de la VIP si Legend? De ce nu mai am numarul de la VIP / Legend?
+Numerele VIP & Legend vor expira dupa **7 zile** din momentul in care ai ramas fara grad.
 
-Cum ma predau?
-/nre Te poti preda folosind comanda [/surrender] daca nu este niciun politist on-duty de mai multe ori pe zi.
-/nre Poti sa folosesti comanda [/surrender] o singura data pe zi pentru a te preda chiar si daca sunt politist ON-Duty pe server.
+## Cum adaug o persoana in contacte?
+Poti face acest lucru deschizand telefonul cu tasta `Up-Arrow`, apoi selectand aplicatia cu iconita de persoana, urmand ca apoi apasand `+` din dreapta sus sa adaugi persoana la contacte.
 
-Cat stau in inchisoare daca ma predau?
-/nre Daca te predai vei sta in inchisoare cate 5 minute pentru fiecare nivel de wanted.
+## Cum gasesc un Clan HQ?
+Pentru a gasi un **CHQ** foloseste comanda `/findchq + ID-ul lui`.
 
-Cat trebuie sa platesc daca ma predau?
-/nre Daca te predai vei plati cate $5,000 pentru fiecare nivel de wanted.
+## Cum gasesc un HQ de factiune?
+Foloseste comanda `/factions`, apasa pe butonul **Find** din dreptul factiunii dorite si urmeaza checkpoint-ul.
 
-Cand expira numerele de la VIP si Legend? De ce nu mai am numarul de la VIP / Legend?
-/nre Numerele VIP & Legend vor expira dupa 7 zile din momentul in care ai ramas fara grad.
+## De ce am nevoie pentru a da level up?
+In functie de nivel, ai nevoie de o suma de bani, o suma de **Respect Points** si de orele jucate necesare.
 
-Cat platesc daca inchiriez un vehicul?
-/nre Pretul unui vehicul inchiriat este de $2,500 pentru fiecare 20 de secunde.
+## Cum sterg un skin?
+Foloseste `/skins`, alege skinul dorit, iar apoi apasa pe **Delete** pentru a-l sterge.
 
+::: danger
+Nu raspundem de skin-urile ce le stergeti din greseala.
+:::
 
-
-Cum adaug o persoana in contacte?
-/nre Poti face acest lucru deschizand telefonul cu tasta 'Arrow Up', apoi selectand aplicatia cu iconita de persoana [...]
-/nre [...] apoi apasand '+' din dreapta sus.
-
-
-
-Cum gasesc un Clan HQ?
-
-/nre Pentru a gasi un “CHQ” foloseste comanda [/findchq + ID-ul lui].
-
-Cum gasesc un HQ?
-
-/nre Foloseste comanda [/factions], apasa pe butonul “Find” din dreptul factiunii dorite si urmeaza checkpoint-ul.
-
-De ce am nevoie pentru a da level up?
-
-/nre Pentru a avansa in nivel vei avea nevoie de un numar de “Respect Points” si ore jucate, in functie de level-ul tau.
-
-
-Cum sterg un skin?
-
-/nre Pentru a face acest lucru foloseste comanda [/skins], apasa butonul “Delete” si selecteaza skin-ul.
-
-
-Cum echipez un skin?
-
-/nre Pentru a face acest lucru foloseste comanda [/skins], apasa butonul “Select” si selecteaza skin-ul.
-
-Cum dau un interviu?
-
-/nre Pentru a da un interviu ai nevoie de minim level 10 si o cerere pe [/panel - Factiuni - News Reporters - Topics - Cereri live].
-
-
-Cum dau de permis?
-/nre Pentru a face acest lucru mergi la locatia “DMV” de pe [/gps] sau roaga un taximetrist sa te duca acolo.
-
-
-Cate ‘B-Points’ primesc la ‘Payday’ ?
+## Cate ‘B-Points’ primesc la ‘Payday’ ?
 Primesti 190 de ‘B-Points’ la Payday daca ai peste 1801 secunde jucate in ora respectiva
 sau 60 de ‘B-Points’ daca ai jucat mai putin.
-Cum repar masina?
-/nre Poti repara vehiculul la o locatie de “PNS” sau “Tuning” de pe [/gps], poti chema un Mecanic din aplicatia ‘Service’ [...]
-/nre [...] sau poti folosi comanda [/vr] daca ai VIP Account.
 
-Cum tunez masina?
-/nre Vehiculele pot fi modificate intr-o locatie de tip ‘Vehicle mod shop’.
+## Unde-mi pot repara masina?
+Vehicle mod shop, la un mecanic, PNS sau cu ajutorul comenzii `/vr` daca ai un **Cont VIP**
 
-Cum pot modifica chat-ul?
+## Cum pot modifica chat-ul?
+Poti face acest lucru apasand pe tasta `T` iar in dreptul barii chatului vei putea regasi o iconita  ce seamana cu o **roata dintata**, de acolo iti poti modifica aspectul chat-ului.
 
-/nre Poti sa-l modifici folosind comenzile [/timestamp] pentru a vedea timpul exact al mesajului, [/pagesize] pentru a [...]
-/nre [...] alege numarul de randuri vizibile, iar [/fontsize] pentru a alege dimensiunea cuvintelor de pe chat.
+## Cum aflu numarul de telefon al unui jucator fara [/number]?
 
+Deschide **Score List**, apasa pe jucatorul dorit, selecteaza **CALL/SMS**, iar mai apoi ti se va  deschide automat chat-ul si ti se va afisa numarul acestuia.
 
-Ce level am nevoie pentru a face quest-ul special si [/spin]?
+## Am sansa sa mor de la droguri?
+Da, ai o sansa de 1 la suta la droguri.
 
-/nre Ai nevoie de minim level 3 pentru a face quest-ul special.
+## Ce sunt punctele gri de pe mapa? (Blipurile)
+Punctele de culoare gri de pe minimap sunt vehiculele care sunt spawnate si neutilizate.
 
-/nre Ai nevoie de minim level 3 pentru a participa la evenimentul “Lucky Wheel”.
+## Cum activez Cruise Control?
+Cruise control se poate activa prin tasta `F6` daca ai minim **45 km/h** la vehicul.
 
-
-
-Cum aflu numarul de telefon al unui jucator fara [/number]?
-
-
-/nre Foloseste tasta `, apasa pe jucatorul dorit, selecteaza CALL/SMS, iar mai apoi ti se va [...]
-/nre [...] deschide automat chat-ul si ti se va afisa numarul acestuia.
-
-Am sansa sa mor de la droguri si heroina?
-
-/nre Da, ai o sansa de 1 la suta la droguri normale si 3 la suta la Heroina de a muri.
-
-Ce sunt punctele gri de pe mapa? (Blipurile)
-/nre Punctele de culoare gri de pe minimap sunt vehiculele care sunt spawnate si neutilizate.
-
-Cum activez Cruise Control?
-/nre Cruise control se poate activa prin tasta ‘F6’ daca ai minim 45 km/h la vehicul.
-
-Ce fac daca am gasit un bug?
-
-/nre Daca consideri ca ai gasit un bug, esti obligat sa-l raportezi printr-un ticket pe [/panel].
-
-Sansa bacsis?
-/nre Ai o sansa de 50 la suta de a primi bacsis la job-urile ‘Pizzaboy’, respectiv ‘Courier’.
+## Ce fac daca am gasit un bug?
+ Bugurile pot fi raportate pe [panel](https://ragepanel.b-hood.ro/tickets/list) deschizand un ticket in care sa prezinti dovada si descrierea bug-ului.
 
 AutoLogin
 
