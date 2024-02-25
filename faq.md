@@ -27,13 +27,11 @@ Recomandat este să ai cât mai puține sancțiuni în **Last Punish**, un **Fac
 Aplicațiile **copiate** sau scrise cu **ChatGBT** vor fi respinse sau nu vor fi luate în considerare.
 :::
 
-
 ## De ce nu mi se deschide nimic cand folosesc '/clothes', '/stats', '/market', sau o alta interfata?
 Această problemă poate fi rezolvată prin dezactivarea setării 'Accelerated CEF Rendering' din setările RAGE:MP, dacă ești deja în joc va fii necesar un restart la rage.
 ::: details Tutorial video cum să-l dezactivezi
 ![Dezactivare 'Accelerated CEF Rendering'](https://i.imgur.com/RgySLv4.gif "Dezactivare 'Accelerated CEF Rendering'")
 :::
-
 
 ## Cum pot să-mi schimb kilometrajul din mile în kilometri?
 Sistemul metric poate fi schimbat din setările jocului la **Display -> Measurement System**.
@@ -59,18 +57,14 @@ Pentru a face asta apasă tasta **ESC** -> Settings -> Display -> **Measurement 
 - Pistol MK 2
 - Heavy Pistol
 
-
 ## Cum pot șterge două rânduri din [/stats]?
 Două rânduri din `/stats` vor dispărea atunci când părăsești clanul și facțiunea din care faci parte.
-
 
 ## Cum vând peștele/făina?
 Acesta se vinde automat atunci când intri în săgeata de lângă casa de marcat.
  
-
 ## Cum poți face ca un jucător să nu mai aibă cheia de la mașină?
 Pentru a-ți schimba încuietoarea vehiculului, folosește `/changelock`.
-
 
 ## Cât poți transfera prin [/pay] în funcție de contul pe care îl ai:
 
@@ -85,10 +79,7 @@ Jucătorii ce dețin cont **VIP** sau **Legend** pot transfera o sumă maximă d
 | 1801-3600             | 120                  |
 
 ## Care este comisionul de la ATM?
-
 **3%** pentru ATM-urile normale, iar **5%** la ATM-ul din **Casino**
-
-
 
 ## Ce primesc dacă avansez în skill?
 | Skill    | Premii                        |
@@ -101,12 +92,9 @@ Jucătorii ce dețin cont **VIP** sau **Legend** pot transfera o sumă maximă d
 
 
 ## Cum dau upgrade la Backpack?
-
 Folosește `/backpack`  și selectează secțiunea ‘[+] Upgrade to Bacpack level X’.
 
-
 ## Cum vând o mașină la DS?
-
 Pentru a-ți vinde vehiculul la **Dealership**, mergi în locația specială (`/gps` -> sellcar) și folosește comanda `/sellcar`.
 
 ## Câți bani primesc dacă îmi vând vehiculul în DS?
@@ -156,201 +144,176 @@ Membrii factiunii **Los Santos Police Departament** au dreptul de a-ți acorda *
 Acesta este un ticket ce putea fi obținut prin diferite metode precum: achiziționarea lui de la jucători și **Battlepass**.
 Oferă +50L capacitate vehicul de combustibil.
 
-*// 25.02.2024 -> 16:32
+## Cum pot ascunde kill list?
+Apasă pe `F9` pentru a-l ascunde.
 
-## Care sunt limitele de viteza in oras, dar pe autostrada?
-Limita de viteza in oras este de 150 km/h, iar pe autostrada de 200 km/h.
-Daca vei depasi viteza maxima cu maxim 50km/h, vei primi amendar, iar daca o vei depasi cu peste 50km/h si permisul iti va fi confiscat.
+## Cât de mare e amenda de viteză?
+Amenda pentru încălcarea limitei de viteză este de $50.000 per Level.
 
+## Pe cât timp îmi este suspendat permisul auto dacă depășesc viteza legală sau conduc pe contrasens?
+Permisiunea îți va fi suspendată pentru 2 ore, adică pentru 2 **Payday**.
 
-## Cat e amenda de viteza?
-Amenda pentru încălcarea limitei legale de viteza este de $50.000 per Level.
+## Care este prețul de achiziție a unei frecvențe?
+250 de puncte premium este prețul de achiziție.
 
-## Pe cat timp imi este suspendat permisul auto daca depasesc viteza legala sau daca conduc pe contrasens?
-Permisul iti va fi suspendat pe 2 ore, mai exact, pentru 2 **Payday**.
+## Cum vorbesc voice pe chat-ul frecvenței?
+Apasă F2 pentru a vorbi cu voice pe chat-ul frecvenței.
 
+## Cum mă conectez pe o frecvență?
+Poți folosi tasta `F3` sau `/setfreq` pentru a alege o frecvență la care să te conectezi.
 
+## Pot șterge frecvența?
+Frecvența nu poate fi ștearsă.
 
-## Care este pretul de achizitie a unei frecvente?
-250 de puncte premium pret de achizitie.
+## Pot schimba parola frecvenței?
+Momentan, parola frecvenței nu poate fi schimbată sau recuperată dacă a fost uitată.
 
-## Cum vorbesc voice pe chat-ul frecventei?
-F2 Sa vorbesti cu voice pe chat-ul frecventei.
+## Cine poate să mă scoată de pe o frecvență privată?
+Doar deținătorul frecvenței are dreptul să dea kick jucătorilor din ea.
 
-## Cum ma conectez pe o frecventa?
-Poti folosi tasta `F3` sau `/setfreq` pentru a-ti alege o frecventa pe care doresti sa te conectezi.
+## Dacă ies de pe frecvență fiind proprietarul acesteia, îmi voi pierde accesul de a scoate jucătorii de pe aceasta?
+Chiar dacă ești deținător și ieși de pe frecvență, poți reveni introducând parola. Fiind deținător, nu îți vei pierde accesul de a scoate jucători chiar dacă ieși și intri din nou.
 
-## Pot sterge frecventa?
-Frecventa nu poate fi stearsa.
-
-## Pot schimba parola frecventei?
-Parola frecventei nu poate fi schimbata sau recuperata momentan daca a fost uitata.
-
-## Cine poate sa ma scoata de pre o frecventa privata?
-Doar detinatorul frecventei va putea da kick la cei ce se afla in ea..
-
-## Daca ies de pe frecventa fiind proprietarul acesteia, imi voi pierde accesul de a scoate jucatorii de pe aceasta?
-Chiar daca esti detinator si iesi de pe frecventa, vei putea intra din nou introducand parola.
-Fiind detinatorul frecventei, nu iti vei pierde accesul de a scoate jucatori chiar daca ai iesit de pe aceasta si ai intrat din nou.
-
-## Care este pretul combustibilui?
-Pretul combustibilui pentru vehiculele **normale** va fi diferit de la o zi la alta. (Intre $5,000 si $7,500/l)
-Pentru combustibilul pentru vehiculele de **clan** este 10.000$/l.
+## Care este prețul combustibilului?
+Pretul combustibilului pentru vehiculele **normale** variază între $5,000 și $7,500 pe litru. Pentru combustibilul vehiculelor de **clan**, este 10.000$/l.
 
 ## Ce este litera C din dreptul combustibilului?
-Litera 'C' din dreapta categoriei 'FUEL' reprezintă consumul de combustibil al vehiculului in timp real.
+Litera 'C' din dreapta categoriei 'FUEL' reprezintă consumul de combustibil al vehiculului în timp real.
 
 ## Cum vad cate persoane sunt online dintr-o factiune sau On-Duty sau fara sa fie la datorie?
-Poti vedea acest lucru folosind comanda `/pdon` pentru membrii factiunilor **Los Santos Police Departement** si **SWAT**, iar pentru a vedea instructorii online, foloseste comanda `/instructors`.
+Poți vedea acest lucru folosind comanda `/pdon` pentru membrii factiunilor **Los Santos Police Departement** și **SWAT**. Pentru a vedea instructorii online, folosește comanda `/instructors`.
+
 ## Cum pot vedea testeri online?
-Foloseste `/testers` pentru a putea vedea lista cu testerii factiunilor ce sunt online.
+Folosește `/testers` pentru a vedea lista cu testerii factiunilor ce sunt online.
 
-## Daca nu am slot si iau masina din Giftbox/Spin/Quest Special il voi mai primi?
-Da, il vei primi. Serverul iti va oferi **gratuit** un **Vehicle Slot permanent** in momentul in care vei castiga un astfel de premiu.
+## Dacă nu am slot și iau mașina din Giftbox/Spin/Quest Special, o voi mai primi?
+Da, o vei primi. Serverul îți va oferi **gratuit** un **Vehicle Slot permanent** în momentul în care vei câștiga un astfel de premiu.
 
-## Cand a fost deschis acest/aceasta server/comunitate?
-Comunitatea **B-HOOD** a fost deschisa in data de 30.03.2018, iar serverul de **RAGE:MP** a fost deschis pe data de 28.12.2022.
+## Când a fost deschis acest/aceasta server/comunitate?
+Comunitatea **B-HOOD** a fost deschisă în data de 30.03.2018, iar serverul de **RAGE:MP** a fost deschis pe data de 28.12.2022.
 
-## Cum pot sa-mi schimb skin-ul?
- Poti sa-ti schimbi skin-ul prin intermediul comenzii `/skins`, apasand pe skinul dorit, iar apoi pe **Select**.
- Aceasta modificare te va costa suma de 250.000$ | jucatorii ce au sub nivel 3 nu vor plati aceasta suma.
+## Cum pot să-mi schimb skin-ul?
+Poți să-ți schimbi skin-ul prin intermediul comenzii `/skins`, apăsând pe skinul dorit și apoi pe **Select**. Această modificare te va costa suma de 250.000$. Jucătorii cu nivel sub 3 nu vor plăti această sumă.
 
-
-## Care sunt metodele de plata pentru a fona?
-/nre Metodele de plata sunt Card, PayPal si Neosurf.
+## Care sunt metodele de plată pentru a face cumpărături?
+Metodele de plată sunt Card, PayPal și Neosurf.
 
 ## Ce pot face cu B-Points?
- B-Points-urile le poti folosi pentru a cumpara crate-uri, parti de tunning pentru vehiculul personal sau îți poți
- upgrada undița/târnăcopul dacă acestea sunt de tip **Premium**, respectiv vei putea face upgrade la **Backpack**.
+B-Points-urile le poți folosi pentru a cumpăra crate-uri, părți de tuning pentru vehiculul personal sau îți poți upgrada undița/târnăcopul dacă acestea sunt de tip **Premium**, respectiv vei putea face upgrade la **Backpack**.
 
-
-
-## Cum se calculeaza asigurarea?
-
-::: danger ATENTIE
-Asigurarea iti creste in functie de zile, pretul masinii si km.
+## Cum se calculează asigurarea?
+::: danger ATENȚIE
+Asigurarea îți crește în funcție de zile, prețul mașinii și km.
 :::
+Pretul asigurării: $25,000 * zile + $1000 * km + 0,05 la sută din valoarea vehiculului dacă este din **Dealership**.
 
-Pret asigurare: $25,000 * zile + $1000 * km + 0,05 la suta din valoare vehiculului daca este din **Dealership**.
+## Ce nivel am nevoie pentru a plasa un anunț la CNN?
+Ai nevoie de minim nivel 5 pentru a plasa un anunț la 'CNN'.
 
-## Ce nivel am pentru a plasa un anunt la CNN?
-Ai nevoie de minim level 5 pentru a plasa un anunt la 'CNN'.
+## Care e cea mai rapidă mașină?
+Cele mai rapide vehicule sunt **bhrrarifxxkevo**, **bhlaren765lt** și **bhiniaventadorlp700** care ating viteza aproximativa de 255 km/h 'Stock' și 340 km/h cu 'Stage 4'.
 
-## Care e cea mai rapida masina?
-Cele mai rapide vehicule sunt **bhrrarifxxkevo**, **bhlaren765lt** si **bhiniaventadorlp700** care ating viteza aproximativa de 255 km/h 'Stock' si 340 km/h cu 'Stage 4'.
+## Care este cea mai rapidă mașină stock?
+Cea mai rapidă mașină stock (fără cele de clan) este **bhordgtmk2**, care atinge viteza maximă de 255 km/h.
 
-## Care este cea mai rapida masina stock?
-Cea mai rapida masina stock (fara cele de clan) este **bhordgtmk2**, acesta atinge viteza maxima de 255 km/h.
+## Cum deschid lista cu jucători (tab score)?
+Apasă tasta `~` pentru a deschide lista cu jucători. ::: danger Butonul poate să difere în funcție de limba tastaturii tale. Spre exemplu, dacă ai tastatura în Engleză (UK), îl poți deschide de pe `'`.
 
-## Cum deschid lista cu jucatori (tab score)?
-Apasa tasta `~` pentru a deschide lista cu jucatori.
-::: danger
-Butonul poate sa difere in functie de limba tastaturii tale. Spre exemplu, daca ai tastatura in Engleza (UK), il poti deschide de pe `'`.
-:::
-## Cum pot face rost de licente?
-Licentele le poti obtine de la instructorii serverului prin comanda aplicatia mobila ‘Service’ daca ai minim nivel 3.
+## Cum pot obține licențe?
+Licențele le poți obține de la instructorii serverului prin comanda aplicației mobile ‘Service’ dacă ai minim nivel 3.
 
-## Cum pot lua viata?
-Poti lua viata dintr-o casa, de la un Paramedic, droguri, de la un stand cu mancare sau din ‘CHQ-ul’ clanului tău sau din 'HQ' facțiunii din care faci parte.
+## Cum pot lua viața?
+Poți lua viața dintr-o casă, de la un Paramedic, droguri, de la un stand cu mâncare sau din ‘CHQ-ul’ clanului tău sau din 'HQ' facțiunii din care faci parte.
 
-## Cum pot sa anulez un serviciu?
-Poti anula un serviciu folosind comanda `/cancel service`.
+## Cum pot să anulez un serviciu?
+Poți anula un serviciu folosind comanda `/cancel service`.
 
-## Cum pot ascunde HUD-ul si chat-ul?
-Le poti ascunde pe ambele apasand pe tasta `F7`.
+## Cum pot ascunde HUD-ul și chat-ul?
+Le poți ascunde pe ambele apăsând pe tasta `F7`.
 
 ## Cum pot schimba speedometerul?
-Poti sa-ti schimbi speedometerul folosind comanda `/speedo` si selectandu-l pe cel dorit.
+Poți să-ți schimbi speedometerul folosind comanda `/speedo` și selectându-l pe cel dorit.
 
-## Cum pot vedea jobul zilei si beneficiile ce mi le ofera acesta?
-Foloseste `/dailyjob` pentru a vedea aceste informatii. Atat jobul cat si beneficiile pot sa difere de la o zi la alta.
+## Cum pot vedea jobul zilei și beneficiile ce mi le oferă acesta?
+Folosește `/dailyjob` pentru a vedea aceste informații. Atât jobul cât și beneficiile pot să difere de la o zi la alta.
 
 ## Cum pot vedea misiunile Activity?
 Poti vedea misiunile zilnice folosind comanda `/quests`.
 
-## Cum imi scad orele la licenta suspendata?
-Daca ai o licenta suspendata, timpul va expira decat daca ai peste 1800 secunde jucate la **PayDay**.
+## Cum îmi scad orele la licența suspendată?
+Dacă ai o licență suspendată, timpul va expira doar dacă ai peste 1800 secunde jucate la **PayDay**.
 
-## Cum imi pot schimba numele?
-Intra in `/shop` la categoria **Normal**, apasa pe **change nickname** iar apoi introdu-ti noul nume. Aceasta modificare te va costa 200 de puncte premium.
+## Cum îmi pot schimba numele?
+Intră în `/shop` la categoria **Normal**, apasă pe **change nickname** și introdu-ți noul nume. Aceasta modificare te va costa 200 de puncte premium.
 
 ## Ce este boombox?
-**Boombox** ofera abilitatea ca jucatorii din jurul tau sa poata asculta melodia din vehiculul tau daca ai geamul deschis.
+**Boombox** ofera abilitatea ca jucătorii din jurul tău să poată asculta melodia din vehiculul tău dacă ai geamul deschis.
 
 ## Cum deschid geamul?
-Pentru a deschide geamul va trebui sa apesi tasta `P` sa deschizi **Car Panel**, iar de acolo sa apesi pe geamul dorit.
+Pentru a deschide geamul va trebui să apeși tasta `P` să deschizi **Car Panel**, iar de acolo să apeși pe geamul dorit.
 
 ## Cum pot face ScreenShot?
-Nu poti face **Screenshot** daca nu detii un program special sau nu ai jocul pe Steam. Poti folosi insa tasta `Prt Screen` pentru a faca o captura de ecan ajutandu-te de **Windows**.
+Nu poți face **Screenshot** dacă nu deții un program special sau nu ai jocul pe Steam. Poți folosi însă tasta `Prt Screen` pentru a face o captură de ecran ajutându-te de **Windows**.
 
-## Unde pot regasi imaginea facuta cu aplicatia Camera de pe telefonul mobil?
- Poti sa le regasesti in folderul **RAGE:MP** -> **screenshots**.
+## Unde pot regăsi imaginea făcută cu aplicația Camera de pe telefonul mobil?
+Poți să le regăsești în folderul **RAGE:MP** -> **screenshots**.
 
-## Care este diferenta dintre Industrial Fisherman si Fisherman LS?
-Diferenta dintre aceste 2 job-uri este ca la **Industrial Fisherman** iti este spawnata o barca cu care poti pescui mai multi pesti in aceeasi tura, ulterior ii poti vinde in folosind `/fishes` direct. Cu cat ai o undita mai buna, cu atat vei prinde pesti mai valorosi.
+## Care este diferența dintre Industrial Fisherman și Fisherman LS?
+Diferența dintre aceste două job-uri este că la **Industrial Fisherman** îți este spawnată o barcă cu care poți pescui mai mulți pești în aceeași tură, ulterior îi poți vinde folosind `/fishes` direct. Cu cât ai o undiță mai bună, cu atât vei prinde pești mai valoroși.
 
-## Cum ma predau?
-Te poti preda folosind comanda `/surrender` daca nu este niciun **politist on-duty**.
+## Cum mă predau?
+Te poți preda folosind comanda `/surrender` dacă nu este niciun **polițist on-duty**.
 
-## Cat stau in inchisoare in functie de nivelul de wanted avut?
-Pentru fiecare nivel de **Wanted**, vei petrece 5 minute in inchisoare. Spre exemplu: Daca ai **Wanted 3**, vei petrece 15 minute in inchisoare.
+## Cât stau în închisoare în funcție de nivelul de wanted avut?
+Pentru fiecare nivel de **Wanted**, vei petrece 5 minute în închisoare. Spre exemplu: Dacă ai **Wanted 3**, vei petrece 15 minute în închisoare.
 
-## Cu cat mi se mareste sentinta in inchisoare daca sunt pedepsit de catre un politist?
-Aceasta se va mari cu **2 minute** de fiecare data cand un politist te sanctioneaza pentru comportamentul din interiorul inchisorii.
+## Cu cât mi se mărește sentința în închisoare dacă sunt pedepsit de către un polițist?
+Aceasta se va mări cu **2 minute** de fiecare dată când un polițist te sancționează pentru comportamentul din interiorul închisorii.
 
-## Cati bani platesc la arestarea/predarea mea?
-Vei plati 5.000$ pentru fiecare nivel de **Wanted** detinut. Spre exemplu: Daca ai **Wanted 2**, vei plati 10.000$
+## Câți bani plătesc la arestarea/predarea mea?
+Vei plăti 5.000$ pentru fiecare nivel de **Wanted** deținut. Spre exemplu: Dacă ai **Wanted 2**, vei plăti 10.000$
 
-## Cand expira numerele de la VIP si Legend? De ce nu mai am numarul de la VIP / Legend?
-Numerele VIP & Legend vor expira dupa **7 zile** din momentul in care ai ramas fara grad.
+## Când expiră numerele de la VIP și Legend? De ce nu mai am numărul de la VIP / Legend?
+Numerele VIP & Legend vor expira după **7 zile** din momentul în care ai rămas fără grad.
 
 ## Cum adaug o persoana in contacte?
-Poti face acest lucru deschizand telefonul cu tasta `Up-Arrow`, apoi selectand aplicatia cu iconita de persoana, urmand ca apoi apasand `+` din dreapta sus sa adaugi persoana la contacte.
+Poți face acest lucru deschizând telefonul cu tasta `Up-Arrow`, apoi selectând aplicația cu iconița de persoană, urmând ca apoi apăsând `+` din dreapta sus să adaugi persoana la contacte.
 
-## Cum gasesc un Clan HQ?
-Pentru a gasi un **CHQ** foloseste comanda `/findchq + ID-ul lui`.
+## Cum găsesc un Clan HQ?
+Pentru a găsi un **CHQ** folosește comanda `/findchq + ID-ul lui`.
 
-## Cum gasesc un HQ de factiune?
-Foloseste comanda `/factions`, apasa pe butonul **Find** din dreptul factiunii dorite si urmeaza checkpoint-ul.
+## Cum găsesc un HQ de facțiune?
+Folosește comanda `/factions`, apasă pe butonul **Find** din dreptul facțiunii dorite și urmează checkpoint-ul.
 
 ## De ce am nevoie pentru a da level up?
-In functie de nivel, ai nevoie de o suma de bani, o suma de **Respect Points** si de orele jucate necesare.
+În funcție de nivel, ai nevoie de o sumă de bani, o sumă de **Respect Points** și de orele jucate necesare.
 
-## Cum sterg un skin?
-Foloseste `/skins`, alege skinul dorit, iar apoi apasa pe **Delete** pentru a-l sterge.
+## Cum șterg un skin?
+Folosește `/skins`, alege skinul dorit, iar apoi apasă pe **Delete** pentru a-l șterge. ::: danger Nu răspundem de skin-urile pe care le ștergi din greșeală.
 
-::: danger
-Nu raspundem de skin-urile ce le stergeti din greseala.
-:::
+## Câte ‘B-Points’ primesc la ‘Payday’ ?
+Primești 190 de ‘B-Points’ la Payday dacă ai peste 1801 secunde jucate în ora respectivă sau 60 de ‘B-Points’ dacă ai jucat mai puțin.
 
-## Cate ‘B-Points’ primesc la ‘Payday’ ?
-Primesti 190 de ‘B-Points’ la Payday daca ai peste 1801 secunde jucate in ora respectiva
-sau 60 de ‘B-Points’ daca ai jucat mai putin.
-
-## Unde-mi pot repara masina?
-Vehicle mod shop, la un mecanic, PNS sau cu ajutorul comenzii `/vr` daca ai un **Cont VIP**
+## Unde-mi pot repara mașina?
+Vehicle mod shop, la un mecanic, PNS sau cu ajutorul comenzii `/vr` dacă ai un **Cont VIP**
 
 ## Cum pot modifica chat-ul?
-Poti face acest lucru apasand pe tasta `T` iar in dreptul barii chatului vei putea regasi o iconita  ce seamana cu o **roata dintata**, de acolo iti poti modifica aspectul chat-ului.
+Poți face acest lucru apăsând pe tasta `T` iar în dreptul barii chatului vei putea regăsi o iconiță ce seamănă cu o **roată dințată**, de acolo îți poți modifica aspectul chat-ului.
 
-## Cum aflu numarul de telefon al unui jucator fara [/number]?
+## Cum aflu numărul de telefon al unui jucător fără [/number]?
+Deschide **Score List**, apasă pe jucătorul dorit, selectează **CALL/SMS**, iar apoi ți se va deschide automat chat-ul și ți se va afișa numărul acestuia.
 
-Deschide **Score List**, apasa pe jucatorul dorit, selecteaza **CALL/SMS**, iar mai apoi ti se va  deschide automat chat-ul si ti se va afisa numarul acestuia.
+## Am șansa să mor de la droguri?
+Da, ai o șansă de 1 la sută la droguri.
 
-## Am sansa sa mor de la droguri?
-Da, ai o sansa de 1 la suta la droguri.
-
-## Ce sunt punctele gri de pe mapa? (Blipurile)
-Punctele de culoare gri de pe minimap sunt vehiculele care sunt spawnate si neutilizate.
+## Ce sunt punctele gri de pe hartă? (Blipurile)
+Punctele de culoare gri de pe minimap sunt vehiculele care sunt spawnate și neutilizate.
 
 ## Cum activez Cruise Control?
-Cruise control se poate activa prin tasta `F6` daca ai minim **45 km/h** la vehicul.
+Cruise control se poate activa prin tasta `F6` dacă ai minim **45 km/h** la vehicul.
 
-## Ce fac daca am gasit un bug?
- Bugurile pot fi raportate pe [panel](https://ragepanel.b-hood.ro/tickets/list) deschizand un ticket in care sa prezinti dovada si descrierea bug-ului.
+## Ce fac dacă am găsit un bug?
+Bugurile pot fi raportate pe [panel](https://ragepanel.b-hood.ro/tickets/list) deschizând un ticket în care să prezinți dovada și descrierea bug-ului.
 
-## Ce fac daca s-a blocat mouse-ul pe ecran? ( Nu pot sa misc cursorul )
-
- Pentru a rezolva aceasta problema apăsa tasta **ESC**, intra in meniul de setari al jocului la secțiunea **Keyboard / Mouse** si seteaza **Mouse imput method** la **Direct Imput**.
-
-
+## Ce fac dacă s-a blocat mouse-ul pe ecran? ( Nu pot să mișc cursorul )
+Pentru a rezolva această problemă apasă tasta **ESC**, intră în meniul de setări al jocului la secțiunea **Keyboard / Mouse** și setează **Mouse imput method** la **Direct Imput**.
