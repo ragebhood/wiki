@@ -36,7 +36,7 @@ Atunci când vei folosi vehiculul personal în timp ce muncești, acesta iti va 
 | 5             | 10.000|
 | 6             | 15.000|
 
-### Care este numarul de KG de gunoi ce-l pot avea in masina in functie de skill si Backpack?
+### Care este numărul de KG de gunoi pe care îl pot avea în mașină în funcție de skill și Backpack?
 
 | Skill | Cont Normal (KG) | Cont VIP (KG) |
 |-------|-------------------|---------------|
