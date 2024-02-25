@@ -37,16 +37,17 @@ Făina din hambar îți va rămâne în momentul în care te vei deconecta sau v
 | 5             | x|
 | 6             | 1350|
 
-### Cate KG de faina pot primi pe balot?
+### Câte KG de făină pot primi pe balot?
 
-| Skill | Kiloame Primite pe Balot    |
+| Skill | Kilograme Primite pe Balot  |
 |-------|-----------------------------|
-| 1     | Intre 8 si 11               |
-| 2     | Intre 12 si 15              |
-| 3     | Intre 13 si 18              |
-| 4     | Intre 19 si 22              |
-| 5     | Intre 20 si 25              |
-| 6     | Intre 23 si 30              |
+| 1     | Între 8 și 11               |
+| 2     | Între 12 și 15              |
+| 3     | Între 13 și 18              |
+| 4     | Între 19 și 22              |
+| 5     | Între 20 și 25              |
+| 6     | Între 23 și 30              |
+
 
 
 
