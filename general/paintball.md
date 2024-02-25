@@ -31,3 +31,7 @@ Folosește `/votemap` și alege-ți harta dorită.
 Pentru a-ți vedea statisticile, folosește `/paintstats`.
 
 ![Screenshot 2024-02-23 211510](https://github.com/Alexander-AIM/wiki/assets/157987605/a5577ee5-a168-443e-a888-13f0095022d7)
+
+## Cum pot ascunde kill list?
+Apasă pe `F9` pentru a-l ascunde.
+
