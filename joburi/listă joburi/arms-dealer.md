@@ -42,3 +42,15 @@ Colectează-ți mai întâi materialele prelucrate, iar apoi mergi și pune alte
 | 4             | 205    |
 | 5             | 425    |
 | 6             | 900    |
+
+
+### Câte materiale voi primi în funcție de secundele ce trebuie să le aștept?
+
+| Skill | Secunde/ | Materiale Primite |
+|-------|-------------------|-------------------|
+| 1     | 3 secunde         | 1 material        |
+| 2     | 2.7 secunde       | 1 material        |
+| 3     | 2.2 secunde       | 1 material        |
+| 4     | 1.6 secunde       | 1 material        |
+| 5     | 1 secundă         | 1 material        |
+
