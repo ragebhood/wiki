@@ -274,23 +274,14 @@ Daca ai o licenta suspendata, timpul va expira decat daca ai peste 1800 secunde 
 ## Cum imi pot schimba numele?
 Intra in `/shop` la categoria **Normal**, apasa pe **change nickname** iar apoi introdu-ti noul nume. Aceasta modificare te va costa 200 de puncte premium.
 
-Ce este boombox?
-/nre Daca ai boombox, jucatorii din jurul tau vor putea asculta melodia din vehiculul tau daca ai geamul deschis.
+## Ce este boombox?
+**Boombox** ofera abilitatea ca jucatorii din jurul tau sa poata asculta melodia din vehiculul tau daca ai geamul deschis.
 
-Cum deschid geamul?
-/nre Pentru a deschide geamul va trebui sa apesi tasta 'P' sa deschizi 'Car Panel', iar de acolo sa apesi pe geamul dorit.
+## Cum deschid geamul?
+Pentru a deschide geamul va trebui sa apesi tasta `P` sa deschizi **Car Panel**, iar de acolo sa apesi pe geamul dorit.
 
-Cum pot face ScreenShot?
-
-/nre Nu poti face Screenshot daca nu detii un program special sau nu ai jocul pe Steam. Poti folosi 'PrntScreen'.
-
-
-
-
-
-Cum pot obtine gift points?
-/nre Poti face rost de 'GiftPoints' din 'crate-uri', 'Lucky Wheel', quest special, skill up, level up [...]
-/nre [...] payday, battlepass sau realizari.
+## Cum pot face ScreenShot?
+Nu poti face **Screenshot** daca nu detii un program special sau nu ai jocul pe Steam. Poti folosi insa tasta `Prt Screen` pentru a faca o captura de ecan ajutandu-te de **Windows**.
 
 Cum pot obtine rob points?
 /nre Poti obtine rob points prin sistemul de ‘Payday’ sau ‘Lucky Wheel’.
