@@ -39,3 +39,16 @@ Acest job se poate practică cu ajutorul unui vehicul personal: 'bhahawork'. Atu
 | 4             | 355|
 | 5             | 850|
 | 6             | 1750|
+
+### Câte cutii de pizza primesc să livrezi în funcție de skill și Backpack?
+
+| Skill | Cutii de Pizza  |
+|-------|-----------------|
+| 1     | 2-3             |
+| 2     | 2-4             |
+| 3     | 3-5             |
+| 4     | 4-6             |
+| 5     | 4-7             |
+| 6     | 5-8             |
+
+Vei primi adițional între 2 și 4 cutii de pizza în funcție de nivelul de **Backpack** deținut.

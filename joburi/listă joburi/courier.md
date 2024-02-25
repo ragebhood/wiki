@@ -37,3 +37,15 @@ La acest job ai o șansă de 50% de a primi bacșiș din partea clientului
 | 5             | 450|
 | 6             | 1000|
 
+### Câte cutii îmi dă de livrat în funcție de skill?
+
+| Skill | Cutii |
+|-------|-------|
+| 1     | 3-5   |
+| 2     | 4-6   |
+| 3     | 5-7   |
+| 4     | 6-9   |
+| 5     | 7-10  |
+| 6     | 8-12  |
+
+Dacă deții un **Backpack**, vei primi mai multe cutii în funcție de nivelul de **Backpack** deținut.

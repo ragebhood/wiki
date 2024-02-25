@@ -16,3 +16,6 @@ Folosindu-te de comanda '/jobmenu' vei putea acesa meniul job-ului pe care il de
 Pentru a-ti scoate banii din seiful job-ului, <span v-tippy="{content: 'Săgeata albastră din poza de mai sus.', arrow: false}">introdu suma dorită si apasa pe butonul <strong>Withdraw</strong></span>.
 
 Pentru a-ti vinde jobul la **Stat**, <span v-tippy="{content: 'Săgeata rosie din poza de mai sus.', arrow: false}">apasa pe butonul <strong>Sell</strong></span>.
+
+## Câți bani primește proprietarul jobului?
+10% din suma totală câștigată de jucători la acel job.
