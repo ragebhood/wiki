@@ -349,23 +349,8 @@ Cruise control se poate activa prin tasta `F6` daca ai minim **45 km/h** la vehi
 ## Ce fac daca am gasit un bug?
  Bugurile pot fi raportate pe [panel](https://ragepanel.b-hood.ro/tickets/list) deschizand un ticket in care sa prezinti dovada si descrierea bug-ului.
 
-AutoLogin
+## Ce fac daca s-a blocat mouse-ul pe ecran? ( Nu pot sa misc cursorul )
 
-/nre Acesta se bazează pe ‘Hardware ID’, dacă te vei conecta de pe alt computer o sa trebuiasca sa introduci parola.
-
-Cum ajung Helper?
-
-/nre Pentru a ajunge Helper ai nevoie de o aplicatie pe [/panel] si minim 100 de ore jucate.
-
-Cum ajung Admin?
-
-/nre Pentru a deveni Admin va trebui sa aplici prima data la functia de Helper. Poti face acest lucru [...]
-/nre [...] pe [/panel] la sectiunea ‘Helper Applications’.
-
-
-
-Ce fac daca s-a blocat mouse-ul pe ecran? ( Nu pot sa misc cursorul )
-
-/nre Pentru a rezolva aceasta problema apăsa tasta 'ESC', intra in meniul de setari al jocului la secțiunea [...] /nre [...] 'Keyboard / Mouse' si seteaza 'Mouse Input Method' la 'DirectInput'.
+ Pentru a rezolva aceasta problema apăsa tasta **ESC**, intra in meniul de setari al jocului la secțiunea **Keyboard / Mouse** si seteaza **Mouse imput method** la **Direct Imput**.
 
 
