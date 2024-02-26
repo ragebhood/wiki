@@ -30,3 +30,12 @@ Pentru a-ți seta un post de radio ce va fi redat atunci când te afli în inter
 
 ## Cum pot da chirie la o casă?
 Folosește comanda `/rentroom` atunci când te afli în fața ușii casei unde dorești să iei chirie.
+
+## Cât costă să-mi iau garaj la casă?
+
+| Tip de casa   | Tip de garaj disponibil               | Garaj (pret)       | Capacitate garaj (vehicule) |
+|---------------|-------------------------------------|--------------------|-----------------------------|
+| Small House   | Small Garage                         | $250.000.000 (Case)| 2                           |
+| Medium House  | Small Garage, Medium Garage           | $250.000.000 (Case), $777.777.777 (Case) | 2, 5                    |
+| Big House     | Small Garage, Medium Garage, Big Garage | $250.000.000 (Case), $777.777.777 (Case), 1.000PP (Case) | 2, 5, 10                   |
+
