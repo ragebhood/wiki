@@ -153,3 +153,41 @@ Pentru a vorbi pe chatul alianței poți folosi comanda `/ca`.
 - **Small** costă 5.000 de Premium Points
 - **Medium** costă 7.500 de Premium Points
 - **Big** costă 10.000 de Premium Points
+
+## Preț vehicul de clan
+
+| Vehicul             | Preț               | Viteză atinsă |
+|---------------------|--------------------|---------------|
+| Prairie             | 100.000.000$       | 155 Km/h      |
+| Dilettante          | 17.500.000$        | 138 km/h      |
+| Buritto3            | 22.000.000$        | 145 km/h      |
+| Ballet              | 37.100.000$        | 149 km/h      |
+| Zion                | 45.000.000$        | 173 km/h      |
+| Sadler              | 67.000.000$        | 149 km/h      |
+| Sandking            | 100.000.000$       | 148 km/h      |
+| Jester              | 115.000.000$       | 178 km/h      |
+| Cognoscenti         | 140.000.000$       | 165 km/h      |
+| Gp1                 | 177.000.000$       | 187 km/h      |
+| Fcr                 | 77.000.000$        | 163 km/h      |
+| Double              | 132.000.000$       | 172 km/h      |
+| Tyrant              | 1.250 Premium Points| 205 km/h      |
+| Dubsta3             | 1k Premium Points   | 159 Km/h      |
+| Patriot2            | 1,5k Premium Points | 143 km/h      |
+| Stetch              | 2k Premium Points   | 150 km/h      |
+| Frogger             | 2kk Premium Points  | 190 km/h      |
+| Bati                | 500 Premium Points  | 189 km/h      |
+| Baller3             | 1,270 Premium Points| 168 km/h      |
+| Dubsta2             | 1000 Premium Points | 151 km/h      |
+| Bhertcls63amg       | 625.000.000$       | 225 km/h      |
+| Bhudia8l            | 500.000.000$       | 218 km/h      |
+| Bhertsclasswbb      | 32.000.000$        | 219 km/h      |
+| Bhwe60              | 452.000.000$       | 234 km/h      |
+| Bhertgcl99          | 696.000.000$       | 220 km/h      |
+| Bhollsphantom       | 1.220.000.000$    | 285 km/h      |
+| Bhorschecayenets    | 576.000.000$       | 200 km/h      |
+| Bhangeovervogst     | 730.000.000$       | 230 km/h      |
+| Bhyotalc200         | 350.000.000$       | 194 km/h      |
+
+## Preț modificări vehicule de clan
+- Preț **refill** - 10.000$ 
+- Preț **schimbare culoare** - 25.000.000$
