@@ -13,7 +13,7 @@ Recomandat este să ai cât mai puține sancțiuni în **Last Punish**, un **Fac
 :::
 
 ::: danger ATENȚIE!
-Aplicațiile **copiate** sau scrise cu **ChatGBT** vor fi respinse sau nu vor fi luate în considerare.
+Aplicațiile **copiate** sau scrise cu **ChatGPT** vor fi respinse sau nu vor fi luate în considerare.
 :::
 
 ## Cum pot obține funcția de Lider?
@@ -24,7 +24,7 @@ Recomandat este să ai cât mai puține sancțiuni în **Last Punish**, un **Fac
 :::
 
 ::: danger ATENȚIE!
-Aplicațiile **copiate** sau scrise cu **ChatGBT** vor fi respinse sau nu vor fi luate în considerare.
+Aplicațiile **copiate** sau scrise cu **ChatGPT** vor fi respinse sau nu vor fi luate în considerare.
 :::
 
 ## De ce nu mi se deschide nimic cand folosesc '/clothes', '/stats', '/market', sau o alta interfata?
