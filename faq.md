@@ -352,3 +352,28 @@ Bugurile pot fi raportate pe [panel](https://ragepanel.b-hood.ro/tickets/list) d
 
 ## Ce fac dacă s-a blocat mouse-ul pe ecran? ( Nu pot să mișc cursorul )
 Pentru a rezolva această problemă apasă tasta **ESC**, intră în meniul de setări al jocului la secțiunea **Keyboard / Mouse** și setează **Mouse imput method** la **Direct Imput**.
+
+## Cât mă costă un bilet la 'vericu'??
+
+- Rainbow Normal: $10,000,000 & 100x Hidden Colors
+- Rainbow Matte: $25,000,000 & 100x Matte Colors
+- Rainbow Chrome: $50,000,000 & 100x Chrome Colors
+
+## Câte puncte premium pot primi la Level Up?
+
+::: danger ATENȚIE!
+Șansa de a primi Premium Points la avansarea în nivel este de 50%.
+:::
+
+| Nivel (Lvl)  | Puncte Premium (PP) |
+|--------------|----------------------|
+| nivelele 1-5          | 1                    |
+| nivelele 6-10         | 2                    |
+| nivelele 11-15        | 3                    |
+| nivelele 16-20        | 4                    |
+| nivelele 21-25        | 5                    |
+| nivelele 26-30        | 6                    |
+| nivelele 31-35        | 7                    |
+| nivelele 36-40        | 8                    |
+| nivelele 41-45        | 9                    |
+| nivelele 46+          | 10                   |
