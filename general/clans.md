@@ -140,3 +140,16 @@ Pentru a beneficia de capacitatea maximă de membri a upgrade-ului, trebuie ca l
 Alianțele sunt grupări de clanuri care s-au aliat pentru a domina celălalte clanuri de pe server. Pentru a te alia cu un alt clan, ai nevoie să fi liderul clanului și să folosești comanda `/alliance` pe un jucător care este un alt lider al unui clan. Dacă dorești pe viitor să nu mai fi aliatul respectivului clan, ai la dispoziție comanda `/removealliance`.
 
 Pentru a vorbi pe chatul alianței poți folosi comanda `/ca`.
+
+## Garaje
+
+| Tip de garaj   | Capacitate garaj (vehicule) | Pret (Clan)    |
+|-----------------|-----------------------------|----------------|
+| Small Garage    | 2                           | Gratis         |
+| Medium Garage   | 5                           | 1000PP         |
+| Big Garage      | 10                          | 1969PP         |
+
+## Interior CHQ
+- **Small** costă 5.000 de Premium Points
+- **Medium** costă 7.500 de Premium Points
+- **Big** costă 10.000 de Premium Points
