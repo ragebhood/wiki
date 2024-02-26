@@ -377,3 +377,26 @@ Pentru a rezolva această problemă apasă tasta **ESC**, intră în meniul de s
 | nivelele 36-40        | 8                    |
 | nivelele 41-45        | 9                    |
 | nivelele 46+          | 10                   |
+
+## În cât timp voi putea mânca din nou? / Cât HP dă mâncarea?
+Dacă este vorba de un tip diferit de mâncare, o poți mânca imediat, însă dacă este vorba despre același tip de mâncare, poți vedea detalii privind timpul de așteptare până la următoarea masă în tabelul de mai jos :arrow_down: precum și **HP-ul** pe care ți-l oferă.
+| Tip de Mâncare | Delay | HP   |
+|-----------------|-------|------|
+| Hotdog          | 10 min| 20   |
+| Burger          | 10 min| 35   |
+| Fries           | 10 min| 10   |
+| Pizza           | 10 min| 40   |
+| Meat            | 7 min | 1 la 2 secunde   |
+| Salad           | 3 min | 1 la 4 secunde   |
+
+## Câtă mâncare pot deține?
+
+- Cont Normal - 10, spre exemplu: poți deține 3 **Hotdogi** și 7 **Burgeri**
+- Cont VIP - 25, spre exemplu: poți deține 10 **Salad**, 5 **Meat**, 3 **Hotdogi** și 7 **Burgeri**
+
+## Am mâncat și îmi scade viața brusc, de ce?
+
+Atunci când mănânci **hotdog**, **burger**, **fries** sau **pizza**, ai șansa de 3% să-ți scadă 1 **HP** pe secundă datorită mâncării stricate.
+
+## De ce îmi scade viața? 
+Viața ta scade deoarece serverul simulează viața reală, unde este esențial să consumi alimente pentru a supraviețui.
