@@ -117,6 +117,24 @@ Pentru a-ți vinde vehiculul la **Dealership**, mergi în locația specială (`/
 ## Câți bani primesc dacă îmi vând vehiculul în DS?
 Primești 50 la sută dacă vehiculul poate fi cumpărat din **Dealership**, dacă nu primești 0$ înapoi.
 
+## Ce șansă este să primesc Premium Points la Miner / Industrial dacă am Premium Pickaxe / Rod?
+2 la sută, 1 pp primești.
+
+## Cum fac rost de materiale?
+'Arms Dealer', 'Crates', 'Giftbox', de la jucători, job din jail și 'paintball'.
+
+## După cât timp se despawnează vehiculul de job?
+Vehiculul de la job va fi despawnat după 5 minute de nefolosință, vei fi notificat la fiecare minut.
+
+## Care e cea mai ieftină armă? 
+Pistol - 6.25kk, 10k mats.
+
+## Care e cea mai scumpă armă? 
+Heavy Rifle - 125kk, 150k mats.
+
+## Cum vad toate armele din meniul de craft? 
+Click Stânga pe meniu + Săgeată dreapta.
+
 ## Care este cea mai ieftină mașină din Dealership?
 Asbo - 4.6kk
 
