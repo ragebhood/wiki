@@ -9,6 +9,11 @@ Bun venit la casino-ul nostru de pe RAGE B-Hood! Aici vei descoperi o varietate 
 ![image](https://github.com/Alexander-AIM/wiki/assets/157987605/69bce85b-69e0-48ac-93a8-18c437cdc9a2)
 :::
 
+::: danger ATENȚIE!
+Ai nevoie de cel puțin nivel 5 pentru a te putea juca un joc de noroc disponibil în cazinou.
+:::
+
+
 ## Jocurile noastre
 
 ### Blackjack 🖤
@@ -32,3 +37,10 @@ Indiferent dacă ești un jucător experimentat sau doar începi să explorezi l
 ## Notă importantă
 
 Vă reamintim că jocurile de noroc pot fi distractive, dar și riscante. Nu răspundem de banii pierduți în timpul jocului, iar participarea la jocuri de noroc ar trebui să fie întotdeauna responsabilă. Te rugăm să joci cu moderație și să ai grijă de bugetul tău. Distracția trebuie să fie întotdeauna în prim-plan!
+
+## Alte detalii importante
+
+- **Limita de bani pierduti** se reseteaza la ora 7 dimineata.
+- **Suma dice** $10,000 si maxima $250,000 * nivelul tau.
+- castigi la dice vei primi **95%** din suma totala.
+- **Limita de pierdere** la dice este de 50 maini pe zi.

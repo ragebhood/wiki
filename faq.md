@@ -93,12 +93,47 @@ Jucătorii ce dețin cont **VIP** sau **Legend** pot transfera o sumă maximă d
 
 ## Cum dau upgrade la Backpack?
 Folosește `/backpack`  și selectează secțiunea ‘[+] Upgrade to Bacpack level X’.
+## Cât plătesc când pun un anunț pe /ad? 
+Veți plăti 500$ înmulțit cu numărul de caractere folosite în anunț.
 
+## Cât este delay-ul la /ad? 
+Puteți plasa un anunț o dată la 10 minute.
+## Cum găsesc un garaj? 
+Poți face acest lucru folosindu-te de comanda `/findgarage`. 
+
+## Cum dau upgrade la garaj? 
+Poți face acest lucru folosindu-te de comanda `/garageupgrade`.
+
+## Cum intru in garaj?
+Poti face acest lucru apasand tasta `E` in fata acestuia
+
+::: dange ATENTIE!
+Doar proprietarii caselor pot parca vehicule în interiorul acestuia.
+Membrii clanului vor putea parca doar vehiculele de clan (dacă este un garaj de clan).
+:::
 ## Cum vând o mașină la DS?
 Pentru a-ți vinde vehiculul la **Dealership**, mergi în locația specială (`/gps` -> sellcar) și folosește comanda `/sellcar`.
 
 ## Câți bani primesc dacă îmi vând vehiculul în DS?
 Primești 50 la sută dacă vehiculul poate fi cumpărat din **Dealership**, dacă nu primești 0$ înapoi.
+
+## Ce șansă este să primesc Premium Points la Miner / Industrial dacă am Premium Pickaxe / Rod?
+2 la sută, 1 pp primești.
+
+## Cum fac rost de materiale?
+'Arms Dealer', 'Crates', 'Giftbox', de la jucători, job din jail și 'paintball'.
+
+## După cât timp se despawnează vehiculul de job?
+Vehiculul de la job va fi despawnat după 5 minute de nefolosință, vei fi notificat la fiecare minut.
+
+## Care e cea mai ieftină armă? 
+Pistol - 6.25kk, 10k mats.
+
+## Care e cea mai scumpă armă? 
+Heavy Rifle - 125kk, 150k mats.
+
+## Cum vad toate armele din meniul de craft? 
+Click Stânga pe meniu + Săgeată dreapta.
 
 ## Care este cea mai ieftină mașină din Dealership?
 Asbo - 4.6kk
@@ -317,3 +352,51 @@ Bugurile pot fi raportate pe [panel](https://ragepanel.b-hood.ro/tickets/list) d
 
 ## Ce fac dacă s-a blocat mouse-ul pe ecran? ( Nu pot să mișc cursorul )
 Pentru a rezolva această problemă apasă tasta **ESC**, intră în meniul de setări al jocului la secțiunea **Keyboard / Mouse** și setează **Mouse imput method** la **Direct Imput**.
+
+## Cât mă costă un bilet la 'vericu'??
+
+- Rainbow Normal: $10,000,000 & 100x Hidden Colors
+- Rainbow Matte: $25,000,000 & 100x Matte Colors
+- Rainbow Chrome: $50,000,000 & 100x Chrome Colors
+
+## Câte puncte premium pot primi la Level Up?
+
+::: danger ATENȚIE!
+Șansa de a primi Premium Points la avansarea în nivel este de 50%.
+:::
+
+| Nivel (Lvl)  | Puncte Premium (PP) |
+|--------------|----------------------|
+| nivelele 1-5          | 1                    |
+| nivelele 6-10         | 2                    |
+| nivelele 11-15        | 3                    |
+| nivelele 16-20        | 4                    |
+| nivelele 21-25        | 5                    |
+| nivelele 26-30        | 6                    |
+| nivelele 31-35        | 7                    |
+| nivelele 36-40        | 8                    |
+| nivelele 41-45        | 9                    |
+| nivelele 46+          | 10                   |
+
+## În cât timp voi putea mânca din nou? / Cât HP dă mâncarea?
+Dacă este vorba de un tip diferit de mâncare, o poți mânca imediat, însă dacă este vorba despre același tip de mâncare, poți vedea detalii privind timpul de așteptare până la următoarea masă în tabelul de mai jos :arrow_down: precum și **HP-ul** pe care ți-l oferă.
+| Tip de Mâncare | Delay | HP   |
+|-----------------|-------|------|
+| Hotdog          | 10 min| 20   |
+| Burger          | 10 min| 35   |
+| Fries           | 10 min| 10   |
+| Pizza           | 10 min| 40   |
+| Meat            | 7 min | 1 la 2 secunde   |
+| Salad           | 3 min | 1 la 4 secunde   |
+
+## Câtă mâncare pot deține?
+
+- Cont Normal - 10, spre exemplu: poți deține 3 **Hotdogi** și 7 **Burgeri**
+- Cont VIP - 25, spre exemplu: poți deține 10 **Salad**, 5 **Meat**, 3 **Hotdogi** și 7 **Burgeri**
+
+## Am mâncat și îmi scade viața brusc, de ce?
+
+Atunci când mănânci **hotdog**, **burger**, **fries** sau **pizza**, ai șansa de 3% să-ți scadă 1 **HP** pe secundă datorită mâncării stricate.
+
+## De ce îmi scade viața? 
+Viața ta scade deoarece serverul simulează viața reală, unde este esențial să consumi alimente pentru a supraviețui.
