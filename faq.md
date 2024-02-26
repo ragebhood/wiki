@@ -93,7 +93,24 @@ Jucătorii ce dețin cont **VIP** sau **Legend** pot transfera o sumă maximă d
 
 ## Cum dau upgrade la Backpack?
 Folosește `/backpack`  și selectează secțiunea ‘[+] Upgrade to Bacpack level X’.
+## Cât plătesc când pun un anunț pe /ad? 
+Veți plăti 500$ înmulțit cu numărul de caractere folosite în anunț.
 
+## Cât este delay-ul la /ad? 
+Puteți plasa un anunț o dată la 10 minute.
+## Cum găsesc un garaj? 
+Poți face acest lucru folosindu-te de comanda `/findgarage`. 
+
+## Cum dau upgrade la garaj? 
+Poți face acest lucru folosindu-te de comanda `/garageupgrade`.
+
+## Cum intru in garaj?
+Poti face acest lucru apasand tasta `E` in fata acestuia
+
+::: dange ATENTIE!
+Doar proprietarii caselor pot parca vehicule în interiorul acestuia.
+Membrii clanului vor putea parca doar vehiculele de clan (dacă este un garaj de clan).
+:::
 ## Cum vând o mașină la DS?
 Pentru a-ți vinde vehiculul la **Dealership**, mergi în locația specială (`/gps` -> sellcar) și folosește comanda `/sellcar`.
 
