@@ -44,4 +44,4 @@ Premiu: $50.000.000 - $60.000.000, 50 premium points si 1000 bpoints.
 :::
 
 ## Video Trailer :arrow_down: 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Sk0oZFI4Pjs?si=XH6EYxTYkuZnk4Mc?rel=0&showinfo=0&controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Sk0oZFI4Pjs?si=XH6EYxTYkuZnk4Mc?rel=0&controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
