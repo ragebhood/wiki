@@ -39,6 +39,8 @@ Atunci când vei folosi vehiculul personal în timp ce muncești, acesta iti va 
 ::: danger ATDASDSAENȚIE
 La cursele ilegale, în momentul descărcării, vei putea primi 'Wanted 2'. 
 Totodată pe măsură ce faci mai multe curse ilegale la rând, recompensa în bani va crește.
+
+![Cum încarc cisterna?](https://i.imgur.com/xHtU1W7.gif "Cum încarc cisterna?")
 :::
 
 ### Ture necesare pentru skill up:
