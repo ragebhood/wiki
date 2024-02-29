@@ -33,11 +33,11 @@ Folosește-te de **Shark-ul** oferit pentru a ajunge acolo.
 # Jaful
 
 ::: warning Detalii
-Pentru a invita o persoană se va folosi comanda `/inviteheist` cu condițiile:
-Trebuie să fii aproape de jucătorul pe care dorești să-l inviți
-Jucătorul invitat să dețină minim 50 de puncte de jaf
-Jucătorul invitat să dețină o armă echipată (în mână)
-În momentul în care ai invitat 3 jucători, jaful va începe.
+Pentru a invita o persoană se va folosi comanda `/inviteheist` cu condițiile: <br>
+Trebuie să fii aproape de jucătorul pe care dorești să-l inviți <br>
+Jucătorul invitat să dețină minim 50 de puncte de jaf <br>
+Jucătorul invitat să dețină o armă echipată (în mână) <br>
+În momentul în care ai invitat 3 jucători, jaful va începe. <br>
 :::
 
 ## Roluri Există 4 roluri ce se vor genera aleatoriu: 
@@ -48,16 +48,16 @@ Jucătorul invitat să dețină o armă echipată (în mână)
 
 ## Pașii corecți pentru a finaliza Jaful
 Fiecare trebuie să-și asume rolurile menționate mai sus <br>
-în momentul în care jaful a început, participanții trebuie să meargă la checkpoint-ul marcat pentru a-și lua echipamentul (Binco)<br>
-bomber-ul va avea o altă locație în care trebuie să meargă pentru a confecționa bombele<br>
-restul participanților vor merge la bancă și își vor efectua pașii până când bomber-ul va apărea<br>
+în momentul în care jaful a început, participanții trebuie să meargă la checkpoint-ul marcat pentru a-și lua echipamentul (Binco) <br>
+bomber-ul va avea o altă locație în care trebuie să meargă pentru a confecționa bombele <br>
+restul participanților vor merge la bancă și își vor efectua pașii până când bomber-ul va apărea <br>
 în momentul în care un participant intră în bancă și nu are mască echipată (tasta M, accesibilă doar de lângă bancă/locația de confecționat bombe), alarma va suna și cei din SWAT vor fi anunțați că este un jaf în desfășurare <br>
 după explozia bombelor, participanții vor fi nevoiți să tragă în încuietoarea ușilor pentru a putea ajunge în locația unde se află lingourile cu aur <br>
 după ce toți participanții au furat lingourile, vor avea marcat un bunker aleatoriu unde vor fi nevoiți să transporte lingourile<br>
 în momentul în care au ajuns la NPC-ul de la bunker, aceștia vor apăsa tasta Y pentru a lăsa sacul cu lingourile <br>
 
  ::: tip
-în raza bunker-ului, polițiștii vor fi marcați pe hartă 
+în raza bunker-ului, polițiștii vor fi marcați pe hartă <br>
 nu se va putea lăsa sacul cu lingourile dacă sunt polițiști în apropiere
  :::
 
@@ -70,7 +70,7 @@ când NPC-urile de la ghiseu nu au fost amenințate suficient<br>
 participanții ce vor avea mască echipată vor fi undercover și nu vor putea fi localizați.<br>
  :::
 
-::: tip Premiu
+::: important Premiu
 Premiu: $50,000,000 - $60,000,000, 50 puncte premium și 1000 bpoints.
 :::
 
