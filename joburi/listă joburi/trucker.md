@@ -5,10 +5,11 @@ title: Trucker
 # Trucker 🚚 
 Actiunea job-ului de camioner constă în transportarea și livrarea mărfii în locațiile primite.
 ‎ 
-::: details Locație job
-![Locatie job Trucker](https://i.imgur.com/3UCMpRo.png "Locație job Trucker")
-:::
 
+<details class="details custom-block">
+    <summary>Locație job</summary>
+    <p>![Locatie job Trucker](https://i.imgur.com/3UCMpRo.png "Locație job Trucker")</p>
+</details>
 ‎ 
 
 ## Muncă
