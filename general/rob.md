@@ -3,20 +3,20 @@ title: Rob / Jaful Rob
 ---
 
 # Rob
-::: avertisment Necesare
+::: warning Necesare
 Licență de navigare
 De preferat și licență de arme
 :::
 
 Pentru a începe jafu, folosește `/rob`. Dacă nu ești la locația specială, comanda îți va pune un checkpoint către locația respectivă.
 
-::: detalii Unde este această locație?
+::: details Unde este această locație?
 ![Grand Theft Auto V Screenshot 2024 02 29 - 23 09 43 80](https://github.com/Alexander-AIM/wiki/assets/157987605/57e9b7e5-a581-4ffb-a0b0-8045dc384951)
 :::
 
 Odată ce ai început jafu și ai vorbit cu **Lester**, mergi pe plajă și vorbește cu NPC-ul pentru a-ți oferi o barcă cu care vei ajunge pe iaht.
 
-::: detalii Unde mai exact pe plajă?
+::: details Unde mai exact pe plajă?
 ![Grand Theft Auto V Screenshot 2024 02 29 - 23 14 26 54](https://github.com/Alexander-AIM/wiki/assets/157987605/0b8a38b7-c6d5-414e-8b39-9b841d91a4d2)
 :::
 
@@ -32,7 +32,7 @@ Folosește-te de **Shark-ul** oferit pentru a ajunge acolo.
 
 # Jaful
 
-::: avertisment Detalii
+::: warning Detalii
 Pentru a invita o persoană se va folosi comanda `/inviteheist` cu condițiile:
 Trebuie să fii aproape de jucătorul pe care dorești să-l inviți
 Jucătorul invitat să dețină minim 50 de puncte de jaf
@@ -60,7 +60,7 @@ Jucătorul invitat să dețină o armă echipată (în mână)
 	- nu se va putea lăsa sacul cu lingourile dacă sunt polițiști în apropiere
  :::
 
- ::: detalii Detalii
+ ::: details Detalii
 	- cei din SWAT vor fi recompensați pentru fiecare ucigaș făcut pe un participant la jaf cu: 5 puncte premium, 100 bpoints și aleatoriu între $1,000,000 și $1,250,000.
 	- situații în care alarma va suna și cei din SWAT vor fi anunțați:
 		- după 30 de secunde de la explozia bombelor
@@ -69,7 +69,7 @@ Jucătorul invitat să dețină o armă echipată (în mână)
 	- participanții ce vor avea mască echipată vor fi undercover și nu vor putea fi localizați.
  :::
 
-::: sfat Premiu
+::: tip Premiu
 Premiu: $50,000,000 - $60,000,000, 50 puncte premium și 1000 bpoints.
 :::
 
