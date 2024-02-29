@@ -4,7 +4,7 @@ title: Rob / Jaful Rob
 
 # Rob
 ::: warning Necesare
-Licență de navigare
+Licență de navigare <br>
 De preferat și licență de arme
 :::
 
@@ -41,32 +41,33 @@ Jucătorul invitat să dețină o armă echipată (în mână)
 :::
 
 ## Roluri Există 4 roluri ce se vor genera aleatoriu: 
-	- **Cameraman**: se va ocupa de spargerea camerelor <br>
-	- **Atacant**: se va ocupa de uciderea paznicilor și de NPC-urile de la ghiseu unde va trebui să țintească pe fiecare NPC pentru a nu fi apăsat butonul de panică <br>
-	- **Lider**: se va ocupa de partea de hacking și de amenințarea directorului pentru a afla codul secret de la ușa de la seif <br>
-	- **Bomber**: se va ocupa de confecționarea bombelor și de amplasarea acestora <br>
+**Cameraman**: se va ocupa de spargerea camerelor <br>
+**Atacant**: se va ocupa de uciderea paznicilor și de NPC-urile de la ghiseu unde va trebui să țintească pe fiecare NPC pentru a nu fi apăsat butonul de panică <br>
+**Lider**: se va ocupa de partea de hacking și de amenințarea directorului pentru a afla codul secret de la ușa de la seif <br>
+**Bomber**: se va ocupa de confecționarea bombelor și de amplasarea acestora <br>
 
 ## Pașii corecți pentru a finaliza Jaful
-	- Fiecare trebuie să-și asume rolurile menționate mai sus <br>
-	- în momentul în care jaful a început, participanții trebuie să meargă la checkpoint-ul marcat pentru a-și lua echipamentul (Binco)<br>
-	- bomber-ul va avea o altă locație în care trebuie să meargă pentru a confecționa bombele<br>
-	- restul participanților vor merge la bancă și își vor efectua pașii până când bomber-ul va apărea<br>
-	- în momentul în care un participant intră în bancă și nu are mască echipată (tasta M, accesibilă doar de lângă bancă/locația de confecționat bombe), alarma va suna și cei din SWAT vor fi anunțați că este un jaf în desfășurare <br>
-	- după explozia bombelor, participanții vor fi nevoiți să tragă în încuietoarea ușilor pentru a putea ajunge în locația unde se află lingourile cu aur <br>
-	- după ce toți participanții au furat lingourile, vor avea marcat un bunker aleatoriu unde vor fi nevoiți să transporte lingourile<br>
-	- în momentul în care au ajuns la NPC-ul de la bunker, aceștia vor apăsa tasta Y pentru a lăsa sacul cu lingourile <br>
- ::: sfat
-	- în raza bunker-ului, polițiștii vor fi marcați pe hartă 
-	- nu se va putea lăsa sacul cu lingourile dacă sunt polițiști în apropiere
+Fiecare trebuie să-și asume rolurile menționate mai sus <br>
+în momentul în care jaful a început, participanții trebuie să meargă la checkpoint-ul marcat pentru a-și lua echipamentul (Binco)<br>
+bomber-ul va avea o altă locație în care trebuie să meargă pentru a confecționa bombele<br>
+restul participanților vor merge la bancă și își vor efectua pașii până când bomber-ul va apărea<br>
+în momentul în care un participant intră în bancă și nu are mască echipată (tasta M, accesibilă doar de lângă bancă/locația de confecționat bombe), alarma va suna și cei din SWAT vor fi anunțați că este un jaf în desfășurare <br>
+după explozia bombelor, participanții vor fi nevoiți să tragă în încuietoarea ușilor pentru a putea ajunge în locația unde se află lingourile cu aur <br>
+după ce toți participanții au furat lingourile, vor avea marcat un bunker aleatoriu unde vor fi nevoiți să transporte lingourile<br>
+în momentul în care au ajuns la NPC-ul de la bunker, aceștia vor apăsa tasta Y pentru a lăsa sacul cu lingourile <br>
+
+ ::: tip
+în raza bunker-ului, polițiștii vor fi marcați pe hartă 
+nu se va putea lăsa sacul cu lingourile dacă sunt polițiști în apropiere
  :::
 
  ::: details Detalii
-	- cei din SWAT vor fi recompensați pentru fiecare ucigaș făcut pe un participant la jaf cu: 5 puncte premium, 100 bpoints și aleatoriu între $1,000,000 și $1,250,000.
-	- situații în care alarma va suna și cei din SWAT vor fi anunțați:
-		- după 30 de secunde de la explozia bombelor
-		- când camerele nu au fost distruse la timp
-		- când NPC-urile de la ghiseu nu au fost amenințate suficient
-	- participanții ce vor avea mască echipată vor fi undercover și nu vor putea fi localizați.
+cei din SWAT vor fi recompensați pentru fiecare ucigaș făcut pe un participant la jaf cu: 5 puncte premium, 100 bpoints și aleatoriu între $1,000,000 și $1,250,000. <br>
+situații în care alarma va suna și cei din SWAT vor fi anunțați:<br>
+după 30 de secunde de la explozia bombelor<br>
+când camerele nu au fost distruse la timp<br>
+când NPC-urile de la ghiseu nu au fost amenințate suficient<br>
+participanții ce vor avea mască echipată vor fi undercover și nu vor putea fi localizați.<br>
  :::
 
 ::: tip Premiu
