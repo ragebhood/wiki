@@ -27,9 +27,10 @@ După ce această a fost încărcată, va fi necesar să mergi la marcajele ampl
 'Cursele de la skill 4 cu cisterna'
 Atunci cand efectuezi curse la acest skill, va fi necesar sa incarci cisterna folosind 'Y' in spatele acesteia.
 
-::: tip Cum încarc cisterna?
-![Cum încarc cisterna?](https://i.imgur.com/xHtU1W7.gif "Cum încarc cisterna?")
-:::
+<div class="tip-container">
+    <p class="title">Cum încarc cisterna?</p>
+    <p class="description">![Cum încarc cisterna?](https://i.imgur.com/xHtU1W7.gif "Cum încarc cisterna?")</p>
+</div>
 
 ## Misc
 Acest job se poate practica cu ajutorul unui vehicul personal: `Bhhertwork`.
