@@ -28,8 +28,7 @@ Folosește-te de **Shark-ul** oferit pentru a ajunge acolo.
 În final, când vei ajunge la checkpoint, intră în el pentru a finaliza jafu.
 
 ## Video Tutorial :arrow_down: 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZ2CIq6h1_I?si=opLH1mDYptVa1E47&amp;controls=0;rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXyVAhWTKow?si=I89cc4iy7QyYF2VX&amp;controls=0&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 # Jaful
 
 ::: warning Detalii
