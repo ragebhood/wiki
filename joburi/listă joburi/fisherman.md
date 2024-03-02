@@ -58,9 +58,9 @@ După ce ai aruncat undița, aștepți să vină peștele că să-l poți aduce 
 
 ### Care este cel mai apropiat 24/7 de job?
 
-Cel mai apropiat business de tip '24/7' din raza job-ului 'Fisherman PB' este biz-ul cu id 10, folosește comanda '/findbiz 10' pentru a-l localiza.
+Cel mai apropiat business de tip **24/7** din raza job-ului **Fisherman PB** este biz-ul cu id 10, folosește comanda `/findbiz 10` pentru a-l localiza.
 
-Cel mai apropiat business de tip '24/7' din raza job-ului 'Fisherman LS' este biz-ul cu id 1, folosește comanda '/findbiz 1' pentru a-l localiza.
+Cel mai apropiat business de tip **24/7** din raza job-ului **Fisherman L'** este biz-ul cu id 1, folosește comanda `/findbiz 1` pentru a-l localiza.
 
 ### Cum vând peștele?
 
