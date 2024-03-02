@@ -9,7 +9,11 @@ title: Los Santos Police Department
 # Los Santos Police Department 👮 
 Această facțiune este un departament de poliție ce se ocupă cu arestarea suspecților cu wanted cu drept de predare și cu regulile de circulație.
 
-Pentru a aplica la această facțiune ai nevoie de minim nivel **10**.
+
+<div class="warning-container">
+    <p class="title">Nivel necesar</p>
+    <p class="description">Pentru a aplica la această facțiune ai nevoie de minim nivel **10**.</p>
+</div>
 
 - Regulamentul facțiunii îl poți găsi în totalitate [aici](https://ragepanel.b-hood.ro/rules/view/regulament-departamente "Link regulament LSPD").
 
