@@ -4,6 +4,7 @@ title: Hunter
 
 
 # Hunter 🐻
+
 Acțiunea jobului de vânător constă în vânarea animalelor din zonele marcate, transportarea și vinderea lor pentru a obține bani.
 
 <div class="warning-container">
@@ -15,7 +16,7 @@ Acțiunea jobului de vânător constă în vânarea animalelor din zonele marcat
     <summary>Locație</summary>
     <p>![Locatie](https://i.imgur.com/2kYj4yH.png "Locație")
     </p>
-</details
+</details>
     
 ## Muncă
 Pentru a începe munca, folosește comanda `/work` sau apasă pe tasta `Y` din locația jobului.
