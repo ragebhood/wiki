@@ -13,13 +13,16 @@ Pentru a aplica la această facțiune ai nevoie de minim nivel **10**.
 
 - Regulamentul facțiunii îl poți găsi în totalitate [aici](https://ragepanel.b-hood.ro/rules/view/regulament-departamente "Link regulament LSPD").
 
-::: details Unde se află această facțiune?
-![Locație LSPD](https://i.imgur.com/Q2k74mD.png "Locație LSPD")
-:::
+<details class="details custom-block">
+    <summary>Unde se află această facțiune?</summary>
+    <p>![Locație LSPD](https://i.imgur.com/Q2k74mD.png "Locație LSPD")</p>
+</details>
 
-::: details Cum arată?
-![HQ LSPD](https://i.imgur.com/LhjHJK4.png "HQ LSPD")
-:::
+<details class="details custom-block">
+    <summary>Cum arată?</summary>
+    <p>![HQ LSPD](https://i.imgur.com/LhjHJK4.png "HQ LSPD")</p>
+</details>
+
 
 ## Întrebări frecvente
 
