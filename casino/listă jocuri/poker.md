@@ -27,31 +27,31 @@ După schimbarea cărților, se pariază. În runda de pariere un jucător are m
 
 Vă prezentăm aici mâinile câștigătoare în ordine crescătoare:
 
-**Quintă Royala Mare**  <br>
+**Quintă Royala Mare**  
 ![image](https://i.imgur.com/k1ABHGr.gif)
 
-**Quintă Royala Mică** <br>
+**Quintă Royala Mică** 
 ![image](https://i.imgur.com/Oo2Q9br.gif)
 
-**Careu** <br>
+**Careu** 
 ![image](https://i.imgur.com/ejStOf2.gif)
 
-**Full House** <br>
+**Full House** 
 ![image](https://i.imgur.com/Ao96l1t.gif)
 
-**Culoare** <br>
+**Culoare** 
 ![image](https://i.imgur.com/BLyDsbo.gif)
 
-**Quintă** <br>
+**Quintă** 
 ![image](https://i.imgur.com/MYx7NAt.gif)
 
- **Trei perechi** <br>
+ **Trei perechi**
 ![image](https://i.imgur.com/g52jNXs.gif)
 
-**Două perechi** <br>
+**Două perechi**
 ![image](https://i.imgur.com/g52jNXs.gif)
 
-**O pereche** <br>
+**O pereche**
 ![image](https://i.imgur.com/OtucEFE.gif)
 
 <div class="tip-container">
