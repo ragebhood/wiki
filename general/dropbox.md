@@ -22,7 +22,7 @@ Cooldown-ul până la următorul drop este random, acesta este afișat după spa
 ## Cum pot vedea cât timp mai este până va cădea o nouă cutie?
 
 Poți vedea acest lucru folosindu-te de comanda `/droptime` sau din `/tog` activând **Drop info** ce-ți va pune timer-ul live pe ecran.
-![Screenshot 2024-02-23 192657](https://github.com/Alexander-AIM/wiki/assets/157987605/9da58d86-b893-4692-b244-3c4b5345a100)
+![Timer Drop] (https://i.imgur.com/1GBE1br.png)
 
 ## Ce premii pot câștiga contribuind la spargerea acestuia?
 
