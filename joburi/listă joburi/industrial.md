@@ -6,6 +6,11 @@ title:  Industrial Fisherman
 
 Acțiunea jobului de pescar industrial constă în prinderea peștilor folosindu-te de o barcă pe lac.
 
+<div class="warning-container">
+    <p class="title">Nivel necesar</p>
+    <p class="description">Pentru a munci la acest job ai nevoie de minim nivel <strong>3</strong>.</p>
+</div>
+
 <details class="details custom-block">
     <summary>Locație</summary>
     <p>![Locatie](https://i.imgur.com/QFQUStO.png "Locație")</p>
