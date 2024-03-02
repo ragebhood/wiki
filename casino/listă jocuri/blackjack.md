@@ -5,9 +5,11 @@ title: Blackjack
 # Blackjack 🖤
 Blackjack-ul este un joc de noroc, acesta a câștigat popularitate deoarece este ușor de jucat, jucătorul ce are suma cărților 21 sau cel mai aproape de 21 câștigă. 
 
-::: details Unde e masa de Blackjack?
-![image](https://i.imgur.com/gXqCR9N.gif)
-:::
+
+<details class="details custom-block">
+    <summary>Unde e masa de Blackjack?</summary>
+    <p>![Blackjack](https://i.imgur.com/gXqCR9N.gif)</p>
+</details>
 
 ## Cum se joacă o rundă de Blackjack?
 
@@ -15,7 +17,7 @@ Scopul este ca fiecare jucător să aibă o mână cu o valoare totală de 21 sa
 
 În cazul așilor (A), aceste cărți au fie valoarea 1, fie valoarea 11. În cazul în care mâna ta este mai mare decât valoarea de 21, atunci vei pierde mâna respectivă – se spune că ești **BUST**. În cazul în care ai valoarea mai mică decât cea a dealerului, însă mâna acestuia depășește valoarea de 21, ai câștigat mâna respectivă. 
 
-Inițial, dealerul și jucătorul primesc două cărți. Pe lângă cele două cărți ale sale, jucătorul mai poate vedea și o singură carte a dealerului. În funcție de situația determinată de cărți, jucătorul poate alege una dintre următoarele acțiuni: ![actiuni](https://github.com/Alexander-AIM/wiki/assets/157987605/c6de6894-d367-4481-a1c1-f2bf70f764b4)
+Inițial, dealerul și jucătorul primesc două cărți. Pe lângă cele două cărți ale sale, jucătorul mai poate vedea și o singură carte a dealerului. În funcție de situația determinată de cărți, jucătorul poate alege una dintre următoarele acțiuni: ![actiuni](https://i.imgur.com/RWnYxFj.png)
 
 
 **HIT**: jucătorul mai vrea încă o carte; 
@@ -62,7 +64,7 @@ opțiunea „SPLIT”, pentru că riști să pierzi ambele mâini.
 
 pot fi cărți suficient de mari pentru a câștiga mâna respectivă. 
 
-SPLIT în cazul altor cărți-pereche: ![Split](https://github.com/Alexander-AIM/wiki/assets/157987605/b45e4cbc-4c1b-4294-9e4d-b3c1130fc2a7)
+SPLIT în cazul altor cărți-pereche: ![Split](https://i.imgur.com/nLd3VNz.png)
 
 
 9,9: jucătorul cere **SPLIT**, doar dacă dealerul arată o carte cu valoarea cuprinsă între 2 și 6, un 8 sau un 9. În orice altă situație, se recomandă ca jucătorul să opteze pentru **STAND**, având deja un „hard 18”; 
