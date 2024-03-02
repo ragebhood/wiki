@@ -6,14 +6,18 @@ title: Courier
 
 Acțiunea jobului de curier constă în transportarea coletelor din depozit, la adresele marcate pe hartă în momentul în care începi munca.
 
-::: details Locație job
-![Locatie job Courier](https://i.imgur.com/ozWT9Es.png "Locație job Courier")
-:::
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/ozWT9Es.png "Locație")</p>
+</details>
+
 ## Muncă
 Pentru a începe munca, folosește comanda `/work` sau apasă pe tasta `Y` din locația jobului.
-::: details Locație start job
-![Locatie job Courier](https://i.imgur.com/tUIZQV0.png "Locație job Courier")
-:::
+
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/tUIZQV0.png "Locație")</p>
+</details>
 
 În momentul în care ai început munca, ți se vă oferi un vehicul de tip 'bhordtransittrail22' cu care vei începe să muncești. Urmează checkpoint-ul de pe hartă pentru a încarca coletele în vehicul.
 
