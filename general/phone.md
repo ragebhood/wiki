@@ -47,7 +47,7 @@ Pentru a reveni la meniul principal, apasă tasta `ESC`.
 ![Selfie cam](https://i.imgur.com/cNjMJwa.png "Selfie cam")
 
 ### Gallery 📃
-![Aplicația Gallery](https://i.imgur.com/cF6hUai.png "Aplicația Gallery")
+![Aplicația Gallery](https://i.imgur.com/6dBEjaM.png "Aplicația Gallery")
 
 Pe această aplicație poți vedea cele mai recente poze făcute pe aplicația Camera. Pentru o vedere mai detaliată a pozei capturate, poți să apeși pe ea iar telefonul se va roti.
 
@@ -94,9 +94,9 @@ Pe această aplicație poți vedea:
 - **Prețul peștilor pe piață**
 - **Prețul animalelor pe piață**
 
-![Aplicația Market Ore Prices](https://i.imgur.com/OTI5WYA.png "Aplicația Market Ore Prices")
-![Aplicația Market Fish Prices](https://i.imgur.com/AEwiwqz.png "Aplicația Market Fish Prices")
-![Aplicația Market Animals Prices](https://i.imgur.com/NlL0hqP.png "Aplicația Market Animals Prices")
+![Aplicația Market Ore Prices](https://i.imgur.com/1CEzusC.png "Aplicația Market Ore Prices")
+![Aplicația Market Fish Prices](https://i.imgur.com/Q28jbAG.png "Aplicația Market Fish Prices")
+![Aplicația Market Animals Prices](https://i.imgur.com/C3X9LUs.png "Aplicația Market Animals Prices")
 
 ### Service 🎧
 ![Aplicația Service](https://i.imgur.com/H9v2IO4.png "Aplicația Service")

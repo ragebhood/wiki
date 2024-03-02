@@ -5,15 +5,18 @@ title: Pizzaboy
 # Pizzaboy 🍕
 Acțiunea job-ului de Pizzar constă în transportarea cutiilor de pizza către clienți.
 
-::: details Locație job
-![Locație job Pizzaboy](https://i.imgur.com/e28Pixs.png "Locație job Pizzaboy")
-:::
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/e28Pixs.png "Locație")</p>
+</details>
 
 ## Muncă
 Pentru a începe munca, folosește comanda `/work` sau apasă pe tasta `Y` din locația jobului.
-::: details Locație start job
-![Locație job Pizzaboy](https://i.imgur.com/IsFDFjm.png "Locație job Pizzaboy")
-:::
+
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/IsFDFjm.png "Locație")</p>
+</details>
 
 În momentul în care ai început munca, ți se va oferi un vehicul de tip `Faggio` (la skill 1) cu care vei începe să muncești. Urmează checkpoint-ul de pe hartă pentru a încarca cutiile de pizza.🍕
 

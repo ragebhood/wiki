@@ -5,14 +5,20 @@ title: Bus driver
 # Bus driver 🚌
 
 Acțiunea jobului șofer de autobuz constă în transportarea pasagerilor către destinația finală.
-::: details Locație job
-![Locație job Bus Driver](https://i.imgur.com/C1Lh0k6.png "Locație job Bus Driver")
-:::
+
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/C1Lh0k6.png "Locație")</p>
+</details>
+
 ## Muncă
 Pentru a începe munca, folosește comanda `/work` sau apasă pe tasta `Y` din locația jobului.
-::: details Locație start job
-![Locație job Bus Driver](https://i.imgur.com/spHgbwe.png "Locație job Bus Driver")
-:::
+
+
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/spHgbwe.png "Locație")</p>
+</details>
 
 În momentul când ai început muncă ți se va oferi un vehicul de tip `bus` cu care îți vei efectua jobul. Alege-ți ruta, iar apoi mergi în checkpointurile primite pentru a transporta pasagerii către destinație lor finală.
 

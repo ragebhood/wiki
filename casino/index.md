@@ -5,10 +5,10 @@ title: Informații generale
 # Informații generale 💁‍♂️
 Bun venit la casino-ul nostru de pe RAGE B-Hood! Aici vei descoperi o varietate de jocuri captivante și incitante, care te vor purta în lumea palpitantă a norocului și a strategiei. Sistemul nostru de casino este gândit pentru a oferi o experiență de joc autentică și distractivă, cu o gamă largă de opțiuni pentru toți pasionații de jocuri de noroc.
 
-::: details Unde se află Casinoul?
-![image](https://github.com/Alexander-AIM/wiki/assets/157987605/69bce85b-69e0-48ac-93a8-18c437cdc9a2)
-:::
-
+<details class="details custom-block">
+    <summary>Unde se află Casinoul?</summary>
+    <p>![Casino](https://i.imgur.com/5FlXyzm.png)</p>
+</details>
 
 <div class="danger-container">
     <p class="title">ATENȚIE!</p>

@@ -48,11 +48,11 @@ Mai jos, ai explicații despre toate componentele paginii:
 În această componentă va trebui să adaugi titlul anunțului tău, categoria din care face parte anunțul tău, prețul (negociabil / schimb / preț fix)
 
 ### Item
-![Anunt nou - Item](https://file.removal.ai/preview/f2e99dde-8236-445a-8cd9-7d7bf28bf7a6-image.png "Anunt nou - Item")
+![Anunt nou - Item](https://i.imgur.com/Wie2gyF.png)
 
 În această componentă vei alege item-ul pe care dorești să-l vinzi. Poți adăuga mai multe iteme în același anunț dacă doreși.
 
-![Anunt nou - Item choose](https://file.removal.ai/preview/efd6a397-4629-449e-acd0-ece22cf5e68b-image.png "Anunt nou - Item choose")
+![Anunt nou - Item choose](https://i.imgur.com/x4osxsC.png "Anunt nou - Item choose")
 
 ### Descriere
 ![Descriere](https://i.imgur.com/pqX1oOP.png "Descriere")
