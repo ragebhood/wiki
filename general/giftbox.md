@@ -29,11 +29,11 @@ Poți să vezi ce skill ai prin intermediul comenzii `/skills`.
 | 1.  Money $1,000,000-$5,000,00             | (15.1%)       |
 | 2.  BPoints [100-700]                         | (15.1%)       |
 | 3.  Materials [1000-5000]                     | (10%)         |
-| 4.  [Winter Crate](./general/crates.md#winter-crate-❄%EF%B8%8F)                               | (4%)          |
+| 4.  [Winter Crate](./general/crates#winter-crate-❄%EF%B8%8F)                               | (4%)          |
 | 5.  Hidden Color                               | (8%)          |
-| 6.  [Epic Crate](./general/crates.md#epic-crate-📦)                           | (8.3%)        |
+| 6.  [Epic Crate](./general/crates#epic-crate-📦)                           | (8.3%)        |
 | 7.  Matte Color                                | (7%)          |
-| 8.  [Legendary Crate](./crates.md#legendary-crate-📦)                            | (9%)          |
+| 8.  [Legendary Crate](./crates#legendary-crate-📦)                            | (9%)          |
 | 9.  [Premium Account 1d](./general/account%20upgrades/premium)                         | (2%)          |
 | 10. [Premium Account 2d](./general/account%20upgrades/premium)                        | (3.3%)        |
 | 11. [Premium Account 3d](./general/account%20upgrades/premium)                        | (4%)          |
@@ -50,11 +50,11 @@ Poți să vezi ce skill ai prin intermediul comenzii `/skills`.
 | 1.  Money $2,000,000-$7,500,000             | (12.2%)       |
 | 2.  BPoints [200-800]                         | (15%)         |
 | 3.  Materials [2000-6000]                     | (10%)         |
-| 4.  [Winter Crate](./general/crates.md#winter-crate-❄%EF%B8%8F)                               | (5%)          |
+| 4.  [Winter Crate](./general/crates#winter-crate-❄%EF%B8%8F)                               | (5%)          |
 | 5.  Hidden Color                               | (10%)         |
-| 6.  [Cupidon Crate](./general/crates.md#cupidon-crate-💏)                        | (2%)          |
+| 6.  [Cupidon Crate](./general/crates#cupidon-crate-💏)                        | (2%)          |
 | 7.  Matte Color                                | (7%)          |
-| 8.  [Legendary Crate](./general/crates.md#legendary-crate-📦)                            | (8%)          |
+| 8.  [Legendary Crate](./general/crates#legendary-crate-📦)                            | (8%)          |
 | 9.  [Premium Account 2d](./general/account%20upgrades/premium)                         | (3.3%)        |
 | 10. [Premium Account 3d](./general/account%20upgrades/premium)                        | (4%)          |
 | 11. [Premium Account 4d](./general/account%20upgrades/premium)                        | (4%)          |
@@ -71,11 +71,11 @@ Poți să vezi ce skill ai prin intermediul comenzii `/skills`.
 | 1. Money $3,500,000-$10,000,000            | (17.6%)       |
 | 2. BPoints 350-900                         | (15%)         |
 | 3. Materials[3000-7000                     | (12%)         |
-| 4. [Winter Crate](./general/crates.md#winter-crate-❄%EF%B8%8F)                               | (4.5%)        |
+| 4. [Winter Crate](./general/crates#winter-crate-❄%EF%B8%8F)                               | (4.5%)        |
 | 5. Hidden Color 2x                            | (8.3%)        |
-| 6. [Cupidon Crate](./general/crates.md#cupidon-crate-💏)                              | (2.5%)        |
+| 6. [Cupidon Crate](./general/crates#cupidon-crate-💏)                              | (2.5%)        |
 | 7. Matte Color                                | (7%)          |
-| 8. [Spring Crate](./general/crates.md#spring-crate-🌹)                               | (2%)          |
+| 8. [Spring Crate](./general/crates#spring-crate-🌹)                               | (2%)          |
 | 9. Race Points 100-250                      | (4.3%)        |
 | 10. [Premium Account 4d](./general/account%20upgrades/premium)                       | (4%)          |
 | 11. [Premium Account 5d](./general/account%20upgrades/premium)                        | (3%)          |
@@ -96,8 +96,8 @@ Poți să vezi ce skill ai prin intermediul comenzii `/skills`.
 | 5. Matte Color 2x                            | (10%)         |
 | 6. [Nostalgia Crate](./general/crates#nostalgia-crate-📦)                            | (2%)          |
 | 7. Chrome Color                               | (7.9%)        |
-| 8. [Cupidon Crate](./general/crates.md#cupidon-crate-💏)                              | (3%)          |
-| 9. [Spring Crate](./general/crates.md#spring-crate-🌹)                                | (3.5%)        |
+| 8. [Cupidon Crate](./general/crates#cupidon-crate-💏)                              | (3%)          |
+| 9. [Spring Crate](./general/crates#spring-crate-🌹)                                | (3.5%)        |
 | 10. [Premium Account 6d](./general/account%20upgrades/premium)                       | (5%)          |
 | 11. [VIP Account 4d](./general/account%20upgrades/vip)                           | (4%)          |
 | 12. MP3                                       | (3%)          |
@@ -117,7 +117,7 @@ Poți să vezi ce skill ai prin intermediul comenzii `/skills`.
 | 6. [Workers Crate](./general/crates#workers-crate-👷)                              | (3%)          |
 | 7. Respect Points 10-30                    | (8%)          |
 | 8. [Easter Crate](./general/crates#easter-crate-🐇)                               | (3%)          |
-| 9. [Spring Crate](./general/crates.md#spring-crate-🌹)                               | (3%)          |
+| 9. [Spring Crate](./general/crates#spring-crate-🌹)                               | (3%)          |
 | 10. [Premium Account 7d](./account%20upgrades/premium)                       | (7%)          |
 | 11. [VIP Account 3d](./general/account%20upgrades/vip)                           | (5%)          |
 | 12. [VIP Account 5d](./general/account%20upgrades/vip)                           | (7%)          |
@@ -149,7 +149,7 @@ Poți să vezi ce skill ai prin intermediul comenzii `/skills`.
 
 ## Intrebari frecvente
 
-### Dacă primesc un vehicul din giftbox și nu am slot livber, îl mai primesc?
+### Dacă primesc un vehicul din giftbox / lucky wheel / quest special și nu am slot liber, îl mai primesc?
 Da, atunci când câștigi un vehicul din **Giftbox** vei primi și un **VehicleSlot**.
 
 
