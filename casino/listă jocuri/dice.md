@@ -4,12 +4,12 @@ title: Barbut
 # Barbut 🎲
 Barbut este un joc de noroc tradițional jucat cu trei zaruri. Jocul implică parierea pe rezultatele posibile atunci când cei trei zaruri sunt aruncați. Există diferite variante ale jocului, dar în general, jucătorii pariază pe combinații de zaruri și câștigă în funcție de rezultatele acestora.
 
-::: info
-Te poți juca acest joc de noroc oriunde in casino folosindu-te de comanda `/dice`.
+<div class="info-container">
+    <p class="title">Info</p>
+    <p class="description">Te poți juca acest joc de noroc oriunde in casino folosindu-te de comanda `/dice`.
 Limita de pierdere este de 50 de mâini pe zi.
-:::
-
-
+    </p>
+</div>
 
 <details class="details custom-block">
     <summary>Cum arată interfața?</summary>
