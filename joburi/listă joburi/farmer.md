@@ -4,14 +4,19 @@ title: Farmer
 
 # Farmer 🚜
 Acțiunea job-ului de fermier constă în adunarea balotilor și transportarea lor către hambar
-::: details Locație job
-![Locatie job Farmer](https://i.imgur.com/y7OY7ec.png "Locație job Farmer")
-:::
+
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/y7OY7ec.png "Locație")</p>
+</details>
+
 ## Muncă
 Pentru a începe munca, folosește comanda `/work` sau apasă pe tasta `Y` din locația jobului.
-::: details Locație start job
-![Locatie job Farmer](https://i.imgur.com/4nCHdz6.png "Locație Farmer")
-:::
+
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/4nCHdz6.png "Locație")</p>
+</details>
 
 În momentul când ai început munca ți se va oferi un vehicul de tip `tractor` cu care îți vei efectua jobul. Urmează marcajul primit (cerc galben), odata ajuns acolo mergi cu tractorul langa acesta si apasa pe tasta 'Y' atunci cand te aflii cu spatele tractorului lipit de balot.
 ![Cum iau balotul?](https://i.imgur.com/Re7WUZ8.gif "Cum iau balotul?")
