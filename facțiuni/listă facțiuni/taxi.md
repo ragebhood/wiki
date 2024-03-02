@@ -2,10 +2,6 @@
 title: Taxi Company
 ---
 
-<p align="center">
-    <img width="200" src="https://i.imgur.com/Z3DRUSC.png" alt="taxi">
-</p>
-
 # Taxi Company 🚕
 Această facțiune se ocupă cu transportul jucătorilor într-o anumită locație contra-cost.
 
