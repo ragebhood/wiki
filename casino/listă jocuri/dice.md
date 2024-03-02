@@ -10,9 +10,11 @@ Limita de pierdere este de 50 de mâini pe zi.
 :::
 
 
-::: details Cum arată interfața?
-![image-removebg](https://github.com/Alexander-AIM/wiki/assets/157987605/bced358f-0678-4065-a895-6986a040f3d8)
-:::
+
+<details class="details custom-block">
+    <summary>Cum arată interfața?</summary>
+    <p>![HQ Paramedic](https://i.imgur.com/iHWqBgl.png)</p>
+</details>
 
 Suma minimă pe care o poți juca este de $10.000 înmulțit cu nivelul tău, iar cea maximă este de $250.000 înmulțit cu nivelul tău
 Dacă vei câștiga, vei primi 95 la sută din suma totală deoarece serverul va percepe un comision de 5%.
