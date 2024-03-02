@@ -12,10 +12,12 @@ Te simți plictisit și crezi că nu mai ai nimic de făcut? Încearcă comanda 
 
 # Magazin
 
-::: details Cum îl pot accesa?
 
-![Meniu AP](https://i.imgur.com/uuPaaTO.gif)
-:::
+<details class="details custom-block">
+    <summary>Cum îl pot accesa?</summary>
+    <p>![Meniu AP](https://i.imgur.com/uuPaaTO.gif)</p>
+</details>
+
 
 ## Ce pot cumpăra din Magazinul de Activități și de câte Puncte de Activitate am nevoie?
 
