@@ -5,17 +5,23 @@ title: Tow Truck Company
 # Tow Truck Company 🗼
 Această facțiune se ocupă cu tractarea vehiculelor parcate neregulamentar, repararea mașinilor, umplerea rezervoarelor și efectuarea de revizii tehnice.
 
-Pentru a aplica la această facțiune ai nevoie de minim nivel **7**.
+<div class="warning-container">
+    <p class="title">Nivel necesar</p>
+    <p class="description">Pentru a aplica la această facțiune ai nevoie de minim nivel <strong>7</strong>.</p>
+</div>
 
 - Regulamentul facțiunii îl poți găsi în totalitate [aici](https://ragepanel.b-hood.ro/rules/view/regulament-mecanici "Regulament Tow Truck Company").
 
-::: details Unde se află această facțiune?
-![Locație HQ Tow Truck Company](https://i.imgur.com/C7yoBG7.png "Locație HQ Tow Truck Company")
-:::
+<details class="details custom-block">
+    <summary>Unde se află această facțiune?</summary>
+    <p>![Locație HQ Tow Truck Company](https://i.imgur.com/C7yoBG7.png "Locație HQ Tow Truck Company")</p>
+</details>
 
-::: details Cum arată?
-![HQ Tow Truck Company](https://i.imgur.com/HYOoh6s.png "HQ LSPD")
-:::
+<details class="details custom-block">
+    <summary>Cum arată?</summary>
+    <p>![HQ Tow Truck Company](https://i.imgur.com/HYOoh6s.png "HQ TTC")</p>
+</details>
+
 
 ## Restore
 Dacă simți că vehiculul tău nu mai trage cu putere, atunci cu siguranță va trebui să apelezi la un mecanic.
