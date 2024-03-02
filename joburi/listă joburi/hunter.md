@@ -100,9 +100,9 @@ Armele pot fi îmbunătățite în locația specială în schimbul unei sume de 
 :::
 ## Cum arată aceste animale?
 
-<p align="center">
-    <img width="600" src="https://i.imgur.com/OPrm6qj.png" alt="Material Bread logo">
-</p>
+![animal](https://i.imgur.com/Dg1G4J9.png)  ![animal](https://i.imgur.com/f4Hy9P8.png) ![animal](https://i.imgur.com/B0id3d6.png) 
+![animal](https://i.imgur.com/w9SuG8Z.png) ![animal](https://i.imgur.com/nX6R2YQ.png)  ![animal](https://i.imgur.com/zAkIDKi.png)
+![animal](https://i.imgur.com/ggEdOak.png)  ![animal](https://i.imgur.com/XmXMXM9.png) 
 
 ## Cum pot activa vederea ternmica la arma de skill 6?
 
