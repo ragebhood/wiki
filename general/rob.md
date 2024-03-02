@@ -1,5 +1,5 @@
 ---
-title: Rob / Jaful Rob
+title: Rob / Heist
 ---
 
 # Rob
@@ -40,6 +40,8 @@ Folosește-te de **Shark-ul** oferit pentru a ajunge acolo.
 
 ## Video Tutorial :arrow_down: 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zXyVAhWTKow?si=I89cc4iy7QyYF2VX&amp;controls=0&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br> <hr>
+
 
 # Heist
 
