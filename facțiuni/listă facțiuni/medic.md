@@ -2,10 +2,6 @@
 title: Paramedic Department
 ---
 
-<p align="center">
-    <img width="200" src="https://i.imgur.com/nkuWqm5.png" alt="paramedic">
-</p>
-
 # Paramedic Department 🏥
 Această facțiune se ocupă cu acordarea de heal jucătorilor cu HP-ul scăzut în schimbul unei sume de bani.
 
