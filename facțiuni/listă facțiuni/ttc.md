@@ -30,7 +30,7 @@ Simptomele unui vehicul care necesită revizie: performanța vehiculului este re
 ![Mesaj de atenționare revizie](https://i.imgur.com/RkTDiDL.png "Mesaj de atenționare revizie")
 
 Aceste simptome vor apărea atunci când viața motorului ajunge la 7.500 de puncte (pentru vehiculele fără upgrade la **VIP/VIP+**), 10.000 de puncte (pentru vehiculele **VIP**) și/sau 15.000 puncte (vehiculele **VIP+**):
-![Verificare Engine Health](https://i.imgur.com/5FfT7Ez.png "Verificare Engine Health")
+![Verificare Engine Health](https://i.imgur.com/5v3N2iT.png "Verificare Engine Health")
 
 Nu se poate folosi comanda `/restore` înainte de a acumula toate punctele necesare pentru revizie (ex: dacă jucătorul are 6.700 puncte din 7.500 nu poate solicita revizie de la un mecanic).
 
@@ -43,7 +43,6 @@ Primul pas este să parchezi mașina la unul dintre elevatoarele disponibile, s�
     <p class="description">
         Pentru a ridica capota, trebuie să accesați Car Panel apăsând tasta `P` și să apăsați pe icon-ul specific capotei: 
         ![Deschidere capotă](https://i.imgur.com/1HGleee.png "Deschidere capotă")
-
         Acest hotkey poate fi modificat din meniul de Setări.
     </p>
 </div>
