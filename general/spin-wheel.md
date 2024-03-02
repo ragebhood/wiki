@@ -13,8 +13,8 @@ Te simți norocos și vrei să mai dai o data de roată? Contra-cost poți să m
 
 ## Vehiculele ce pot fi castigate la acesta
 
-- Nivel 1: bhswagenpassatb8 (Volkswagen Passat b8)
-- Nivel 2: bhdillacct4vbw22 ( Cadillac Ct4)
-- Nivel 3: bhwm5e60v2 (BMW M5 e60 v2) 
-- Nivel 4: bhorschecayennegt22 (Porsche Cayenne gt) 
+- Nivel 1: **bhswagenpassatb8** (Volkswagen Passat b8)
+- Nivel 2: **bhdillacct4vbw22** ( Cadillac Ct4)
+- Nivel 3: **bhwm5e60v2** (BMW M5 e60 v2) 
+- Nivel 4: **bhorschecayennegt22** (Porsche Cayenne gt) 
 
