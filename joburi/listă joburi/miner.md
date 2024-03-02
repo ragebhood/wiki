@@ -6,9 +6,11 @@ title: Miner
 
 Acțiunea job-ului de miner constă în minarea minereurilor  într-o mină cu scopul de a le vinde pentru bani.
 
-::: details Locație job
-![Locație job Miner](https://i.imgur.com/TPGCLmm.png "Locație job Miner")
-:::
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/TPGCLmm.png "Locație")</p>
+</details>
+
 ## Muncă
 Pentru a începe munca tastează comânda `/mine` și mergi la checkpointurile marcate pentru a începe mineritul.
 
@@ -26,9 +28,11 @@ Pentru a începe munca tastează comânda `/mine` și mergi la checkpointurile m
 
 ## Caracteristici
 Târnăcopul poate fi îmbunătățit în locația specială în schimbul unei sume de bani sau de mineree folosind comandă `/pickaxeupgrade`.
-::: details Unde este această locație?
-![Locație pickaxe upgrade](https://i.imgur.com/A6GUAx7.png "Locație weapon upgrade")
-:::
+
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/A6GUAx7.png "Locație")</p>
+</details>
 
 ### Ture necesare pentru skill up:
 
