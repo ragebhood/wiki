@@ -39,7 +39,6 @@ Poți face orice job în continuare până când materialele se vor prelucra.
     <p class="title">ATENȚIE!</p>
     <p class="description">
         Nu vei putea pune materiale la prelucrat dacă ai deja materiale de colectat.
-
         Colectează-ți mai întâi materialele prelucrate, iar apoi mergi și pune altele la prelucrat.
     </p>
 </div>
