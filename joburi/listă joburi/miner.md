@@ -6,6 +6,11 @@ title: Miner
 
 Acțiunea job-ului de miner constă în minarea minereurilor  într-o mină cu scopul de a le vinde pentru bani.
 
+<div class="warning-container">
+    <p class="title">Nivel necesar</p>
+    <p class="description">Pentru a munci la acest job ai nevoie de minim nivel <strong>3</strong>.</p>
+</div>
+
 <details class="details custom-block">
     <summary>Locație</summary>
     <p>![Locatie](https://i.imgur.com/TPGCLmm.png "Locație")</p>
