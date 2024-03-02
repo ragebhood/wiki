@@ -6,23 +6,36 @@ title: Hunter
 # Hunter 🐻
 Acțiunea jobului de vânător constă în vânarea animalelor din zonele marcate, transportarea și vinderea lor pentru a obține bani.
 
-::: details Locație job
-![Locație job Hunter](https://i.imgur.com/2kYj4yH.png "Locație job Hunter")
-:::
+<div class="warning-container">
+    <p class="title">Nivel necesar</p>
+    <p class="description">Pentru a munci la acest job ai nevoie de minim nivel <strong>3</strong>.</p>
+</div>
+
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/2kYj4yH.png  "Locație")</p>
+</details
+    
 ## Muncă
 Pentru a începe munca, folosește comanda `/work` sau apasă pe tasta `Y` din locația jobului.
-::: details Locație start job
-![Locație job Hunter](https://i.imgur.com/Rj6hGUR.png "Locație job Hunter")
-:::
-::: tip RADAR
-Apasă pe tasta `R` pentru a activa radarul și a vedea poziția animalelor pe harta. Prețul radarului este de $50.000 înmulțit cu skill-ul tău.
-:::
+
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/Rj6hGUR.png  "Locație")</p>
+</details>
+
+<div class="tip-container">
+    <p class="title">Radar</p>
+    <p class="description">Apasă pe tasta `R` pentru a activa radarul și a vedea poziția animalelor pe harta. Prețul radarului este de $50.000 înmulțit cu skill-ul tău.</p>
+</div>
 
 Atunci când vei începe muncă, vei primi  vehicul de tip `veloraphunt` pe perioada muncii. Mergi în zona marcată pe hartă cu un `cerc maro-portocaliu`, aceea o să fie zona ta în care o să iți desfășori vânătoarea.
 
-::: details Cum arată zona respectivă?
-![ZONA](https://i.imgur.com/QO3xis0.png "Zona Hunter")
-:::
+<details class="details custom-block">
+    <summary>Cum arată zona respectivă?</summary>
+    <p>![Locatie](https://i.imgur.com/QO3xis0.png "Locație")</p>
+</details>
+
 
 Odată ajuns, da-te jos din mașînă și începe să vânezi animalele cu arma primită la începerea job-ului. După ce ai omorât un animal, mergi la el și ridică-l de jos pe tasta `Y`, apoi mergi cu el în spatele vehiculului și apasă tot tasta `Y` pentru a-l pune în remorcă.
 
@@ -32,16 +45,16 @@ După ce le-ai descărcat, acestea se vor depozita în inventarul tău cu animal
 
 ## Caracteristici
 Armele pot fi îmbunătățite în locația specială în schimbul unei sume de bani folosind comandă `/weaponupgrade`.
-::: details Unde este această locație?
-![Locație Weapon upgrade](https://i.imgur.com/Rj6hGUR.png "Locație weapon upgrade")
-:::
 
+<details class="details custom-block">
+    <summary>Unde este această locație?</summary>
+    <p>![Locatie](https://i.imgur.com/Rj6hGUR.png "Locație")</p>
+</details>
 
 <div class="danger-container">
     <p class="title">ATENȚIE!</p>
     <p class="description">
         Nu vei putea alerga cu un urs sau o căprioară în brațe și animalele moarte se vor vedea pe hartă. 
-
         Timp de așteptare pentru refolosire radar 300 de secunde, dar o să scadă câte 15 secunde la fiecare animal mort.
     </p>
 </div>
