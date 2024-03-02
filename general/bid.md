@@ -12,7 +12,6 @@ Totodată ai șansa de a-ți cumpăra un bun la o valoare de piață mai scăzut
     <p class="title">ATENȚIE!</p>
     <p class="description">
         Jucătorii ce dețin **afaceri**, **jobs** sau **case** care nu vor avea cel puțin **3 ore jucate** într-un interval de 30 de zile, bunurile vor fi retrase și puse la licitație.
-
         Vehiculele celor ce au primit o interdicție **permanentă** vor fi scoase la licitație împreună cu **afacerile**, **casele** sau **job-urile** ce aceștia le dețineau.
     </p>
 </div>
