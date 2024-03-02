@@ -12,7 +12,7 @@ Race Arena reprezintă un sanctuar al vitezei, un loc captivant unde te poți an
 
 <details class="details custom-block">
     <summary>Unde se află arena de curse?</summary>
-    <p>![Grand Theft Auto V Screenshot 2024 02 23 - 00 00 45 25](https://github.com/Alexander-AIM/wiki/assets/157987605/f320a4a1-dbee-40b7-8af8-11a462577541)</p>
+    <p>![Grand Theft Auto V Screenshot 2024 02 23 - 00 00 45 25](https://i.imgur.com/vXb9puN.png)</p>
 </details>
 
 Pentru a intră în **Race Arena** apasă pe tasta `Y` atunci când te afli în față acesteia.
@@ -20,7 +20,7 @@ Imediat îți va apărea o interfață unde va fi necesar să votezi pentru tipu
 
 <details class="details custom-block">
     <summary> Ce tipuri de curse sunt disponibile?</summary>
-    <p>![Grand Theft Auto V Screenshot 2024 02 23 - 00 00 52 46](https://github.com/Alexander-AIM/wiki/assets/157987605/98afb899-ec52-4501-9a8b-ab13231fd745)</p>
+    <p>![Grand Theft Auto V Screenshot 2024 02 23 - 00 00 52 46](https://i.imgur.com/OI90Qxg.png)</p>
 </details>
 
 După ce este ales tipul de curse va fi necesar să votezi pentru vehiculul dorit (vehiculele diferă în funcție de tipul de cursa).
