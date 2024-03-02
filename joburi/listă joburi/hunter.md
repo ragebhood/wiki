@@ -35,11 +35,17 @@ Armele pot fi îmbunătățite în locația specială în schimbul unei sume de 
 ::: details Unde este această locație?
 ![Locație Weapon upgrade](https://i.imgur.com/Rj6hGUR.png "Locație weapon upgrade")
 :::
-::: danger ATENȚIE
-Nu vei putea alerga cu un urs sau o căprioară în brațe și animalele moarte se vor vedea pe hartă. 
 
-Timp de așteptare pentru refolosire radar 300 de secunde, dar o să scadă câte 15 secunde la fiecare animal mort.
-::: 
+
+<div class="danger-container">
+    <p class="title">ATENȚIE!</p>
+    <p class="description">
+        Nu vei putea alerga cu un urs sau o căprioară în brațe și animalele moarte se vor vedea pe hartă. 
+
+        Timp de așteptare pentru refolosire radar 300 de secunde, dar o să scadă câte 15 secunde la fiecare animal mort.
+    </p>
+</div>
+
 ### Ture necesare pentru skill up:
 
 | Skill         |  animale   |

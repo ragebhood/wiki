@@ -27,9 +27,11 @@ După ce ai aruncat undița, aștepți să vină peștele că să-l poți aduce 
 ## Misc
 Șansă de 1% de a prinde un sac de bani, un portofel cu puncte premium, puncte 'B-Points' sau un crate de tip 'Workers'
 
-::: danger ATENȚIE!
-Vei avea șansa de 1% de a prinde un rechin, care o să te ucidă automat
-:::
+<div class="danger-container">
+    <p class="title">ATENȚIE!</p>
+    <p class="description">Vei avea șansa de 1% de a prinde un rechin, care o să te ucidă automat.</p>
+</div>
+
 ### Ture necesare pentru skill up:
 
 | Skill         |  peşti  |

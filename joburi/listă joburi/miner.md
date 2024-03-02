@@ -11,9 +11,13 @@ Acțiunea job-ului de miner constă în minarea minereurilor  într-o mină cu s
 :::
 ## Muncă
 Pentru a începe munca tastează comânda `/mine` și mergi la checkpointurile marcate pentru a începe mineritul.
-::: danger ATENȚIE
-Acest job nu-ți va oferi un vehicul cu care să te deplasezi pe durata muncii.
-:::
+
+
+<div class="danger-container">
+    <p class="title">ATENȚIE!</p>
+    <p class="description">Acest job nu-ți va oferi un vehicul cu care să te deplasezi pe durata muncii.</p>
+</div>
+
 > Această acțiune se repetă.
 
  După ce ai ajuns la checkpoint, intră în el pentru a mina urmând ca la final să te deplasezi la următorul checkpoint.

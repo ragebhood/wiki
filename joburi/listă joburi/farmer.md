@@ -24,9 +24,12 @@ Totodata, dacă în timp ce muncești, vehiculul se va umple, ți se va plasa au
 ## Misc
 Acest job se poate practica cu ajutorul unui vehicul personal: `Bhtractorwork`.
 Atunci când vei folosi vehiculul personal în timp ce muncești, acesta iti va oferi cu **40%** mai multă făină atunci când transporți baloți la hambar.
-::: Danger Faina
-Făina din hambar îți va rămâne în momentul în care te vei deconecta sau vei muri, însă făina primită după ce ai livrat-o ('/unloadflour') îți va rămâne doar dacă deți minim 'Backpack' nivel '3'.
-:::
+
+<div class="danger-container">
+    <p class="title">ATENȚIE!</p>
+    <p class="description">Făina din hambar îți va rămâne în momentul în care te vei deconecta sau vei muri, însă făina primită după ce ai livrat-o ('/unloadflour') îți va rămâne doar dacă deți minim 'Backpack' nivel '3'.</p>
+</div>
+
 ### Ture necesare pentru skill up:
 
 | Skill         | descărcări de făina|

@@ -78,9 +78,11 @@ Dacă apeși pe acest widget, vei fi redirecționat pe o pagină unde vei vedea 
 
 ## Meniul administrativ a clanului
 Cu ajutorul acestui meniu poți controla diferite aspecte ale clanului.
-::: danger ATENȚIE!
-Acest meniu poate fi accesat doar de liderul clanului.
-:::
+
+<div class="danger-container">
+    <p class="title">ATENȚIE!</p>
+    <p class="description">Acest meniu poate fi accesat doar de liderul clanului.</p>
+</div>
 
 ### Set color & motd
 ![Secțiunea de setare a culorii clanului și mesajul zilei](https://i.imgur.com/3cZCS4f.png "Secțiunea de setare a culorii clanului și mesajul zilei")
@@ -132,9 +134,10 @@ Acest upgrade costă 3000 de premium points și îți deblochează următoarele 
 **Job Boost**: 100%
 **Vehicule spawnate simultan**: 25
 
-::: danger ATENȚIE!
-Pentru a beneficia de capacitatea maximă de membri a upgrade-ului, trebuie ca liderul să achiziționeze din meniul administrativ a clanului sloturile până la capacitatea maximă.
-:::
+<div class="danger-container">
+    <p class="title">ATENȚIE!</p>
+    <p class="description">Pentru a beneficia de capacitatea maximă de membri a upgrade-ului, trebuie ca liderul să achiziționeze din meniul administrativ a clanului sloturile până la capacitatea maximă.</p>
+</div>
 
 ## Alianțe
 Alianțele sunt grupări de clanuri care s-au aliat pentru a domina celălalte clanuri de pe server. Pentru a te alia cu un alt clan, ai nevoie să fi liderul clanului și să folosești comanda `/alliance` pe un jucător care este un alt lider al unui clan. Dacă dorești pe viitor să nu mai fi aliatul respectivului clan, ai la dispoziție comanda `/removealliance`.

@@ -19,9 +19,12 @@ Există mai multe modalități de a obține arme pe server precum crearea acesto
 ## De câte materiale și bani am nevoie pentru a-mi crea o armă?
 
 În funcție de armă prețurile diferă. Poți vedea o lista cu cele necesare pentru armă mai jos ⬇️
-::: danger ATENȚIE!
-Ai nevoie de minim nivel 3 pentru a-ți crea o armă.
-:::
+
+<div class="danger-container">
+    <p class="title">ATENȚIE!</p>
+    <p class="description">Ai nevoie de minim nivel 3 pentru a-ți crea o armă.</p>
+</div>
+
 **Handguns**
 
 | Armă             | Cele necesare                     | DMG în drop  |

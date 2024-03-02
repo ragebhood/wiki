@@ -22,10 +22,10 @@ Odată ce ai ajuns la un copac, apasă pe tasta 'Y' pentru a-l tăia, iar după 
 
 După ce ai primit bușteanul, mergi în lateralul vehicului și apasă pe tasta 'Y' pentru a-l încarcă.
 
-::: danger ATENȚIE!
-Dacă nu ai tăiat crengile ultimului copac și nu l-ai încărcat, nu vei mai putea tăia altul.
-:::
-
+<div class="danger-container">
+    <p class="title">ATENȚIE!</p>
+    <p class="description">Dacă nu ai tăiat crengile ultimului copac și nu l-ai încărcat, nu vei mai putea tăia altul.</p>
+</div>
 
 
 

@@ -32,9 +32,12 @@ De-a lungul procesului de revizie, mecanicul îți va oferi instrucțiuni referi
 
 Primul pas este să parchezi mașina la unul dintre elevatoarele disponibile, să oprești motorul și să ridici capota ca ulterior mecanicul să îți solicite să tastezi `/accept restore`.
 
-::: danger ATENȚIE!
-Pentru a ridica capota, trebuie să accesați Car Panel apăsând tasta `P` și să apăsați pe icon-ul specific capotei: 
-![Deschidere capotă](https://i.imgur.com/1HGleee.png "Deschidere capotă")
+<div class="danger-container">
+    <p class="title">ATENȚIE!</p>
+    <p class="description">
+        Pentru a ridica capota, trebuie să accesați Car Panel apăsând tasta `P` și să apăsați pe icon-ul specific capotei: 
+        ![Deschidere capotă](https://i.imgur.com/1HGleee.png "Deschidere capotă")
 
-Acest hotkey poate fi modificat din meniul de Setări.
-:::
+        Acest hotkey poate fi modificat din meniul de Setări.
+    </p>
+</div>

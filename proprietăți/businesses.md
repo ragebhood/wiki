@@ -51,9 +51,10 @@ De la aceste afaceri poți să închiriezi un vehicul de tip Auto / Aerian / Flu
 ## Meniul administrativ al afacerii
 Dacă ești proprietarul unei afaceri, poți să-ți administrezi afacerea prin intermediul comenzii `/bizmenu`.
 
-::: danger ATENȚIE!
-Trebuie să fii lângă afacerea pe care o deții ca să poți folosi acest meniu.
-:::
+<div class="danger-container">
+    <p class="title">ATENȚIE!</p>
+    <p class="description">Trebuie să fii lângă afacerea pe care o deții ca să poți folosi acest meniu.</p>
+</div>
 
 ![Business Menu](https://i.imgur.com/AklJCR7.png "Business Menu")
 

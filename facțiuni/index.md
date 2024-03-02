@@ -11,9 +11,10 @@ Pentru a aplica la o facțiune, apasă [aici](https://ragepanel.b-hood.ro/factio
 
 Pentru a avansa în rank la o facțiune, o să trebuiască să ai raportul complet și un număr de zile care este prezentat mai jos:
 
-::: danger ATENȚIE!
-Dacă în momentul procesării raportului ai o sancțiune de tip `FW`, nu vei primi **rank up**.
-:::
+<div class="danger-container">
+    <p class="title">ATENȚIE!</p>
+    <p class="description">Dacă în momentul procesării raportului ai o sancțiune de tip `FW`, nu vei primi **rank up**.</p>
+</div>
 
 <span style="color:#E3F2FD;"><strong>Rank 1</strong></span> se acordă automat la intrarea în facțiune.
 

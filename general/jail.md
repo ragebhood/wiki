@@ -28,9 +28,10 @@ Vei avea nevoie de:
 
 După ce ai făcut rost de toate item-urile necesare de evadare, mergi la poarta principală și apasă `Y` pentru a începe să o spargi. După ce reușești, mergi la checkpoint-ul setat de server pentru a urca într-un autobuz cu care te vei folosi să mergi la un magazin de tip **Clothing Store** pentru a-ți schimba hainele.
 
-::: danger ATENȚIE!
-După ce părăsești incinta închisorii vei primi Wanted 6 **Escaped Robbery**.
-:::
+<div class="danger-container">
+    <p class="title">ATENȚIE!</p>
+    <p class="description">După ce părăsești incinta închisorii vei primi Wanted 6 **Escaped Robbery**.</p>
+</div>
 
 ---
 

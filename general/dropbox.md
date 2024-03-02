@@ -8,9 +8,10 @@ title: Dropbox
 Dropul reprezintă o cutie care se eliberează la intervale regulate, iar prin identificarea și participarea la deschiderea sa, ai șansa de a obține diverse premii speciale.
 Informațiile privind locațiile acestuia sunt comunicate în chat-ul global în momentul eliberării.
 
-::: danger ATENȚIE!
-Pentru a participa la drop, trebuie să tragi doar cu o armă de foc în el.
-:::
+<div class="danger-container">
+    <p class="title">ATENȚIE!</p>
+    <p class="description">Pentru a participa la drop, trebuie să tragi doar cu o armă de foc în el.</p>
+</div>
 
 ## Nivele de Dropbox
 Sunt 3 nivele de dropbox, **Dropbox Nivelul 1** are o viață de **5000**, **Dropbox Nivelul 2** are o viață de **10000**, iar **Dropbox Nivelul 3** are o viață de **15000**.

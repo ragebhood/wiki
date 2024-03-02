@@ -4,9 +4,11 @@ title: Arms dealer
 
 # Arms dealer 🔫
 Acțiunea jobului de dealer de arme constă în transportarea și prelucrarea de materiale.
-::: danger ATENȚIE! 
-Ai nevoie de minim nivel 3 pentru a putea munci la acest job.
-:::
+
+<div class="danger-container">
+    <p class="title">ATENȚIE!</p>
+    <p class="description">Ai nevoie de minim nivel 3 pentru a putea munci la acest job.</p>
+</div>
 
 ::: details Locație job
 ![Locație job Arms Dealer](https://i.imgur.com/ToTs7zg.png "Arms Dealer")
@@ -27,10 +29,14 @@ Imediat ce ai descărcat vehiculul la checkpoint, mergi cu materialele în inter
 Poți face orice job în continuare până când materialele se vor prelucra.
 :::
 
-::: danger ATENȚIE!
-Nu vei putea pune materiale la prelucrat dacă ai deja materiale de colectat.
-Colectează-ți mai întâi materialele prelucrate, iar apoi mergi și pune altele la prelucrat.
-:::
+<div class="danger-container">
+    <p class="title">ATENȚIE!</p>
+    <p class="description">
+        Nu vei putea pune materiale la prelucrat dacă ai deja materiale de colectat.
+
+        Colectează-ți mai întâi materialele prelucrate, iar apoi mergi și pune altele la prelucrat.
+    </p>
+</div>
 
 
 ### Ture necesare pentru skill up:

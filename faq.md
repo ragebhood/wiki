@@ -12,20 +12,23 @@ Pentru a obține funcția de **Helper** este necesară o aplicație pe [panel](h
 Recomandat este să ai cât mai puține sancțiuni în **Last Punish**, un **Faction History** decent și un comportament adecvat pe server.
 :::
 
-::: danger ATENȚIE!
-Aplicațiile **copiate** sau scrise cu **ChatGPT** vor fi respinse sau nu vor fi luate în considerare.
-:::
+<div class="danger-container">
+    <p class="title">ATENȚIE!</p>
+    <p class="description">Aplicațiile **copiate** sau scrise cu **ChatGPT** vor fi respinse sau nu vor fi luate în considerare.</p>
+</div>
 
 ## Cum pot obține funcția de Lider?
 Pentru a obține funcția de **Lider** este necesară o aplicație pe [panel](https://ragepanel.b-hood.ro/factions/leader) și cel puțin 50 de ore jucate.
 
-::: tip SFAT
-Recomandat este să ai cât mai puține sancțiuni în **Last Punish**, un **Faction History** decent și un comportament adecvat pe server.
-:::
+<div class="tip-container">
+    <p class="title">SFAT</p>
+    <p class="description">Recomandat este să ai cât mai puține sancțiuni în **Last Punish**, un **Faction History** decent și un comportament adecvat pe server.</p>
+</div>
 
-::: danger ATENȚIE!
-Aplicațiile **copiate** sau scrise cu **ChatGPT** vor fi respinse sau nu vor fi luate în considerare.
-:::
+<div class="danger-container">
+    <p class="title">ATENȚIE!</p>
+    <p class="description">Aplicațiile **copiate** sau scrise cu **ChatGPT** vor fi respinse sau nu vor fi luate în considerare.</p>
+</div>
 
 ## De ce nu mi se deschide nimic cand folosesc '/clothes', '/stats', '/market', sau o alta interfata?
 Această problemă poate fi rezolvată prin dezactivarea setării 'Accelerated CEF Rendering' din setările RAGE:MP, dacă ești deja în joc va fii necesar un restart la rage.
@@ -237,9 +240,12 @@ Metodele de plată sunt Card, PayPal și Neosurf.
 B-Points-urile le poți folosi pentru a cumpăra crate-uri, părți de tuning pentru vehiculul personal sau îți poți upgrada undița/târnăcopul dacă acestea sunt de tip **Premium**, respectiv vei putea face upgrade la **Backpack**.
 
 ## Cum se calculează asigurarea?
-::: danger ATENȚIE
-Asigurarea îți crește în funcție de zile, prețul mașinii și km.
-:::
+
+<div class="danger-container">
+    <p class="title">ATENȚIE!</p>
+    <p class="description">Asigurarea îți crește în funcție de zile, prețul mașinii și km.</p>
+</div>
+
 Pretul asigurării: $25,000 * zile + $1000 * km + 0,05 la sută din valoarea vehiculului dacă este din **Dealership**.
 
 ## Ce nivel am nevoie pentru a plasa un anunț la CNN?
@@ -252,7 +258,12 @@ Cele mai rapide vehicule sunt **bhrrarifxxkevo**, **bhlaren765lt** și **bhiniav
 Cea mai rapidă mașină stock (fără cele de clan) este **bhordgtmk2**, care atinge viteza maximă de 255 km/h.
 
 ## Cum deschid lista cu jucători (tab score)?
-Apasă tasta `~` pentru a deschide lista cu jucători. ::: danger Butonul poate să difere în funcție de limba tastaturii tale. Spre exemplu, dacă ai tastatura în Engleză (UK), îl poți deschide de pe `'`.
+Apasă tasta `~` pentru a deschide lista cu jucători. 
+
+<div class="danger-container">
+    <p class="title">ATENȚIE!</p>
+    <p class="description">Butonul poate să difere în funcție de limba tastaturii tale. Spre exemplu, dacă ai tastatura în Engleză (UK), îl poți deschide de pe `'`</p>
+</div>
 
 ## Cum pot obține licențe?
 Licențele le poți obține de la instructorii serverului prin comanda aplicației mobile ‘Service’ dacă ai minim nivel 3.
@@ -324,7 +335,12 @@ Folosește comanda `/factions`, apasă pe butonul **Find** din dreptul facțiuni
 În funcție de nivel, ai nevoie de o sumă de bani, o sumă de **Respect Points** și de orele jucate necesare.
 
 ## Cum șterg un skin?
-Folosește `/skins`, alege skinul dorit, iar apoi apasă pe **Delete** pentru a-l șterge. ::: danger Nu răspundem de skin-urile pe care le ștergi din greșeală.
+Folosește `/skins`, alege skinul dorit, iar apoi apasă pe **Delete** pentru a-l șterge.
+
+<div class="danger-container">
+    <p class="title">ATENȚIE!</p>
+    <p class="description">Nu răspundem de skin-urile pe care le ștergi din greșeală.</p>
+</div>
 
 ## Câte ‘B-Points’ primesc la ‘Payday’ ?
 Primești 190 de ‘B-Points’ la Payday dacă ai peste 1801 secunde jucate în ora respectivă sau 60 de ‘B-Points’ dacă ai jucat mai puțin.
@@ -361,9 +377,10 @@ Pentru a rezolva această problemă apasă tasta **ESC**, intră în meniul de s
 
 ## Câte puncte premium pot primi la Level Up?
 
-::: danger ATENȚIE!
-Șansa de a primi Premium Points la avansarea în nivel este de 50%.
-:::
+<div class="danger-container">
+    <p class="title">ATENȚIE!</p>
+    <p class="description">Șansa de a primi Premium Points la avansarea în nivel este de 50%.</p>
+</div>
 
 | Nivel (Lvl)  | Puncte Premium (PP) |
 |--------------|----------------------|

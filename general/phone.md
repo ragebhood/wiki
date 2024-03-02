@@ -65,9 +65,10 @@ Cu ajutorul acestei aplicații, poți să asculți ultimele hituri de pe YouTube
 
 Pe această aplicație poți vedea cele mai recente tranzacții făcute de tine și poți transfera banii către alți jucători on-line.
 
-::: danger ATENȚIE!
-Funcționalitatea de a transfera bani on-line este permisă doar la jucătorii care dețin upgrade-ul Legend.
-:::
+<div class="danger-container">
+    <p class="title">ATENȚIE!</p>
+    <p class="description">Funcționalitatea de a transfera bani on-line este permisă doar la jucătorii care dețin upgrade-ul Legend.</p>
+</div>
 
 ### eScooter 🛴
 ![Aplicația eScooter](https://i.imgur.com/4Wth2Pz.png "Aplicația eScooter")

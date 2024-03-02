@@ -19,18 +19,6 @@ Salutare, jucătorule! 👋 Bucură-te de călătoria ta în Los Santos la noi p
 ## Cum poți contribui:
 Suntem mereu deschiși să primim feedback și sugestii din partea comunității noastre. Dacă ai idei pentru îmbunătățirea documentației sau pentru adăugarea de conținut nou, nu ezita să apeși pe butonul de `Editează această pagina pe GitHub` și adaugă conținut nou.
 
-::: danger ATENȚIE!
-Wikipedia-ul este actualizat o data la 7 zile (Luni), pentru a vedea o variantă actualizată în timp real a acestui wikipedia poți vizita link-ul de mai jos.
-:::
-
-⭐ Link wikipedia content în timp real: [redirect](https://wikib-hood.netlify.app/)
-
 😡 Ai o problemă legata de wikipedia? Intră pe [acest](https://discord.gg/vxwsH733mH) server de discord pentru a o remedia.
 
 📍 Wikipedia Crafted with 💖 by: **[iamCibu](https://github.com/cibucristi)**
-
-<script setup>
-import Contributors from './.vitepress/Contributors.vue'
-</script>
-
-<Contributors />

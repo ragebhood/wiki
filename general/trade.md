@@ -15,9 +15,10 @@ După ce acesta a acceptat, apasă pe butonul **Adaugă** și selectează-ți bu
 - Când ești pregătit, apasă pe **Pregătit** pentru a face schimbul.
 - Pentru a șterge lista de bunuri, apasă pe butonul **Șterge**
 
-::: danger ATENȚIE!
-Pentru a anula schimbul, apasă pe `ESC` sau cât de repede posibil pe **Cancel**.
-:::
+<div class="danger-container">
+    <p class="title">ATENȚIE!</p>
+    <p class="description">Pentru a anula schimbul, apasă pe `ESC` sau cât de repede posibil pe **Cancel**.</p>
+</div>
 
 Ce bunuri personale se pot adăuga într-un trade:
 - **bani**
@@ -29,9 +30,10 @@ Ce bunuri personale se pot adăuga într-un trade:
 - **Culori**
 - **Skin**
 
-::: danger ATENȚIE!
-Nu se poate efectua un trade în care se dau bani pe bani.
-:::
+<div class="danger-container">
+    <p class="title">ATENȚIE!</p>
+    <p class="description">Nu se poate efectua un trade în care se dau bani pe bani.</p>
+</div>
 
 ::: info 
 In cazul vehiculelor, dupa ce acesta a fost adăugat în lista, apăsând pe butonul **i** din dreptul acestuia vei putea să-i vezi informațiile acestuia.

@@ -3,10 +3,13 @@ title: Rob / Jaful Rob
 ---
 
 # Rob
-::: warning Necesare
-Licență de navigare <br>
-De preferat și licență de arme
-:::
+
+<div class="warning-container">
+    <p class="title">AVERTIZARE!</p>
+    <p class="description">
+        Pentru a începe jaful ai nevoie de o licență de navigare și de preferat și licență de arme.
+    </p>
+</div>
 
 Pentru a începe jafu, folosește `/rob`. Dacă nu ești la locația specială, comanda îți va pune un checkpoint către locația respectivă.
 
@@ -31,13 +34,17 @@ Folosește-te de **Shark-ul** oferit pentru a ajunge acolo.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zXyVAhWTKow?si=I89cc4iy7QyYF2VX&amp;controls=0&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 # Jaful
 
-::: warning Detalii
-Pentru a invita o persoană se va folosi comanda `/inviteheist` cu condițiile: <br>
-Trebuie să fii aproape de jucătorul pe care dorești să-l inviți <br>
-Jucătorul invitat să dețină minim 50 de puncte de jaf <br>
-Jucătorul invitat să dețină o armă echipată (în mână) <br>
-În momentul în care ai invitat 3 jucători, jaful va începe. <br>
-:::
+<div class="warning-container">
+    <p class="title">AVERTIZARE!</p>
+    <p class="description">
+        Pentru a invita o persoană se va folosi comanda `/inviteheist` cu condițiile:
+
+        - Trebuie să fii aproape de jucătorul pe care dorești să-l inviți
+        - Jucătorul invitat să dețină minim 50 de puncte de jaf
+        - Jucătorul invitat să dețină o armă echipată (în mână)
+        - În momentul în care ai invitat 3 jucători, jaful va începe.
+    </p>
+</div>
 
 ## Roluri Există 4 roluri ce se vor genera aleatoriu: 
 **Cameraman**: se va ocupa de spargerea camerelor <br>

@@ -13,9 +13,10 @@ Acest crate poate fi obținut doar prin completarea task-urilor de început.
 
 Premii: poți primi garantat unul dintre vehiculele <strong>'bhorse718cygts', 'bhudirs32210', 'bhstangshlbgt500', 'bhaguarxesvp8' sau 'bhwm3perf21'</strong>
 
-::: danger ATENȚIE!
-Vehiculele primite din acest crate vor dispărea atunci când vei acumula 25 de ore jucate.
-:::
+<div class="danger-container">
+    <p class="title">ATENȚIE!</p>
+    <p class="description">Vehiculele primite din acest crate vor dispărea atunci când vei acumula 25 de ore jucate.</p>
+</div>
 
 ## Rare Crate 📦
 <p align="center">

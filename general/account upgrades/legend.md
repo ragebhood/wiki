@@ -25,10 +25,12 @@ title: Legend
 - tag deasupra capului cu Legend
 - bet la casino mai mare
 
-::: danger ATENȚIE!
-Comanda **(/vr)** iți va percepe o taxă de $50.000 pentru fiecare utilizare și are un delay de 10 de minute.
-:::
+<div class="danger-container">
+    <p class="title">ATENȚIE!</p>
+    <p class="description">Comanda **(/vr)** iți va percepe o taxă de $50.000 pentru fiecare utilizare și are un delay de 10 de minute.</p>
+</div>
 
-::: danger ATENȚIE!
-Comanda **(/flip)** are un delay de 10 de minute.
-:::
+<div class="danger-container">
+    <p class="title">ATENȚIE!</p>
+    <p class="description">Comanda **(/flip)** are un delay de 10 de minute.</p>
+</div>

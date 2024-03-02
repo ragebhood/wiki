@@ -10,9 +10,12 @@ Atunci când te joci în arena de **Paintball** nu poți fi sancționat pentru *
 ::: details Locație
 ![Grand Theft Auto V Screenshot 2024 02 23 - 20 57 21 38](https://github.com/Alexander-AIM/wiki/assets/157987605/e8e678ea-9130-4815-84ea-5c6cc52e4480)
 :::
-::: danger ATENȚIE!
-Pentru a intra în arena de **Paintball** ai nevoie de nivel 3 și de licență de arme.
-:::
+
+
+<div class="danger-container">
+    <p class="title">ATENȚIE!</p>
+    <p class="description">Pentru a intra în arena de **Paintball** ai nevoie de nivel 3 și de licență de arme.</p>
+</div>
 
 ## Informații privind recompensele
 Jucătorii ce vor face cele mai multe **kill-uri** la **Paintball** vor fi recompensați cu o sumă de materiale.

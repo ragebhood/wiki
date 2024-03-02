@@ -36,13 +36,16 @@ Atunci cand efectuezi curse la acest skill, va fi necesar sa incarci cisterna fo
 Acest job se poate practica cu ajutorul unui vehicul personal: `Bhhertwork`.
 Atunci când vei folosi vehiculul personal în timp ce muncești, acesta iti va oferi un job boost de **40%** in momentul descărcării.
 
+<div class="danger-container">
+    <p class="title">ATENȚIE!</p>
+    <p class="description">
+        La cursele ilegale, în momentul descărcării, vei putea primi 'Wanted 2'. 
 
-::: danger ATDASDSAENȚIE
-La cursele ilegale, în momentul descărcării, vei putea primi 'Wanted 2'. 
-Totodată pe măsură ce faci mai multe curse ilegale la rând, recompensa în bani va crește.
+        Totodată pe măsură ce faci mai multe curse ilegale la rând, recompensa în bani va crește.
 
-![Cum încarc cisterna?](https://i.imgur.com/xHtU1W7.gif "Cum încarc cisterna?")
-:::
+        ![Cum încarc cisterna?](https://i.imgur.com/xHtU1W7.gif "Cum încarc cisterna?")
+    </p>
+</div>
 
 ### Ture necesare pentru skill up:
 

@@ -5,9 +5,10 @@ title: Viteză vehicule
 # Viteză vehicule 💨
 În acest tabel puteți regăsi viteza vehiculelor, vă recomand să folosiți `CTRL+F` pentru a vă fi mai ușor să gasiți un anume vehicul.
 
-::: danger ATENȚIE!
-Vitezele sunt rotunjite și pot varia de la un vehicul la altul.
-:::
+<div class="danger-container">
+    <p class="title">ATENȚIE!</p>
+    <p class="description">Vitezele sunt rotunjite și pot varia de la un vehicul la altul.</p>
+</div>
 
 
 | Model       | Viteză Inițială | Stage 1 | Stage 2 | Stage 3 |
