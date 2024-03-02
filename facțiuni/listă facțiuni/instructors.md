@@ -2,9 +2,6 @@
 title: School Instructors
 ---
 
-<p align="center">
-    <img width="250" src="https://i.imgur.com/cVrvVDm.png" alt="School Instructors">
-</p>
 
 # School Instructors 🧑‍🏫
 Această facțiune se ocupă cu acordarea licențelor de tip gun, fly și sailing în schimbul unei sume de bani, pe baza unui test acordat.

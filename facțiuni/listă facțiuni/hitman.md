@@ -2,9 +2,6 @@
 title: Hitman Agency
 ---
 
-<p align="center">
-    <img width="400" src="https://i.imgur.com/rRMoj68.png" alt="hitman">
-</p>
 
 # Hitman Agency 🎯 
 Această facțiune este o agenție de asasini, iar aceasta se ocupă cu rezolvarea contractelor într-un mod silențios și cât mai rapid, contra-cost.
