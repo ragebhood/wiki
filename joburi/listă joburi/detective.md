@@ -17,7 +17,7 @@ Nu poți munci la acest job, acesta este unul de tip **non-profitabil**.
     <p class="title">ATENȚIE!</p>
     <p class="description">La acest job nu poți primi 'Moonlight Crate' în timp ce evenimentul este activ.</p>
 </div>
-
-::: tip SFAT
-Acest job îți poate fi de folos în momentul în care dorești să găsești un anumit jucător, mai ales la evenimente.
-:::
+<div class="tip-container">
+    <p class="title">SFAT</p>
+    <p class="description">Acest job îți poate fi de folos în momentul în care dorești să găsești un anumit jucător, mai ales la evenimente..</p>
+</div>
