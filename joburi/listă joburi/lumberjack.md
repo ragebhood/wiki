@@ -13,13 +13,11 @@ Acțiunea jobului de pădurar constă în tăierea arborilor, curățarea și î
 ## Muncă
 Pentru a începe munca, folosește comanda `/work` sau apasă pe tasta `Y` din locația jobului.
 
-::: details Locație start job
-![Locație job Lumberjack](https://i.imgur.com/IJKsEwH.png "Locație job Lumberjack")
-:::
 <details class="details custom-block">
     <summary>Locație start job</summary>
     <p>![Locatie](https://i.imgur.com/IJKsEwH.png)</p>
 </details>
+
 > Această acțiune se repetă până când vehiculul de la job se va umple.
 
 În momentul când ai început muncă ți se va oferi un vehicul de tip `flatbed` cu care îți vei efectua jobul. Îți vor fi marcați pe harta 10 puncte verzi, acele puncte sunt copacii ce-i poți tăia și încarcă în vehicul.
