@@ -45,7 +45,6 @@ Sistemul metric poate fi schimbat din setările jocului la **Display -> Measurem
     <summary>Metric Sistem</summary>
     <p>![Metric System](https://i.imgur.com/K9vfhtf.png)</p>
 </details>
-![Uploading image.png…]()
 
 
 ## Cum pot face Screen Shot?
