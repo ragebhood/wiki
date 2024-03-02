@@ -13,12 +13,15 @@ Pentru a aplica la această facțiune ai nevoie de minim nivel **15**.
 
 - Regulamentul facțiunii îl poți găsi în totalitate [aici](https://ragepanel.b-hood.ro/rules/view/regulament-hitman "Link regulament Hitman").
 
-::: details Unde se afla această facțiune?
-![Locație Hitman](https://i.imgur.com/5HI7hv3.png "Locație Hitman")
-:::
+<details class="details custom-block">
+    <summary>Unde se afla această facțiune?</summary>
+    <p>![Locație Hitman](https://i.imgur.com/5HI7hv3.png "Locație Hitman")</p>
+</details>
 
-::: details Cum arată?
-![HQ Hitman](https://i.imgur.com/DMIyo9P.png "HQ Hitman")
+<details class="details custom-block">
+    <summary>Cum arată?</summary>
+    <p>![HQ Hitman](https://i.imgur.com/DMIyo9P.png "HQ Hitman")</p>
+</details>
 
 
 ## Întrebări frecvente
