@@ -13,15 +13,18 @@ title: Rob / Jaful Rob
 
 Pentru a începe jafu, folosește `/rob`. Dacă nu ești la locația specială, comanda îți va pune un checkpoint către locația respectivă.
 
-::: details Unde este această locație?
-![Grand Theft Auto V Screenshot 2024 02 29 - 23 09 43 80](https://github.com/Alexander-AIM/wiki/assets/157987605/57e9b7e5-a581-4ffb-a0b0-8045dc384951)
-:::
+
+<details class="details custom-block">
+    <summary>Unde este această locație?</summary>
+    <p>![rob](https://i.imgur.com/CdrtgAs.png "locatie")</p>
+</details>
 
 Odată ce ai început jafu și ai vorbit cu **Lester**, mergi pe plajă și vorbește cu NPC-ul pentru a-ți oferi o barcă cu care vei ajunge pe iaht.
 
-::: details Unde mai exact pe plajă?
-![Grand Theft Auto V Screenshot 2024 02 29 - 23 14 26 54](https://github.com/Alexander-AIM/wiki/assets/157987605/0b8a38b7-c6d5-414e-8b39-9b841d91a4d2)
-:::
+<details class="details custom-block">
+    <summary>Unde mai exact pe plajă?</summary>
+    <p>![rob](https://i.imgur.com/ZGYTsNk.png "Locatie plaja")</p>
+</details>
 
 Odată ajuns la **yaht**, încearcă să te furișezi ținând apăsată tasta `CTRL` pentru a ajunge la bijuterii.
 Dacă vei fi depistat, poți ucide paznicii folosindu-te de o armă.
@@ -30,6 +33,11 @@ Imediat ce le vei colecta, îți va fi amplasat un checkpoint cu locația unde a
 Folosește-te de **Shark-ul** oferit pentru a ajunge acolo. 
 În final, când vei ajunge la checkpoint, intră în el pentru a finaliza jafu.
 
+<div class="important-container">
+    <p class="title">Premii</p>
+    <p class="description">Premiu: sansa de 95% de a primi intre 5.000.000$ si 20.000.000$ si sansa de 5% de a primi 50.000.000$</p>
+</div>
+
 ## Video Tutorial :arrow_down: 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zXyVAhWTKow?si=I89cc4iy7QyYF2VX&amp;controls=0&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 # Jaful
@@ -37,12 +45,11 @@ Folosește-te de **Shark-ul** oferit pentru a ajunge acolo.
 <div class="warning-container">
     <p class="title">AVERTIZARE!</p>
     <p class="description">
-        Pentru a invita o persoană se va folosi comanda `/inviteheist` cu condițiile:
-
-        - Trebuie să fii aproape de jucătorul pe care dorești să-l inviți
-        - Jucătorul invitat să dețină minim 50 de puncte de jaf
-        - Jucătorul invitat să dețină o armă echipată (în mână)
-        - În momentul în care ai invitat 3 jucători, jaful va începe.
+        Pentru a invita o persoană se va folosi comanda `/inviteheist` cu condițiile: <br>
+        Trebuie să fii aproape de jucătorul pe care dorești să-l inviți <br>
+        Jucătorul invitat să dețină minim 50 de puncte de jaf <br>
+        Jucătorul invitat să dețină o armă echipată (în mână) <br>
+        În momentul în care ai invitat 3 jucători, jaful va începe. <br>
     </p>
 </div>
 
@@ -52,33 +59,41 @@ Folosește-te de **Shark-ul** oferit pentru a ajunge acolo.
 **Lider**: se va ocupa de partea de hacking și de amenințarea directorului pentru a afla codul secret de la ușa de la seif <br>
 **Bomber**: se va ocupa de confecționarea bombelor și de amplasarea acestora <br>
 
-## Pașii corecți pentru a finaliza Jaful
+## Pașii corecți pentru a finaliza jaful
 Fiecare trebuie să-și asume rolurile menționate mai sus <br>
-în momentul în care jaful a început, participanții trebuie să meargă la checkpoint-ul marcat pentru a-și lua echipamentul (Binco) <br>
-bomber-ul va avea o altă locație în care trebuie să meargă pentru a confecționa bombele <br>
-restul participanților vor merge la bancă și își vor efectua pașii până când bomber-ul va apărea <br>
-în momentul în care un participant intră în bancă și nu are mască echipată (tasta M, accesibilă doar de lângă bancă/locația de confecționat bombe), alarma va suna și cei din SWAT vor fi anunțați că este un jaf în desfășurare <br>
-după explozia bombelor, participanții vor fi nevoiți să tragă în încuietoarea ușilor pentru a putea ajunge în locația unde se află lingourile cu aur <br>
-după ce toți participanții au furat lingourile, vor avea marcat un bunker aleatoriu unde vor fi nevoiți să transporte lingourile<br>
-în momentul în care au ajuns la NPC-ul de la bunker, aceștia vor apăsa tasta Y pentru a lăsa sacul cu lingourile <br>
+**În momentul** în care **jaful a început**, participanții trebuie să meargă la checkpoint-ul marcat pentru a-și lua echipamentul (Binco) <br>
+**Bomber-ul** va avea o altă locație în care trebuie să meargă pentru a confecționa bombele <br>
+**Restul participanților** vor merge la bancă și își vor efectua pașii până când bomber-ul va apărea <br>
+**în momentul** în care **un participant intră în bancă** și nu are mască echipată (tasta M, accesibilă doar de lângă bancă/locația de confecționat bombe), alarma va suna și cei din SWAT vor fi anunțați că este un jaf în desfășurare <br>
+**După explozia bombelor**, participanții vor fi nevoiți să tragă în încuietoarea ușilor pentru a putea ajunge în locația unde se află lingourile cu aur <br>
+după ce toți participanții au furat lingourile, vor avea marcat un bunker aleatoriu unde vor fi nevoiți să transporte lingourile <br>
+**În momentul** în care au ajuns la NPC-ul de la bunker, aceștia vor apăsa tasta Y pentru a lăsa sacul cu lingourile <br>
 
  ::: tip
 în raza bunker-ului, polițiștii vor fi marcați pe hartă <br>
 nu se va putea lăsa sacul cu lingourile dacă sunt polițiști în apropiere
  :::
+<div class="tip-container">
+    <p class="title">Sfat</p>
+    <p class="description">în raza bunker-ului, <strong>polițiștii vor fi marcați pe hartă</strong> <br>
+        nu se va putea lăsa sacul cu lingourile dacă sunt <strong>polițiști în apropiere</strong>
+    </p>
+</div>
 
- ::: details Detalii
-cei din SWAT vor fi recompensați pentru fiecare ucigaș făcut pe un participant la jaf cu: 5 puncte premium, 100 bpoints și aleatoriu între $1,000,000 și $1,250,000. <br>
-situații în care alarma va suna și cei din SWAT vor fi anunțați:<br>
-după 30 de secunde de la explozia bombelor<br>
-când camerele nu au fost distruse la timp<br>
-când NPC-urile de la ghiseu nu au fost amenințate suficient<br>
-participanții ce vor avea mască echipată vor fi undercover și nu vor putea fi localizați.<br>
- :::
 
-::: important Premiu
-Premiu: $50,000,000 - $60,000,000, 50 puncte premium și 1000 bpoints.
-:::
+<details class="details custom-block">
+    <summary>Detalii</summary>
+    <p>cei din SWAT vor fi recompensați pentru fiecare ucigaș făcut pe un participant la jaf cu: 5 puncte premium, 100 bpoints și aleatoriu între $1,000,000 și $1,250,000.</p>
+    <p>SWAT-ul va fi anuntat in situatiile urmatoare: după 30 de secunde de la explozia bombelor, când camerele nu au fost distruse la timp, nd NPC-urile de la ghiseu nu au fost amenințate suficient.
+    </p>
+    <p>Participanții ce vor avea mască echipată vor fi undercover și nu vor putea fi localizați</p>
+</details>
+
+
+<div class="important-container">
+    <p class="title">Premii</p>
+    <p class="description">Premiu: $50,000,000 - $60,000,000, 50 puncte premium și 1000 bpoints.</p>
+</div>
 
 ## Video Trailer :arrow_down: 
 <iframe height="315" src="https://www.youtube.com/embed/Sk0oZFI4Pjs?si=XH6EYxTYkuZnk4Mc;controls=0;rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
