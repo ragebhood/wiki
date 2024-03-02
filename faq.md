@@ -39,11 +39,13 @@ Această problemă poate fi rezolvată prin dezactivarea setării 'Accelerated C
 ## Cum pot să-mi schimb kilometrajul din mile în kilometri?
 Sistemul metric poate fi schimbat din setările jocului la **Display -> Measurement System**.
 ::: details Tutorial video cum să schimbi din mile în kilometri
-![Cum schimb din mile in kilometri?](https://i.imgur.com/iBHeExY.gif "Cum schimb din mile in kilometri?'")
+<div style="width:1650px;max-width:100%;">
+    <div style="height:0;padding-bottom:56.24%;position:relative;">
+        <iframe width="1650" height="928" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/8hq9j6"></iframe></div><p><a href="https://imgflip.com/gif/8hq9j6">via Imgflip</a></p></div>
 :::
 
 ## Cum pot face Screen Shot?
-Nu poți face screenshot dacă nu deții un program special sau nu ai jocul pe Steam. Însă, poți folosi programul Snippet Tool de la Windows utilizând combinația de taste: <kbd>Win</kbd>+<kbd>Shift</kbd>+<kbd>S</kbd>
+Nu poți face screenshot dacă nu deții un program special sau nu ai jocul pe Steam. Însă, poți folosi programul Snippet Tool de la Windows utilizând combinația de taste: `Win + Shift + S` sau apasand pe tasta `PrntSC`
 
 ## Cu ce arme poți trage dintr-un vehicul?
 Armele cu care se poate trage din vehicul sunt **Pistol**, **Combat Pistol**, **Pistol MK 2**, respectiv **Heavy Pistol**.
