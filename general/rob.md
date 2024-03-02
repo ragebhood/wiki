@@ -40,7 +40,10 @@ Folosește-te de **Shark-ul** oferit pentru a ajunge acolo.
 
 ## Video Tutorial :arrow_down: 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zXyVAhWTKow?si=I89cc4iy7QyYF2VX&amp;controls=0&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-# Jaful
+
+# Heist
+
+Pentru a invita un jucator in echipa, foloseste comanda `/inviteheist`.
 
 <div class="warning-container">
     <p class="title">AVERTIZARE!</p>
@@ -51,6 +54,12 @@ Folosește-te de **Shark-ul** oferit pentru a ajunge acolo.
         Jucătorul invitat să dețină o armă echipată (în mână) <br>
         În momentul în care ai invitat 3 jucători, jaful va începe. <br>
     </p>
+</div>
+
+
+<div class="important-container">
+    <p class="title">Premii</p>
+    <p class="description">Premiu: $50,000,000 - $60,000,000, 50 puncte premium și 1000 bpoints.</p>
 </div>
 
 ## Roluri Există 4 roluri ce se vor genera aleatoriu: 
@@ -69,10 +78,7 @@ Fiecare trebuie să-și asume rolurile menționate mai sus <br>
 după ce toți participanții au furat lingourile, vor avea marcat un bunker aleatoriu unde vor fi nevoiți să transporte lingourile <br>
 **În momentul** în care au ajuns la NPC-ul de la bunker, aceștia vor apăsa tasta Y pentru a lăsa sacul cu lingourile <br>
 
- ::: tip
-în raza bunker-ului, polițiștii vor fi marcați pe hartă <br>
-nu se va putea lăsa sacul cu lingourile dacă sunt polițiști în apropiere
- :::
+
 <div class="tip-container">
     <p class="title">Sfat</p>
     <p class="description">în raza bunker-ului, <strong>polițiștii vor fi marcați pe hartă</strong> <br>
@@ -90,10 +96,7 @@ nu se va putea lăsa sacul cu lingourile dacă sunt polițiști în apropiere
 </details>
 
 
-<div class="important-container">
-    <p class="title">Premii</p>
-    <p class="description">Premiu: $50,000,000 - $60,000,000, 50 puncte premium și 1000 bpoints.</p>
-</div>
+
 
 ## Video Trailer :arrow_down: 
 <iframe height="315" src="https://www.youtube.com/embed/Sk0oZFI4Pjs?si=XH6EYxTYkuZnk4Mc;controls=0;rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
