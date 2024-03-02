@@ -29,7 +29,7 @@ Ce bunuri personale se pot adăuga într-un trade:
 - **tickete**
 - **Culori**
 - **Skin**
-
+<br>
 <div class="danger-container">
     <p class="title">ATENȚIE!</p>
     <p class="description">Nu se poate efectua un trade în care se dau bani pe bani.</p>
@@ -38,3 +38,7 @@ Ce bunuri personale se pot adăuga într-un trade:
 ::: info 
 In cazul vehiculelor, dupa ce acesta a fost adăugat în lista, apăsând pe butonul **i** din dreptul acestuia vei putea să-i vezi informațiile acestuia.
 :::
+<div class="info-container">
+    <p class="title"></p>
+    <p class="description">In cazul vehiculelor, dupa ce acesta a fost adăugat în lista, apăsând pe butonul <strong>i</strong> din dreptul acestuia vei putea să-i vezi informațiile acestuia.</p>
+</div>
