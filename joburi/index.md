@@ -25,7 +25,6 @@ Acest subsistem poate avea diferite tipuri de bonusuri, precum:
 - Poate oferi între 1-3 Premium Points având o șansă de 10% ca acest lucru să se întâmple însă fiecare job are o șansă diferită la acest tip de premiu.
 
 ## Top Worker
-
 In fiecare zi de **Duminică** la ora 20:30 se vor premia jucătorii ce au făcut cele mai multe ture la joburi.
 Minimul de ture pentru a fi premiat este de `100`.
 Jucătorii ce vor fi catalogați **Top Worker** la un job vor primi un premiu în valoare de 169 Premium Points.
