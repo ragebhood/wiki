@@ -16,7 +16,7 @@ Există șase tipuri de puncte:
 - **Rob Points** - Poti obtine rob points prin sistemul de Payday sau Lucky Wheel. <br>
 - **Escape Points** - Poti obtine escape points prin sistemul de Payday sau Lucky Wheel. <br>
 - **Free Points** (doar membri a unui departament de politie pot obtine aceste puncte) - Poti obtine free points prin sistemul de ‘Payday’
-- **Premium Points** - Poti obtine puncte premium la level up, crate-uri, giftbox, drop, de la jucatori  donand pe [panel](ragepanel.b-hood.ro), referral, realizari, skill up, lucky wheel,  `/vouchers`, [summer skin](./general/skins.md), [x-Mas Skin](./general/skins.md) si quest special.
+- **Premium Points** - Poti obtine puncte premium la level up, crate-uri, giftbox, drop, de la jucatori  donand pe [panel](ragepanel.b-hood.ro), referral, realizari, skill up, lucky wheel,  `/vouchers`, [Summer skin](./general/skins.md), [x-Mas Skin](./general/skins.md) si quest special.
 
 
   
