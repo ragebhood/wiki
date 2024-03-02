@@ -28,36 +28,37 @@ După schimbarea cărților, se pariază. În runda de pariere un jucător are m
 Vă prezentăm aici mâinile câștigătoare în ordine crescătoare:
 
 **Quintă Royala Mare**  <br>
-![image](https://github.com/Alexander-AIM/wiki/assets/157987605/a29ca8f1-608e-448a-bcfc-a1f56f213890)
+![image](https://i.imgur.com/k1ABHGr.gif)
 
 **Quintă Royala Mică** <br>
-![image](https://github.com/Alexander-AIM/wiki/assets/157987605/cbbcd7f5-11b7-4bbc-be59-ed58290c179d)
+![image](https://i.imgur.com/Oo2Q9br.gif)
 
 **Careu** <br>
-![image](https://github.com/Alexander-AIM/wiki/assets/157987605/2c730f50-d1d5-4c14-aa0e-e1241119d3ce)
+![image](https://i.imgur.com/ejStOf2.gif)
 
 **Full House** <br>
-![image](https://github.com/Alexander-AIM/wiki/assets/157987605/eb58d5a4-13ff-47a5-a9e4-81a25ddde2b0)
+![image](https://i.imgur.com/Ao96l1t.gif)
 
 **Culoare** <br>
-![image](https://github.com/Alexander-AIM/wiki/assets/157987605/aed4a645-08dc-4e14-a43c-98d0292a5ad3)
+![image](https://i.imgur.com/BLyDsbo.gif)
 
 **Quintă** <br>
-![image](https://github.com/Alexander-AIM/wiki/assets/157987605/93cd682c-847d-434a-990a-a745df474f3b)
+![image](https://i.imgur.com/MYx7NAt.gif)
 
  **Trei perechi** <br>
-![image](https://github.com/Alexander-AIM/wiki/assets/157987605/7ac9c068-4145-459e-9f99-935f0cde2d72)
+![image](https://i.imgur.com/g52jNXs.gif)
 
 **Două perechi** <br>
-![image](https://github.com/Alexander-AIM/wiki/assets/157987605/027f6de9-3e7e-40e3-a837-8114ce35d773)
+![image](https://i.imgur.com/g52jNXs.gif)
 
 **O pereche** <br>
-![image](https://github.com/Alexander-AIM/wiki/assets/157987605/ad41cfe4-c164-4616-ac16-f9109d9a1259)
+![image](https://i.imgur.com/OtucEFE.gif)
 
+<div class="tip-container">
+    <p class="title">Sfat</p>
+    <p class="description"><strong>A2345</strong> nu este Quintă. Doar la jocul de Hold'em Poker această combinație este acceptată.</p>
+</div>
 
-::: tip SFAT
-**A2345** nu este Quintă. Doar la jocul de Hold'em Poker această combinație este acceptată.
-:::
 
 ## Reguli în caz de egalitate
 Când doi sau mai mulți jucători au la final mâini egale diferențierea se face la cartea cea mai mare.
