@@ -9,7 +9,10 @@ title: Hitman Agency
 # Hitman Agency 🎯 
 Această facțiune este o agenție de asasini, iar aceasta se ocupă cu rezolvarea contractelor într-un mod silențios și cât mai rapid, contra-cost.
 
-Pentru a aplica la această facțiune ai nevoie de minim nivel **15**.
+<div class="warning-container">
+    <p class="title">Nivel necesar</p>
+    <p class="description">Pentru a aplica la această facțiune ai nevoie de minim nivel **15**.</p>
+</div>
 
 - Regulamentul facțiunii îl poți găsi în totalitate [aici](https://ragepanel.b-hood.ro/rules/view/regulament-hitman "Link regulament Hitman").
 
