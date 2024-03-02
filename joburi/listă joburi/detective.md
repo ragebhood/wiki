@@ -5,9 +5,10 @@ title: Detective
 # Detective 🔎
 Cu ajutorul acestui job poți găsi jucătorii prin intermediul comenzii `/find`.
 
-::: details Locație job
-![Locație Job](https://i.imgur.com/CfTNpdc.png "Locatie job")
-:::
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/CfTNpdc.png "Locație")</p>
+</details>
 
 ## Muncă
 Nu poți munci la acest job, acesta este unul de tip **non-profitabil**.
