@@ -18,16 +18,18 @@ Totodată ai șansa de a-ți cumpăra un bun la o valoare de piață mai scăzut
 
 Poți vedea meniul de licitații folosind comanda `/auction` unde-ți va apărea acest meniu :arrow_down:.
 
-::: details Meniu
-![bidmenu](https://i.imgur.com/pHkvyHH.png)
-:::
+
+<details class="details custom-block">
+    <summary>Meniu</summary>
+    <p>![bidmenu](https://i.imgur.com/pHkvyHH.png)</p>
+</details>
 
 Pentru a licita, apasă pe bunul ce este scos la licitație, introdu **suma dorită**, iar apoi apasă pe **Bid**.
 
-::: details Meniu licitație
-![bidmenu](Vhttps://i.imgur.com/vGXjjUW.png)
-:::
-
+<details class="details custom-block">
+    <summary>Meniu licitații</summary>
+    <p>!![bidmenu](Vhttps://i.imgur.com/vGXjjUW.png)</p>
+</details>
 
 Licitația este adjudecată de către persoana care a plasat ultima licitație, în condițiile în care nimeni altcineva nu a mai oferit nicio licitație în ultimele 60 de secunde.
 
@@ -35,7 +37,6 @@ Licitația este adjudecată de către persoana care a plasat ultima licitație, 
     <p class="title">ATENȚIE!</p>
     <p class="description">
         Vehiculele ce sunt câștigate la licitație nu vor veni și cu sistemele **Stage**, **VIP**, **Premium Fuel** și **Rainbow**. 
-
         Singurul tuning ce rămâne pe vehicul este cel ce este pus în **Vehicle mod shop**.
     </p>
 </div>

@@ -1,5 +1,5 @@
 ---
-title: Vehicule ce pot fi închiriate
+title: Rent
 ---
 
 # Rent car 🚗
