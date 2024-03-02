@@ -10,14 +10,20 @@ Acțiunea jobului de dealer de arme constă în transportarea și prelucrarea de
     <p class="description">Ai nevoie de minim nivel 3 pentru a putea munci la acest job.</p>
 </div>
 
-::: details Locație job
-![Locație job Arms Dealer](https://i.imgur.com/ToTs7zg.png "Arms Dealer")
-:::
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/ToTs7zg.png "Locație")</p>
+</details>
+
+
 ## Muncă
 Pentru a începe munca, folosește comanda `/work` sau apasă pe tasta `Y` din locația jobului.
-::: details Locație start job
-![Locație job Arms Dealer](https://i.imgur.com/PQH4JHI.png "Locație job Arms Dealer")
-:::
+
+<details class="details custom-block">
+    <summary>Locație start work</summary>
+    <p>![Locatie](https://i.imgur.com/PQH4JHI.png "Locație")</p>
+</details>
+
 
 În momentul când ai început munca ți se va oferi un vehicul de tip `Rubbleid_bhood` cu care îți vei efectua jobul. Urmează checkpoint-ul primit, odată ajuns acolo mergi în checkpoint și încarcă materialele. 🔫
 
