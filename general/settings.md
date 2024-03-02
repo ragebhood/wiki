@@ -8,9 +8,10 @@ Aici poți vedea detalii despre toate modificările vizuale ce pot fi făcute di
 
 ## Hud Setttings
 
-::: details HUD Settings list
-![Screenshot 2024-02-24 223333](https://github.com/Alexander-AIM/wiki/assets/157987605/49ed281d-0e4b-4380-8d2a-3c381a3f1034)
-:::
+<details class="details custom-block">
+    <summary>Poza Hud Settings</summary>
+    <p>![Hud](https://i.imgur.com/ycuYeef.png "Hud Settings")</p>
+</details>
 
 **FPS** - activezi/dezactivezi interfața pentru vizualizarea FPS-urilor; 
 
@@ -36,9 +37,10 @@ Aici poți vedea detalii despre toate modificările vizuale ce pot fi făcute di
 
 ## Toggle Settings
 
-::: details Tog Setting List
-![Grand Theft Auto V Screenshot 2024 02 24 - 22 38 10 36](https://github.com/Alexander-AIM/wiki/assets/157987605/9a608576-90c2-43be-afa2-a1955af47ecf)
-:::
+<details class="details custom-block">
+    <summary>Poza Toggle Settings</summary>
+    <p>![Toggle](https://i.imgur.com/ZNnuBSy.png "Tog")</p>
+</details>
 
 **Walkie Talkie** - prin activarea acestei setări vei putea vizualiza chat-ul text al frecvenței pe care ești conectat;
 
@@ -78,9 +80,10 @@ Tastele disponibile pentru această funcție sunt doar cele disponibile pe tasta
 
 Puteți seta o tastă apăsând direct pe tastatura personală (atenție la NumPad), însă pentru a vă asigura că au fost setate corect vă recomandăm să selectați de pe tastatura virtuală tasta pe care dorți scurtătura.
 
-::: details Hotkeys list
-![Grand Theft Auto V Screenshot 2024 02 24 - 22 38 15 66](https://github.com/Alexander-AIM/wiki/assets/157987605/698d8066-668d-4404-9156-e03065c761b0)
-:::
+<details class="details custom-block">
+    <summary>Poza Hotkeys</summary>
+    <p>![Hotkeys](https://i.imgur.com/Jx1oRtG.png "Hotkeys")</p>
+</details>
 
 
 
