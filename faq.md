@@ -34,7 +34,7 @@ Pentru a obține funcția de **Lider** este necesară o aplicație pe [panel](ht
 Această problemă poate fi rezolvată prin dezactivarea setării 'Accelerated CEF Rendering' din setările RAGE:MP, dacă ești deja în joc va fii necesar un restart la rage.
 
 <details class="details custom-block">
-    <summary>Locație job</summary>
+    <summary>Video Tutorial</summary>
     <p>![Dezactivare 'Accelerated CEF Rendering'](https://i.imgur.com/RgySLv4.gif "Dezactivare 'Accelerated CEF Rendering'")</p>
 </details>
 
@@ -42,9 +42,11 @@ Această problemă poate fi rezolvată prin dezactivarea setării 'Accelerated C
 Sistemul metric poate fi schimbat din setările jocului la **Display -> Measurement System**.
 
 <details class="details custom-block">
-    <summary>Locație job</summary>
-    <p>![Metric System](https://imgflip.com/gif/8hqb0m)</p>
+    <summary>Metric Sistem</summary>
+    <p>![Metric System](https://i.imgur.com/K9vfhtf.png)</p>
 </details>
+![Uploading image.png…]()
+
 
 ## Cum pot face Screen Shot?
 Nu poți face screenshot dacă nu deții un program special sau nu ai jocul pe Steam. Însă, poți folosi programul Snippet Tool de la Windows utilizând combinația de taste: `Win + Shift + S` sau apasand pe tasta `PrntSC`
