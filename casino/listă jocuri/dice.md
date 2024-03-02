@@ -13,7 +13,7 @@ Limita de pierdere este de 50 de mâini pe zi.
 
 <details class="details custom-block">
     <summary>Cum arată interfața?</summary>
-    <p>![HQ Paramedic](https://i.imgur.com/iHWqBgl.png)</p>
+    <p>![Dice](https://i.imgur.com/iHWqBgl.png)</p>
 </details>
 
 Suma minimă pe care o poți juca este de $10.000 înmulțit cu nivelul tău, iar cea maximă este de $250.000 înmulțit cu nivelul tău
