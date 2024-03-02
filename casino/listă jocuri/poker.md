@@ -27,24 +27,25 @@ După schimbarea cărților, se pariază. În runda de pariere un jucător are m
 
 Vă prezentăm aici mâinile câștigătoare în ordine crescătoare:
 
+
 **Quintă Royala Mare**  <br>
-![image](https://i.imgur.com/k1ABHGr.gif) <br>
+![image](https://i.imgur.com/k1ABHGr.gif) <hr>
 **Quintă Royala Mică**  <br>
-![image](https://i.imgur.com/Oo2Q9br.gif) <br>
+![image](https://i.imgur.com/Oo2Q9br.gif) <hr>
 **Careu**  <br>
-![image](https://i.imgur.com/ejStOf2.gif) <br>
+![image](https://i.imgur.com/ejStOf2.gif) <hr>
 **Full House**  <br>
-![image](https://i.imgur.com/Ao96l1t.gif) <br>
+![image](https://i.imgur.com/Ao96l1t.gif) <hr>
 **Culoare**  <br>
-![image](https://i.imgur.com/BLyDsbo.gif) <br>
+![image](https://i.imgur.com/BLyDsbo.gif) <hr>
 **Quintă**  <br>
-![image](https://i.imgur.com/MYx7NAt.gif) <br>
+![image](https://i.imgur.com/MYx7NAt.gif) <hr>
  **Trei perechi**  <br>
-![image](https://i.imgur.com/g52jNXs.gif) <br>
+![image](https://i.imgur.com/g52jNXs.gif) <hr>
 **Două perechi**  <br>
-![image](https://i.imgur.com/g52jNXs.gif) <br>
+![image](https://i.imgur.com/g52jNXs.gif) <hr>
 **O pereche**  <br>
-![image](https://i.imgur.com/OtucEFE.gif) <br>
+![image](https://i.imgur.com/OtucEFE.gif) <hr>
 
 <div class="tip-container">
     <p class="title">Sfat</p>
