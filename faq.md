@@ -32,18 +32,18 @@ Pentru a obține funcția de **Lider** este necesară o aplicație pe [panel](ht
 
 ## De ce nu mi se deschide nimic cand folosesc '/clothes', '/stats', '/market', sau o alta interfata?
 Această problemă poate fi rezolvată prin dezactivarea setării 'Accelerated CEF Rendering' din setările RAGE:MP, dacă ești deja în joc va fii necesar un restart la rage.
-::: details Tutorial video cum să-l dezactivezi
-![Dezactivare 'Accelerated CEF Rendering'](https://i.imgur.com/RgySLv4.gif "Dezactivare 'Accelerated CEF Rendering'")
-:::
+
+<details class="details custom-block">
+    <summary>Locație job</summary>
+    <p>![Dezactivare 'Accelerated CEF Rendering'](https://i.imgur.com/RgySLv4.gif "Dezactivare 'Accelerated CEF Rendering'")</p>
+</details>
 
 ## Cum pot să-mi schimb kilometrajul din mile în kilometri?
 Sistemul metric poate fi schimbat din setările jocului la **Display -> Measurement System**.
 
 <details class="details custom-block">
     <summary>Locație job</summary>
-    <p><div style="width:1650px;max-width:100%;">
-        <div style="height:0;padding-bottom:56.24%;position:relative;">
-        <iframe width="1080" height="620" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/8hq9j6"></iframe></div><p><a href="https://imgflip.com/gif/8hq9j6">Metric System</a></p></div></p>
+    <p>![Metric System](https://imgflip.com/gif/8hqb0m)</p>
 </details>
 
 ## Cum pot face Screen Shot?
