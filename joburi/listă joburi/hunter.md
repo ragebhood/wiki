@@ -101,10 +101,22 @@ Armele pot fi îmbunătățite în locația specială în schimbul unei sume de 
 'Alien' îl vei putea vâna doar dacă ai armă avansată de la skill 5. Vei primi câte 1 punct premium pe fiecare alien vânat.
 :::
 ## Cum arată aceste animale?
-
-![animal](https://i.imgur.com/Dg1G4J9.png)  ![animal](https://i.imgur.com/f4Hy9P8.png) ![animal](https://i.imgur.com/B0id3d6.png) <br>
-![animal](https://i.imgur.com/w9SuG8Z.png) ![animal](https://i.imgur.com/nX6R2YQ.png)  ![animal](https://i.imgur.com/zAkIDKi.png) <br>
-![animal](https://i.imgur.com/ggEdOak.png)  ![animal](https://i.imgur.com/XmXMXM9.png)
+<table>
+    <tr> 
+     <td><img src="https://i.imgur.com/Dg1G4J9.png" alt="Image 4"></td>
+     <td><img src="https://i.imgur.com/f4Hy9P8.png" alt="Image 4"></td>
+     <td><img src="https://i.imgur.com/B0id3d6.png" alt="Image 4"></td>
+    </tr>
+     <tr> 
+     <td><img src="https://i.imgur.com/w9SuG8Z.png" alt="Image 4"></td>
+     <td><img src="https://i.imgur.com/nX6R2YQ.png" alt="Image 4"></td>
+     <td><img src="https://i.imgur.com/zAkIDKi.png" alt="Image 4"></td>
+    </tr>
+     <tr> 
+     <td><img src="https://i.imgur.com/ggEdOak.png" alt="Image 4"></td>
+     <td><img src="https://i.imgur.com/XmXMXM9.png" alt="Image 4"></td>
+    </tr>
+</table>
 
 ## Cum pot activa vederea ternmica la arma de skill 6?
 
