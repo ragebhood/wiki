@@ -13,7 +13,8 @@ Acțiunea jobului de vânător constă în vânarea animalelor din zonele marcat
 
 <details class="details custom-block">
     <summary>Locație</summary>
-    <p>![Locatie](https://i.imgur.com/2kYj4yH.png  "Locație")</p>
+    <p>![Locatie](https://i.imgur.com/2kYj4yH.png "Locație")
+    </p>
 </details
     
 ## Muncă
@@ -21,7 +22,7 @@ Pentru a începe munca, folosește comanda `/work` sau apasă pe tasta `Y` din l
 
 <details class="details custom-block">
     <summary>Locație</summary>
-    <p>![Locatie](https://i.imgur.com/Rj6hGUR.png  "Locație")</p>
+    <p>![Locatie](https://i.imgur.com/Rj6hGUR.png "Locație")</p>
 </details>
 
 <div class="tip-container">
@@ -100,13 +101,10 @@ Armele pot fi îmbunătățite în locația specială în schimbul unei sume de 
 :::
 ## Cum arată aceste animale?
 
-<div class="warning-container">
-    <p class="title">Animale ce se pot regasi pe server</p>
-    <p class="description">![animal](https://i.imgur.com/Dg1G4J9.png)  ![animal](https://i.imgur.com/f4Hy9P8.png) ![animal](https://i.imgur.com/B0id3d6.png) <br>
+![animal](https://i.imgur.com/Dg1G4J9.png)  ![animal](https://i.imgur.com/f4Hy9P8.png) ![animal](https://i.imgur.com/B0id3d6.png) <br>
 ![animal](https://i.imgur.com/w9SuG8Z.png) ![animal](https://i.imgur.com/nX6R2YQ.png)  ![animal](https://i.imgur.com/zAkIDKi.png) <br>
-![animal](https://i.imgur.com/ggEdOak.png)  ![animal](https://i.imgur.com/XmXMXM9.png) 
-    </p>
-</div>
+![animal](https://i.imgur.com/ggEdOak.png)  ![animal](https://i.imgur.com/XmXMXM9.png)
+
 ## Cum pot activa vederea ternmica la arma de skill 6?
 
 Pentru a activa vederea termică, apasă pe tasta `E` atunci când ținteșți.
