@@ -3,7 +3,7 @@ title: Taxi Company
 ---
 
 # Taxi Company 🚕
-Această facțiune se ocupă cu transportul jucătorilor într-o anumită locație contra-cost.
+Această facțiune se ocupă cu transportul jucătorilor într-o anumită locație contra-cost in functie de distanta unde jucatorul este transportat.
 
 <div class="warning-container">
     <p class="title">Nivel necesar</p>
