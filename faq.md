@@ -8,9 +8,11 @@ Această pagină a fost creată special pentru adresarea soluțiilor rapide pent
 ## Cum pot obține funcția de Helper?
 Pentru a obține funcția de **Helper** este necesară o aplicație pe [panel](https://ragepanel.b-hood.ro/applications/helper/list) și cel puțin 100 de ore jucate.
 
-::: tip SFAT
-Recomandat este să ai cât mai puține sancțiuni în **Last Punish**, un **Faction History** decent și un comportament adecvat pe server.
-:::
+
+<div class="tip-container">
+    <p class="title">SFATr</p>
+    <p class="description">Recomandat este să ai cât mai puține sancțiuni în <strong>Last Punish</strong>, un <strong>Faction History</strong> decent și un comportament adecvat pe server.</p>
+</div>
 
 <div class="danger-container">
     <p class="title">ATENȚIE!</p>
