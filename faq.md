@@ -119,7 +119,7 @@ Poti face acest lucru apasand tasta `E` in fata acestuia
 
 <div class="danger-container">
     <p class="title">ATENTIE!</p>
-    <p class="description">Doar <strong>proprietarii</strong> caselor pot parca vehicule în interiorul acestuia.<br>
+    <p class="description">Doar <strong>proprietarii</strong> caselor pot parca vehicule în interiorul acestuia.
 Membrii clanului vor putea parca <strong>doar vehiculele de</strong> clan (dacă este un garaj de clan).</p>
 </div>
 
