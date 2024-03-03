@@ -10,7 +10,7 @@ Pentru a obține funcția de **Helper** este necesară o aplicație pe [panel](h
 
 
 <div class="tip-container">
-    <p class="title">SFATr</p>
+    <p class="title">SFAT</p>
     <p class="description">Recomandat este să ai cât mai puține sancțiuni în <strong>Last Punish</strong>, un <strong>Faction History</strong> decent și un comportament adecvat pe server.</p>
 </div>
 
