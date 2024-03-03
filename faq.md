@@ -117,10 +117,12 @@ Poți face acest lucru folosindu-te de comanda `/garageupgrade`.
 ## Cum intru in garaj?
 Poti face acest lucru apasand tasta `E` in fata acestuia
 
-::: dange ATENTIE!
-Doar proprietarii caselor pot parca vehicule în interiorul acestuia.
-Membrii clanului vor putea parca doar vehiculele de clan (dacă este un garaj de clan).
-:::
+<div class="danger-container">
+    <p class="title">ATENTIE!</p>
+    <p class="description">Doar <strong>proprietarii</strong> caselor pot parca vehicule în interiorul acestuia.<br>
+Membrii clanului vor putea parca <strong>doar vehiculele de</strong> clan (dacă este un garaj de clan).</p>
+</div>
+
 ## Cum vând o mașină la DS?
 Pentru a-ți vinde vehiculul la **Dealership**, mergi în locația specială (`/gps` -> sellcar) și folosește comanda `/sellcar`.
 
