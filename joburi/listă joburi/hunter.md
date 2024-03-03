@@ -110,11 +110,10 @@ Armele pot fi îmbunătățite în locația specială în schimbul unei sume de 
 - Al patrulea upgrade costă `$77,777,777`.
 - Al cincilea upgrade costă `$99,999,999`.
 - Al șaselea upgrade costă `$111,111,111`.
-
-
+<br>
 <div class="warning-container">
     <p class="title">Fail</p>
-    <p class="description">Există șansa de 50 la sută de a eșua upgrade-ul..</p>
+    <p class="description">Există o șansa de 50 la sută de a eșua upgrade-ul..</p>
 </div>
 
 ### Ture necesare pentru skill up:
