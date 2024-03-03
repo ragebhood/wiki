@@ -13,8 +13,7 @@ title: Misiune Specială
 </div>
 
 ## Descriere
-
-Există 3 amante, fiecare îți va cere un anumit lucru, și anume: <br>
+Există 3 amante, fiecare îți va cere un anumit lucru, și anume:<br>
 	- un inel - Se poate obține muncind la job-ul **Miner**.<br>
 	- o geantă - Aceasta poate fi achiziționată de la **Casino**.<br>
 	- un buchet cu flori - Acestea pot fi obținute în zona marcată apăsând pe tasta `Y` atunci când te afli lângă un trandafir.
