@@ -55,7 +55,7 @@ In acele zile, pot fi date prin trade si shard-urile ce nu se mai pot obtine ini
     </tr>
     <tr>
         <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/bhupraformvz5.png" alt="bhupraformvz5"></td>
-        <td><strong>bhupraformvz5 - Cupra Formentor Z5</strong><span style="color:red">indisponibil</span></td>
+        <td><strong>bhupraformvz5 - Cupra Formentor Z5 </strong><span style="color:red">indisponibil</span></td>
     </tr>
     <tr>
         <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/zorrusso.png" alt="Zorrusso"></td>
@@ -63,7 +63,7 @@ In acele zile, pot fi date prin trade si shard-urile ce nu se mai pot obtine ini
     </tr>
     <tr>
         <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/bhenzeg63amg.png" alt="bhenzeg63amg"></td>
-        <td><strong>bhenzeg63amg - Mercedes G63</strong><span style="color:red">indisponibil</span></td>
+        <td><strong>bhenzeg63amg - Mercedes G63 </strong><span style="color:red">indisponibil</span></td>
     </tr>
     <tr>
         <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/bhudirs7rabt.png" alt="bhudirs7rabt"></td>
@@ -79,7 +79,7 @@ In acele zile, pot fi date prin trade si shard-urile ce nu se mai pot obtine ini
     </tr>
     <tr>
         <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/bhudirs5.png" alt="bhudirs5"></td>
-        <td><strong>bhudirs5 - Audi RS5</strong><span style="color:red">indisponibil</span></td>
+        <td><strong>bhudirs5 - Audi RS5 </strong><span style="color:red">indisponibil</span></td>
     </tr>
     <tr>
         <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/bhrrarifxxkevo.png" alt="bhrrarifxxkevo"></td>
