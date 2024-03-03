@@ -1,5 +1,5 @@
 ---
-title: Activitate Sistem
+title: Activity Sistem
 ---
 
 # Quest-uri
