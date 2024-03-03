@@ -20,51 +20,100 @@ In acele zile, pot fi date prin trade si shard-urile ce nu se mai pot obtine ini
 
 ## Vehicule ce pot fi obtinute din shard-uri
 
-
-| Imagine | Detalii |
-|---------|---------|
-| ![bhsakizx10r](https://ragepanel.b-hood.ro/assets/images/cars/bhsakizx10r.png) | **bhsakizx10r - Kawasaki Ninja ZX-10R** <Badge type="danger" text="indisponibil" /> |
-
-| ![Krieger](https://ragepanel.b-hood.ro/assets/images/cars/krieger.png) | **Krieger** <Badge type="danger" text="indisponibil" /> |
-
-| ![Paragon](https://ragepanel.b-hood.ro/assets/images/cars/paragon.png) | **Paragon** <Badge type="danger" text="indisponibil" /> |
-
-| ![Khamelion](https://ragepanel.b-hood.ro/assets/images/cars/khamelion.png) | **Khamelion** - Acest shard se poate obtine din activity shop |
-
-| ![bhwm4g83](https://ragepanel.b-hood.ro/assets/images/cars/bhwm4g83.png) | **bhwm4g83** - Acest shard poate fi obtinut din **Summer Crate** |
-
-| ![bhwm8](https://ragepanel.b-hood.ro/assets/images/cars/bhwm8.png) | **bhwm8 BMW M8** <Badge type="danger" text="indisponibil" /> |
-
-| ![bhlx570](https://ragepanel.b-hood.ro/assets/images/cars/bhlx570.png) | **bhlx570 - Lexus LX 570** <Badge type="danger" text="indisponibil" /> |
-
-| ![bhupraformvz5](https://ragepanel.b-hood.ro/assets/images/cars/bhupraformvz5.png) | **bhupraformvz5 - Cupra Formentor Z5**<Badge type="danger" text="indisponibil" /> |
-
-| ![Zorrusso](https://ragepanel.b-hood.ro/assets/images/cars/zorrusso.png) | **Zorrusso**<Badge type="danger" text="indisponibil" /> |
-
-| ![bhenzeg63amg](https://ragepanel.b-hood.ro/assets/images/cars/bhenzeg63amg.png) | **bhenzeg63amg - Mercedes G63**<Badge type="danger" text="indisponibil" /> |
-
-| ![bhudirs7rabt](https://ragepanel.b-hood.ro/assets/images/cars/bhudirs7rabt.png) | **bhudirs7rabt** - Audi RS7 **<Badge type="danger" text="indisponibil" /> |
-
-| ![bhws7lexdrv](https://ragepanel.b-hood.ro/assets/images/cars/bhws7lexdrv.png) | **bhws7lexdrv - BMW Seria 7LE X-Drive** - Acest shard poate fi obtinut in **Autumn Crate** |
-
-| ![bhenzc63amg](https://ragepanel.b-hood.ro/assets/images/cars/bhenzc63amg.png) | **bhenzc63amg- Mercedes C63 AMG**- Acest shard poate fi obtinut in **Halloween Crate** |
-
-| ![bhudirs5](https://ragepanel.b-hood.ro/assets/images/cars/bhudirs5.png) | **bhudirs5 - Audi RS5**<Badge type="danger" text="indisponibil" /> |
-
-| ![bhrrarifxxkevo](https://ragepanel.b-hood.ro/assets/images/cars/bhrrarifxxkevo.png) | **bhrrarifxxkevo - Ferrari FXX Evo** <Badge type="danger" text="indisponibil" /> |
-
-| ![bhwm2g87](https://ragepanel.b-hood.ro/assets/images/cars/bhwm2g87.png) | **bhwm2g87 - BMW M2 G87** <Badge type="danger" text="indisponibil" /> |
-
-| ![bhwasakinjh2](https://ragepanel.b-hood.ro/assets/images/cars/bhwasakinjh2.png) | **bhwasakinjh2 - Kawasaki H2R** <Badge type="danger" text="indisponibil" /> |
-
-| ![bhntleybentayst](https://ragepanel.b-hood.ro/assets/images/cars/bhntleybentayst.png) | **bhntleybentayst - Bentley Bentayga** - Acest shard se poate obtine din **Winter V2 Crate** |
-
-| ![bherts63cmatic](https://ragepanel.b-hood.ro/assets/images/cars/bherts63cmatic.png) | **bherts63cmatic - Mercedes S63 AMG**- Acest shard poate fi obtinut in **Xmas Crate** |
-
-| [bhswagengolfrmk75](https://ragepanel.b-hood.ro/assets/images/cars/bhswagengolfrmk75.png) | **bhswagengolfrmk75 - Volkswagen Golf MK 75**- Acest shard poate fi obtinut in sezonul 4 din **Battlepass** |
-
-| [bheslaroadster20](https://ragepanel.b-hood.ro/assets/images/cars/bheslaroadster20.png) | **bheslaroadster20 - Tesla Roadster 20**- Acest shard poate fi obtinut in sezonul 4 din **Battlepass** |
-
-| [bhgustawestaw109vip](https://ragepanel.b-hood.ro/assets/images/cars/bhgustawestaw109vip.png) | **bhgustawestaw109vip - Augusta Westland AW109 VIP**- Acest shard poate fi obtinut in **Cupidon V2 Crate** |
+<table border="1">
+    <tr>
+        <th>Imagine</th>
+        <th>Detalii</th>
+    </tr>
+    <tr>
+        <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/bhsakizx10r.png" alt="bhsakizx10r"></td>
+        <td><strong>bhsakizx10r - Kawasaki Ninja ZX-10R</strong> <span style="color:red">indisponibil</span></td>
+    </tr>
+    <tr>
+        <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/krieger.png" alt="Krieger"></td>
+        <td><strong>Krieger</strong> <span style="color:red">indisponibil</span></td>
+    </tr>
+    <tr>
+        <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/paragon.png" alt="Paragon"></td>
+        <td><strong>Paragon</strong> <span style="color:red">indisponibil</span></td>
+    </tr>
+    <tr>
+        <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/khamelion.png" alt="Khamelion"></td>
+        <td><strong>Khamelion</strong> - Acest shard se poate obține din activity shop</td>
+    </tr>
+    <tr>
+        <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/bhwm4g83.png" alt="bhwm4g83"></td>
+        <td><strong>bhwm4g83</strong> - Acest shard poate fi obținut din <strong>Summer Crate</strong></td>
+    </tr>
+    <tr>
+        <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/bhwm8.png" alt="bhwm8"></td>
+        <td><strong>bhwm8 BMW M8</strong> <span style="color:red">indisponibil</span></td>
+    </tr>
+    <tr>
+        <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/bhlx570.png" alt="bhlx570"></td>
+        <td><strong>bhlx570 - Lexus LX 570</strong> <span style="color:red">indisponibil</span></td>
+    </tr>
+    <tr>
+        <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/bhupraformvz5.png" alt="bhupraformvz5"></td>
+        <td><strong>bhupraformvz5 - Cupra Formentor Z5</strong><span style="color:red">indisponibil</span></td>
+    </tr>
+    <tr>
+        <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/zorrusso.png" alt="Zorrusso"></td>
+        <td><strong>Zorrusso</strong><span style="color:red">indisponibil</span></td>
+    </tr>
+    <tr>
+        <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/bhenzeg63amg.png" alt="bhenzeg63amg"></td>
+        <td><strong>bhenzeg63amg - Mercedes G63</strong><span style="color:red">indisponibil</span></td>
+    </tr>
+    <tr>
+        <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/bhudirs7rabt.png" alt="bhudirs7rabt"></td>
+        <td><strong>bhudirs7rabt</strong> - Audi RS7 <span style="color:red">indisponibil</span></td>
+    </tr>
+    <tr>
+        <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/bhws7lexdrv.png" alt="bhws7lexdrv"></td>
+        <td><strong>bhws7lexdrv - BMW Seria 7LE X-Drive</strong> - Acest shard poate fi obținut în <strong>Autumn Crate</strong></td>
+    </tr>
+    <tr>
+        <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/bhenzc63amg.png" alt="bhenzc63amg"></td>
+        <td><strong>bhenzc63amg- Mercedes C63 AMG</strong>- Acest shard poate fi obținut în <strong>Halloween Crate</strong></td>
+    </tr>
+    <tr>
+        <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/bhudirs5.png" alt="bhudirs5"></td>
+        <td><strong>bhudirs5 - Audi RS5</strong><span style="color:red">indisponibil</span></td>
+    </tr>
+    <tr>
+        <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/bhrrarifxxkevo.png" alt="bhrrarifxxkevo"></td>
+        <td><strong>bhrrarifxxkevo - Ferrari FXX Evo</strong> <span style="color:red">indisponibil</span></td>
+    </tr>
+    <tr>
+        <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/bhwm2g87.png" alt="bhwm2g87"></td>
+        <td><strong>bhwm2g87 - BMW M2 G87</strong> <span style="color:red">indisponibil</span></td>
+    </tr>
+    <tr>
+        <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/bhwasakinjh2.png" alt="bhwasakinjh2"></td>
+        <td><strong>bhwasakinjh2 - Kawasaki H2R</strong> <span style="color:red">indisponibil</span></td>
+    </tr>
+    <tr>
+    <tr>
+        <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/bhntleybentayst.png" alt="bhntleybentayst"></td>
+        <td><strong>bhntleybentayst - Bentley Bentayga</strong> - Acest shard se poate obține din <strong>Winter V2 Crate</strong></td>
+    </tr>
+    <tr>
+        <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/bherts63cmatic.png" alt="bherts63cmatic"></td>
+        <td><strong>bherts63cmatic - Mercedes S63 AMG</strong> - Acest shard poate fi obținut în <strong>Xmas Crate</strong></td>
+    </tr>
+    <tr>
+        <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/bhswagengolfrmk75.png" alt="bhswagengolfrmk75"></td>
+        <td><strong>bhswagengolfrmk75 - Volkswagen Golf MK 75</strong> - Acest shard poate fi obținut în sezonul 4 din <strong>Battlepass</strong></td>
+    </tr>
+    <tr>
+        <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/bheslaroadster20.png" alt="bheslaroadster20"></td>
+        <td><strong>bheslaroadster20 - Tesla Roadster 20</strong> - Acest shard poate fi obținut în <strong>sezonul 4 din Battlepass</strong></td>
+    </tr>
+    <tr>
+        <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/bhgustawestaw109vip.png" alt="bhgustawestaw109vip"></td>
+        <td><strong>bhgustawestaw109vip - Augusta Westland AW109 VIP</strong> - Acest shard poate fi obținut în <strong>Cupidon V2 Crate</strong></td>
+    </tr>
+</table>
 
 
