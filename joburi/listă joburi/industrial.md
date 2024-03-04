@@ -8,7 +8,7 @@ Acțiunea jobului de pescar industrial constă în prinderea peștilor folosindu
 
 <div class="warning-container">
     <p class="title">Nivel necesar</p>
-    <p class="description">Pentru a munci la acest job ai nevoie de minim nivel <strong>3</strong>.</p>
+    <p class="description">Ai nevoie de minim nivel <strong>3</strong> pentru a putea lucra la acest job.</p>
 </div>
 
 <details class="details custom-block">
@@ -72,7 +72,7 @@ Costurile pentru upgrade variază în funcție de tipul de undiță deținută �
 
 <div class="danger-container">
     <p class="title">Probabilitatea de succes a îmbunătățirii.</p>
-    <p class="description">Probabilitatea de succes este reprezentată de bara afișată în interfața `/rodupgrade` <br> <img src="https://i.imgur.com/4YTaKqm.png" alt="Sansa"></p>
+    <p class="description">Probabilitatea de succes este reprezentată de bara afișată în interfața `/rodupgrade`. <br> <img src="https://i.imgur.com/4YTaKqm.png" alt="Sansa"></p>
 </div>
 <details class="details custom-block">
     <summary>Skill 1</summary>
@@ -85,7 +85,7 @@ Costurile pentru upgrade variază în funcție de tipul de undiță deținută �
     <p>Upgrade-ul +7 are un cost de `700.000$`</p>
     <p>Upgrade-ul +8 are un cost de `800.000$`</p>
     <p>Upgrade-ul +9 are un cost de `900.000$`</p>
-    <p>Upgrade-ul pentru undița **Plastic** va avea un cost de `2.500.000$` și va necesita 30 de pești de tip <strong>pilchard fish</strong></p>
+    <p>Upgrade-ul pentru undița **Plastic** va avea un cost de `2.500.000$` și va necesita 30 de pești de tip <strong>Pilchard Fish</strong></p>
 </details>
 <details class="details custom-block">
     <summary>Skill 2</summary>
@@ -98,7 +98,7 @@ Costurile pentru upgrade variază în funcție de tipul de undiță deținută �
     <p>Upgrade-ul +7 are un cost de `1.400.000$`</p>
     <p>Upgrade-ul +8 are un cost de `1.600.000$`</p>
     <p>Upgrade-ul +9 are un cost de `1.800.000$`</p>
-    <p>Upgrade-ul pentru undița **Iron** va avea un cost de `5.000.000$` și va necesita 10 pești de tip <strong>tiger butterflyfish</strong></p>
+    <p>Upgrade-ul pentru undița **Iron** va avea un cost de `5.000.000$` și va necesita 10 pești de tip <strong>Tiger Butterflyfish</strong></p>
 </details>
 <details class="details custom-block">
     <summary>Skill 3</summary>
@@ -111,7 +111,7 @@ Costurile pentru upgrade variază în funcție de tipul de undiță deținută �
     <p>Upgrade-ul +7 are un cost de `2.450.000$`</p>
     <p>Upgrade-ul +8 are un cost de `2.800.000$`</p>
     <p>Upgrade-ul +9 are un cost de `3.150.000$`</p>
-    <p>Upgrade-ul pentru undița **Gold** va avea un cost de `10.000.000$` și va necesita 15 pești de tip <strong>yellow fish</strong></p>
+    <p>Upgrade-ul pentru undița **Gold** va avea un cost de `10.000.000$` și va necesita 15 pești de tip <strong>Yellow Fish</strong></p>
 </details>
 <details class="details custom-block">
     <summary>Skill 4</summary>
@@ -124,7 +124,7 @@ Costurile pentru upgrade variază în funcție de tipul de undiță deținută �
     <p>Upgrade-ul +7 are un cost de `5.075.000$`</p>
     <p>Upgrade-ul +8 are un cost de `5.800.000$`</p>
     <p>Upgrade-ul +9 are un cost de `6.525.000$`</p>
-    <p>Upgrade-ul pentru undița **Diamond** va avea un cost de `30.000.000$` și va necesita 17 pești de tip <strong>tuna fish</strong></p>
+    <p>Upgrade-ul pentru undița **Diamond** va avea un cost de `30.000.000$` și va necesita 17 pești de tip <strong>Tuna Fish</strong></p>
 </details>
 <details class="details custom-block">
     <summary>Skill 5</summary>
@@ -137,7 +137,7 @@ Costurile pentru upgrade variază în funcție de tipul de undiță deținută �
     <p>Upgrade-ul +7 are un cost de `7.000.000$`</p>
     <p>Upgrade-ul +8 are un cost de `8.000.000$`</p>
     <p>Upgrade-ul +9 are un cost de `9.000.000$`</p>
-    <p>Upgrade-ul pentru undița **Premium** va avea un cost de `10.000.000$`, 100 de <span style="color:red">Premium Points</span> și va necesita 15 pești de tip <strong>swords</strong></p>
+    <p>Upgrade-ul pentru undița **Premium** va avea un cost de `10.000.000$`, 100 de <span style="color:red">Premium Points</span> și va necesita 15 pești de tip <strong>Swords</strong></p>
 </details>
 <details class="details custom-block">
     <summary>Skill 6</summary>
@@ -158,10 +158,16 @@ Costurile pentru upgrade variază în funcție de tipul de undiță deținută �
 
 ## Cum arată aceșți pești?
 
-<p align="center">
-    <img width="600" src="https://i.imgur.com/OHiRYgC.png" alt="Material Bread logo">
-</p>
-
+<table>
+    <tr>
+        <td><img src="https://i.imgur.com/KanAgqJ.png" alt="Imagine 1"></td>
+        <td><img src="https://i.imgur.com/sZutru0.png" alt="Imagine 2"></td>
+        <td><img src="https://i.imgur.com/Tl7dnTf.png" alt="Imagine 3"></td>
+        <td><img src="https://i.imgur.com/2EFtC63.png" alt="Imagine 4"></td>
+        <td><img src="https://i.imgur.com/aRB5Zzf.png" alt="Imagine 5"></td>
+        <td><img src="https://i.imgur.com/UtLnHp5.png" alt="Imagine 6"></td>
+    </tr>
+</table>
 
 ## Ce skin îmi oferă avantaj la acest job?
 
