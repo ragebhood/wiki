@@ -151,8 +151,7 @@ Armele pot fi îmbunătățite în locația specială în schimbul unei sume de 
     <p class="description">'Alien' îl vei putea vâna doar dacă ai armă avansată de la skill 5. Vei primi câte 1 punct premium pe fiecare alien vânat.</p>
 </div>
 
-## Cum ara
-tă aceste animale?
+## Cum arată aceste animale?
 <table>
     <tr> 
      <td><img src="https://i.imgur.com/Dg1G4J9.png" alt="Image 4"></td>
