@@ -64,7 +64,7 @@ Târnăcopul poate fi îmbunătățit în locația specială în schimbul unei s
 
 ## Care sunt preturile la upgrade?
 
-Costurile pentru upgrade variază în funcție de tipul de **pickaxe** deținut și de nivelul de îmbunătățire (**+**) aplicat asupra acesteia.
+Costurile pentru upgrade variază în funcție de tipul de **târnacop** deținut și de nivelul de îmbunătățire (**+**) aplicat asupra acesteia.
 
 <div class="danger-container">
     <p class="title">Probabilitatea de succes a îmbunătățirii.</p>
@@ -152,7 +152,7 @@ Costurile pentru upgrade variază în funcție de tipul de **pickaxe** deținut 
 </details>
 <div class="important-container">
     <p class="title">Important</p>
-    <p class="description">Atunci când vei avea skill 6 și tarnacopul acestuia <span style="color:blue">Premium</span>, vei avea 2% șansă de a primi puncte premium în timp ce minezi și totodată minereul 'coal' nu-l vei mai putea obține.</p>
+    <p class="description">Atunci când vei avea skill 6 și târnacopul acestuia <span style="color:blue">Premium</span>, vei avea 2% șansă de a primi puncte premium în timp ce minezi și totodată minereul 'coal' nu-l vei mai putea obține.</p>
 </div>
 
 ## Cum arată aceste mineree?
