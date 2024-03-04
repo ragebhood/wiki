@@ -156,9 +156,16 @@ Costurile pentru upgrade variază în funcție de tipul de undiță deținută �
 </div>
 ## Cum arată aceste mineree?
 
-<p align="center">
-    <img width="600" src="https://i.imgur.com/2WxMztr.png" alt="Material Bread logo">
-</p>
+<table>
+    <tr>
+        <td><img src="https://i.imgur.com/YXDhWX0.png" alt="Imagine 1"></td>
+        <td><img src="https://i.imgur.com/ij2o9K0.png" alt="Imagine 2"></td>
+        <td><img src="https://i.imgur.com/AIazB46.png" alt="Imagine 3"></td>
+        <td><img src="https://i.imgur.com/TFxbgsE.png" alt="Imagine 4"></td>
+        <td><img src="https://i.imgur.com/vI0iP92.png" alt="Imagine 5"></td>
+        <td><img src="https://i.imgur.com/ERHrF2q.png" alt="Imagine 6"></td>
+    </tr>
+</table>
 
 ## Ce skin îmi oferă avantaj la acest job?
 
