@@ -8,7 +8,7 @@ Această facțiune este un departament de poliție ce se ocupă cu arestarea sus
 
 <div class="warning-container">
     <p class="title">Nivel necesar</p>
-    <p class="description">Ai nevoie de minim nivel <strong>10</strong> pentru a aplica in aceasta factiune.</p>
+    <p class="description">Ai nevoie de minim nivel <strong>10</strong> pentru a aplica in aceasta facțiune.</p>
 </div>
 
 - Regulamentul facțiunii îl poți găsi în totalitate [aici](https://ragepanel.b-hood.ro/rules/view/regulament-departamente "Link regulament LSPD").
