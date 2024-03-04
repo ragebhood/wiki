@@ -85,7 +85,7 @@ Costurile pentru upgrade variază în funcție de tipul de undiță deținută �
     <p>Upgrade-ul +7 are un cost de `700.000$`</p>
     <p>Upgrade-ul +8 are un cost de `800.000$`</p>
     <p>Upgrade-ul +9 are un cost de `900.000$`</p>
-    <p>Upgrade-ul pentru undița **Coal** va avea un cost de `2.500.000$` și va necesita 30 de minerale de tip <strong>Coal</strong></p>
+    <p>Upgrade-ul pentru undița **Plastic** va avea un cost de `2.500.000$` și va necesita 30 de pești de tip <strong>pilchard fish</strong></p>
 </details>
 <details class="details custom-block">
     <summary>Skill 2</summary>
@@ -98,7 +98,7 @@ Costurile pentru upgrade variază în funcție de tipul de undiță deținută �
     <p>Upgrade-ul +7 are un cost de `1.400.000$`</p>
     <p>Upgrade-ul +8 are un cost de `1.600.000$`</p>
     <p>Upgrade-ul +9 are un cost de `1.800.000$`</p>
-    <p>Upgrade-ul pentru undița **Iron** va avea un cost de `5.000.000$` și va necesita 10 de minerale de tip <strong>Iron</strong></p>
+    <p>Upgrade-ul pentru undița **Iron** va avea un cost de `5.000.000$` și va necesita 10 pești de tip <strong>tiger butterflyfish</strong></p>
 </details>
 <details class="details custom-block">
     <summary>Skill 3</summary>
@@ -111,7 +111,7 @@ Costurile pentru upgrade variază în funcție de tipul de undiță deținută �
     <p>Upgrade-ul +7 are un cost de `2.450.000$`</p>
     <p>Upgrade-ul +8 are un cost de `2.800.000$`</p>
     <p>Upgrade-ul +9 are un cost de `3.150.000$`</p>
-    <p>Upgrade-ul pentru undița **Gold** va avea un cost de `10.000.000$` și va necesita 15 de minerale de tip <strong>Copper</strong></p>
+    <p>Upgrade-ul pentru undița **Gold** va avea un cost de `10.000.000$` și va necesita 15 pești de tip <strong>yellow fish</strong></p>
 </details>
 <details class="details custom-block">
     <summary>Skill 4</summary>
@@ -124,7 +124,7 @@ Costurile pentru upgrade variază în funcție de tipul de undiță deținută �
     <p>Upgrade-ul +7 are un cost de `5.075.000$`</p>
     <p>Upgrade-ul +8 are un cost de `5.800.000$`</p>
     <p>Upgrade-ul +9 are un cost de `6.525.000$`</p>
-    <p>Upgrade-ul pentru undița **Diamond** va avea un cost de `30.000.000$` și va necesita 17 de minerale de tip <strong>Gold</strong></p>
+    <p>Upgrade-ul pentru undița **Diamond** va avea un cost de `30.000.000$` și va necesita 17 pești de tip <strong>tuna fish</strong></p>
 </details>
 <details class="details custom-block">
     <summary>Skill 5</summary>
@@ -137,7 +137,7 @@ Costurile pentru upgrade variază în funcție de tipul de undiță deținută �
     <p>Upgrade-ul +7 are un cost de `7.000.000$`</p>
     <p>Upgrade-ul +8 are un cost de `8.000.000$`</p>
     <p>Upgrade-ul +9 are un cost de `9.000.000$`</p>
-    <p>Upgrade-ul pentru undița **Premium** va avea un cost de `10.000.000$`, 100 de <span style="color:red">Premium Points</span> și va necesita 15 pesti de tip <strong>pilchard fish</strong></p>
+    <p>Upgrade-ul pentru undița **Premium** va avea un cost de `10.000.000$`, 100 de <span style="color:red">Premium Points</span> și va necesita 15 pești de tip <strong>swords</strong></p>
 </details>
 <details class="details custom-block">
     <summary>Skill 6</summary>
