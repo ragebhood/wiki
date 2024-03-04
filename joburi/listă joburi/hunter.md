@@ -9,7 +9,7 @@ Acțiunea jobului de vânător constă în vânarea animalelor din zonele marcat
 
 <div class="warning-container">
     <p class="title">Nivel necesar</p>
-    <p class="description">Pentru a munci la acest job ai nevoie de minim nivel <strong>3</strong>.</p>
+    <p class="description">Ai nevoie de minim nivel <strong>3</strong> pentru a putea lucra la acest job.</p>
 </div>
 
 <details class="details custom-block">
