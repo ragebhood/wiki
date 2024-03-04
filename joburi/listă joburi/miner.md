@@ -62,7 +62,7 @@ Târnăcopul poate fi îmbunătățit în locația specială în schimbul unei s
 
 `Skill 6` - **Premium Pickaxe**
 
-## Care sunt preturile la upgrade?
+## Care sunt prețurile la upgrade?
 
 Costurile pentru upgrade variază în funcție de tipul de **târnacop** deținut și de nivelul de îmbunătățire (**+**) aplicat asupra acesteia.
 
@@ -97,7 +97,7 @@ Costurile pentru upgrade variază în funcție de tipul de **târnacop** deținu
     <p>Upgrade-ul +7 are un cost de `1.400.000$`</p>
     <p>Upgrade-ul +8 are un cost de `1.600.000$`</p>
     <p>Upgrade-ul +9 are un cost de `1.800.000$`</p>
-    <p>Upgrade-ul pentru undița **Iron** va avea un cost de `5.000.000$` și va necesita 10 de minerale de tip <strong>Iron</strong></p>
+    <p>Upgrade-ul pentru undița **Iron** va avea un cost de `5.000.000$` și va necesita 10 minerale de tip <strong>Iron</strong></p>
 </details>
 <details class="details custom-block">
     <summary>Skill 3</summary>
@@ -110,7 +110,7 @@ Costurile pentru upgrade variază în funcție de tipul de **târnacop** deținu
     <p>Upgrade-ul +7 are un cost de `2.450.000$`</p>
     <p>Upgrade-ul +8 are un cost de `2.800.000$`</p>
     <p>Upgrade-ul +9 are un cost de `3.150.000$`</p>
-    <p>Upgrade-ul pentru undița **Gold** va avea un cost de `10.000.000$` și va necesita 15 de minerale de tip <strong>Copper</strong></p>
+    <p>Upgrade-ul pentru undița **Gold** va avea un cost de `10.000.000$` și va necesita 15 minerale de tip <strong>Copper</strong></p>
 </details>
 <details class="details custom-block">
     <summary>Skill 4</summary>
@@ -123,7 +123,7 @@ Costurile pentru upgrade variază în funcție de tipul de **târnacop** deținu
     <p>Upgrade-ul +7 are un cost de `5.075.000$`</p>
     <p>Upgrade-ul +8 are un cost de `5.800.000$`</p>
     <p>Upgrade-ul +9 are un cost de `6.525.000$`</p>
-    <p>Upgrade-ul pentru undița **Diamond** va avea un cost de `30.000.000$` și va necesita 17 de minerale de tip <strong>Gold</strong></p>
+    <p>Upgrade-ul pentru undița **Diamond** va avea un cost de `30.000.000$` și va necesita 17 minerale de tip <strong>Gold</strong></p>
 </details>
 <details class="details custom-block">
     <summary>Skill 5</summary>
@@ -136,7 +136,7 @@ Costurile pentru upgrade variază în funcție de tipul de **târnacop** deținu
     <p>Upgrade-ul +7 are un cost de `7.000.000$`</p>
     <p>Upgrade-ul +8 are un cost de `8.000.000$`</p>
     <p>Upgrade-ul +9 are un cost de `9.000.000$`</p>
-    <p>Upgrade-ul pentru undița **Premium** va avea un cost de `10.000.000$`, 100 de <span style="color:red">Premium Points</span> și va necesita 15 de minerale de tip <strong>Diamond</strong></p>
+    <p>Upgrade-ul pentru undița **Premium** va avea un cost de `10.000.000$`, 100 de <span style="color:red">Premium Points</span> și va necesita 15 minerale de tip <strong>Diamond</strong></p>
 </details>
 <details class="details custom-block">
     <summary>Skill 6</summary>
