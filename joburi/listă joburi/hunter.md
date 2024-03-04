@@ -64,52 +64,46 @@ Armele pot fi îmbunătățite în locația specială în schimbul unei sume de 
 ### Preturi Upgrade Arma
 
 **Arma Skill 1:**
-- Primul upgrade costă `$250,000`.
-- Al doilea upgrade costă `$500,000`.
-- Al treilea upgrade costă `$1,000,000`.
-- Al patrulea upgrade costă `$2,000,000`.
-- Al cincilea upgrade costă `$4,000,000`.
-- Al șaselea upgrade costă `$10,000,000`(Achiziționare următoarea armă.).
+- Primul upgrade costă `$500,000`.
+- Al doilea upgrade costă `$1,000,000`.
+- Al treilea upgrade costă `$2,000,000`.
+- Al patrulea upgrade costă `$4,000,000`.
+- Al cincilea upgrade costă `$10,000,000`(Achiziționare următoarea armă.).
 
 **Arma Skill 2:**
-- Primul upgrade costă `$1,000,000`.
-- Al doilea upgrade costă `$2,000,000`.
-- Al treilea upgrade costă `$4,000,000`.
-- Al patrulea upgrade costă `$5,000,000`.
-- Al cincilea upgrade costă `$7,000,000`.
-- Al șaselea upgrade costă `$20,000,000`(Achiziționare următoarea armă.).
-
-**Arma Skill 3:**
 - Primul upgrade costă `$2,000,000`.
 - Al doilea upgrade costă `$4,000,000`.
-- Al treilea upgrade costă `$8,000,000`.
-- Al patrulea upgrade costă `$15,000,000`.
-- Al cincilea upgrade costă `$25,000,000`.
-- Al șaselea upgrade costă `$33,333,333`(Achiziționare următoarea armă.).
+- Al treilea upgradecostă `$5,000,000`.
+- Al patrulea upgrade costă `$7,000,000`.
+- Al cincilea upgrade costă `$20,000,000`(Achiziționare următoarea armă.).
+
+**Arma Skill 3:**
+- Primul upgrade costă `$4,000,000`.
+- Al doilea upgrade costă `$8,000,000`.
+- Al treilea upgrade costă `$15,000,000`.
+- Al patrulea upgrade costă `$25,000,000`.
+- Al cincilea upgrade costă `$33,333,333`(Achiziționare următoarea armă.).
 
 **Arma Skill 4:**
-- Primul upgrade costă `$3,000,000`.
-- Al doilea upgrade costă `$5,000,000`.
-- Al treilea upgrade costă `$7,750,000`.
-- Al patrulea upgrade costă `$15,000,000`.
-- Al cincilea upgrade costă `$22,250,000`.
-- Al șaselea upgrade costă `$50,000,000`(Achiziționare următoarea armă.).
+- Primul upgradecostă `$5,000,000`.
+- Al doilea upgrade costă `$7,750,000`.
+- Al treilea upgrade costă `$15,000,000`.
+- Al patrulea upgrade costă `$22,250,000`.
+- Al cincilea upgrade costă `$50,000,000`(Achiziționare următoarea armă.).
 
 **Arma Skill 5:**
-- Primul upgrade costă `$5,500,000`.
-- Al doilea upgrade costă `$10,000,000`.
-- Al treilea upgrade costă `$17,300,000`.
-- Al patrulea upgrade costă `$25,000,000`.
-- Al cincilea upgrade costă `$44,000,000`.
-- Al șaselea upgrade costă `$69,000,000`(Achiziționare următoarea armă.).
+- Primul upgrade costă `$10,000,000`.
+- Al doilea upgrade costă `$17,300,000`.
+- Al treilea upgrade costă `$25,000,000`.
+- Al patrulea upgrade  costă `$44,000,000`.
+- Al cincilea upgrade  costă `$69,000,000`(Achiziționare următoarea armă.).
 
 **Arma Skill 6:**
-- Primul upgrade costă `$7,777,777`.
-- Al doilea upgrade costă `$22,222,222`.
-- Al treilea upgrade costă `$44,444,444`.
-- Al patrulea upgrade costă `$77,777,777`.
-- Al cincilea upgrade costă `$99,999,999`.
-- Al șaselea upgrade costă `$111,111,111`.
+- Primul upgrade costă `$22,222,222`.
+- Al doilea upgrade costă `$44,444,444`.
+- Al treilea upgrade costă `$77,777,777`.
+- Al patrulea upgrade costă `$99,999,999`.
+- Al cincilea upgrade costă `$111,111,111`.
 <br>
 <div class="warning-container">
     <p class="title">Fail</p>
