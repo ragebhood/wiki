@@ -74,8 +74,6 @@ Costurile pentru upgrade variază în funcție de tipul de undiță deținută �
     <p class="title">Probabilitatea de succes a îmbunătățirii.</p>
     <p class="description">Probabilitatea de succes este reprezentată de bara afișată în interfața `/rodupgrade` <br> <img src="https://i.imgur.com/4YTaKqm.png" alt="Sansa"></p>
 </div>
-
-
 <details class="details custom-block">
     <summary>Skill 1</summary>
     <p>Upgrade-ul +1 are un cost de `100.000$`</p>
@@ -89,7 +87,6 @@ Costurile pentru upgrade variază în funcție de tipul de undiță deținută �
     <p>Upgrade-ul +9 are un cost de `900.000$`</p>
     <p>Upgrade-ul pentru undița **Coal** va avea un cost de `2.500.000$` și va necesita 30 de minerale de tip <strong>Coal</strong></p>
 </details>
-
 <details class="details custom-block">
     <summary>Skill 2</summary>
     <p>Upgrade-ul +1 are un cost de `200.000$`</p>
@@ -140,7 +137,7 @@ Costurile pentru upgrade variază în funcție de tipul de undiță deținută �
     <p>Upgrade-ul +7 are un cost de `7.000.000$`</p>
     <p>Upgrade-ul +8 are un cost de `8.000.000$`</p>
     <p>Upgrade-ul +9 are un cost de `9.000.000$`</p>
-    <p>Upgrade-ul pentru undița **Premium** va avea un cost de `10.000.000$`, 100 de <span style="color:red">Premium Points</span> și va necesita 15 de minerale de tip <strong>Diamond</strong></p>
+    <p>Upgrade-ul pentru undița **Premium** va avea un cost de `10.000.000$`, 100 de <span style="color:red">Premium Points</span> și va necesita 15 pesti de tip <strong>pilchard fish</strong></p>
 </details>
 <details class="details custom-block">
     <summary>Skill 6</summary>
