@@ -153,7 +153,7 @@ Costurile pentru upgrade variază în funcție de tipul de undiță deținută �
 </details>
 <div class="important-container">
     <p class="title">Important</p>
-    <p class="description">Atunci când vei avea skill 6 și undița <span style="color:blue">Premium</span>, vei avea 2% șansă de a primi puncte premium în timp ce minezi și totodată minereul 'coal' nu-l vei mai putea obține.</p>
+    <p class="description">Atunci când vei avea skill 6 și undița <span style="color:blue">Premium</span>, vei avea 2% șansă de a primi puncte premium în timp ce pescuiesti și totodată pestele 'Pilchard Fish' nu-l vei mai putea obține.</p>
 </div>
 
 ## Cum arată aceșți pești?
