@@ -146,10 +146,13 @@ Armele pot fi îmbunătățite în locația specială în schimbul unei sume de 
 
 `Skill 6` - **Panther, Alien, Bear și Montain Lion**
 
-::: tip SFAT
-'Alien' îl vei putea vâna doar dacă ai armă avansată de la skill 5. Vei primi câte 1 punct premium pe fiecare alien vânat.
-:::
-## Cum arată aceste animale?
+<div class="tip-container">
+    <p class="title">SFAT</p>
+    <p class="description">'Alien' îl vei putea vâna doar dacă ai armă avansată de la skill 5. Vei primi câte 1 punct premium pe fiecare alien vânat.</p>
+</div>
+
+## Cum ara
+tă aceste animale?
 <table>
     <tr> 
      <td><img src="https://i.imgur.com/Dg1G4J9.png" alt="Image 4"></td>
