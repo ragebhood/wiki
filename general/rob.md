@@ -13,7 +13,6 @@ title: Rob / Heist
 
 Pentru a începe jafu, folosește `/rob`. Dacă nu ești la locația specială, comanda îți va pune un checkpoint către locația respectivă.
 
-
 <details class="details custom-block">
     <summary>Unde este această locație?</summary>
     <p>![rob](https://i.imgur.com/CdrtgAs.png "locatie")</p>
@@ -65,12 +64,45 @@ Pentru a invita un jucator in echipa, foloseste comanda `/inviteheist`.
 </div>
 
 ## Roluri Există 4 roluri ce se vor genera aleatoriu: 
-| Rol          | Video Status | Descriere                                                                                                                                                                    | Tip video |
-|--------------|--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
-| Cameraman    | Complet      | Acest rol presupune spargerea camerelor, legarea sefului băncii și introducerea codului pentru a deschide poarta, precum și plasarea dispozitivului exploziv lângă seif.     | [Video](https://www.youtube.com/embed/IB0TFhwna7k?si=Xo0xJSPSZjtvOLYf&controls=0)        |
-| Atacant      | Esential     | Atacantul se ocupă de eliminarea paznicilor și NPC-urilor de la ghiseu, având sarcina de a viza fiecare NPC pentru a preveni apăsarea butonului de panică.                     | [Video](https://www.youtube.com/embed/932SmLrX3rQ?si=gKT8L8sTI7Ji9VlH&controls=0)        |
-| Lider        | Esential      | Liderul se ocupă de hacking și amenințarea directorului pentru a obține codul secret de la ușa seifului.                                                                      | [Video](https://www.youtube.com/embed/vePtW1KsxD0?si=4ByHY7kfG9nuBX2d&controls=0)        |
-| Bomber       | Complet      | Bomberul se ocupă de fabricarea bombelor și plasarea acestora.                                                                                                                 | [Video](https://www.youtube.com/embed/mINVctZdWLY?si=RCAFesGkpl_teFXI&controls=0)        |
+
+test 
+
+<table>
+  <thead>
+    <tr>
+      <th>Rol</th>
+      <th>Video Status</th>
+      <th>Descriere</th>
+      <th>Tip video</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Cameraman</td>
+      <td style="color:green;">Complet</td>
+      <td>Acest rol presupune spargerea camerelor, legarea sefului băncii și introducerea codului pentru a deschide poarta, precum și plasarea dispozitivului exploziv lângă seif.</td>
+      <td><a href="https://www.youtube.com/embed/IB0TFhwna7k?si=Xo0xJSPSZjtvOLYf&amp;controls=0" target="_blank">Video</a></td>
+    </tr>
+    <tr>
+      <td>Atacant</td>
+      <td style="color:green;">Complet</td>
+      <td>Atacantul se ocupă de eliminarea paznicilor și NPC-urilor de la ghiseu, având sarcina de a viza fiecare NPC pentru a preveni apăsarea butonului de panică.</td>
+      <td><a href="https://www.youtube.com/embed/932SmLrX3rQ?si=gKT8L8sTI7Ji9VlH&amp;controls=0" target="_blank">Video</a></td>
+    </tr>
+    <tr>
+      <td>Lider</td>
+      <td style="color:green;">Complet</td>
+      <td>Liderul se ocupă de hacking și amenințarea directorului pentru a obține codul secret de la ușa seifului.</td>
+      <td><a href="https://www.youtube.com/embed/vePtW1KsxD0?si=4ByHY7kfG9nuBX2d&amp;controls=0" target="_blank">Video</a></td>
+    </tr>
+    <tr>
+      <td>Bomber</td>
+      <td style="color:green;">Complet</td>
+      <td>Bomberul se ocupă de fabricarea bombelor și plasarea acestora.</td>
+      <td><a href="https://www.youtube.com/embed/mINVctZdWLY?si=RCAFesGkpl_teFXI&amp;controls=0" target="_blank">Video</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ## Pașii corecți pentru a finaliza jaful
 Fiecare trebuie să-și asume rolurile menționate mai sus <br>
