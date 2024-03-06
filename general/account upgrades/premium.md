@@ -2,7 +2,7 @@
 title: Premium
 ---
 
-# Premium 🪙
+# Premium 
 ### Preț: 💵
 - **o lună**: 100 premium points
 - **3 luni**: 275 premium points
