@@ -2,7 +2,7 @@
 title: Lucky wheel
 ---
 
-# Lucky Wheel 🛞
+# Lucky Wheel 
 Zilnic, poți să-ți încerci norocul gratuit la așa zisa "Roata norocului".
 
 ![Lucky Wheel](https://i.imgur.com/xD3TRvB.png "Lucky wheel")
