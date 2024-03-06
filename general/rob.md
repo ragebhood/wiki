@@ -39,7 +39,7 @@ Folosește-te de **Shark-ul** oferit pentru a ajunge acolo.
 </div>
 
 ## Video Tutorial :arrow_down: 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXyVAhWTKow?si=I89cc4iy7QyYF2VX&amp;controls=0&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXyVAhWTKow?si=I89cc4iy7QyYF2VX&amp;controls=0&rel=0&showinfo=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br> <hr>
 
 
@@ -65,10 +65,12 @@ Pentru a invita un jucator in echipa, foloseste comanda `/inviteheist`.
 </div>
 
 ## Roluri Există 4 roluri ce se vor genera aleatoriu: 
-**Cameraman**: se va ocupa de spargerea camerelor <br>
-**Atacant**: se va ocupa de uciderea paznicilor și de NPC-urile de la ghiseu unde va trebui să țintească pe fiecare NPC pentru a nu fi apăsat butonul de panică <br>
-**Lider**: se va ocupa de partea de hacking și de amenințarea directorului pentru a afla codul secret de la ușa de la seif <br>
-**Bomber**: se va ocupa de confecționarea bombelor și de amplasarea acestora <br>
+| Rol          | Video Status | Descriere                                                                                                                                                                    | Tip video |
+|--------------|--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| Cameraman    | <span style="color:green">Complet</span>      | Acest rol presupune spargerea camerelor, legarea sefului băncii și introducerea codului pentru a deschide poarta, precum și plasarea dispozitivului exploziv lângă seif.     | [Video](https://www.youtube.com/embed/IB0TFhwna7k?si=Xo0xJSPSZjtvOLYf&controls=0&showinfo=0&rel=0)        |
+| Atacant      | <span style="color:red">Esential</span>      | Atacantul se ocupă de eliminarea paznicilor și NPC-urilor de la ghiseu, având sarcina de a viza fiecare NPC pentru a preveni apăsarea butonului de panică.                     | [Video](https://www.youtube.com/embed/932SmLrX3rQ?si=gKT8L8sTI7Ji9VlH&controls=0&showinfo=0&rel=0)        |
+| Lider        | <span style="color:red">Esential</span>      | Liderul se ocupă de hacking și amenințarea directorului pentru a obține codul secret de la ușa seifului.                                                                      | [Video](https://www.youtube.com/embed/vePtW1KsxD0?si=4ByHY7kfG9nuBX2d&controls=0&showinfo=0&rel=0)        |
+| Bomber       | <span style="color:green">Complet</span>      | Bomberul se ocupă de fabricarea bombelor și plasarea acestora.                                                                                                                 | [Video](https://www.youtube.com/embed/mINVctZdWLY?si=RCAFesGkpl_teFXI&controls=0&showinfo=0&rel=0)        |
 
 ## Pașii corecți pentru a finaliza jaful
 Fiecare trebuie să-și asume rolurile menționate mai sus <br>
@@ -101,4 +103,4 @@ după ce toți participanții au furat lingourile, vor avea marcat un bunker ale
 
 
 ## Video Trailer :arrow_down: 
-<iframe height="315" src="https://www.youtube.com/embed/Sk0oZFI4Pjs?si=XH6EYxTYkuZnk4Mc;controls=0;rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe height="315" src="https://www.youtube.com/embed/Sk0oZFI4Pjs?si=XH6EYxTYkuZnk4Mc;controls=0&rel=0&showinfo=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
