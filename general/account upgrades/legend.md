@@ -2,7 +2,7 @@
 title: Legend
 ---
 
-# Legend 🫛
+# Legend 
 ### Preț: 💵
 - **o lună**: 750 premium points
 - **3 luni**: 2000 premium points
