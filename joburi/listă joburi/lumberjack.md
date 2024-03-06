@@ -2,7 +2,7 @@
 title: Lumberjack
 ---
 
-# Lumberjack 🪵
+# Lumberjack 
 
 Acțiunea jobului de pădurar constă în tăierea arborilor, curățarea și încărcarea lor în vehicul, iar la final, transportarea lemnului către locația marcată atunci când vehiculul se va umple.
 
