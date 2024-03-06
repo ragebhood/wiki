@@ -65,15 +65,13 @@ Pentru a invita un jucator in echipa, foloseste comanda `/inviteheist`.
 
 ## Roluri Există 4 roluri ce se vor genera aleatoriu: 
 
-test 
-
 <table>
   <thead>
     <tr>
       <th>Rol</th>
       <th>Video Status</th>
       <th>Descriere</th>
-      <th>Tip video</th>
+      <th>video</th>
     </tr>
   </thead>
   <tbody>
@@ -85,13 +83,13 @@ test
     </tr>
     <tr>
       <td>Atacant</td>
-      <td style="color:green;">Complet</td>
+      <td style="color:yellow;">Esential</td>
       <td>Atacantul se ocupă de eliminarea paznicilor și NPC-urilor de la ghiseu, având sarcina de a viza fiecare NPC pentru a preveni apăsarea butonului de panică.</td>
       <td><a href="https://www.youtube.com/embed/932SmLrX3rQ?si=gKT8L8sTI7Ji9VlH&amp;controls=0" target="_blank">Video</a></td>
     </tr>
     <tr>
       <td>Lider</td>
-      <td style="color:green;">Complet</td>
+      <td style="color:yellow;">Esential</td>
       <td>Liderul se ocupă de hacking și amenințarea directorului pentru a obține codul secret de la ușa seifului.</td>
       <td><a href="https://www.youtube.com/embed/vePtW1KsxD0?si=4ByHY7kfG9nuBX2d&amp;controls=0" target="_blank">Video</a></td>
     </tr>
@@ -135,4 +133,4 @@ după ce toți participanții au furat lingourile, vor avea marcat un bunker ale
 
 
 ## Video Trailer 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Sk0oZFI4Pjs?si=XH6EYxTYkuZnk4Mc;controls=0&rel=0&showinfo=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe height="315" src="https://www.youtube.com/embed/Sk0oZFI4Pjs?si=XH6EYxTYkuZnk4Mc;controls=0&rel=0&showinfo=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
