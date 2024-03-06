@@ -94,9 +94,15 @@ Pe această aplicație poți vedea:
 - **Prețul peștilor pe piață**
 - **Prețul animalelor pe piață**
 
-![Aplicația Market Ore Prices](https://i.imgur.com/1CEzusC.png "Aplicația Market Ore Prices")
-![Aplicația Market Fish Prices](https://i.imgur.com/Q28jbAG.png "Aplicația Market Fish Prices")
-![Aplicația Market Animals Prices](https://i.imgur.com/C3X9LUs.png "Aplicația Market Animals Prices")
+
+<table>
+        <tr>
+            <td><img src="https://i.imgur.com/1CEzusC.png" alt="Aplicația Market Ore Prices"  height="430"></td>
+            <td><img src="https://i.imgur.com/Q28jbAG.png" alt="Aplicația Market Fish Prices"  height="400"></td>
+            <td><img src="https://i.imgur.com/C3X9LUs.png" alt="Aplicația Market Animals Prices" width="300"  height="400"></td>
+        </tr>
+</table>
+
 
 ### Service 🎧
 ![Aplicația Service](https://i.imgur.com/H9v2IO4.png "Aplicația Service")

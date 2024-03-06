@@ -2,7 +2,7 @@
 title: Informații generale
 ---
 
-# Informații generale 🥸
+# Informații generale 
 Joburile îți permit să-ți construiești cariera în Los Santos. Poți să devii un muncitor harnic, extrăgând resurse sau tăind lemne, sau să te implici în activități comerciale, precum transportul de colete sau conducător de autobuz. Dacă preferi un stil de viață mai ilegal, poți să te dedici craftarea armelor sau traficului de droguri. Alternativ, ai opțiunea de a colecta deșeurile din oraș sau să transporți pizza la casele oamenilor. Alege-ți calea și construiește-ți propria poveste în acest univers virtual plin de posibilități.
 
 ## Skill

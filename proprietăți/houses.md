@@ -21,15 +21,15 @@ Proprietarul casei primește ulterior **jumătate** din chirie în seiful casei.
 </details>
 
 Pentru a accesa meniul casei, folosește comanda `/hmenu`.
-Dacă dorești să-ți scoți banii aflați în seiful acesteia, introdu suma dorită apoi apasă pe butonul <strong>withdraw</strong>.
+Dacă dorești să-ți scoți banii aflați în seiful acesteia, introdu suma dorită apoi apasă pe butonul **Withdraw**.
 
-Dacă dorești să-ți modifici numele casei, introdu numele dorit și apasă pe butonul  <strong>Save</strong>.
+Dacă dorești să-ți modifici numele casei, introdu numele dorit și apasă pe butonul  **Save**.
 
-Dacă dorești să-ți pui casa la vânzare (să poată fi cumpărată cu `/buyhouse`),  introdu suma dorită și apasă pe butonul  <strong>Save</strong>. 
+Dacă dorești să-ți pui casa la vânzare (să poată fi cumpărată cu `/buyhouse`),  introdu suma dorită și apasă pe butonul  **Save**. 
 
-Dacă dorești să afli lista cu chiriași tăi (inclusiv cei offline), apasă pe butonul  <strong>Info</strong>. 
+Dacă dorești să afli lista cu chiriași tăi (inclusiv cei offline), apasă pe butonul  **Info**. 
 
-Pentru a-ți seta un post de radio ce va fi redat atunci când te afli în interiorul casei, apasă pe butonul  <strong>List of Radio</strong> și apasă pe postul de radio dorit.
+Pentru a-ți seta un post de radio ce va fi redat atunci când te afli în interiorul casei, apasă pe butonul  **List of Radio** și apasă pe postul de radio dorit.
 
 ## Cum pot da chirie la o casă?
 Folosește comanda `/rentroom` atunci când te afli în fața ușii casei unde dorești să iei chirie.

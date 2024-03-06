@@ -26,7 +26,6 @@ Acest upgrade ofera un boost semnificativ vehiculului. Nu poți seta un Stage ma
 #### Launch control
 Acest feature oferă vehiculului un boost la plecarea de pe loc.
 
-### VIP
 ## VIP
 ***Acesta costa 500 de Premium Points***
 Vehiculul VIP iti ofera posibilitatea de a adauga neon, roti VIP, de a-l aduce la tine la 10 minute si 100 la suta armura.

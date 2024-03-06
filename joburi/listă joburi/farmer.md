@@ -15,7 +15,7 @@ Pentru a începe munca, folosește comanda `/work` sau apasă pe tasta `Y` din l
 
 <details class="details custom-block">
     <summary>Locație</summary>
-    <p>![Locatie](https://i.imgur.com/4nCHdz6.png "Locație")</p>
+    <p>![Locatie](https://i.imgur.com/OLzf0fl.gif "Locație")</p>
 </details>
 
 În momentul când ai început munca ți se va oferi un vehicul de tip `tractor` cu care îți vei efectua jobul. Urmează marcajul primit (cerc galben), odata ajuns acolo mergi cu tractorul langa acesta si apasa pe tasta 'Y' atunci cand te aflii cu spatele tractorului lipit de balot.

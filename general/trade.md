@@ -5,9 +5,10 @@ title: Trade
 # Trade 🧑‍🔧
 Cu ajutorul acestui sistem, poți efectua schimburi de bunuri personale cu un jucător.
 
-::: info
-Ai nevoie de minim nivel 3 pentru a putea realiza o afacere.
-:::
+<div class="danger-container">
+    <p class="title">ATENȚIE!</p>
+    <p class="description">Ai nevoie de minim nivel 3 pentru a putea realiza o afacere.</p>
+</div>
 
 Pentru a începe un trade cu un jucător folosește `/trade`.
 

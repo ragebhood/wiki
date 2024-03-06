@@ -2,7 +2,7 @@
 title: Dropbox
 ---
 
-# Dropbox 🫳
+# Dropbox 
 
 
 Dropul reprezintă o cutie care se eliberează la intervale regulate, iar prin identificarea și participarea la deschiderea sa, ai șansa de a obține diverse premii speciale.
