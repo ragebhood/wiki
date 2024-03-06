@@ -28,7 +28,7 @@ Pentru a licita, apasă pe bunul ce este scos la licitație, introdu **suma dori
 
 <details class="details custom-block">
     <summary>Meniu licitații</summary>
-    <p>!![bidmenu](Vhttps://i.imgur.com/vGXjjUW.png)</p>
+    <p>![bidmenu](Vhttps://i.imgur.com/vGXjjUW.png)</p>
 </details>
 
 Licitația este adjudecată de către persoana care a plasat ultima licitație, în condițiile în care nimeni altcineva nu a mai oferit nicio licitație în ultimele 60 de secunde.
