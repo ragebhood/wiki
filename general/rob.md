@@ -63,7 +63,7 @@ Pentru a invita un jucator in echipa, foloseste comanda `/inviteheist`.
     <p class="description">Premiu: $50,000,000 - $60,000,000, 50 puncte premium și 1000 bpoints.</p>
 </div>
 
-## Roluri Există 4 roluri ce se vor genera aleatoriu: 
+## Există 4 roluri ce se vor genera aleatoriu: 
 
 <table>
   <thead>
@@ -71,30 +71,30 @@ Pentru a invita un jucator in echipa, foloseste comanda `/inviteheist`.
       <th>Rol</th>
       <th>Video Status</th>
       <th>Descriere</th>
-      <th>video</th>
+      <th>Video</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Cameraman</td>
+      <td><b>Cameraman</b></td>
       <td style="color:green;">Complet</td>
       <td>Acest rol presupune spargerea camerelor, legarea sefului băncii și introducerea codului pentru a deschide poarta, precum și plasarea dispozitivului exploziv lângă seif.</td>
       <td><a href="https://www.youtube.com/embed/IB0TFhwna7k?si=Xo0xJSPSZjtvOLYf&amp;controls=0" target="_blank">Video</a></td>
     </tr>
     <tr>
-      <td>Atacant</td>
+      <td><b>Atacant</b></td>
       <td style="color:yellow;">Esential</td>
       <td>Atacantul se ocupă de eliminarea paznicilor și NPC-urilor de la ghiseu, având sarcina de a viza fiecare NPC pentru a preveni apăsarea butonului de panică.</td>
       <td><a href="https://www.youtube.com/embed/932SmLrX3rQ?si=gKT8L8sTI7Ji9VlH&amp;controls=0" target="_blank">Video</a></td>
     </tr>
     <tr>
-      <td>Lider</td>
+      <td><b>Lider</b></td>
       <td style="color:yellow;">Esential</td>
       <td>Liderul se ocupă de hacking și amenințarea directorului pentru a obține codul secret de la ușa seifului.</td>
       <td><a href="https://www.youtube.com/embed/vePtW1KsxD0?si=4ByHY7kfG9nuBX2d&amp;controls=0" target="_blank">Video</a></td>
     </tr>
     <tr>
-      <td>Bomber</td>
+      <td><b>Bomber</b></td>
       <td style="color:green;">Complet</td>
       <td>Bomberul se ocupă de fabricarea bombelor și plasarea acestora.</td>
       <td><a href="https://www.youtube.com/embed/mINVctZdWLY?si=RCAFesGkpl_teFXI&amp;controls=0" target="_blank">Video</a></td>
