@@ -2,7 +2,7 @@
 title: Courier
 ---
 
-# Courier 🛵
+# Courier 
 
 Acțiunea jobului de curier constă în transportarea coletelor din depozit, la adresele marcate pe hartă în momentul în care începi munca.
 
