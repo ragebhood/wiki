@@ -103,15 +103,16 @@ Pentru a invita un jucator in echipa, foloseste comanda `/inviteheist`.
 </table>
 
 ## Pașii corecți pentru a finaliza jaful
-Fiecare trebuie să-și asume rolurile menționate mai sus <br>
-**În momentul** în care **jaful a început**, participanții trebuie să meargă la checkpoint-ul marcat pentru a-și lua echipamentul (Binco) <br>
-**Bomber-ul** va avea o altă locație în care trebuie să meargă pentru a confecționa bombele <br>
-**Restul participanților** vor merge la bancă și își vor efectua pașii până când bomber-ul va apărea <br>
-**în momentul** în care **un participant intră în bancă** și nu are mască echipată (tasta M, accesibilă doar de lângă bancă/locația de confecționat bombe), alarma va suna și cei din SWAT vor fi anunțați că este un jaf în desfășurare <br>
-**După explozia bombelor**, participanții vor fi nevoiți să tragă în încuietoarea ușilor pentru a putea ajunge în locația unde se află lingourile cu aur <br>
-după ce toți participanții au furat lingourile, vor avea marcat un bunker aleatoriu unde vor fi nevoiți să transporte lingourile <br>
-**În momentul** în care au ajuns la NPC-ul de la bunker, aceștia vor apăsa tasta Y pentru a lăsa sacul cu lingourile <br>
-
+<ul>
+<li>Fiecare trebuie să-și asume rolurile menționate mai sus <br></li>
+<li>În momentul în care jaful a început, participanții trebuie să meargă la checkpoint-ul marcat pentru a-și lua echipamentul (Binco). </li>
+<li>Bomber-ul va avea o altă locație în care trebuie să meargă pentru a confecționa bombele. </li>
+<li>Restul participanților vor merge la bancă și își vor efectua pașii până când bomber-ul va apărea. </li>
+<li>În momentul în care un participant intră în bancă și nu are mască echipată (tasta M, accesibilă doar de lângă bancă/locația de confecționat bombe), alarma va suna și cei din SWAT vor fi anunțați că este un jaf în desfășurare. </li>
+<li>După explozia bombelor, participanții vor fi nevoiți să tragă în încuietoarea ușilor pentru a putea ajunge în locația unde se află lingourile cu aur
+după ce toți participanții au furat lingourile, vor avea marcat un bunker aleatoriu unde vor fi nevoiți să transporte lingourile. </li>
+<li>În momentul în care au ajuns la NPC-ul de la bunker, aceștia vor apăsa tasta Y pentru a lăsa sacul cu lingourile. </li>
+</ul>
 
 <div class="tip-container">
     <p class="title">Sfat</p>
