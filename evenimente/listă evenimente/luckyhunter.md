@@ -107,10 +107,7 @@ title: Bounty Hunter
 
 ## Ce premii pot castiga in urma uciderii animalelor?
  
-Dacă preferi să utilizezi un tabel pentru a organiza aceste informații despre animale, iată cum ar putea arăta codul HTML:
 
-html
-Copy code
 <table>
   <thead>
     <tr>
