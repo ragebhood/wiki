@@ -18,9 +18,9 @@ Acest sistem de skill adaugă o dimensiune dinamică experienței tale de joc, �
 ### Tipuri de Daily Job
 Acest subsistem poate avea diferite tipuri de bonusuri, precum:
 
-- Poate oferi +10% mai mulți bani job-ului zilei actuale având o șansă de 50% ca acest lucru să se întâmple.
-- Poate oferi +20% mai mulți bani job-ului zilei actuale având o șansă de 20% ca acest lucru să se întâmple.
-- Poate oferi +25% mai mulți bani job-ului zilei actuale având o șansă de 10% ca acest lucru să se întâmple.
+- Poate oferi +20% mai mulți bani job-ului zilei actuale având o șansă de 50% ca acest lucru să se întâmple.
+- Poate oferi +50% mai mulți bani job-ului zilei actuale având o șansă de 20% ca acest lucru să se întâmple.
+- Poate oferi +75% mai mulți bani job-ului zilei actuale având o șansă de 10% ca acest lucru să se întâmple.
 - Poate oferi între 20-50 B-Points având o șansă de 10% ca acest lucru să se întâmple însă fiecare job are o șansă diferită la acest tip de premiu.
 - Poate oferi între 1-3 Premium Points având o șansă de 10% ca acest lucru să se întâmple însă fiecare job are o șansă diferită la acest tip de premiu.
 
