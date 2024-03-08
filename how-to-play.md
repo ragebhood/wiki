@@ -12,11 +12,16 @@ Linkuri de unde poți cumpăra:
 - Epic Games: [redirect](https://store.epicgames.com/en-US/p/grand-theft-auto-v)
 - Steam: [redirect](https://store.steampowered.com/agecheck/app/271590/)
 
-> [!TIP]
-> Poți achiziționa o copie originală în siguranță de pe siteul [Eneba](https://www.eneba.com/) sub prețul de pe orice platformă menționată mai sus.
+<div class="tip-container">
+    <p class="title">SFAT</p>
+    <p class="description">Poți achiziționa o copie originală în siguranță de pe siteul [Eneba](https://www.eneba.com/) sub prețul de pe orice platformă menționată mai sus.</p>
+</div>
 
-> [!IMPORTANT]
-> Dacă îți cumperi jocul de pe **Rockstar Games** nu vei putea folosi platforma [Network Graphics](https://vrp.network/graphics/en), una dintre cele mai populare platforme de instalarea a modurilor.
+
+<div class="important-container">
+    <p class="title">DE ȚINUT MINTE!</p>
+    <p class="description">Dacă îți cumperi jocul de pe **Rockstar Games** nu vei putea folosi platforma [Network Graphics](https://vrp.network/graphics/en), una dintre cele mai populare platforme de instalarea a modurilor.</p>
+</div>
 
 Înainte de a-ți cumpăra jocul, verifică dacă componentele sistemului tău **îndeplinesc specificațiile minime** pentru a te juca:
 
@@ -29,8 +34,10 @@ Linkuri de unde poți cumpăra:
 ## Instalare
 Pentru a te putea juca la noi pe server, vei fi nevoit să îți descarci și platforma unde este serverul. Instalează **[RAGE Multiplayer](https://rage.mp/)**.
 
-> [!NOTE]
-> Poți descărca direct de pe acest [link](https://cdn.rgsvc.io/public/files/RAGEMultiplayer_Setup.exe) multiplayer-ul.
+<div class="note-container">
+    <p class="title">NOTIȚĂ</p>
+    <p class="description">Poți descărca direct de pe acest [link](https://cdn.rgsvc.io/public/files/RAGEMultiplayer_Setup.exe) multiplayer-ul.</p>
+</div>
 
 ## Conectare
 Felicitări!! Ești cu un pas mai aproape să te joci pe cel mai aventuros și captivant server de **GTA:V**. Intră pe masterlist și caută b-hood și apasă conectare.
