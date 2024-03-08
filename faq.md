@@ -426,3 +426,10 @@ Atunci când mănânci **hotdog**, **burger**, **fries** sau **pizza**, ai șans
 
 ## De ce îmi scade viața? 
 Viața ta scade deoarece serverul simulează viața reală, unde este esențial să consumi alimente pentru a supraviețui.
+
+## Cate <code>B-Points</code> primesc la jobgoal?
+Pentru fiecare `10.000$` munciti, vei primi 1 **B-Point**.
+## Cate puncte premium primesc daca muncesc cel mai mult la jobgoal?
+Vei primi 169 de **Premium Points**.
+## Care este maximul de <code>B-Points</code> pe care il pot obtine din jobgoal?
+Poti obtine maxim **2000** de B-Points.

@@ -17,7 +17,8 @@ Acțiunea job-ului de miner constă în minarea minereurilor  într-o mină cu s
 </details>
 
 ## Muncă
-Pentru a începe munca tastează comânda `/mine` și mergi la checkpointurile marcate pentru a începe mineritul.
+Pentru a începe munca tastează comânda `/mine` și mergi la blipurile marcate pentru a începe mineritul. Odata ajuns in fata pietrei, apasa `click` langa aceasta
+pentru a incepe sa minezi.
 
 
 <div class="danger-container">

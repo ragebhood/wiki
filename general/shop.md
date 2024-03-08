@@ -19,7 +19,7 @@ Pe aceasta pagină poți să-ți cumperi:
 - **Clear warn**: ștergi un warn
 - **Clear faction history**: ștergi tot istoricul tău în facțiuni, acesta încă va rămâne vizibil la administratorii serverului
 
-![Pagina normal](https://i.imgur.com/AZ9X49M.png "Pagina normal")
+![Pagina normal](https://i.imgur.com/nYWbQcS.png "Pagina normal")
 
 ## Account upgrade
 Poți vedea mai multe detalii despre această pagină [aici](./account%20upgrades/).
@@ -41,6 +41,7 @@ Pe această pagină poți achiziționa vouchere.
 ![Pagina vouchers](https://i.imgur.com/sUYdiDV.png "Pagina vouchers")
 
 ## Packs
-Pe această pagină poți cumpăra pack-uri de vouchere.
+Pe această pagină poți cumpăra pack-uri de vouchere sau de vehicule.
 
 ![Pagina packs](https://i.imgur.com/bJQ3APg.png "Pagina packs")
+![Pagina packs](https://i.imgur.com/fIJjerH.png)
