@@ -15,11 +15,11 @@ Pentru a începe munca, folosește comanda `/work` sau apasă pe tasta `Y` din l
 
 <details class="details custom-block">
     <summary>Locație</summary>
-    <p>![Locatie](https://i.imgur.com/OLzf0fl.gif "Locație")</p>
+    <p>![Locatie](https://i.imgur.com/A3UBT8f.png "Locație")</p>
 </details>
 
 În momentul când ai început munca ți se va oferi un vehicul de tip `tractor` cu care îți vei efectua jobul. Urmează marcajul primit (cerc galben), odata ajuns acolo mergi cu tractorul langa acesta si apasa pe tasta 'Y' atunci cand te aflii cu spatele tractorului lipit de balot.
-![Cum iau balotul?](https://i.imgur.com/Re7WUZ8.gif "Cum iau balotul?")
+![Cum iau balotul?](https://i.imgur.com/OLzf0fl.gif "Cum iau balotul?")
 
 După ce ai colectat balotul, este necesar să mergi cu acesta la checkpoint-ul primit pentru a-l depozita în hambar.
 Făina poate fi livrată când hambarul este pe jumătate plin  (cantitatea poate diferi in functie de skillul avut și de backpack) folosindu-te de comanda `/unloadflour` și urmând checkpointul.
