@@ -197,21 +197,33 @@ Pentru a vorbi pe chatul alianței poți folosi comanda `/ca`.
 ## Pret arme de clan
 ### Handgun:
 heavypistol - `75.000.000 + 20k mats`
+
 pistol50 - `100.000.000 + 25k mats`
 
 ### SMG:
 assaultsmg - `200.000.000 + 85.000 materiale`
+
 microsmg - `120.000.000 + 50.000 materiale`
+
 combatpdw - `180.000.000 + 75.000 materiale`
 
 ### Shotguns:
 pumpshotgun - `250.000.000 + 100.000 materiale`
+
 assaultshotgun - `300.000.000 + 120.000 materiale`
 
 ### Rifle:
 assaultrifle - `400.000.000 + 150.000 materiale`
+
 assaultrifle_mk2 - `450.000.000 + 180.000 materiale`
+
 carbinerifle - `450.000.000 + 180.000 materiale`
+
 carbinerifle_mk2 - `450.000.000 + 150.000 materiale`
+
 tacticalrifle - `500.000.000 + 200.000 materiale`
+
 heavyrifle - `500.000.000 + 200.000 materiale`
+
+## Cum somez un membru al unui alt clan daca se afla pe teritoriul meu?
+Daca un player din alt clan se afla pe teritoriul detinut de catre clanul tau, acesta trebuie somat de minimum 3 ori cu ajutorul comenzii `/cso`, daca acesta nu se conformeaza aveti dreptul sa-l omorati, atentie trebuie sa detineti dovezi video cu somatiile, altfel veti fi sanctionat conform regulamentului!
