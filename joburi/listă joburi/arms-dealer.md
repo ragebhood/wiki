@@ -31,18 +31,13 @@ După ce ai colectat materialele, mergi la următorul checkpoint pentru a livra 
 
 Imediat ce ai descărcat vehiculul la checkpoint, mergi cu materialele în interiorul clădirii, la checkpoint și apasă pe tasta `Y` pentru a le pune la prelucrat.
 
-::: tip SFAT
-Poți face orice job în continuare până când materialele se vor prelucra.
-:::
+Pentru a accesa materialele destinate procesării, te rugăm să folosești comanda <code>/mats</code>.
+![poza /mats](https://i.imgur.com/Ch6lqOd.png)
 
-<div class="danger-container">
-    <p class="title">ATENȚIE!</p>
-    <p class="description">
-        Nu vei putea pune materiale la prelucrat dacă ai deja materiale de colectat.
-        Colectează-ți mai întâi materialele prelucrate, iar apoi mergi și pune altele la prelucrat.
-    </p>
+<div class="tip-container">
+    <p class="title">SFAT</p>
+    <p class="description">Poți face orice job în continuare până când materialele se vor prelucra.</p>
 </div>
-
 
 ### Ture necesare pentru skill up:
 
@@ -65,3 +60,6 @@ Poți face orice job în continuare până când materialele se vor prelucra.
 | 4     | 1.6 secunde       | 1 material        |
 | 5     | 1 secundă         | 1 material        |
 
+
+### Materialele se proceseaza si offline?
+Da, acestea se vor procesa chiar daca nu esti conectat.
