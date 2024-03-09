@@ -42,5 +42,13 @@ Pe această pagină poți achiziționa vouchere.
 
 ## Packs
 Pe această pagină poți cumpăra pack-uri de vouchere sau de vehicule.
-<img align="left" src="https://i.imgur.com/bJQ3APg.png" alt="Pagina packs 1">
-<img align="left" src="https://i.imgur.com/fIJjerH.png" alt="Pagina packs 2">
+<table>
+    <tr>
+        <td>
+            <img src="https://i.imgur.com/bJQ3APg.png" alt="Pagina packs 1" width="500" height="300">
+        </td>
+        <td>
+            <img src="https://i.imgur.com/fIJjerH.png" alt="Pagina packs 2" width="720" height="480">
+        </td>
+    </tr>
+</table>
