@@ -3,7 +3,7 @@ title: Clanuri
 ---
 
 # Clanuri 🔮
-Clanurile sunt grupări de jucători conduse de către un lider și co-lideri. Pentru a intra într-un clan, vei fi nevoit să iei contact cu o persoană din acel clan care are minim Rank 5 pentru a te invita. Poți să-ți achiziționezi un clan din [Shop](./shop.md) în schimbul sumei de **500 de Premium Points**.
+Clanurile sunt grupări de jucători conduse de către un lider și co-lideri. Pentru a intra într-un clan, vei fi nevoit să iei contact cu o persoană din acel clan care are minim Rank 5 pentru a te invita. Poți să-ți achiziționezi un clan din [Shop](./general/shop.md) în schimbul sumei de **500 de Premium Points**.
 
 ## Informații generale
 - Dacă clanul tău expiră acesta va fi șters în 10 zile.
@@ -226,7 +226,7 @@ tacticalrifle - `500.000.000 + 200.000 materiale`
 heavyrifle - `500.000.000 + 200.000 materiale`
 ## Clan Wars
 
-## Cum somez un membru al unui alt clan daca se afla pe teritoriul meu?
+### Cum somez un membru al unui alt clan daca se afla pe teritoriul meu?
 Daca un player din alt clan se afla pe teritoriul detinut de catre clanul tau, acesta trebuie somat de minimum 3 ori cu ajutorul comenzii `/cso`, daca acesta nu se conformeaza aveti dreptul sa-l omorati, atentie trebuie sa detineti dovezi video cu somatiile, altfel veti fi sanctionat conform regulamentului!
 
 Acest sistem îți permite ție și clanului tău să fiți lideri în oraș.
@@ -235,14 +235,14 @@ Pentru a putea face față inamicilor **Clanul** dispune de un sistem de **arme*
 
 Pentru a vă asigura resursele necesare în bătălii membrii clanului pot depozita materiale, bani, Puncte premium sau Drugs cu ajutorul comenzii **[/cdeposit]**.
 
-## Program Clan Wars
+### Program Clan Wars
 
 War-urile vor avea loc în ziele de **Marți** și **Joi**, între orele **20:00** - **22:00**.
 
-## Turfs
+### Turfs
 
-Pentru a vedea teritoriile folosește comanda **[/turfs]** sau **[/turfsmap]** pentru a vedea mapa **UI**.
+Pentru a vedea teritoriile folosește comanda `/turfs` sau `/turfsmap` pentru a vedea mapa **UI**.
 
-Prima dată Clanurile vor putea licita pentru teritorii din meniul **[/auctions]**, apoi se vor purta bătălii pentru acestea.
+Prima dată Clanurile vor putea licita pentru teritorii din meniul `/auctions`, apoi se vor purta bătălii pentru acestea.
 
-Pentru a vă reface viața pe câmpul de bătălie vă sugerăm să munciți la job-ul **Arms Dealer** pentru a obține droguri sau folosind **[/getheroin]** în interiorul clan **HQ-ului**. Mai apoi folosind comanda **[/use]** pentru a le folosi.
+Pentru a vă reface viața pe câmpul de bătălie vă sugerăm să munciți la job-ul **Arms Dealer** pentru a obține droguri sau folosind `/getheroin` în interiorul clan **HQ-ului**. Mai apoi folosind comanda **[/use]** pentru a le folosi.
