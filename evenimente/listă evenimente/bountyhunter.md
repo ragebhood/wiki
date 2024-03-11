@@ -285,3 +285,9 @@ Pentru fiecare kg de carne iei 10k$ fara upgrade-uri.
     </tr>
   </tbody>
 </table>
+
+## Unde pot vinde carnea?
+
+Carnea poate fi comercializată în magazinele identificate de un coș de cumpărături cu nuanța roșie pe harta jocului.
+
+![vanzare carne](https://i.imgur.com/EH5lM7m.png)
