@@ -17,7 +17,7 @@ title: Misiune Specială
 ## Descriere
 
 <details class="details custom-block">
-    <summary><span style="color:green">Easy</span></summary>
+    <summary><span style="color:orange">Easy</span></summary>
     <ul class="description">
         <li>- Intre <code>5.000.000$</code> si <code>10.000.000$</code></li>
         <li>- B-Points intre 200 si 300</li>
