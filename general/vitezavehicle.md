@@ -252,6 +252,17 @@ title: Viteză vehicule
 | bhswagengolfrmk75  | 223 km/h        | 233 km/h | 258 km/h  | 308 km/h |
 | bhertgtr22                  | 245 km/h        | 255 km/h | 280 km/h  | 330 km/h |
 | bhotarav4pxse21      | 165 km/h         | 175 km/h | 200 km/h  | 250 km/h |
+| bhinihuracanperf18       | Indisponibila momentan                         |
+| bhrrariportofino18       | Indisponibila momentan                         |
+| bhotusevoragt430         | Indisponibila momentan                         |
+| bhseratileventemansory   | Indisponibila momentan                         |
+| bhudietrongt             | Indisponibila momentan                         |
+| bhw760ig7024             | Indisponibila momentan                         |
+| bhwx7g0722               | Indisponibila momentan                         |
+| bhertglsbrabus800        | Indisponibila momentan                         |
+| bherte63sbrabus800       | Indisponibila momentan                         |
+| bhacia1310               | Indisponibila momentan                         |
+
 
 
 
