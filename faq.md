@@ -433,3 +433,7 @@ Pentru fiecare `10.000$` munciti, vei primi 1 **B-Point**.
 Vei primi 169 de **Premium Points**.
 ## Care este maximul de B-Points pe care il pot obtine din Job Goal?
 Poti obtine maxim **2000** de B-Points.
+## La ce ora cade Clan Drop?
+Clanul cu drop-uri apare zilnic la 17:30, 18:30, 19:30 și 23:30
+## La ce ora sunt Clan Wars
+War-urile dintre clanuri sunt programate să aibă loc în fiecare zi de marți și joi, între orele 20:00 și 22:00.
