@@ -245,4 +245,4 @@ Pentru a vedea teritoriile folosește comanda `/turfs` sau `/turfsmap` pentru a 
 
 Prima dată Clanurile vor putea licita pentru teritorii din meniul `/auctions`, apoi se vor purta bătălii pentru acestea.
 
-Pentru a vă reface viața pe câmpul de bătălie vă sugerăm să munciți la job-ul **Arms Dealer** pentru a obține droguri sau folosind `/getheroin` în interiorul clan **HQ-ului**. Mai apoi folosind comanda **[/use]** pentru a le folosi.
+Pentru a vă reface viața pe câmpul de bătălie vă sugerăm să munciți la job-ul **Drugs Dealer** pentru a obține droguri sau folosind `/getheroin` în interiorul clan **HQ-ului**. Mai apoi folosind comanda **[/use]** pentru a le folosi.
