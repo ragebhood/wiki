@@ -24,6 +24,7 @@ title: Bounty Hunter
   <li>Este interzisă utilizarea armelor personale; tragerile în zona sigură sunt permise</li>
   <li>Condiția principală este să poți cauza daune doar cu arma primită la eveniment</li>
 </ul>
+<br>
 
  ## Kg de carne ce pot fi detinute
 <table>
@@ -60,8 +61,9 @@ title: Bounty Hunter
     </tr>
   </tbody>
 </table>
- 
-# Sansa spawn animale
+<br>
+
+## Sansa spawn animale
 <table>
   <thead>
     <tr>
@@ -230,7 +232,8 @@ Pentru fiecare kg de carne iei 10k$ fara upgrade-uri.
       <td> maxim <code>25.000$</code></td>
     </tr>
     <tr>
-      <td>weapon_marksmanrifle
+      <td>weapon_marksmanrifle</td>
+      <td></td>
     </tr>
     <tr>
       <td>Delay radar scăzut -10 secunde </td>
