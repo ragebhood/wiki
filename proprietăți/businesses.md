@@ -4,7 +4,12 @@ title: Bizuri
 
 # Bizuri 🧑‍💼
 Businessurile (a.k.a biz-urile) sunt afaceri virtuale pe care orice jucător le poate obține prin avansarea în cariera sa de mafiot în Los Santos.
-
+<div class="danger-container">
+    <p class="title">ATENȚIE!</p>
+    <p class="description"> Proprietarii de afaceri în joc trebuie să aibă cel puțin 3 ore de joc într-un interval de 30 de zile pentru a-și 
+        menține dreptul asupra acestora. Dacă nu îndeplinesc această cerință, afacerile lor vor fi retrase și puse la licitație.
+    </p>
+</div>
 ## Informații generale despre afaceri
 - ai nevoie de level 15 pentru a putea cumpăra o afacere prin `/trade`
 - dacă deții o afacere suma de bani pe care o vei primi va fi 100%, cu excepția celor de tip **Bank**, acestea având un câștig de 50% din taxa încasată
