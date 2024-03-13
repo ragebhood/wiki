@@ -24,9 +24,6 @@ Inițial, dealerul și jucătorul primesc două cărți. Pe lângă cele două c
 
 **STAND**: jucătorul nu mai vrea altă carte / se oprește; 
 
-**SPLIT**: opțiune disponibilă atunci când are două cărți cu aceeași valoare; 
-
-**DOUBLE**: jucătorul poate dubla miza inițială. 
 
 Dacă singura carte a dealerului este un AS, jucătorul are opțiunea de a plăti o asigurare (INSURANCE), opțiune ce îi poate limita jucătorului pierderile, în cazul în care dealerul obține un Blackjack. 
 
@@ -42,49 +39,3 @@ Dealerul arată o carte cu valoarea 10 sau AS: este o mână pe care trebuie să
 Dealerul arată un 7, 8 sau un 9: este indicat să ceri cărți pentru a ajunge la (cel puțin) un total de 17; 
 Dealerul arată o carte între 3 și 6: poți opta pentru „STAND”, chiar și dacă ai un total ce îți permite să mai ceri o a treia carte, pentru că șansele ca dealerul să depășească 21 sunt destul de mari; 
 Dealerul arată o carte de 2: cere cărți până ajungi la un total de cel puțin 14.
-
-## Ce faci în cazul unui SPLIT la Blackjack?
- 
-Atunci când ai cărți până în 10 cu aceeași valoare (ex: 2-2, 4-4 etc) sau cărți cu valoare de 10, poți face “SPLIT”. Este o opțiune facultativă, deci nu este recomandat să o utilizezi de fiecare dată. 
-
-Dacă prinzi două cărți cu valoarea de 10 (suma inițială de 20): cel mai indicat este să optezi pentru „STAND”, pentru că singura carte câștigătoare ar fi un A (în situația respectivă, cartea AS ar avea valoarea 1). 
-
-Singurele situații favorabile în care este indicat să faci **SPLIT** la o pereche de cărți cu valoare „10” sunt cele în care dealerul arată fie un 5, fie un 6. La polul opus, dacă ai o pereche de 4 sau o pereche de 5, opțiunea de „SPLIT” nu este justificată. Motivul 
-este cât se poate de evident: ai avea două mâini de pornire foarte slabe. 
-
-În cazul unei perechi de 8, este recomandat să dai mereu **SPLIT**, acest „hard 16” fiind recunoscută drept cea mai slabă pe care o poate avea un jucător de Blackjack. În aceste condiții, șansele de a bate dealerul sunt foarte mici și, în mod teoretic, trebuie să mai
-
-ceri și o treia carte, pentru a îmbunătăți mâna.
-
-În această situație, singurele **cărți norocoase** sunt: A, 2, 3, 4, 5. Însă dacă împarți optarii, poți spera la (cel puțin) o mână de 18 (8 + o carte cu valoarea de 10). În cazul în care prima carte a dealerului este o carte cu valoarea de 10 sau A, renunță la
-
-opțiunea „SPLIT”, pentru că riști să pierzi ambele mâini. 
-
-În cazul unei perechi de A, **SPLIT** este cea mai bună opțiune pe care o poți avea la îndemână. Asta înseamnă că ai două șanse de peste 30% pentru a obține Blackjack. Chiar dacă cea de-a doua carte nu va fi una cu valoare de 10 (10, J, Q, K), chiar și un 8 sau un 9
-
-pot fi cărți suficient de mari pentru a câștiga mâna respectivă. 
-
-SPLIT în cazul altor cărți-pereche: ![Split](https://i.imgur.com/w1cTK0h.png)
-
-
-9,9: jucătorul cere **SPLIT**, doar dacă dealerul arată o carte cu valoarea cuprinsă între 2 și 6, un 8 sau un 9. În orice altă situație, se recomandă ca jucătorul să opteze pentru **STAND**, având deja un „hard 18”; 
-
-2,2 / 3,3 / 7,7: jucătorul cere **SPLIT**, doar dacă dealerul arată o carte cu o valoare egală sau mai mică de 7; 
-
-6,6: jucătorul cere **SPLIT**, doar dacă dealerul arată o carte cu valoare cuprinsă între 2 și 6; în caz contrar, va cere o altă carte **HIT**, sperând ca valoarea acesteia să nu genereze un **BUST**.
-
-
-## Când DUBLEZI la jocul de Blackjack?
- 
-Opțiunea întâlnită și sub denumirea de **DOUBLE-DOWN** poate fi una extrem de convenabilă pentru jucător, atât timp cât aceasta este utilizată în mod coerent. Ca să profiți de mâna favorabilă pe care o ai împotriva dealerului, poți să-ți dublezi câștigurile. Iată care sunt regulile de care trebuie să ții cont!
-
-În cazul unei mâini soft (A + altă carte), apelezi la dublare în următoarele situații: 
-
-Ai un A + 2, 3, 4 sau 5 – dublezi mereu când dealerul arată un 4, 5 sau 6; 
-Ai un A + 6 sau 7 – dublezi mereu când dealerul arată un 3, 4, 5 sau 6; 
-În cazul mâinilor hard,  respectă următoarele reguli de joc: 
-
-Mâna ta depășește 11 – nu dubla; 
-Ai un total de 11 – dublează de fiecare dată (excepție: dealerul arată un 11);
-Ai un total de 10 – dublează dacă dealerul arată o carte între 2 și 9; 
-Ai un total de 9 – dublează dacă dealerul arată o carte între 3 și 6.
