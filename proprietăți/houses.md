@@ -3,6 +3,12 @@ title: Case
 ---
 
 # Case 🏘️
+<div class="danger-container">
+    <p class="title">ATENȚIE!</p>
+    <p class="description"> Proprietarii de case în joc trebuie să aibă cel puțin 3 ore de joc într-un interval de 30 de zile pentru a-și 
+        menține dreptul asupra acestora. Dacă nu îndeplinesc această cerință, casele lor vor fi retrase și puse la licitație.
+    </p>
+</div>
 
 Pe serverul nostru poți fi proprietarul unei case. Aceasta îți oferă un venit ce diferă în funcție de numărul de **chiriași** ce sunt activi la **Payday**.
 
