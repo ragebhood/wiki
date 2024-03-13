@@ -17,7 +17,7 @@ Scopul este ca fiecare jucător să aibă o mână cu o valoare totală de 21 sa
 
 În cazul așilor (A), aceste cărți au fie valoarea 1, fie valoarea 11. În cazul în care mâna ta este mai mare decât valoarea de 21, atunci vei pierde mâna respectivă – se spune că ești **BUST**. În cazul în care ai valoarea mai mică decât cea a dealerului, însă mâna acestuia depășește valoarea de 21, ai câștigat mâna respectivă. 
 
-Inițial, dealerul și jucătorul primesc două cărți. Pe lângă cele două cărți ale sale, jucătorul mai poate vedea și o singură carte a dealerului. În funcție de situația determinată de cărți, jucătorul poate alege una dintre următoarele acțiuni: ![actiuni](https://i.imgur.com/ldaf7fG.png)
+Inițial, dealerul și jucătorul primesc două cărți. Pe lângă cele două cărți ale sale, jucătorul mai poate vedea și o singură carte a dealerului. În funcție de situația determinată de cărți, jucătorul poate alege una dintre următoarele acțiuni: ![actiuni](https://i.imgur.com/7va2oWn.png)
 
 
 **HIT**: jucătorul mai vrea încă o carte; 
