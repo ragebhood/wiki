@@ -15,7 +15,7 @@ title: Bounty Hunter
   <li>Numărul de animale <strong>generate</strong> este limitat, iar altele se regenerează rapid după eliminare</li>
   <li>Animalele se mișcă într-o zonă specifică, efectuând un traseu circular</li>
   <li>Pentru fiecare animal țintit, se va crea un punct de referință (waypoint) care dispare după 10-15 secunde fără țintă</li>
-  <li><strong>Radarul</strong> indică toate animalele vii pentru 5 secunde</li>
+  <li><strong>Radarul</strong> indică toate animalele vii pentru 10 secunde</li>
   <li>Colectarea recompenselor după uciderea unui animal se face cu un cuțit, apăsând tasta <code>Y</code></li>
   <li>Nivelul de daună cauzat diferă în funcție de specia animalului</li>
   <li>Participanții nu pot fi loviți cu mașina sau să își piardă punctele de viață</li>
@@ -86,19 +86,19 @@ title: Bounty Hunter
     </tr>
     <tr>
       <td>Ghepard</td>
-      <td>3%</td>
+      <td>5%</td>
     </tr>
     <tr>
       <td>Cougar</td>
-      <td>3.5%</td>
+      <td>6%</td>
     </tr>
     <tr>
       <td>Deer</td>
-      <td>16%</td>
+      <td>15%</td>
     </tr>
     <tr>
       <td>Wolf</td>
-      <td>30%</td>
+      <td>26.5%</td>
     </tr>
     <tr>
       <td>Coyote</td>
@@ -280,11 +280,11 @@ Pentru fiecare kg de carne iei 10k$ fara upgrade-uri.
     </tr>
     <tr>
       <td>Max animale spawnate +2</td>
-      <td>Poate ajunge până la maxim +15(totale 25)</td>
+      <td>Poate ajunge până la maxim +15(totale 40)</td>
     </tr>
     <tr>
       <td>Radar stă mai mult pe animale cu +3 sec</td>
-      <td>poate ajunge până la maxim 30 sec</td>
+      <td>poate ajunge până la maxim 35 sec</td>
     </tr>
   </tbody>
 </table>
