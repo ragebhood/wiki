@@ -252,17 +252,15 @@ title: Viteză vehicule
 | bhswagengolfrmk75  | 223 km/h        | 233 km/h | 258 km/h  | 308 km/h |
 | bhertgtr22                  | 245 km/h        | 255 km/h | 280 km/h  | 330 km/h |
 | bhotarav4pxse21      | 165 km/h         | 175 km/h | 200 km/h  | 250 km/h |
-| bhinihuracanperf18       | Indisponibila momentan                         |
-| bhrrariportofino18       | Indisponibila momentan                         |
-| bhotusevoragt430         | Indisponibila momentan                         |
-| bhseratileventemansory   | Indisponibila momentan                         |
-| bhudietrongt             | Indisponibila momentan                         |
-| bhw760ig7024             | Indisponibila momentan                         |
-| bhwx7g0722               | Indisponibila momentan                         |
-| bhertglsbrabus800        | Indisponibila momentan                         |
-| bherte63sbrabus800       | Indisponibila momentan                         |
-| bhacia1310               | Indisponibila momentan                         |
-
+| bhudietrongt           | 225 km/h | 235 km/h | 250 km/h | 300 km/h |
+| bhw760ig7024           | 230 km/h | 240 km/h | 265 km/h | 315 km/h |
+| bhertglsbrabus800      | 230 km/h | 240 km/h | 265 km/h | 315 km/h |
+| bhinihuracanperf18     | 250 km/h | 260 km/h | 285 km/h | 335 km/h |
+| bhrrariportofino18     | 243 km/h | 253 km/h | 278 km/h | 328 km/h |
+| bhotusevoragt430       | 234 km/h | 244 km/h | 269 km/h | 319 km/h |
+| bhseratileventemansory | 233 km/h | 243 km/h | 268 km/h | 318 km/h |
+| bhwx7g0722             | 220 km/h | 230 km/h | 255 km/h | 305 km/h |
+| bherte63sbrabus800     | 233 km/h | 243 km/h | 268 km/h | 318 km/h |
 
 
 
