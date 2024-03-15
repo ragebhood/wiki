@@ -28,11 +28,12 @@ Acest feature oferă vehiculului un boost la plecarea de pe loc.
 
 ## VIP
 ***Acesta costa 500 de Premium Points***
-Vehiculul VIP iti ofera posibilitatea de a adauga neon, roti VIP, de a-l aduce la tine la 10 minute si 100 la suta armura.
+Vehiculul VIP iti ofera posibilitatea de a adauga neon, roti VIP, de a-ti inchide sau deschide vehiculul de la distanta, iar consumul si asigurarea vor fi reduse cu 25 la suta.
+
 
 ## VIP Plus
 ***Acesta costa 250 de Premium Points***
-Daca ai vehicul **VIP Plus** ai ca beneficii teleportarea vehiculului la 1200 de secunde si accesla comanda `/clean` care iti va curata vehiculul.
+Daca ai vehicul **VIP Plus** ai ca beneficii teleportarea vehiculului la 1200 de secunde si acces la comanda `/clean` care iti va curata vehiculul.
 
 ## Car Plate
 Aceasta este o modificare vizuală cu ajutorul căreia îți poți modifica stilul și culoarea plăcuței de înmatriculare de la vehicul.
