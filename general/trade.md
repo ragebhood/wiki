@@ -36,10 +36,8 @@ Ce bunuri personale se pot adăuga într-un trade:
     <p class="description">Nu se poate efectua un trade în care se dau bani pe bani.</p>
 </div>
 
-::: info 
-In cazul vehiculelor, dupa ce acesta a fost adăugat în lista, apăsând pe butonul **i** din dreptul acestuia vei putea să-i vezi informațiile acestuia.
-:::
-<div class="info-container">
+<div class="warning-container">
     <p class="title"></p>
-    <p class="description">In cazul vehiculelor, dupa ce acesta a fost adăugat în lista, apăsând pe butonul <strong>i</strong> din dreptul acestuia vei putea să-i vezi informațiile acestuia.</p>
+    <p class="description">In cazul vehiculelor, dupa ce acesta a fost adăugat în lista, apăsând pe butonul <strong>i</strong> 
+        din dreptul acestuia vei putea să-i vezi informațiile acestuia.</p>
 </div>
