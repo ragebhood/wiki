@@ -21,4 +21,4 @@ Această pagină a fost creată special pentru noii jucători care încă nu sun
 
 **HQ** - înseamnă baza acestuia fie ca este vorba despre o facțiune sau de clan.
 
-****
+**GG** - inseamna felicitari
