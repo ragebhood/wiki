@@ -10,7 +10,7 @@ La noi pe server avem un sistem prin care poți să faci rost de un vehicul prin
 <div class="danger-container">
     <p class="title">Upgrade la vehicul</p>
     <p class="description">Upgrade-ul costă <span style="color: blue;"> <strong>100 Premium Points</strong> </span> și are o șansă de <span style="color: red;"> <strong>70%</strong> </span> de reușită. Vehiculele bhwm4g83, bhwm8,bhlx570, bhgustawestaw109vip si bherts63cmatic necesita <strong>200 Premium Points</strong>.
-Teslaroadster necesita <strong>333 Premium Points</strong> si bhentleybentayst necesita <strong>333 Premium Points</strong> 
+Teslaroadster necesita <strong>333 Premium Points</strong> si bhentleybentayst necesita <strong>250 Premium Points</strong> 
     </p>
 </div>
 <div class="warning-container">
