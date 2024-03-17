@@ -426,14 +426,16 @@ Atunci când mănânci **hotdog**, **burger**, **fries** sau **pizza**, ai șans
 
 ## De ce îmi scade viața? 
 Viața ta scade deoarece serverul simulează viața reală, unde este esențial să consumi alimente pentru a supraviețui.
-
-## Cate B-Points primesc la Job Goal?
-Pentru fiecare `10.000$` munciti, vei primi 1 **B-Point**.
-## Cate puncte premium primesc daca muncesc cel mai mult la Job Goal?
+## Care este suma maximă la Job Goal?
+Suma de bani necesară pentru a completa **Job Goal** este de `10.000.000.000`.
+## Câte B-Points primesc la Job Goal?
+Pentru fiecare `10.000$` munciți, vei primi 1 **B-Point**.
+## Câte puncte premium primesc dacă muncesc cel mai mult la Job Goal?
 Vei primi 169 de **Premium Points**.
-## Care este maximul de B-Points pe care il pot obtine din Job Goal?
-Poti obtine maxim **2000** de B-Points.
-## La ce ora cade Clan Drop?
-Clanul cu drop-uri apare zilnic la 17:30, 18:30, 19:30 și 23:30
-## La ce ora sunt Clan Wars
+## Care este maximul de B-Points pe care îl pot obține din Job Goal?
+Poți obține maxim **2000** de B-Points.
+## La ce oră cade Clan Drop?
+Clanul cu drop-uri apare zilnic la 17:30, 18:30, 19:30 și 23:30.
+## La ce oră sunt Clan Wars?
 War-urile dintre clanuri sunt programate să aibă loc în fiecare zi de marți și joi, între orele 20:00 și 22:00.
+
