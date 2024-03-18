@@ -104,9 +104,7 @@ Modificări valabile:
 - **Lower Suspension** costă 1.000 **B-Points**
 - **Street Suspension** costă 3.000 **B-Points**
 - **Sport Suspension** costă 5.000 **B-Points**
-- **Race Suspension** costă 250 Premium Points
-
-
+- **Race Suspension** costă 250 Premium Points <br>
 
 ## Frâne
 - **Street Brakes** costă 1.000 de **B-Points**
@@ -194,7 +192,7 @@ Modificări valabile:
             <td><code>1.550.000$</code></td>
         </tr>
         <tr>
-            <td><img src="https://i.imgur.com/uAKOyI4.png"></td>
+            <td><img src="https://i.imgur.com/lq9sbCy.png"></td>
             <td>Endo V.1</td>
             <td><code>1.550.000$</code></td>
         </tr>
