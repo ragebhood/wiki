@@ -130,6 +130,10 @@ Modificări valabile:
 - **Blacklight Lights** costă 375 Premium Points <br>
 
 ## Wheels
+<div class="danger-container">
+    <p class="title">Culoare</p>
+    <p class="description">Culoarea jantelor este în funcție de <b>culoarea secundară</b> a vehiculului (cele ce suportă asta).</p>
+</div>
 <table>
     <thead>
         <tr>
