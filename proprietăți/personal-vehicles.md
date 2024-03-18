@@ -128,3 +128,76 @@ Modificări valabile:
 - **Pony Pink Lights** costă 375 Premium Points
 - **Purple Lights** costă 375 Premium Points
 - **Blacklight Lights** costă 375 Premium Points
+
+## Wheels
+<table>
+    <thead>
+        <tr>
+            <th>Poza</th>
+            <th>Model</th>
+            <th>Preț</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><img src="https://static.wikia.nocookie.net/gtawiki/images/b/b0/Wheels-GTAV-CarbonInfernoChrome.png/revision/latest/scale-to-width-down/150?cb=20190107173247" alt="Carbon Inferno Chrome"></td>
+            <td>Inferno</td>
+            <td><code>1.250.000$</code></td>
+        </tr>
+        <tr>
+            <td><img src="https://static.wikia.nocookie.net/gtawiki/images/8/84/Wheels-GTAV-DeepFive.png/revision/latest/scale-to-width-down/150?cb=20190108114624" alt="Deep Five"></td>
+            <td>Deep Five</td>
+            <td><code>1.250.000$</code></td>
+        </tr>
+        <tr>
+            <td><img src="https://static.wikia.nocookie.net/gtawiki/images/b/bf/Wheels-GTAV-LozspeedMk.v.png/revision/latest/scale-to-width-down/150?cb=20190108114714" alt="Lozspeed Mk.v"></td>
+            <td>Lozspeed Mk.v</td>
+            <td><code>1.250.000$</code></td>
+        </tr>
+        <tr>
+            <td><img src="https://static.wikia.nocookie.net/gtawiki/images/b/bd/Wheels-GTAV-DiamondCut.png/revision/latest/scale-to-width-down/150?cb=20190108114625" alt="Diamond Cut"></td>
+            <td>Diamond Cut</td>
+            <td><code>1.250.000$</code></td>
+        </tr>
+        <tr>
+            <td><img src="https://static.wikia.nocookie.net/gtawiki/images/6/67/Wheels-GTAV-Chrono.png/revision/latest/scale-to-width-down/150?cb=20190108114611" alt="Chrono"></td>
+            <td>Chrono</td>
+            <td><code>1.550.000$</code></td>
+        </tr>
+        <tr>
+            <td><img src="https://static.wikia.nocookie.net/gtawiki/images/5/54/Wheels-GTAV-FerociRR.png/revision/latest/scale-to-width-down/150?cb=20190108114626" alt="Feroci RR"></td>
+            <td>Feroci RR</td>
+            <td><code>1.550.000$</code></td>
+        </tr>
+        <tr>
+            <td><img src="https://static.wikia.nocookie.net/gtawiki/images/b/b1/Wheels-GTAV-FiftyNine.png/revision/latest/scale-to-width-down/150?cb=20190108114627" alt="FiftyNine"></td>
+            <td>FiftyNine</td>
+            <td><code>1.550.000$</code></td>
+        </tr>
+        <tr>
+            <td><img src="https://static.wikia.nocookie.net/gtawiki/images/0/02/Wheels-GTAV-Mercie.png/revision/latest/scale-to-width-down/150?cb=20190108114714" alt="Mercie"></td>
+            <td>Mercle</td>
+            <td><code>1.550.000$</code></td>
+        </tr>
+        <tr>
+            <td><img src="https://static.wikia.nocookie.net/gtawiki/images/8/8d/Wheels-GTAV-SyntheticZ.png/revision/latest/scale-to-width-down/150?cb=20190108114939" alt="Synthetic Z"></td>
+            <td>Synthetic Z</td>
+            <td><code>1.550.000$</code></td>
+        </tr>
+        <tr>
+            <td><img src="https://static.wikia.nocookie.net/gtawiki/images/5/5d/Wheels-GTAV-OrganicTypeD.png/revision/latest/scale-to-width-down/150?cb=20190108114715" alt="Organic Type O"></td>
+            <td>Organic Type O</td>
+            <td><code>1.550.000$</code></td>
+        </tr>
+        <tr>
+            <td><img src="https://static.wikia.nocookie.net/gtawiki/images/3/37/Wheels-GTAV-EndoV.1.png/revision/latest/scale-to-width-down/150?cb=20190108114626" alt="Endo V.1"></td>
+            <td>Endo V.1</td>
+            <td><code>1.550.000$</code></td>
+        </tr>
+        <tr>
+            <td><img src="https://static.wikia.nocookie.net/gtawiki/images/9/93/Wheels-GTAV-GTOne.png/revision/latest/scale-to-width-down/150?cb=20190108114713" alt="GT One"></td>
+            <td>GT One</td>
+            <td><code>1.750.000$</code></td>
+        </tr>
+    </tbody>
+</table>
