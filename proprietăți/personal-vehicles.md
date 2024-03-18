@@ -44,16 +44,16 @@ Modificări valabile:
 - **Blue & White2 Plate** valoreaza suma de 250 B-Hood Points.
 - **Blue & White3 Plate** valoreaza suma de 300 B-Hood Points.
 - **Yankton Plate** valoreaza suma de 500 B-Hood Points.
-
+<br>
 ## Geamuri 
 
 - **Limousine Windows** valoreaza suma de 100 de Premium Points.
 - **Light Smoke** valoreaza suma de 200 de Premium Points
 - **Dark Smoker** valoreaza suma de 300 de Premium Points
 - **Pure Black** valoreaza suma de 500 de Premium Points
-  
+<br> 
 ## Tiresmoke
-
+<br>
 - **Blue Tiresmoke** costă 2.200 Race Points
 - **Yellow Tiresmoke** costă 2.400 Race Points
 - **Orange Tiresmoke** costă 2.600 Race Points
@@ -66,7 +66,7 @@ Modificări valabile:
 - **Pony Pink Tiresmoke** costă 4.000 Race Points
 - **Hot Pink Tiresmoke** costă 4.200 Race Points
 - **Blacklight Tiresmoke** costă 4.400 Race Points
-
+<br>
 
 ## Neon
 
@@ -83,13 +83,13 @@ Modificări valabile:
 - **Pony Pink Neon** costă 350 de Premium Points
 - **Blacklight Neon** costă 350 de Premium Points
 - **Rainbow Neon** costă 1000 de Premium Points
-
+<br>
 ## Rainbow
 - **Normal Rainbow** costă 300 de Premium Points, 
 - **Pearl Rainbow** costă 400 de Premium Points,
 - **Matte Rainbow** costă 500 de Premium Points, 
 - **Chrome Rainbow** costă 777 de Premium Points
-
+<br>
 
 ## Armură
 
@@ -97,7 +97,7 @@ Modificări valabile:
 - **40% Armură** costă $5.000.000
 - **60% Armură** costă $10.000.000
 - **80% Armură** costă $25.000.000
-- **100% Armură** costă 10.000 **B-Points**
+- **100% Armură** costă 10.000 **B-Points** <br>
 
 ## Suspensii
 
@@ -111,7 +111,7 @@ Modificări valabile:
 ## Frâne
 - **Street Brakes** costă 1.000 de **B-Points**
 - **Race Brakes** costă 3.500 de **B-Points**
-- **Sport Brakes** costă 150 de Premium Points
+- **Sport Brakes** costă 150 de Premium Points <br>
 
 
 ## Faruri
@@ -127,7 +127,7 @@ Modificări valabile:
 - **Red Lights** costă 375 Premium Points
 - **Pony Pink Lights** costă 375 Premium Points
 - **Purple Lights** costă 375 Premium Points
-- **Blacklight Lights** costă 375 Premium Points
+- **Blacklight Lights** costă 375 Premium Points <br>
 
 ## Wheels
 <table>
@@ -140,64 +140,169 @@ Modificări valabile:
     </thead>
     <tbody>
         <tr>
-            <td><img src="https://static.wikia.nocookie.net/gtawiki/images/b/b0/Wheels-GTAV-CarbonInfernoChrome.png/revision/latest/scale-to-width-down/150?cb=20190107173247" alt="Carbon Inferno Chrome"></td>
+            <td><img src="https://i.imgur.com/OCk0WnS.png"></td>
             <td>Inferno</td>
             <td><code>1.250.000$</code></td>
         </tr>
         <tr>
-            <td><img src="https://static.wikia.nocookie.net/gtawiki/images/8/84/Wheels-GTAV-DeepFive.png/revision/latest/scale-to-width-down/150?cb=20190108114624" alt="Deep Five"></td>
+            <td><img src="https://i.imgur.com/uAKOyI4.png"></td>
             <td>Deep Five</td>
             <td><code>1.250.000$</code></td>
         </tr>
         <tr>
-            <td><img src="https://static.wikia.nocookie.net/gtawiki/images/b/bf/Wheels-GTAV-LozspeedMk.v.png/revision/latest/scale-to-width-down/150?cb=20190108114714" alt="Lozspeed Mk.v"></td>
-            <td>Lozspeed Mk.v</td>
+            <td><img src="https://i.imgur.com/pFzOpiw.png"></td>
+            <td>Lozspeed</td>
             <td><code>1.250.000$</code></td>
         </tr>
         <tr>
-            <td><img src="https://static.wikia.nocookie.net/gtawiki/images/b/bd/Wheels-GTAV-DiamondCut.png/revision/latest/scale-to-width-down/150?cb=20190108114625" alt="Diamond Cut"></td>
+            <td><img src="https://i.imgur.com/4UmJ4Ys.png"></td>
             <td>Diamond Cut</td>
             <td><code>1.250.000$</code></td>
         </tr>
         <tr>
-            <td><img src="https://static.wikia.nocookie.net/gtawiki/images/6/67/Wheels-GTAV-Chrono.png/revision/latest/scale-to-width-down/150?cb=20190108114611" alt="Chrono"></td>
+            <td><img src="https://i.imgur.com/nI3m6Qd.png"></td>
             <td>Chrono</td>
             <td><code>1.550.000$</code></td>
         </tr>
         <tr>
-            <td><img src="https://static.wikia.nocookie.net/gtawiki/images/5/54/Wheels-GTAV-FerociRR.png/revision/latest/scale-to-width-down/150?cb=20190108114626" alt="Feroci RR"></td>
+            <td><img src="https://i.imgur.com/uzDP7OD.png"></td>
             <td>Feroci RR</td>
             <td><code>1.550.000$</code></td>
         </tr>
         <tr>
-            <td><img src="https://static.wikia.nocookie.net/gtawiki/images/b/b1/Wheels-GTAV-FiftyNine.png/revision/latest/scale-to-width-down/150?cb=20190108114627" alt="FiftyNine"></td>
+            <td><img src="https://i.imgur.com/5RckY5h.png"></td>
             <td>FiftyNine</td>
             <td><code>1.550.000$</code></td>
         </tr>
         <tr>
-            <td><img src="https://static.wikia.nocookie.net/gtawiki/images/0/02/Wheels-GTAV-Mercie.png/revision/latest/scale-to-width-down/150?cb=20190108114714" alt="Mercie"></td>
+            <td><img src="https://i.imgur.com/wSfXQJr.png"></td>
             <td>Mercle</td>
             <td><code>1.550.000$</code></td>
         </tr>
         <tr>
-            <td><img src="https://static.wikia.nocookie.net/gtawiki/images/8/8d/Wheels-GTAV-SyntheticZ.png/revision/latest/scale-to-width-down/150?cb=20190108114939" alt="Synthetic Z"></td>
+            <td><img src="https://i.imgur.com/xMJvXWz.png"></td>
             <td>Synthetic Z</td>
             <td><code>1.550.000$</code></td>
         </tr>
         <tr>
-            <td><img src="https://static.wikia.nocookie.net/gtawiki/images/5/5d/Wheels-GTAV-OrganicTypeD.png/revision/latest/scale-to-width-down/150?cb=20190108114715" alt="Organic Type O"></td>
+            <td><img src="https://i.imgur.com/FeuxjGc.png"></td>
             <td>Organic Type O</td>
             <td><code>1.550.000$</code></td>
         </tr>
         <tr>
-            <td><img src="https://static.wikia.nocookie.net/gtawiki/images/3/37/Wheels-GTAV-EndoV.1.png/revision/latest/scale-to-width-down/150?cb=20190108114626" alt="Endo V.1"></td>
+            <td><img src="https://i.imgur.com/uAKOyI4.png"></td>
             <td>Endo V.1</td>
             <td><code>1.550.000$</code></td>
         </tr>
         <tr>
-            <td><img src="https://static.wikia.nocookie.net/gtawiki/images/9/93/Wheels-GTAV-GTOne.png/revision/latest/scale-to-width-down/150?cb=20190108114713" alt="GT One"></td>
+            <td><img src="https://i.imgur.com/ZutnijR.png"></td>
             <td>GT One</td>
             <td><code>1.750.000$</code></td>
+        </tr>
+       <tr>
+            <td><img src="https://i.imgur.com/NBF97Y8.png" alt="Twin Striped VIP" width="150" height="auto"></td>
+            <td>Twin Striped VIP</td>
+            <td><code>2.500.000$</code></td>
+        </tr>
+        <tr>
+            <td><img src="https://i.imgur.com/1SNf6Oo.png" alt="Web VIP" width="150" height="auto"></td>
+            <td>Web VIP</td>
+            <td><code>2.500.000$</code></td>
+        </tr>
+        <tr>
+            <td><img src="https://i.imgur.com/NFAeq4o.png" alt="Black Twin Striped VIP" width="150" height="auto"></td>
+            <td>Black Twin Striped VIP</td>
+            <td><code>2.500.000$</code></td>
+        </tr>
+        <tr>
+            <td><img src="https://i.imgur.com/oATGX2g.png" alt="Black Web VIP" width="150" height="auto"></td>
+            <td>Black Web VIP</td>
+            <td>1.000 BPoints</td>
+        </tr>
+        <tr>
+            <td><img src="https://i.imgur.com/AWIIfRM.png" alt="Mirror Finish Wheels" width="150" height="auto"></td>
+            <td>Mirror Finish Wheels</td>
+            <td>5.000 Race Points</td>
+        </tr>
+        <tr>
+            <td><img src="https://i.imgur.com/I33kF78.png" alt="Spoke Wheels" width="150" height="auto"></td>
+            <td>Spoke Wheels</td>
+            <td>3.500 Race Points</td>
+        </tr>
+        <tr>
+            <td><img src="https://i.imgur.com/5AjP31Y.png" alt="Wire Wheels" width="150" height="auto"></td>
+            <td>Wire Wheels</td>
+            <td>3.000 Race Points</td>
+        </tr>
+        <tr>
+            <td><img src="https://i.imgur.com/9bFqH54.png" alt="Steel Wheels" width="150" height="auto"></td>
+            <td>Steel Wheels</td>
+            <td>2.000 Race Points</td>
+        </tr>
+        <tr>
+            <td><img src="https://i.imgur.com/51OnI0V.png" alt="Forged Aluminium Wheels" width="150" height="auto"></td>
+            <td>Forged Aluminium Wheels</td>
+            <td>3.333 Race Points</td>
+        </tr>
+        <tr>
+            <td><img src="https://i.imgur.com/BTvsP0x.png" alt="Grooved Wheels" width="150" height="auto"></td>
+            <td>Grooved Wheels</td>
+            <td><code>50.000.000$</code></td>
+        </tr>
+        <tr>
+            <td><img src="https://i.imgur.com/fCmgeLE.png" alt="Bolted Wheels" width="150" height="auto"></td>
+            <td>Bolted Wheels</td>
+            <td><code>36.000.000$</code></td>
+        </tr>
+        <tr>
+            <td><img src="https://i.imgur.com/u5zJGCB.png" alt="Wide Lip Wheels" width="150" height="auto"></td>
+            <td>Wide Lip Wheels</td>
+            <td><code>25.000.000$</code></td>
+        </tr>
+        <tr>
+            <td><img src="https://i.imgur.com/TOHfOWV.png" alt="Curved Edge Wheels" width="150" height="auto"></td>
+            <td>Curved Edge Wheels</td>
+            <td><code>65.000.000$</code></td>
+        </tr>
+        <tr>
+            <td><img src="https://i.imgur.com/gSvVv5K.png" alt="Star Style Wheels" width="150" height="auto"></td>
+            <td>Star Style Wheels</td>
+            <td>5.500 BPoints</td>
+        </tr>
+        <tr>
+            <td><img src="https://i.imgur.com/olX6jqV.png" alt="Dynamometric Pattern" width="150" height="auto"></td>
+            <td>Dynamometric Pattern</td>
+            <td>4.000 BPoints</td>
+        </tr>
+        <tr>
+            <td><img src="https://i.imgur.com/bazA0ob.png" alt="Monoblock Design" width="150" height="auto"></td>
+            <td>Monoblock Design</td>
+            <td>3.000 BPoints</td>
+        </tr>
+        <tr>
+            <td><img src="https://i.imgur.com/4lAxwRc.png" alt="Petal Pattern" width="150" height="auto"></td>
+            <td>Petal Pattern</td>
+            <td>300 Premium Points</td>
+        </tr>
+        <tr>
+            <td><img src="https://i.imgur.com/dr59lUo.png" alt="Curved Edge" width="150" height="auto"></td>
+            <td>Curved Edge</td>
+            <td>275 Premium Points</td>
+        </tr>
+        <tr>
+            <td><img src="https://i.imgur.com/4eqJGD8.png" alt="Matte Finish" width="150" height="auto"></td>
+            <td>Matte Finish</td>
+            <td>300 Premium Points</td>
+        </tr>
+        <tr>
+            <td><img src="https://i.imgur.com/95qoNy2.png" alt="Glossy Finish" width="150" height="auto"></td>
+            <td>Glossy Finish</td>
+            <td>250 Premium Points</td>
+        </tr>
+        <tr>
+            <td><img src="https://i.imgur.com/iFcyvED.png" alt="Stripe Design" width="150" height="auto"></td>
+            <td>Stripe Design</td>
+            <td>200 Premium Points</td>
         </tr>
     </tbody>
 </table>
