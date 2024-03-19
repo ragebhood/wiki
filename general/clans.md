@@ -12,6 +12,34 @@ Clanurile sunt grupări de jucători conduse de către un lider și co-lideri. P
 - Anumite vehicule necesită un rank anume în clan pentru a le putea utiliza. Acest rank la vehicul este setat de către co-lider sau lider.
 - Formatul pentru schimbarea culorii la clan trebuie sa fie de tipul **!(#culoare)**.
 
+## Clan Wars
+
+<div class="warning-container">
+    <p class="title">Nivel necesar</p>
+    <p class="description">Pentru a participa la war, ai nevoie de minim nivel <strong>15</strong>.</p>
+</div>
+
+### Cum somez un membru al unui alt clan daca se afla pe teritoriul meu?
+Daca un player din alt clan se afla pe teritoriul detinut de catre clanul tau, acesta trebuie somat de minimum 3 ori cu ajutorul comenzii `/cso`, daca acesta nu se conformeaza aveti dreptul sa-l omorati, atentie trebuie sa detineti dovezi video cu somatiile, altfel veti fi sanctionat conform regulamentului!
+
+Acest sistem îți permite ție și clanului tău să fiți lideri în oraș.
+
+Pentru a putea face față inamicilor **Clanul** dispune de un sistem de **arme**.
+
+Pentru a vă asigura resursele necesare în bătălii membrii clanului pot depozita materiale, bani, Puncte premium sau Drugs cu ajutorul comenzii **[/cdeposit]**.
+
+### Program Clan Wars
+
+War-urile vor avea loc în ziele de **Marți** și **Joi**, între orele **20:00** - **22:00**.
+
+### Turfs
+
+Pentru a vedea teritoriile folosește comanda `/turfs` sau `/turfsmap` pentru a vedea mapa **UI**.
+
+Prima dată Clanurile vor putea licita pentru teritorii din meniul `/auctions`, apoi se vor purta bătălii pentru acestea.
+
+Pentru a vă reface viața pe câmpul de bătălie vă sugerăm să munciți la job-ul **Drugs Dealer** pentru a obține droguri sau folosind `/getheroin` în interiorul clan **HQ-ului**. Mai apoi folosind comanda **[/use]** pentru a le folosi.
+
 ## Comenzile clanului
 [/clan] - meniul principal & administrare a clanului.
 
@@ -223,26 +251,5 @@ carbinerifle_mk2 - `450.000.000 + 150.000 materiale`
 
 tacticalrifle - `500.000.000 + 200.000 materiale`
 
-heavyrifle - `500.000.000 + 200.000 materiale`
-## Clan Wars
+heavyrifle - `500.000.000 + 200.000 materiale` <br>
 
-### Cum somez un membru al unui alt clan daca se afla pe teritoriul meu?
-Daca un player din alt clan se afla pe teritoriul detinut de catre clanul tau, acesta trebuie somat de minimum 3 ori cu ajutorul comenzii `/cso`, daca acesta nu se conformeaza aveti dreptul sa-l omorati, atentie trebuie sa detineti dovezi video cu somatiile, altfel veti fi sanctionat conform regulamentului!
-
-Acest sistem îți permite ție și clanului tău să fiți lideri în oraș.
-
-Pentru a putea face față inamicilor **Clanul** dispune de un sistem de **arme**.
-
-Pentru a vă asigura resursele necesare în bătălii membrii clanului pot depozita materiale, bani, Puncte premium sau Drugs cu ajutorul comenzii **[/cdeposit]**.
-
-### Program Clan Wars
-
-War-urile vor avea loc în ziele de **Marți** și **Joi**, între orele **20:00** - **22:00**.
-
-### Turfs
-
-Pentru a vedea teritoriile folosește comanda `/turfs` sau `/turfsmap` pentru a vedea mapa **UI**.
-
-Prima dată Clanurile vor putea licita pentru teritorii din meniul `/auctions`, apoi se vor purta bătălii pentru acestea.
-
-Pentru a vă reface viața pe câmpul de bătălie vă sugerăm să munciți la job-ul **Drugs Dealer** pentru a obține droguri sau folosind `/getheroin` în interiorul clan **HQ-ului**. Mai apoi folosind comanda **[/use]** pentru a le folosi.
