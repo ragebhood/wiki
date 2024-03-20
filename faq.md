@@ -439,3 +439,8 @@ Clanul cu drop-uri apare zilnic la 17:30, 18:30, 19:30 și 23:30.
 ## La ce oră sunt Clan Wars?
 War-urile dintre clanuri sunt programate să aibă loc în fiecare zi de marți și joi, între orele 20:00 și 22:00.
 
+## Cate puncte premium consta unban?
+
+Dacă ești banat pentru <span style="color:red">7 zile</span>, tariful este de **100 Premium Points pe zi**. Dar dacă suspendarea ta se întinde pe <span style="color:red">15 zile</span>,
+prețul crește la **150 Premium Points pe zi**. Pentru cei care au primit o interdicție pentru <span style="color:red">30 de zile</span>, costul rămâne la **150 de Premium Points pe zi**. 
+Însă, pentru cei cu suspendări mai lungi pe mai mult sau <span style="color:red">60 zile</span>, prețul crește la **200 de Premium Points pe zi**.
