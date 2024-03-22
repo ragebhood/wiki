@@ -444,3 +444,130 @@ War-urile dintre clanuri sunt programate să aibă loc în fiecare zi de marți 
 Dacă ești banat pentru <span style="color:red">7 zile</span>, tariful este de **100 Premium Points pe zi**. Dar dacă suspendarea ta se întinde pe <span style="color:red">15 zile</span>,
 prețul crește la **150 Premium Points pe zi**. Pentru cei care au primit o interdicție pentru <span style="color:red">30 de zile</span>, costul rămâne la **150 de Premium Points pe zi**. 
 Însă, pentru cei cu suspendări mai lungi pe mai mult sau <span style="color:red">60 zile</span>, prețul crește la **200 de Premium Points pe zi**.
+
+## Unde se află <u>Aeroport LS</u>?
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/gPIt8X3.png)</p>
+    <p>![Locatie](https://i.imgur.com/DtwW6qL.png)</p>
+</details>
+
+## Unde se află <u>Aeroport Sandy Shoes</u>?
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/eq9pfXm.png)</p>
+    <p>![Locatie](https://i.imgur.com/Xrf8yBf.png)</p>
+</details>
+
+## Unde se află <u>Chilliad</u>?
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/LzI9Kui.png)</p>
+    <p>![Locatie](https://i.imgur.com/t2n6avc.png)</p>
+</details>
+
+## Unde se află <u>Spawn Civil</u>?
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/gvsgedg.png)</p>
+    <p>![Locatie](https://i.imgur.com/mCfUOmr.png)</p>
+</details>
+
+## Unde se află <u>Cable News Network</u>?
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/jPjvBAI.png)</p>
+    <p>![Locatie](https://i.imgur.com/O2WRzix.png)</p>
+</details>
+
+## Unde se află <u>Vespucci Beach</u>?
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/VlTV0fz.png)</p>
+    <p>![Locatie](https://i.imgur.com/Lsp4pv3.png)</p>
+</details>
+
+## Unde se află <u>Vinewood (Sign)</u>?
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/w60WYC5.png)</p>
+    <p>![Locatie](https://i.imgur.com/iddxLXw.png)</p>
+</details>
+
+## Unde se află <u>El Gordo Light House</u>?
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/uh1p4LA.png)</p>
+    <p>![Locatie](https://i.imgur.com/oH7XkdX.png)</p>
+</details>
+
+## Unde se află <u>Great Mine Chaparral</u>?
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/OTzM3nu.png)</p>
+    <p>![Locatie](https://i.imgur.com/WiBjSqi.png)</p>
+</details>
+
+## Unde se află <u>Tataviam Mountain</u>?
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/CnioW0X.png)</p>
+    <p>![Locatie](https://i.imgur.com/BdmVW6a.png)</p>
+</details>
+
+## Unde se află <u>Paleto Bay</u>?
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/K3xq94a.png)</p>
+    <p>![Locatie](https://i.imgur.com/4n3XRaE.png)</p>
+</details>
+
+## Unde se află <u>Grand Senora Desert</u>?
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/hQLS27C.png)</p>
+    <p>![Locatie](https://i.imgur.com/OZMgwh0.png)</p>
+</details>
+
+## Unde se află <u>Humane Labs and Research</u>?
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/vtvMlF0.png)</p>
+    <p>![Locatie](https://i.imgur.com/LzFKxTQ.png)</p>
+</details>
+
+## Unde se află <u>Padurarul de la Bayview Lodge</u>?
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/CrT88uT.png)</p>
+    <p>![Locatie](https://i.imgur.com/9nmwEK6.png)</p>
+</details>
+
+## Unde se află <u>Cassidy Creek Bridge</u>?
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/GmvxM3Q.png)</p>
+    <p>![Locatie](https://i.imgur.com/8bUXgrk.png)</p>
+</details>
+
+## Unde se află <u>Cea mai intalta macara</u>?
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/GmvxM3Q.png)</p>
+    <p>![Locatie](https://i.imgur.com/8bUXgrk.png)</p>
+</details>
+
+## Unde se află <u>Turnul de antrenament al pompierilor</u>?
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/iJQvfoq.png)</p>
+    <p>![Locatie](https://i.imgur.com/8r5EFXY.png)</p>
+</details>
+
+## Unde se află aeroportul abandonat din  <u>Grapeseed</u> (McKenzie Field)?
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/XuIeop6.png)</p>
+    <p>![Locatie](https://i.imgur.com/cZeFaWl.png)</p>
+</details>
+
