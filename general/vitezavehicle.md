@@ -261,6 +261,9 @@ title: Viteză vehicule
 | bhseratileventemansory | 233 km/h | 243 km/h | 268 km/h | 318 km/h |
 | bhwx7g0722             | 220 km/h | 230 km/h | 255 km/h | 305 km/h |
 | bherte63sbrabus800     | 233 km/h | 243 km/h | 268 km/h | 318 km/h |
-
-
-
+| bhordgtmk2             | 246 km/h | 256 km/h | 281 km/h | 331 km/h |
+| bhntleybatur24         | 243 km/h | 253 km/h | 278 km/h | 328 km/h |
+| bhcatipanigale43       | 240 km/h | 250 km/h | 275 km/h | 325 km/h |
+| bhmcajavelinamx        | 240 km/h | 250 km/h | 275 km/h | 325 km/h |
+| bhwx7g07               | 225 km/h | 235 km/h | 260 km/h | 310 km/h |
+| bhrleydavfb            | 220 km/h | 230 km/h | 255 km/h | 305 km/h |
