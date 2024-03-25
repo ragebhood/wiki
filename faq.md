@@ -569,8 +569,8 @@ prețul crește la **150 Premium Points pe zi**. Pentru cei care au primit o int
 
 <details class="details custom-block">
     <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/mlD4poX.png)</p>
     <p>![Locatie](https://i.imgur.com/GmvxM3Q.png)</p>
-    <p>![Locatie](https://i.imgur.com/8bUXgrk.png)</p>
 </details>
 
 ## Unde se află Turnul de antrenament al pompierilor?
