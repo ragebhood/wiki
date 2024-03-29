@@ -261,10 +261,10 @@ Pretul asigurării: $25,000 * zile + $1000 * km + 0,05 la sută din valoarea veh
 Ai nevoie de minim nivel 5 pentru a plasa un anunț la 'CNN'.
 
 ## Care e cea mai rapidă mașină?
-Cele mai rapide vehicule sunt **bhrrarifxxkevo**, **bhlaren765lt** și **bhiniaventadorlp700** care ating viteza aproximativa de 255 km/h 'Stock' și 340 km/h cu 'Stage 4'.
+Cele mai rapida masina cu **Stage** este **bhgattiveyronvt**, aceasta atingand 355 km/h cu 'Stage 4'.
 
 ## Care este cea mai rapidă mașină stock?
-Cea mai rapidă mașină stock (fără cele de clan) este **bhordgtmk2**, care atinge viteza maximă de 255 km/h.
+Cea mai rapidă mașină stock (fără cele de clan) este **bhgattiveyronvt**, care atinge viteza maximă de 270 km/h.
 
 ## Cum deschid lista cu jucători (tab score)?
 Apasă tasta `~` pentru a deschide lista cu jucători. 
