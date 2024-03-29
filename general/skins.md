@@ -68,6 +68,11 @@ Nu există un skin universal, ci în funcție de nevoile tale, un skin poate fi 
   </tr>
   <tr>
     <td style="color:#fdffff;"><strong>Xmas Skin</strong></td>
-    <td>3 puncte premium, 2 candies, 2 puncte de respect, 100 'B-Points' (peste 1801 secunde), altfel 1 punct premium, 1 candies, 1 punct de respect, 25 'B-Points' (sub 1801 secunde)</td>
+    <td>3 puncte premium,  2 puncte de respect, 100 'B-Points' (peste 1801 secunde), altfel 1 punct premium, 1 candies, 1 punct de respect, 25 'B-Points' (sub 1801 secunde)</td>
+  </tr>
+   <tr>
+    <td style="color:#88db14;"><strong>Spring V2 Skin</strong></td>
+    <td> Daca te joci peste 1800 de seunde la un Payday, vei primi un Rob Points in plus, respectev 3 Free Points ca politist. Acest skin iti ofera 
+    plus 50% materiale si droguri atunci cand muncesti la job-urile aferente.</td>
   </tr>
 </table>
