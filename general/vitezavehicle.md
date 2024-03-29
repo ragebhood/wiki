@@ -269,4 +269,4 @@ title: Viteză vehicule
 | bhrleydavfb            | 220 km/h | 230 km/h | 255 km/h | 305 km/h |
 | bhgattiveyronvt        | 270 km/h | 280 km/h | 305 km/h | 355 km/h |
 | bholarisrzrxpesp       | 200 km/h | 210 km/h | 235 km/h | 285 km/h |
-| bhorschecarrera4sc911  | 240 lm/h | 250 km/h | 275 km/h | 325 km/h |
+| bhorschecarrera4sc911  | 240 km/h | 250 km/h | 275 km/h | 325 km/h |
