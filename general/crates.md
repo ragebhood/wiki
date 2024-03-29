@@ -182,7 +182,7 @@ Premii: Sansa de 0.25 la suta de a primi un shard al vehicului **bhgattiveyronvt
     <img width="200" src="https://i.imgur.com/XiNVaoi.png" alt="Lucky or Not Crate">
 </p>
 
-❗Acest crate se poate achiziționa pentru suma de 6969 **BPoints** sau 250 de** Premium Points**
+❗Acest crate se poate achiziționa pentru suma de 6969 **BPoints** sau 250 de **Premium Points**
 
 Premii: Hidden Color, Matte Color, Free Spin, Rob Points, zile de cont **VIP**, Premium Points (100), zile de cont **Legend**, 3-7x Giftbox, 
 Vip Plus Car Ticket, Premium Points(350-500), Random Shard, Spring V2 Skin, un vehicul de tip **bholarisrzrxpesp** sau un vehicul de tip **bhorschecarrera4sc911**
