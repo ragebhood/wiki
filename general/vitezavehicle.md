@@ -267,6 +267,6 @@ title: Viteză vehicule
 | bhmcajavelinamx        | 240 km/h | 250 km/h | 275 km/h | 325 km/h |
 | bhwx7g07               | 225 km/h | 235 km/h | 260 km/h | 310 km/h |
 | bhrleydavfb            | 220 km/h | 230 km/h | 255 km/h | 305 km/h |
-| bhgattiveyronvt        | <span style="color:red"> Indisponibila temporar</span> |
+| bhgattiveyronvt        | 270 km/h | 280 km/h | 305 km/h | 355 km/h |
 | bholarisrzrxpesp       | <span style="color:red"> Indisponibila temporar</span> |
 | bhorschecarrera4sc911  | <span style="color:red"> Indisponibila temporar</span> |
