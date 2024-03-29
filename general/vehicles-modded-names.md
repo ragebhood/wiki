@@ -122,4 +122,7 @@ title: Denumiri vehicule modate
 | bhertglsbrabus800        | Mercedes GLS Brabus 800                           | <img src="https://ragepanel.b-hood.ro/assets/images/cars//bhertglsbrabus800.png" width="256" height="128" />                   |
 | bherte63sbrabus800       | Mercedes E63S Brabus 800                         | <img src="https://ragepanel.b-hood.ro/assets/images/cars//bherte63sbrabus800.png" width="256" height="128" />                  |
 | bhacia1310               | Dacia 1310                                    | <img src="https://ragepanel.b-hood.ro/assets/images/cars//bhacia1310.png" width="256" height="128" />                          |
+| bhorshecamerra4sc911     | Porshe Camerra 4S 911                           | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhorshecamerra4sc911" width="256" height="128" />                          |
+| bholarisrzrxpesp         | Polaris RZR XP                                  | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bholarisrzrxpesp" width="256" height="128" />                          |
+| bhgattiveyronvt          | Bugatti Veyron VT                                    | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhgattiveyronvt.png" width="256" height="128" />                          |
 
