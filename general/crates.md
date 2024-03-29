@@ -167,3 +167,22 @@ Premii: <strong>bani, race points, free spin, job boost, candies, voucher epic, 
 ❗Acest crate se poate achiziționa doar în perioada Sfantului Valentin 💏.
 
 Premii: <strong>free spin, job-boost (150%-200%-250%), materiale, hidden colors, matte colors, rob points, chrome colors, intre 50 si 150 de puncte premium, skin **Cupidon V2**, 500 de puncte premium, cupidon livery  vehicul de tip **Toyota Rav 4 Prime**, vehicul de tip **Mercedes AMG GT Black Edition** si shard-uri de elicopter (**Augusta Westland AW109 VIP**)</strong>
+
+## Lucky or Not Crate 🍀
+<p align="center">
+    <img width="200" src="https://i.imgur.com/fBuH7JQ.png" alt="Lucky or Not Crate">
+</p>
+
+❗Acest crate se poate achiziționa pentru suma de <code>77.777.777$</code>
+
+Premii: Sansa de 0.25 la suta de a primi un shard al vehicului **bhgattiveyronvt** si sansa de 99.75% de a primi un vehicul de tip **Futo**
+
+## Spring V2 Crate 🌹
+<p align="center">
+    <img width="200" src="https://i.imgur.com/XiNVaoi.png" alt="Lucky or Not Crate">
+</p>
+
+❗Acest crate se poate achiziționa pentru suma de 6969 **BPoints** sau 250 de** Premium Points**
+
+Premii: Hidden Color, Matte Color, Free Spin, Rob Points, zile de cont **VIP**, Premium Points (100), zile de cont **Legend**, 3-7x Giftbox, 
+Vip Plus Car Ticket, Premium Points(350-500), Random Shard, Spring V2 Skin, un vehicul de tip **bholarisrzrxpesp** sau un vehicul de tip **bhorschecarrera4sc911**
