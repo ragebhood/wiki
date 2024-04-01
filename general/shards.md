@@ -117,16 +117,20 @@ In acele zile, pot fi date prin trade si shard-urile ce nu se mai pot obtine ini
         <td><strong>bhgustawestaw109vip - Augusta Westland AW109 VIP</strong> - Acest shard poate fi obținut în <strong>Cupidon V2 Crate</strong></td>
     </tr>
     <tr>
-        <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/bhmaseratilevante.png" alt="bhmaseratilevante"></td>
+        <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/bhseratileventemansory.png" alt="bhmaseratilevante"></td>
         <td><strong>bhmaseratilevante - Maserati Levante</strong> - Acest shard poate fi obținut completând <strong>questul special de primăvară</strong></td>
     </tr>
     <tr>
-        <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/bhdacia1310.png" alt="bhdacia1310"></td>
+        <td><img src="https://ragepanel.b-hood.ro/assets/images/cars//bhacia1310.png" alt="bhdacia1310"></td>
         <td><strong>bhdacia1310 - Dacia 1310</strong> - Acest shard poate fi obținut completând <strong>questul special de primăvară</strong></td>
     </tr>
     <tr>
-        <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/bhbrabus63.png" alt="bhbrabus63"></td>
-        <td><strong>bhbrabus63 - Brabus 63</strong> - Acest shard poate fi obținut completând <strong>questul special de primăvară</strong></td>
+        <td><img src="https://ragepanel.b-hood.ro/assets/images/cars//bherte63sbrabus800.png" alt="bhbrabus63"></td>
+        <td><strong>bherte63sbrabus800 - Brabus 63</strong> - Acest shard poate fi obținut completând <strong>questul special de primăvară</strong></td>
+    </tr>
+    <tr>
+        <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/bhgattiveyronvt.png" alt="bhbrabus63"></td>
+        <td><strong>bhgattiveyronvt - Bugatti Veyron VT</strong> - Acest shard poate fi obținut in <strong>Lucky or Not Crate</strong></td>
     </tr>
 </table>
 
