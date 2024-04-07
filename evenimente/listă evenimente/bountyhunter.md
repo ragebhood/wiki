@@ -85,7 +85,7 @@ title: Bounty Hunter
       <td>3%</td>
     </tr>
     <tr>
-      <td>Ghepard</td>
+      <td>Ghepard(cheetah)</td>
       <td>5%</td>
     </tr>
     <tr>
@@ -131,7 +131,7 @@ title: Bounty Hunter
       <td>Better Crate: Spring / Easter / Moonlight / Worker</td>
     </tr>
     <tr>
-      <td>Ghepard</td>
+      <td>Ghepard(cheetah)</td>
       <td>Better Upgrades</td>
     </tr>
     <tr>
@@ -175,7 +175,7 @@ title: Bounty Hunter
       <td>6</td>
     </tr>
     <tr>
-      <td>Ghepard</td>
+      <td>Ghepard(cheetah)</td>
       <td>5</td>
     </tr>
     <tr>
@@ -248,7 +248,7 @@ Pentru fiecare kg de carne iei 10k$ fara upgrade-uri.
 
 <div class="danger-container">
     <p class="title">ATENTIE</p>
-    <p class="description">Aceste premii sunt primite random atunci cand ucizi un <b>ghepard</b>.</p>
+    <p class="description">Aceste premii sunt primite random atunci cand ucizi un <b>ghepard(cheetah)</b>.</p>
 </div>
 <table>
   <thead>
