@@ -6,6 +6,12 @@ title: Skin Tickets
 
 In urma update-ului de pe data de 3 Mai 2024 Ticket-urile au fost transformate in tickete.
 
+## Cum pot deschide interfata de haine?
+`/clothes` iti va deschide interfata hainelor.
+
+## De unde pot cumpara haine?
+Hainele pot fi cumparate din afacerile de tip 'Binco'.
+
 ## Cum pot sa-l echipez?
 <details class="details custom-block">
     <summary>Echipare Ticket</summary>
