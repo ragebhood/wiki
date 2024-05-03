@@ -200,7 +200,7 @@ title: Bounty Hunter
 ## Care este delay-ul la radar?
 Poti folosi radarul apasand pe tasta `R` odata la 120 de secunde fara upgrade-uri.
 ## Cati bani iau pentru fiecare kg de carne?
-Pentru fiecare kg de carne iei 10k$ fara upgrade-uri.
+Pentru fiecare kg de carne iei 100$ fara upgrade-uri.
 
 ## Upgrade-uri
 <div class="danger-container">
@@ -229,7 +229,7 @@ Pentru fiecare kg de carne iei 10k$ fara upgrade-uri.
     </tr>
     <tr>
       <td>Pentru fiecare kg de carne primești <code>+2500$</code></td>
-      <td> maxim <code>25.000$</code></td>
+      <td> maxim <code>250$</code></td>
     </tr>
     <tr>
       <td>weapon_marksmanrifle</td>
