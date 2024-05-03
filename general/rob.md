@@ -34,7 +34,7 @@ Folosește-te de **Shark-ul** oferit pentru a ajunge acolo.
 
 <div class="important-container">
     <p class="title">Premii</p>
-    <p class="description">Premiu: sansa de 95% de a primi intre 50.000$ si 20.000.000$ si sansa de 5% de a primi 500.000$</p>
+    <p class="description">Premiu: sansa de 95% de a primi intre 50.000$ si 200.000$ si sansa de 5% de a primi 500.000$</p>
 </div>
 
 ## Video Tutorial 
