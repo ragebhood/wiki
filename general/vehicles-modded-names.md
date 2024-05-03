@@ -122,7 +122,17 @@ title: Denumiri vehicule modate
 | bhertglsbrabus800        | Mercedes GLS Brabus 800                           | <img src="https://ragepanel.b-hood.ro/assets/images/cars//bhertglsbrabus800.png" width="256" height="128" />                   |
 | bherte63sbrabus800       | Mercedes E63S Brabus 800                         | <img src="https://ragepanel.b-hood.ro/assets/images/cars//bherte63sbrabus800.png" width="256" height="128" />                  |
 | bhacia1310               | Dacia 1310                                    | <img src="https://ragepanel.b-hood.ro/assets/images/cars//bhacia1310.png" width="256" height="128" />                          |
-| bhorshecamerra4sc911     | Porsche 911 (992) Carrera 4S Cabriolet 2020                          | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhorshecamerra4sc911" width="256" height="128" />                          |
-| bholarisrzrxpesp         | Paloris RZR XP Turbo EPS 2017                                 | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bholarisrzrxpesp" width="256" height="128" />                          |
-| bhgattiveyronvt          | Bugatti Veyron VT                                    | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhgattiveyronvt.png" width="256" height="128" />                          |
-
+| bhorschecarrera4sc911     | Porsche 911 (992) Carrera 4S Cabriolet 2020                          | <img src="https://ragepanel.b-hood.ro/assets/images/cars//bhorschecarrera4sc911" width="256" height="128" />                          |
+| bholarisrzrxpesp         | Paloris RZR XP Turbo EPS 2017                                 | <img src="https://ragepanel.b-hood.ro/assets/images/cars//bholarisrzrxpesp" width="256" height="128" />                          |
+| bhgattiveyronvt          | Bugatti Veyron VT                                    | <img src="https://ragepanel.b-hood.ro/assets/images/cars//bhgattiveyronvt.png" width="256" height="128" />                          |
+| bhudirsq821        | Audi RSQ8                                   | <img src="https://ragepanel.b-hood.ro/assets/images/cars//bhudirsq821" width="256" height="128" />        |
+| bhbarubrz2ts24     | Subaru RZ 2024                                  | <img src="https://ragepanel.b-hood.ro/assets/images/cars//bhbarubrz2ts24" width="256" height="128" />     |
+| bhwm6e64c26        | BMW M6                                  | <img src="https://ragepanel.b-hood.ro/assets/images/cars//bhwm6e64c26" width="256" height="128" />        |
+| bhotaprius24       | Toyota Prius                                  | <img src="https://ragepanel.b-hood.ro/assets/images/cars//bhotaprius24" width="256" height="128" />       |
+| bhatonmartvalour24 | Aston Martin Valour                                  | <img src="https://ragepanel.b-hood.ro/assets/images/cars//bhatonmartvalour24" width="256" height="128" /> |
+| bhahayzfr1m20      | Yamaha YZ                                  | <img src="https://ragepanel.b-hood.ro/assets/images/cars//bhahayzfr1m20" width="256" height="128" />      |
+| bhcidairsapphire23 | Lucid Air Sapphire                                 | <img src="https://ragepanel.b-hood.ro/assets/images/cars//bhcidairsapphire23" width="256" height="128" /> |
+| bhseratimc2021     | Maserati MC 20                                 | <img src="https://ragepanel.b-hood.ro/assets/images/cars//bhseratimc2021" width="256" height="128" />     |
+| bhoblem50022       | Noble M500                                 | <img src="https://ragepanel.b-hood.ro/assets/images/cars//bhoblem50022" width="256" height="128" />       |
+| bhatonmartdbx70723| Aston Martin DBX                                | <img src="https://ragepanel.b-hood.ro/assets/images/cars//bhatonmartdbx70723" width="256" height="128" />|
+| bhuransxts22       | Acura NSX                                   | <img src="https://ragepanel.b-hood.ro/assets/images/cars//bhuransxts22" width="256" height="128" />      |
