@@ -11,7 +11,7 @@ Ai nevoie de o mașină? Poți închiria o mașină din locația businessului **
 </details>
 
 
-Pretul pentru inchirierea unui vehicul este de 2.500$ la fiecare 20 de secunde.
+Pretul pentru inchirierea unui vehicul este de 20$ la fiecare 20 de secunde.
 
 
 ## Care este cea rapidă mașină pe care îl poți închiria?

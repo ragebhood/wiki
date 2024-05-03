@@ -49,7 +49,7 @@ Achiziționează-ți o armă de tip **Melee** dintr-un [Gun Shop](../proprietă�
 ### Schimbă culorile unui vehicul personal
 Poți face acest lucru dintr-un Business de tip [Tuning](../proprietăți/businesses.md#tuning).
 
-### Participă cu minim $1.000.000 la Job Goal
+### Participă cu minim $10.000 la Job Goal
 Lucrează la ce job îți dorești tu, orice job este profitabil înafară de Detective. Află ce job îți este pe plac navigând-ule [aici](../joburi/index.md).
 
 ### Atinge nivel 10

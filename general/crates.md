@@ -139,7 +139,7 @@ Prețul: <strong><span style="color: #fcba03;"><s>250 de puncte premium</s></spa
 
 Premii: <strong>pumpkin with money, job boost 250%, armă **Knuckle**, materiale, zile de cont VIP/Legend/Premium, epic/mythic/legendary voucher, VIP Car Ticket, shard de **bhenzc63amg**, skin-uri, vehicul de tip **zombiea** sau un vehicul de tip **bhorschetaytrs**</strong>
 
-## Winter V2 Crate ⛄
+## Winter V2 Crate ⛄ <Badge type="danger" text="indisponibil" />
 <p align="center">
     <img width="200" src="https://i.imgur.com/wJtEXzJ.png" alt="Winter V2 crate">
 </p>
@@ -149,7 +149,7 @@ Prețul: <strong><span style="color: #8003fc;">4000 de B-Points</span> / <span s
 
 Premii: <strong>puncte de respect, money bag, zie de cont VIP sau Premium, materiale, free spin, Casino Chips, voucher epic, VIP Car Ticket, shard de **bhntleybentayst**, voucher mythic, skin-uri, legendary voucher, Iced livery sau un vehicul de tip **bhoversvrs**</strong>
 
-## Xmas Crate 🎅
+## Xmas Crate 🎅 <Badge type="danger" text="indisponibil" />
 <p align="center">
     <img width="200" src="https://i.imgur.com/0HnhJhl.png" alt="Xmas crate">
 </p>
@@ -159,16 +159,16 @@ Prețul: <strong><span style="color: #8003fc;">6969 de B-Points</span> / <span s
 
 Premii: <strong>bani, race points, free spin, job boost, candies, voucher epic, 3-7x giftbox, premium forged wheels, voucher mythic, rainbow chrome ticket, shard de **Bherts63cmatic**, skin-uri, voucher legendary, vehicul de tip **Audi R8** sau un vehicul de tip **Volvo XC90**</strong>
 
-## Cupidon  V2 Crate 💏
+## Cupidon  V2 Crate 💏 <Badge type="danger" text="indisponibil" />
 <p align="center">
     <img width="200" src="https://i.imgur.com/B1FWV7y.png" alt="Cupidon V2 crate">
 </p>
 
-❗Acest crate se poate achiziționa doar în perioada Sfantului Valentin 💏.
+❗Acest crate se poate achiziționa doar în perioada Sfantului Valentin 💏 in schimbul sumei de 250 de puncte premium.
 
 Premii: <strong>free spin, job-boost (150%-200%-250%), materiale, hidden colors, matte colors, rob points, chrome colors, intre 50 si 150 de puncte premium, skin **Cupidon V2**, 500 de puncte premium, cupidon livery  vehicul de tip **Toyota Rav 4 Prime**, vehicul de tip **Mercedes AMG GT Black Edition** si shard-uri de elicopter (**Augusta Westland AW109 VIP**)</strong>
 
-## Lucky or Not Crate 🍀
+## Lucky or Not Crate 🍀 
 <p align="center">
     <img width="200" src="https://i.imgur.com/fBuH7JQ.png" alt="Lucky or Not Crate">
 </p>
@@ -186,3 +186,13 @@ Premii: Sansa de 0.25 la suta de a primi un shard al vehicului **bhgattiveyronvt
 
 Premii: Hidden Color, Matte Color, Free Spin, Rob Points, zile de cont **VIP**, Premium Points (100), zile de cont **Legend**, 3-7x Giftbox, 
 Vip Plus Car Ticket, Premium Points(350-500), Random Shard, Spring V2 Skin, un vehicul de tip **bholarisrzrxpesp** sau un vehicul de tip **bhorschecarrera4sc911**
+
+## Easter V2 Crate 🐇
+<p align="center">
+    <img width="200" src="https://i.imgur.com/6pLE2nk.png" alt="Easter V2">
+</p>
+
+❗Acest crate se poate achiziționa pentru suma de 6969 **BPoints** sau 250 de **Premium Points**
+
+Premii: Money, Rob Points, Premium Account (14 days), Giftbox, Job-Boost, Bunny Mask, Vip Account (7 days), Legend Account (6 days), Premium Points (75-150), Mythic Voucher, Legendary Voucher, bhahayzfr1m20 si bhcidairsapphire23.
+

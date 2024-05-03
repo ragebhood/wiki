@@ -20,9 +20,9 @@ Dacă ai un referral setat pe cont:
 - La nivel 100 vei primi 100 Premium Points.
 
 ## Beneficiile jucătorului care invită un jucător pe referral-ul său
-- Level 1-3 = 25.000$ / nivel 
-- Level 4 - 10 = 50.000$ / nivel + 50 bpoints / nivel 
-- Level 11 - 25 = 100.000 / nivel + 100 bpoints / nivel 
-- Level 26 - 50 = 250.000$ / nivel + 1pp / nivel 
-- Level 51 - 75 = 500.000$ / nivel + 2 pp / nivel 
-- Level 75 + = 1.000.000$ / nivel + 3 pp / nivel 
+- Level 1-3 = 25$ / nivel 
+- Level 4 - 10 = 500$ / nivel + 50 bpoints / nivel 
+- Level 11 - 25 = 1.000 / nivel + 100 bpoints / nivel 
+- Level 26 - 50 = 2.500$ / nivel + 1pp / nivel 
+- Level 51 - 75 = 5.000$ / nivel + 2 pp / nivel 
+- Level 75 + = 10.000$ / nivel + 3 pp / nivel 

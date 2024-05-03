@@ -43,6 +43,6 @@ Vă reamintim că jocurile de noroc pot fi distractive, dar și riscante. Nu ră
 ## Alte detalii importante
 
 - **Limita de bani pierduti** se reseteaza la ora 7 dimineata.
-- **Suma dice** $10,000 si maxima $250,000 * nivelul tau.
+- **Suma dice** $1000 si maxima $250,000 * nivelul tau.
 - castigi la dice vei primi **95%** din suma totala.
 - **Limita de pierdere** la dice este de 50 maini pe zi.

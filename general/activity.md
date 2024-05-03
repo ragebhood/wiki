@@ -34,7 +34,7 @@ Te simți plictisit și crezi că nu mai ai nimic de făcut? Încearcă comanda 
 | bhwm5e39                           | 5,000                          |
 | Voucher legendar                   | 4,500                          |
 | Voucher epic                       | 1,000                          |
-| Bani(100kk)                        | 1,000                          |
+| Bani(1kk)                        | 1,000                          |
 | Bpoints (1000)                     | 1,000                          |
 | Crate moonlight                    | 1,000                          |
 | job boost 100% - 1h                 | 100                            |

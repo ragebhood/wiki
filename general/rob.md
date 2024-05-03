@@ -34,7 +34,7 @@ Folosește-te de **Shark-ul** oferit pentru a ajunge acolo.
 
 <div class="important-container">
     <p class="title">Premii</p>
-    <p class="description">Premiu: sansa de 95% de a primi intre 5.000.000$ si 20.000.000$ si sansa de 5% de a primi 50.000.000$</p>
+    <p class="description">Premiu: sansa de 95% de a primi intre 50.000$ si 20.000.000$ si sansa de 5% de a primi 500.000$</p>
 </div>
 
 ## Video Tutorial 
@@ -60,7 +60,7 @@ Pentru a invita un jucator in echipa, foloseste comanda `/inviteheist`.
 
 <div class="important-container">
     <p class="title">Premii</p>
-    <p class="description">Premiu: $50,000,000 - $60,000,000, 50 puncte premium și 1000 bpoints.</p>
+    <p class="description">Premiu: $500,000 - $600,000, 50 puncte premium și 1000 bpoints.</p>
 </div>
 
 ## Există 4 roluri ce se vor genera aleatoriu: 
@@ -124,7 +124,7 @@ după ce toți participanții au furat lingourile, vor avea marcat un bunker ale
 
 <details class="details custom-block">
     <summary>Detalii</summary>
-    <p>Membrii din SWAT vor fi recompensați pentru fiecare ucigaș făcut pe un participant la jaf cu: 5 puncte premium, 100 bpoints și aleatoriu între $1,000,000 și $1,250,000.</p>
+    <p>Membrii din SWAT vor fi recompensați pentru fiecare ucigaș făcut pe un participant la jaf cu: 5 puncte premium, 100 bpoints și aleatoriu între $10,000 și $12,500.</p>
     <p>SWAT-ul va fi anuntat in situatiile urmatoare: după 30 de secunde de la explozia bombelor, când camerele nu au fost distruse la timp, nd NPC-urile de la ghiseu nu au fost amenințate suficient.
     </p>
     <p>Participanții ce vor avea mască echipată vor fi undercover și nu vor putea fi localizați</p>

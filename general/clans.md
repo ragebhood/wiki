@@ -90,7 +90,7 @@ Cu ajutorul acestui meniu poți controla diferite aspecte ale clanului.
 
 În această secțiune poți seta:
 - culoare clanului care apare si pe chatul clanului.
-- culoarea vehiculelor, de reținut că pentru schimbarea acestei culori trebuie să plătești câte $25.000.000 din seiful clanului.
+- culoarea vehiculelor, de reținut că pentru schimbarea acestei culori trebuie să plătești câte $250.000 din seiful clanului.
 - culoarea turfurilor deținute.
 
 ### Rank Names
@@ -113,7 +113,7 @@ Cu ajutorul acestui meniu poți controla diferite aspecte ale clanului.
 ### Cum cumpăr?
 - **Premium**: Poți cumpăra acest upgrade din secțiunea **Other** având în seif la momentul respectiv suma de **1500 de premium points**.
 - **VIP**: Poți cumpăra acest upgrade din secțiunea **Other** având în seif la momentul respectiv suma de **3000 de premium points**.
-- **Zile la clan**: Poți să cumperi zile la clan din secțiunea **Other**, acestea costă **$5.000.000 / zi**.
+- **Zile la clan**: Poți să cumperi zile la clan din secțiunea **Other**, acestea costă **$50.000 / zi**.
 - **Schimbare nume clan**: Poți să-ți schimbi numele la clan din secțiunea **Other**, acest schimb costă suma de **700 premium points**
 - **Schimbare tag clan**: Poți să-ți schimbi tagul la clan din secțiunea **Other**, acest schimb costă suma de **500 premium points**
 - **Sloturi de membri**: Poți să cumperi sloturi de membri la clan din secțiunea **Other**, acestea costă **500 premium points / 30 sloturi**.
@@ -162,18 +162,18 @@ Pentru a vorbi pe chatul alianței poți folosi comanda `/ca`.
 
 | Vehicul             | Preț               | Viteză atinsă |
 |---------------------|--------------------|---------------|
-| Prairie             | 100.000.000$       | 155 Km/h      |
-| Dilettante          | 17.500.000$        | 138 km/h      |
-| Buritto3            | 22.000.000$        | 145 km/h      |
-| Ballet              | 37.100.000$        | 149 km/h      |
-| Zion                | 45.000.000$        | 173 km/h      |
-| Sadler              | 67.000.000$        | 149 km/h      |
-| Sandking            | 100.000.000$       | 148 km/h      |
-| Jester              | 115.000.000$       | 178 km/h      |
-| Cognoscenti         | 140.000.000$       | 165 km/h      |
-| Gp1                 | 177.000.000$       | 187 km/h      |
-| Fcr                 | 77.000.000$        | 163 km/h      |
-| Double              | 132.000.000$       | 172 km/h      |
+| Prairie             | 100.000$       | 155 Km/h      |
+| Dilettante          | 175.000$        | 138 km/h      |
+| Buritto3            | 220.000$        | 145 km/h      |
+| Ballet              | 371.000$        | 149 km/h      |
+| Zion                | 450.000$        | 173 km/h      |
+| Sadler              | 670.000$        | 149 km/h      |
+| Sandking            | 1.000.000$       | 148 km/h      |
+| Jester              | 1.150.000$       | 178 km/h      |
+| Cognoscenti         | 1.400.000$       | 165 km/h      |
+| Gp1                 | 1.770.000$       | 187 km/h      |
+| Fcr                 | 770.000$        | 163 km/h      |
+| Double              | 1.320.000$       | 172 km/h      |
 | Tyrant              | 1.250 Premium Points| 205 km/h      |
 | Dubsta3             | 1k Premium Points   | 159 Km/h      |
 | Patriot2            | 1,5k Premium Points | 143 km/h      |
@@ -182,49 +182,49 @@ Pentru a vorbi pe chatul alianței poți folosi comanda `/ca`.
 | Bati                | 500 Premium Points  | 189 km/h      |
 | Baller3             | 1,270 Premium Points| 168 km/h      |
 | Dubsta2             | 1000 Premium Points | 151 km/h      |
-| Bhertcls63amg       | 625.000.000$       | 225 km/h      |
-| Bhudia8l            | 500.000.000$       | 218 km/h      |
-| Bhertsclasswbb      | 32.000.000$        | 219 km/h      |
-| Bhwe60              | 452.000.000$       | 234 km/h      |
-| Bhertgcl99          | 696.000.000$       | 220 km/h      |
-| Bhollsphantom       | 1.220.000.000$    | 285 km/h      |
-| Bhorschecayenets    | 576.000.000$       | 200 km/h      |
-| Bhangeovervogst     | 730.000.000$       | 230 km/h      |
-| Bhyotalc200         | 350.000.000$       | 194 km/h      |
+| Bhertcls63amg       | 620.500$       | 225 km/h      |
+| Bhudia8l            | 500.000$       | 218 km/h      |
+| Bhertsclasswbb      | 3.200.000$        | 219 km/h      |
+| Bhwe60              | 4.520.000$       | 234 km/h      |
+| Bhertgcl99          | 6.960.000$       | 220 km/h      |
+| Bhollsphantom       | 12.200.000$    | 285 km/h      |
+| Bhorschecayenets    | 5.760.000$       | 200 km/h      |
+| Bhangeovervogst     | 7.300.000$       | 230 km/h      |
+| Bhyotalc200         | 3.500.000$       | 194 km/h      |
 
 ## Preț modificări vehicule de clan
-- Preț **refill** - 10.000$ 
-- Preț **schimbare culoare** - 25.000.000$
+- Preț **refill** - 100$ 
+- Preț **schimbare culoare** - 250.000$
 ## Pret arme de clan
 ### Handgun:
-heavypistol - `75.000.000 + 20k mats`
+heavypistol - `750.000 + 20k mats`
 
-pistol50 - `100.000.000 + 25k mats`
+pistol50 - `1.000.000 + 25k mats`
 
 ### SMG:
-assaultsmg - `200.000.000 + 85.000 materiale`
+assaultsmg - `2.000.000 + 85.000 materiale`
 
-microsmg - `120.000.000 + 50.000 materiale`
+microsmg - `1.000.000 + 50.000 materiale`
 
-combatpdw - `180.000.000 + 75.000 materiale`
+combatpdw - `1.000.000 + 75.000 materiale`
 
 ### Shotguns:
-pumpshotgun - `250.000.000 + 100.000 materiale`
+pumpshotgun - `2.500.000 + 100.000 materiale`
 
-assaultshotgun - `300.000.000 + 120.000 materiale`
+assaultshotgun - `3.000.000 + 120.000 materiale`
 
 ### Rifle:
-assaultrifle - `400.000.000 + 150.000 materiale`
+assaultrifle - `4.000.000 + 150.000 materiale`
 
-assaultrifle_mk2 - `450.000.000 + 180.000 materiale`
+assaultrifle_mk2 - `4.500.000 + 180.000 materiale`
 
-carbinerifle - `450.000.000 + 180.000 materiale`
+carbinerifle - `4.500.000 + 180.000 materiale`
 
-carbinerifle_mk2 - `450.000.000 + 150.000 materiale`
+carbinerifle_mk2 - `4.500.000 + 150.000 materiale`
 
-tacticalrifle - `500.000.000 + 200.000 materiale`
+tacticalrifle - `5.000.000 + 200.000 materiale`
 
-heavyrifle - `500.000.000 + 200.000 materiale` <br>
+heavyrifle - `5.000.000 + 200.000 materiale` <br>
 
 ## Clan Wars
 Acest sistem îți permite ție și clanului tău să fiți lideri în oraș.

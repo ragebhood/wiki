@@ -26,7 +26,7 @@ Poți să vezi ce skill ai prin intermediul comenzii `/skills`.
 ### Giftbox Skill 1
 | Premii                                       | Sansa         |
 |----------------------------------------------|---------------|
-| 1.  Money $1,000,000-$5,000,00             | (15.1%)       |
+| 1.  Money $10,000-$50.000             | (15.1%)       |
 | 2.  BPoints [100-700]                         | (15.1%)       |
 | 3.  Materials [1000-5000]                     | (10%)         |
 | 4.  [Winter Crate](./general/crates#winter-crate-❄%EF%B8%8F)                               | (4%)          |
@@ -47,7 +47,7 @@ Poți să vezi ce skill ai prin intermediul comenzii `/skills`.
 ### Giftbox Skill 2
 | Premii                                       | Sansa         |
 |----------------------------------------------|---------------|
-| 1.  Money $2,000,000-$7,500,000             | (12.2%)       |
+| 1.  Money $20,000-$75,000             | (12.2%)       |
 | 2.  BPoints [200-800]                         | (15%)         |
 | 3.  Materials [2000-6000]                     | (10%)         |
 | 4.  [Winter Crate](./general/crates#winter-crate-❄%EF%B8%8F)                               | (5%)          |
@@ -68,7 +68,7 @@ Poți să vezi ce skill ai prin intermediul comenzii `/skills`.
 ### Giftbox Skill 3
 | Premii                                       | Șansa         |
 |----------------------------------------------|---------------|
-| 1. Money $3,500,000-$10,000,000            | (17.6%)       |
+| 1. Money $35,000-$100,000            | (17.6%)       |
 | 2. BPoints 350-900                         | (15%)         |
 | 3. Materials[3000-7000                     | (12%)         |
 | 4. [Winter Crate](./general/crates#winter-crate-❄%EF%B8%8F)                               | (4.5%)        |
@@ -89,7 +89,7 @@ Poți să vezi ce skill ai prin intermediul comenzii `/skills`.
 ### Giftbox Skill 4
 | Premii                                       | Șansa         |
 |----------------------------------------------|---------------|
-| 1. Money $4,000,000-$12,500,000            | (12.6%)       |
+| 1. Money $40,000-$125.000            | (12.6%)       |
 | 2. BPoints 400-1000                        | (14%)         |
 | 3. Materials 4000-8000                     | (12%)         |
 | 4. Race Points 150-250                      | (11%)         |
@@ -109,7 +109,7 @@ Poți să vezi ce skill ai prin intermediul comenzii `/skills`.
 ### Giftbox Skill 5
 | Premii                                       | Șansa         |
 |----------------------------------------------|---------------|
-| 1. Money $5,000,000-$15,000,000            | (12%)         |
+| 1. Money $50,000-$150,000            | (12%)         |
 | 2. BPoints 500-1100                        | (12%)         |
 | 3. Materials 5000-9500                     | (13%)         |
 | 4. Race Points 200-350                      | (10%)         |
@@ -130,7 +130,7 @@ Poți să vezi ce skill ai prin intermediul comenzii `/skills`.
 ### Giftbox Skill 6
 | Premii                                       | Șansa         |
 |----------------------------------------------|---------------|
-| 1. Money $6,000,000-$17,500,000            | (5%)          |
+| 1. Money $60,000-$175,000            | (5%)          |
 | 2. BPoints 600-1200                        | (9%)          |
 | 3. Materials 5000-10000                    | (8%)          |
 | 4. Race Points 250-400                      | (3%)          |

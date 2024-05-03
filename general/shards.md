@@ -132,6 +132,14 @@ In acele zile, pot fi date prin trade si shard-urile ce nu se mai pot obtine ini
         <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/bhgattiveyronvt.png" alt="bhbrabus63"></td>
         <td><strong>bhgattiveyronvt - Bugatti Veyron VT</strong> - Acest shard poate fi obținut in <strong>Lucky or Not Crate</strong></td>
     </tr>
+    <tr>
+        <td><img src="https://ragepanel.b-hood.ro/assets/images/cars//bhatonmartvalour24.png" alt="bhbrabus63"></td>
+        <td><strong>bhatonmartvalour24 - Aston Martin Valour 2024</strong> - Acest shard poate fi obținut in <strong>BattlePass</strong></td>
+    </tr>
+    <tr>
+        <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/bhuscher16.png" alt="bhbrabus63"></td>
+        <td><strong>bhuscher16 - Frauscher 16</strong> - Acest shard poate fi obținut in <strong>BattlePass</strong></td>
+    </tr>
 </table>
 
 

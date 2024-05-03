@@ -16,7 +16,7 @@ Limita de pierdere este de 50 de mâini pe zi.
     <p>![Dice](https://i.imgur.com/iHWqBgl.png)</p>
 </details>
 
-Suma minimă pe care o poți juca este de $10.000 înmulțit cu nivelul tău, iar cea maximă este de $250.000 înmulțit cu nivelul tău
+Suma minimă pe care o poți juca este de $100 înmulțit cu nivelul tău, iar cea maximă este de $250.000 înmulțit cu nivelul tău
 Dacă vei câștiga, vei primi 95 la sută din suma totală deoarece serverul va percepe un comision de 5%.
 
 ## Care sunt pașii?

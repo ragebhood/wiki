@@ -24,7 +24,7 @@ Mai jos, ai explicații despre toate componentele paginii:
 Cu ajutorul acestei componente poți filtra diferite anunțuri afișate în funcție de:
 - **categorie**
 
-![Componenta - Filtre - Categorie](https://i.imgur.com/ttpBIBf.png "Componenta - Filtre - Categorie")
+![Componenta - Filtre - Categorie](https://i.imgur.com/2FJlKD9.png "Componenta - Filtre - Categorie")
 
 - **preț**
 
