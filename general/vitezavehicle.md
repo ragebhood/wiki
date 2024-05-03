@@ -280,6 +280,6 @@ title: Viteză vehicule
 | Bhcidairsapphire23   | 227 km/h| 237 km/h| 262 km/h| 312 km/h|
 | Bhseratimc202        | 250 km/h| 260 km/h| 295 km/h| 335 km/h|
 | Bhoblem50022         | 245 km/h| 255 km/h| 280 km/h| 330 km/h|
-| Bhatonmartdbx70723   | 240 km/h| 250 km/h| 285 km/h| 335 km/h|
+| Bhatonmartdbx70723   | 240 km/h| 250 km/h| 275 km/h| 325 km/h|
 | Bhuransxts22         | 230 km/h| 240 km/h| 265 km/h| 315 km/h|
 | bhuscher16           | 225 km/h| | | |
