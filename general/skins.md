@@ -6,6 +6,12 @@ title: Skin Tickets
 
 In urma update-ului de pe data de 3 Mai 2024 Ticket-urile au fost transformate in tickete.
 
+## Cum pot sa-l echipez?
+<details class="details custom-block">
+    <summary>Echipare Ticket</summary>
+    <p>![Skin Ticket](https://i.imgur.com/XiTKHnl.gif)</p>
+</details>
+
 Ticketele reprezintă o modalitate de a obține diverse avantaje în funcție de raritatea lor.
 
 Nu există un Ticket universal, ci în funcție de nevoile tale, un ticket poate fi considerat mai bun decât altul. Unele tickete pot oferi boost-uri pentru job-uri, dublarea sau triplarea anumitor resurse precum minerale sau materiale, acordarea de puncte premium, sau diverse beneficii la Payday, inclusiv avantaje financiare.
