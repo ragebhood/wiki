@@ -8,6 +8,7 @@ Cu ajutorul acestui sistem, poți efectua schimburi de bunuri personale cu un ju
 <div class="danger-container">
     <p class="title">ATENȚIE!</p>
     <p class="description">Ai nevoie de minim nivel 3 pentru a putea realiza o afacere.</p>
+    <p class="description">In cazul tranzactiilor cu bani, se va percepe un comision de 1%.</p>
 </div>
 
 Pentru a începe un trade cu un jucător folosește `/trade`.
