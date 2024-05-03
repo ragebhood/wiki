@@ -271,3 +271,15 @@ title: Viteză vehicule
 | bholarisrzrxpesp       | 200 km/h | 210 km/h | 235 km/h | 285 km/h |
 | bhorschecarrera4sc911  | 240 km/h | 250 km/h | 275 km/h | 325 km/h |
 | Futo                   | 175 km/h | 185 km/h | 210 km/h | 260 km/h |
+| bhudirsq821          | 240 km/h| 250 km/h| 275 km/h| 325 km/h|
+| bhbarubrz2ts24       | 220 km/h| 230 km/h| 255 km/h| 305 km/h|
+| bhwm6e64c26          | 215 km/h| 225 km/h| 260 km/h| 300 km/h|
+| bhotaprius24         | 180 km/h| 190 km/h| 225 km/h| 275 km/h|
+| bhatonmartvalour24   | 247 km/h| 257 km/h| 292 km/h| 342 km/h|
+| bhahayzfr1m20        | 235 km/h| 245 km/h| 280 km/h| 330 km/h|
+| bhcidairsapphire23   | 227 km/h| 237 km/h| 272 km/h| 322 km/h|
+| bhseratimc202        | 250 km/h| 260 km/h| 295 km/h| 345 km/h|
+| bhoblem50022         | 245 km/h| 255 km/h| 290 km/h| 340 km/h|
+| bhatonmartdbx70723   | 240 km/h| 250 km/h| 285 km/h| 335 km/h|
+| bhuransxts22         | 230 km/h| 240 km/h| 275 km/h| 325 km/h|
+| bhuscher16           | 225 km/h| | | |
