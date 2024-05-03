@@ -13,7 +13,7 @@ Nivelul Backpack-ului nu ți se resetează dacă nu mai ai cont **VIP**, însă 
 :::
 
 ::: info
-Avansare Backpack-ului de la nivel 1 la Level 5 costă în total **$350.500.000, 22.700 b-points, 3.277 premium points**.
+Avansare Backpack-ului de la nivel 1 la Level 5 costă în total **$3.505.000, 22.700 b-points, 3.277 premium points**.
 :::
 
 ## Level 1
@@ -22,7 +22,7 @@ Backpack Level 1 este oferit automat la achiziționarea/câștigarea Account Upg
 Beneficii Backpack Level 1: limita 20.000 gloanțe/2 arme per categorie, 150kg capacitate Farmer, 120kg capacitate Fisherman + 2 pești/tură, +50kg capacitate Garbage Man.
 
 ## Level 2
-Avansarea Backpackului la Level 2 costă **$100.500.000**.
+Avansarea Backpackului la Level 2 costă **$1.500.000**.
 
 Beneficii Backpack Level 2: limita 22.000 gloanțe/2 arme per categorie, 175kg capacitate Farmer, ai făînă/pești dacă  mori, 180kg Fisherman (2 pești/tură), +60kg capacitate la Garbage Man, +1 pizza/colet, capacitate 200 Ores/Fishes.
 
@@ -33,7 +33,7 @@ Beneficii Backpack Level 3: 25.000 gloanțe/3 arme per categorie, 200kg capacita
 dacă primeșți 'Admin Jail' nu pierzi armele o dată la 3 luni.
 
 ## Level 4
-Avansarea Backpackului la Level 4 costă **$250.000.000 + 12.700 B-Points + 777 Premium Points**.
+Avansarea Backpackului la Level 4 costă **$2.500.000 + 12.700 B-Points + 777 Premium Points**.
 
 Backpack Level 4: 30.000 gloanțe/3 arme per categorie, 250kg capacitate Farmer, 240kg Fisherman (3 pești/tură) +100kg la Garbage Man, +2 pizza/colet/copac, limita mărită Gift/B(Points), capacitate 300 Ores/Fishes, iar dacă primeșți Admin Jail', nu pierzi armele o dată la 2 luni
 
