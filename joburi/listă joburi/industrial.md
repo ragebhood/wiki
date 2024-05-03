@@ -76,68 +76,68 @@ Costurile pentru upgrade variază în funcție de tipul de undiță deținută �
 </div>
 <details class="details custom-block">
     <summary>Skill 1</summary>
-    <p>Upgrade-ul +1 are un cost de `100.000$`</p>
-    <p>Upgrade-ul +2 are un cost de `200.000$`</p>
-    <p>Upgrade-ul +3 are un cost de `300.000$`</p>
-    <p>Upgrade-ul +4 are un cost de `400.000$`</p>
-    <p>Upgrade-ul +5 are un cost de `500.000$`</p>
-    <p>Upgrade-ul +6 are un cost de `600.000$`</p>
-    <p>Upgrade-ul +7 are un cost de `700.000$`</p>
-    <p>Upgrade-ul +8 are un cost de `800.000$`</p>
-    <p>Upgrade-ul +9 are un cost de `900.000$`</p>
-    <p>Upgrade-ul pentru undița **Plastic** va avea un cost de `2.500.000$` și va necesita 30 de pești de tip <strong>Pilchard Fish</strong></p>
+    <p>Upgrade-ul +1 are un cost de `1.000$`</p>
+    <p>Upgrade-ul +2 are un cost de `2.000$`</p>
+    <p>Upgrade-ul +3 are un cost de `3.000$`</p>
+    <p>Upgrade-ul +4 are un cost de `4.000$`</p>
+    <p>Upgrade-ul +5 are un cost de `5.000$`</p>
+    <p>Upgrade-ul +6 are un cost de `6.000$`</p>
+    <p>Upgrade-ul +7 are un cost de `7.000$`</p>
+    <p>Upgrade-ul +8 are un cost de `8.000$`</p>
+    <p>Upgrade-ul +9 are un cost de `9.000$`</p>
+    <p>Upgrade-ul pentru undița **Plastic** va avea un cost de `25.000$` și va necesita 30 de pești de tip <strong>Pilchard Fish</strong></p>
 </details>
 <details class="details custom-block">
     <summary>Skill 2</summary>
-    <p>Upgrade-ul +1 are un cost de `200.000$`</p>
-    <p>Upgrade-ul +2 are un cost de `400.000$`</p>
-    <p>Upgrade-ul +3 are un cost de `600.000$`</p>
-    <p>Upgrade-ul +4 are un cost de `800.000$`</p>
-    <p>Upgrade-ul +5 are un cost de `1.000.000$`</p>
-    <p>Upgrade-ul +6 are un cost de `1.200.000$`</p>
-    <p>Upgrade-ul +7 are un cost de `1.400.000$`</p>
-    <p>Upgrade-ul +8 are un cost de `1.600.000$`</p>
-    <p>Upgrade-ul +9 are un cost de `1.800.000$`</p>
-    <p>Upgrade-ul pentru undița **Iron** va avea un cost de `5.000.000$` și va necesita 10 pești de tip <strong>Tiger Butterflyfish</strong></p>
+    <p>Upgrade-ul +1 are un cost de `2.000$`</p>
+    <p>Upgrade-ul +2 are un cost de `4.000$`</p>
+    <p>Upgrade-ul +3 are un cost de `6.000$`</p>
+    <p>Upgrade-ul +4 are un cost de `8.000$`</p>
+    <p>Upgrade-ul +5 are un cost de `10.000$`</p>
+    <p>Upgrade-ul +6 are un cost de `12.000$`</p>
+    <p>Upgrade-ul +7 are un cost de `14.000$`</p>
+    <p>Upgrade-ul +8 are un cost de `16.000$`</p>
+    <p>Upgrade-ul +9 are un cost de `18.000$`</p>
+    <p>Upgrade-ul pentru undița **Iron** va avea un cost de `50.000$` și va necesita 10 pești de tip <strong>Tiger Butterflyfish</strong></p>
 </details>
 <details class="details custom-block">
     <summary>Skill 3</summary>
-    <p>Upgrade-ul +1 are un cost de `350.000$`</p>
-    <p>Upgrade-ul +2 are un cost de `700.000$`</p>
-    <p>Upgrade-ul +3 are un cost de `1.050.000$`</p>
-    <p>Upgrade-ul +4 are un cost de `1.400.000$`</p>
-    <p>Upgrade-ul +5 are un cost de `1.750.000$`</p>
-    <p>Upgrade-ul +6 are un cost de `2.100.000$`</p>
-    <p>Upgrade-ul +7 are un cost de `2.450.000$`</p>
-    <p>Upgrade-ul +8 are un cost de `2.800.000$`</p>
-    <p>Upgrade-ul +9 are un cost de `3.150.000$`</p>
-    <p>Upgrade-ul pentru undița **Gold** va avea un cost de `10.000.000$` și va necesita 15 pești de tip <strong>Yellow Fish</strong></p>
+    <p>Upgrade-ul +1 are un cost de `3.500$`</p>
+    <p>Upgrade-ul +2 are un cost de `7.000$`</p>
+    <p>Upgrade-ul +3 are un cost de `10.500$`</p>
+    <p>Upgrade-ul +4 are un cost de `14.000$`</p>
+    <p>Upgrade-ul +5 are un cost de `17.500$`</p>
+    <p>Upgrade-ul +6 are un cost de `21.000$`</p>
+    <p>Upgrade-ul +7 are un cost de `24.500$`</p>
+    <p>Upgrade-ul +8 are un cost de `28.000$`</p>
+    <p>Upgrade-ul +9 are un cost de `31.500$`</p>
+    <p>Upgrade-ul pentru undița **Gold** va avea un cost de `100.000$` și va necesita 15 pești de tip <strong>Yellow Fish</strong></p>
 </details>
 <details class="details custom-block">
     <summary>Skill 4</summary>
-    <p>Upgrade-ul +1 are un cost de `725.000$`</p>
-    <p>Upgrade-ul +2 are un cost de `1.450.000$`</p>
-    <p>Upgrade-ul +3 are un cost de `2.175.000$`</p>
-    <p>Upgrade-ul +4 are un cost de `2.900.000$`</p>
-    <p>Upgrade-ul +5 are un cost de `3.625.000$`</p>
-    <p>Upgrade-ul +6 are un cost de `4.350.000$`</p>
-    <p>Upgrade-ul +7 are un cost de `5.075.000$`</p>
-    <p>Upgrade-ul +8 are un cost de `5.800.000$`</p>
-    <p>Upgrade-ul +9 are un cost de `6.525.000$`</p>
-    <p>Upgrade-ul pentru undița **Diamond** va avea un cost de `30.000.000$` și va necesita 17 pești de tip <strong>Tuna Fish</strong></p>
+    <p>Upgrade-ul +1 are un cost de `7.250$`</p>
+    <p>Upgrade-ul +2 are un cost de `14.500$`</p>
+    <p>Upgrade-ul +3 are un cost de `21.750$`</p>
+    <p>Upgrade-ul +4 are un cost de `29.000$`</p>
+    <p>Upgrade-ul +5 are un cost de `36.250$`</p>
+    <p>Upgrade-ul +6 are un cost de `43.500$`</p>
+    <p>Upgrade-ul +7 are un cost de `50.750$`</p>
+    <p>Upgrade-ul +8 are un cost de `58.000$`</p>
+    <p>Upgrade-ul +9 are un cost de `65.250$`</p>
+    <p>Upgrade-ul pentru undița **Diamond** va avea un cost de `300.000$` și va necesita 17 pești de tip <strong>Tuna Fish</strong></p>
 </details>
 <details class="details custom-block">
     <summary>Skill 5</summary>
-    <p>Upgrade-ul +1 are un cost de `1.000.000$`</p>
-    <p>Upgrade-ul +2 are un cost de `2.000.000$`</p>
-    <p>Upgrade-ul +3 are un cost de `3.000.000$`</p>
-    <p>Upgrade-ul +4 are un cost de `4.000.000$`</p>
-    <p>Upgrade-ul +5 are un cost de `5.000.000$`</p>
-    <p>Upgrade-ul +6 are un cost de `6.000.000$`</p>
-    <p>Upgrade-ul +7 are un cost de `7.000.000$`</p>
-    <p>Upgrade-ul +8 are un cost de `8.000.000$`</p>
-    <p>Upgrade-ul +9 are un cost de `9.000.000$`</p>
-    <p>Upgrade-ul pentru undița **Premium** va avea un cost de `10.000.000$`, 100 de <span style="color:red">Premium Points</span> și va necesita 15 pești de tip <strong>Swords</strong></p>
+    <p>Upgrade-ul +1 are un cost de `10.000$`</p>
+    <p>Upgrade-ul +2 are un cost de `20.000$`</p>
+    <p>Upgrade-ul +3 are un cost de `30.000$`</p>
+    <p>Upgrade-ul +4 are un cost de `40.000$`</p>
+    <p>Upgrade-ul +5 are un cost de `50.000$`</p>
+    <p>Upgrade-ul +6 are un cost de `60.000$`</p>
+    <p>Upgrade-ul +7 are un cost de `70.000$`</p>
+    <p>Upgrade-ul +8 are un cost de `80.000$`</p>
+    <p>Upgrade-ul +9 are un cost de `90.000$`</p>
+    <p>Upgrade-ul pentru undița **Premium** va avea un cost de `100.000$`, 100 de <span style="color:red">Premium Points</span> și va necesita 15 pești de tip <strong>Swords</strong></p>
 </details>
 <details class="details custom-block">
     <summary>Skill 6</summary>
