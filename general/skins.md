@@ -100,6 +100,6 @@ Articolele disponibile:
   </tr>
     <tr>
     <td style="color:#bc36ff;"><strong>Masca Bunny</strong></td>
-    <td>10% Job-Boost</td>
+    <td>6% Job-Boost</td>
     <td><img src="https://i.imgur.com/Gq5OPLL.png" alt="Masca Bunny"></td>
   </tr>
