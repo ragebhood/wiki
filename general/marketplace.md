@@ -5,7 +5,7 @@ title: Marketplace
 # Marketplace 📊
 La noi pe server, ai 2 metode pentru a promova un bun pe care dorești să-l vinzi. Prima metodă este prin intermediul unui anunț contra-cost global la CNN. A doua metodă este printr-un sistem avansat de marketplace pe care-l numim **BOlx** inspirat și creat asemănător cu platforma [OLX](https://olx.ro/).
 
-![BOlx](https://i.imgur.com/8PRkKDv.png "BOlx")
+![BOlx](https://i.imgur.com/fmIRoxA.png "BOlx")
 
 Cu ajutorul acestui sistem poți:
 - **căuta anunțuri cu interes personal**: poți căuta un item pe care dorești să-l achiziționezi
@@ -24,7 +24,7 @@ Mai jos, ai explicații despre toate componentele paginii:
 Cu ajutorul acestei componente poți filtra diferite anunțuri afișate în funcție de:
 - **categorie**
 
-![Componenta - Filtre - Categorie](https://i.imgur.com/2FJlKD9.png "Componenta - Filtre - Categorie")
+![Componenta - Filtre - Categorie](https://i.imgur.com/qiuD937.png "Componenta - Filtre - Categorie")
 
 - **preț**
 
@@ -48,7 +48,7 @@ Mai jos, ai explicații despre toate componentele paginii:
 În această componentă va trebui să adaugi titlul anunțului tău, categoria din care face parte anunțul tău, prețul (negociabil / schimb / preț fix)
 
 ### Item
-![Anunt nou - Item](https://i.imgur.com/Wie2gyF.png)
+![Anunt nou - Item](https://i.imgur.com/6Pai3LF.png.png)
 
 În această componentă vei alege item-ul pe care dorești să-l vinzi. Poți adăuga mai multe iteme în același anunț dacă doreși.
 
