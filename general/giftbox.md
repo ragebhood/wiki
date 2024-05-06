@@ -41,7 +41,7 @@ Poți să vezi ce skill ai prin intermediul comenzii `/skills`.
 | 13. [VIP Account 2d](./general/account%20upgrades/vip)                            | (2%)          |
 | 14. <span style="color: ##f6bfbc;">Premium Points intre 5 si 50</span>                     | (5%)          |
 | 15. Rare Voucher                              | (1%)          |
-| 16. Money $5,000,000-$20,000,000            | (3%)          |
+| 16. Money $50,000-$200,000            | (3%)          |
 | 17. bhugeotcc307                              | (1%)          |
 
 ### Giftbox Skill 2
@@ -83,7 +83,7 @@ Poți să vezi ce skill ai prin intermediul comenzii `/skills`.
 | 13. [VIP Account 4d](./general/account%20upgrades/vip)                            | (4%)          |
 | 14. <span style="color: ##f6bfbc;">Premium Points intre 20 si 65</span>                    | (5%)          |
 | 15. Rare Voucher                              | (3.3%)        |
-| 16. Money $10,000,000-$30,000,000           | (3%)          |
+| 16. Money $100,000-$300,000           | (3%)          |
 | 17. bhagenmk6                                 | (1%)          |
 
 ### Giftbox Skill 4
@@ -103,7 +103,7 @@ Poți să vezi ce skill ai prin intermediul comenzii `/skills`.
 | 12. MP3                                       | (3%)          |
 | 13. <span style="color: ##f6bfbc;">Premium Points intre 30 si 70</span>                    | (5%)          |
 | 14. Epic Voucher                              | (2%)          |
-| 15. Money $10,000,000-$35,000,000           | (4%)          |
+| 15. Money $100,000-$350,000           | (4%)          |
 | 16. bhndas2000                                | (1%)          |
 
 ### Giftbox Skill 5
@@ -124,7 +124,7 @@ Poți să vezi ce skill ai prin intermediul comenzii `/skills`.
 | 13. [VIP Account 7d](./general/account%20upgrades/vip)                           | (3%)          |
 | 14. <span style="color: ##f6bfbc;">Premium Points intre 40 si 75</span>                     | (5%)          |
 | 15. Epic Voucher                              | (3%)          |
-| 16. Money $10,000,000-$40,000,000           | (3%)          |
+| 16. Money $100,000-$400,000           | (3%)          |
 | 17. bhishileix                                | (1%)          |
 
 ### Giftbox Skill 6
@@ -144,7 +144,7 @@ Poți să vezi ce skill ai prin intermediul comenzii `/skills`.
 | 12. [Legend Account 3d](./general/account%20upgrades/legend)                        | (6%)          |
 | 13. <span style="color: ##f6bfbc;">Premium Points intre 50 si 100</span>                   | (5%)          |
 | 14. Epic Voucher                              | (4%)          |
-| 15. Money $10,000,000-$45,000,000           | (3%)          |
+| 15. Money $100,000-$450,000           | (3%)          |
 | 16. bhazdarxspirit                            | (1%)          |
 
 ## Intrebari frecvente
