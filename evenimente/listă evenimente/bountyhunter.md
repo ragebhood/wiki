@@ -124,7 +124,7 @@ title: Bounty Hunter
     </tr>
     <tr>
       <td>Leu</td>
-      <td>Bonus Points: 350 - 500</td>
+      <td>B-Points: 350 - 500</td>
     </tr>
     <tr>
       <td>Tigru</td>
