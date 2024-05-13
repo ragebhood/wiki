@@ -22,7 +22,7 @@ Backpack Level 1 este oferit automat la achiziționarea/câștigarea Account Upg
 Beneficii Backpack Level 1: limita 20.000 gloanțe/2 arme per categorie, 150kg capacitate Farmer, 120kg capacitate Fisherman + 2 pești/tură, +50kg capacitate Garbage Man.
 
 ## Level 2
-Avansarea Backpackului la Level 2 costă **$1.500.000**.
+Avansarea Backpackului la Level 2 costă **$1.005.000**.
 
 Beneficii Backpack Level 2: limita 22.000 gloanțe/2 arme per categorie, 175kg capacitate Farmer, ai făînă/pești dacă  mori, 180kg Fisherman (2 pești/tură), +60kg capacitate la Garbage Man, +1 pizza/colet, capacitate 200 Ores/Fishes.
 
