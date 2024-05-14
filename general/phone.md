@@ -14,8 +14,8 @@ La noi pe server, avem un sistem de **Smartphone** cu care poți folosi diferite
 
 Cu ajutorul acestei aplicații, poți să-ți customizezi diferite aspecte ale telefonului precum:
 
-- **Mod avion**: nj ce face
-- **Volume audio**: nj ce face
+- **Mod avion**: nu poti primi apeluri sau mesaje direct pe telefon.
+- **Volume audio**: adjustezi volumul apelurilor.
 - **Brightness**: ajustezi luminozitatea display-ului.
 - **Theme**: setezi tema light/dark.
 - **Wallpaper**: setezi imaginea de fundal a telefonului.
