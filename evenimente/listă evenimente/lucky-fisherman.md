@@ -30,9 +30,23 @@ Lângă zona ta de pescuit, se află un **Market** (marcat pe harta cu un coș d
 | <span title="Acesta este peștele special ce-ți va oferi unul dintre premiile speciale." >Special</span>       | <div style="width:30px;height:30px;background-color:#C62828;border-radius:5px" title="#C62828"></div> |
 
 
-### Cu ce pot fi recompensat?
+### Cu ce pot fi recompensat atunci cand prind un peste rosu?
 
-Poți primi pești normali, 'Bag of Money', 'Rare Voucher', 'Shard (1000 de B-Points), 'Gold Fish (cont VIP o zi), 'Silver Fish (cont premium o zi), 'Moonlight Crate', 'Nostalgia Crate' și  'Workers crate'.
+- Bag of Money: $250.000
+- 1 Free Spin
+- Rare Voucher
+- 2-3x Giftbox
+- Job Boost: 250% (1h)
+- Epic Voucher
+- Diamond Fish: (Legend 1d)
+- Gold Fish: (VIP 3d)
+- Silver Fish: (Premium 3d)
+- 1-2x Moonlight Crate
+- Xmas Crate
+- Winterv2 Crate
+- Shark: (1000bp)
+- Easter v2
+- Big Shark: (1500bp)
 
 <div class="danger-container">
     <p class="title">ATENȚIE!</p>
