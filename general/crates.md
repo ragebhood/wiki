@@ -182,7 +182,7 @@ Premii: Sansa de 0.25 la suta de a primi un shard al vehicului **bhgattiveyronvt
     <img width="200" src="https://i.imgur.com/XiNVaoi.png" alt="Lucky or Not Crate">
 </p>
 
-❗Acest crate se poate achiziționa pentru suma de 6969 **BPoints** sau 250 de **Premium Points**
+❗Acest crate se poate achiziționa pentru suma de 5000 **BPoints** sau 250 de **Premium Points**
 
 Premii: Hidden Color, Matte Color, Free Spin, Rob Points, zile de cont **VIP**, Premium Points (100), zile de cont **Legend**, 3-7x Giftbox, 
 Vip Plus Car Ticket, Premium Points(350-500), Random Shard, Spring V2 Skin, un vehicul de tip **bholarisrzrxpesp** sau un vehicul de tip **bhorschecarrera4sc911**
@@ -192,7 +192,17 @@ Vip Plus Car Ticket, Premium Points(350-500), Random Shard, Spring V2 Skin, un v
     <img width="200" src="https://i.imgur.com/6pLE2nk.png" alt="Easter V2">
 </p>
 
-❗Acest crate se poate achiziționa pentru suma de 6969 **BPoints** sau 250 de **Premium Points**
+❗Acest crate se poate achiziționa pentru suma de 5000 **BPoints** sau 250 de **Premium Points**
 
 Premii: Money, Rob Points, Premium Account (14 days), Giftbox, Job-Boost, Bunny Mask, Vip Account (7 days), Legend Account (6 days), Premium Points (75-150), Mythic Voucher, Legendary Voucher, bhahayzfr1m20 si bhcidairsapphire23.
+
+## Summer V2 Crate 🌴
+<p align="center">
+    <img width="200" src="https://i.imgur.com/bbLz2vh.png" alt="Summer V2">
+</p>
+
+❗Acest crate se poate achiziționa pentru suma de 5000 **BPoints** sau 250 de **Premium Points**
+
+Premii: Job Boost 100% 2h, Job Boost 200% 1h, Respect points, Rob Points, 5-7x Giftbox, 3x Moonlight, Job Boostt 300% 1h, VIP Ticket, Random shard, Random premium points 100-200, Voucher 500pp, Rolls shard 
+sau vehiculul SL 63 Mercedes 
 
