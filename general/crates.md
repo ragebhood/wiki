@@ -175,7 +175,7 @@ Premii: <strong>free spin, job-boost (150%-200%-250%), materiale, hidden colors,
 
 ❗Acest crate se poate achiziționa pentru suma de <code>77.777.777$</code>
 
-Premii: Sansa de 0.25 la suta de a primi un shard al vehicului **bhgattiveyronvt** si sansa de 99.75% de a primi un vehicul de tip **Futo**
+Premii: Sansa de 0.5 la suta de a primi un shard al vehicului **bhgattiveyronvt** si sansa de 99.5% de a primi un vehicul de tip **Futo**
 
 ## Spring V2 Crate 🌹
 <p align="center">
