@@ -140,6 +140,10 @@ In acele zile, pot fi date prin trade si shard-urile ce nu se mai pot obtine ini
         <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/bhuscher16.png" alt="bhbrabus63"></td>
         <td><strong>bhuscher16 - Frauscher 16</strong> - Acest shard poate fi obținut in <strong>BattlePass</strong></td>
     </tr>
+    <tr>
+        <td><img src="https://i.imgur.com/hDSVBT2.png" alt="bhollsroycedawn163"></td>
+        <td><strong>bhollsroycedawn16 - Rolls-Royce Dawn 2016 </strong> - Acest shard poate fi obținut in <strong>SummerV2 Crate</strong></td>
+    </tr>
 </table>
 
 
