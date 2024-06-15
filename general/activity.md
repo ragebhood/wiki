@@ -19,31 +19,37 @@ Te simți plictisit și crezi că nu mai ai nimic de făcut? Încearcă comanda 
 </details>
 
 
-## Ce pot cumpăra din Magazinul de Activități și de câte Puncte de Activitate am nevoie?
+## Ce pot cumpăra din Magazinul de Activități?
 
-| Premiu                           | Puncte de Activitate Necesare |
-| -------------------------------- | ------------------------------ |
-| (5)bhwm3e30                       | 20,000                         |
-| (10)bhorschegt2rs17                | 15,500                         |
-| (15)bhssanskylinegtr               | 13,500                         |
-| (25)bhwm5cs22                      | 12,000                         |
-| (30)bhertcls63samg15               | 10,500                         |
-| (35)bhudia8lh22                    | 10,000                         |
-| (35)bhchevocam19                   | 8,750                          |
-| bhubaruwrxsti12                    | 7,600                          |
-| bhwm5e39                           | 5,000                          |
-| Voucher legendar                   | 4,500                          |
-| Voucher epic                       | 1,000                          |
-| Bani(1kk)                        | 1,000                          |
-| Bpoints (1000)                     | 1,000                          |
-| Crate moonlight                    | 1,000                          |
-| job boost 100% - 1h                 | 100                            |
-| weapon_militaryrifle 5.75 dmg      | 5,350                          |
-| weapon_gusenberg 5.5dmg            | 4,750                          |
-| weapon_doubleaction - 7dmg         | 2,250                          |
-| vehicle slot                       | 1,500                          |
-| premium fuel ticket                 | 2,225                          |
-| Cont VIP 30 zile                    | 1,650                          |
-| Cont Premium 30 zile                | 350                            |
-| Cont Legendă 30 zile                | 2,500                          |
-| Fragment Khamelion                 | 750                            |
+| ITEMS                                          |
+|------------------------------------------------|
+| bhlaren765lt SHARD                             |
+| bhurusperf23 SHARD                             |
+| bhorschetaytrs SHARD                           |
+| bhorschecarrera4sc911 SHARD                    |
+| 2024 Ford Mustang BradBuilds                   |
+| Hennessey Venom GT Spyder Final Edition 2016   |
+| Honda Civic EG6 Kevmannz                       |
+| bmw 330i 2020                                  |
+| supra gr                                       |
+| Job Boost 150% (1h)                            |
+| job boost 250% (1h)                            |
+| job boost 250% (1day)                          |
+| Respect Points (5)                             |
+| Materiale 10000                                |
+| VIP Account 14 zile                            |
+| Spring Crate v2                                |
+| Epic Voucher                                   |
+| Slot                                           |
+| Stripe design                                  |
+| Premium Fuel Ticket                            |
+| $5.000.000 (se poate achizitiona de maxim 3 ori)|
+| Shard Random (se poate achizitiona de maxim 3 ori)|
+| Blue Neon                                      |
+| Vip Car                                        |
+| Vip car Plus                                   |
+| Legend Account 30d                             |
+| 5000 B-Points                                  |
+| Blue Lights                                    |
+| Rainbow Pearl                                  |
+| Gusenberg Sweeper                              |
