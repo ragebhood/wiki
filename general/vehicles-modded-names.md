@@ -137,4 +137,8 @@ title: Denumiri vehicule modate
 | bhatonmartdbx70723| Aston Martin DBX                                | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhatonmartdbx70723.png" width="256" height="128" />|
 | bhuransxts22       | Acura NSX                                   | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhuransxts22.png" width="256" height="128" />      |
 | bhollsroycedawn16       | Rolls Royce Down 2016                                 | <img src="https://i.imgur.com/hDSVBT2.png" width="256" height="128" />      |
-| bhertamgsl6321       | Mercedes AMG SL63                                  | <img src="https://i.imgur.com/89qb6KK.png" width="256" height="128" />      |
+| bhesseyvenomgtsfe16      | Hennesey Venom                                | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhesseyvenomgtsfe16.png" width="256" height="128" />      |
+| bhondaciviceg6kev95       | Honda Civic G6                               | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhondaciviceg6kev95.png" width="256" height="128" />      |
+| bhordmustangbb24       | Ford Mustang BB 24                                  | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhordmustangbb24.png" width="256" height="128" />      |
+| bhotasupragr20       | Toyota Supra 20                               | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhotasupragr20.png" width="256" height="128" />      |
+| bhw330i20       | BMW 330I 2020                               | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhw330i20.png" width="256" height="128" />      |
