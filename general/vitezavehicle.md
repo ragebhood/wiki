@@ -287,3 +287,8 @@ title: Viteză vehicule
 | bhodgeviper17      | 243 Km/h | 253 km/h | 278 km/h | 328 km/h |
 | bhwx5m          | 225 Km/h | 235 km/h | 260 km/h | 310 km/h |
 | bheepgrandchtr418 | 225 Km/h    | 235 km/h | 260 km/h| 310 km/h | 
+| bhesseyvenomgtsfe16 | 260 km/h | 270 km/h| 295 km/h| 345 km/h |
+| bhondaciviceg6kev95 | 230 km/h| 240 km/h| 265 km/h| 315 km/h|
+| bhordmustangbb24 | 238 km/h | 248 km/h | 273 km/h |  323 km/h |
+| bhotasupragr20 | 240 km/h | 250 km/h | 275 km/h | 325 km/h |
+| bhw330i20 | 235 km/h| 245 km/h| 270 km/h| 320 km/h|
