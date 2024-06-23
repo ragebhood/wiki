@@ -144,6 +144,22 @@ In acele zile, pot fi date prin trade si shard-urile ce nu se mai pot obtine ini
         <td><img src="https://i.imgur.com/hDSVBT2.png" alt="bhollsroycedawn163"></td>
         <td><strong>bhollsroycedawn16 - Rolls-Royce Dawn 2016 </strong> - Acest shard poate fi obținut in <strong>SummerV2 Crate</strong></td>
     </tr>
+       <tr>
+        <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/bhlaren765lt.png" alt="bhlaren765lt"></td>
+        <td><strong>bhlaren765lt - McLaren 765LT 'halloween Edition'  16</strong> - Acest shard poate fi obținut in <strong>Activity Shop(Spring 2024 edition)</strong></td>
+    </tr>
+       <tr>
+        <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/bhurusperf23.png" alt="bhurusperf23"></td>
+        <td><strong>bhurusperf23 - Lamborghini Urus 'Xmas Edition'  </strong> - Acest shard poate fi obținut in <strong>Activity Shop(Spring 2024 edition)</strong></td>
+    </tr>
+       <tr>
+        <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/bhorschetaytrs.png" alt="bhorschetaytrs"></td>
+        <td><strong>bhorschetaytrs - Porsche Taycan Turbo S </strong> - Acest shard poate fi obținut in <strong>Activity Shop(Spring 2024 edition)</strong></td>
+    </tr>
+       <tr>
+        <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/bhorschecarrera4sc911.png" alt="bhorschecarrera4sc911"></td>
+        <td><strong>bhorschecarrera4sc911 - Porsche 911 (992) Carrera 4S Cabriolet 2020</strong> - Acest shard poate fi obținut in <strong>Activity Shop(Spring 2024 edition)</strong></td>
+    </tr>
 </table>
 
 
