@@ -283,7 +283,7 @@ title: Viteză vehicule
 | Bhatonmartdbx70723   | 240 km/h| 250 km/h| 275 km/h| 325 km/h|
 | Bhuransxts22         | 230 km/h| 240 km/h| 265 km/h| 315 km/h|
 | bhuscher16           | 225 km/h| | | |
-|Lexus LFA Nürburgring edition | 243 Km/h | 253 km/h | 278 km/h | 328 km/h|
-|Dodge Viper 2017      | 243 Km/h | 253 km/h | 278 km/h | 328 km/h |
-|BMW X5M 2019          | 225 Km/h | 235 km/h | 260 km/h | 310 km/h |
-|Jeep Grand Cherokee Trackhawk | 225 Km/h    | 235 km/h | 260 km/h| 310 km/h | 
+| bhlxlfanur11 | 243 Km/h | 253 km/h | 278 km/h | 328 km/h|
+| bhodgeviper17      | 243 Km/h | 253 km/h | 278 km/h | 328 km/h |
+| bhwx5m          | 225 Km/h | 235 km/h | 260 km/h | 310 km/h |
+| bheepgrandchtr418 | 225 Km/h    | 235 km/h | 260 km/h| 310 km/h | 
