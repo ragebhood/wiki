@@ -142,3 +142,7 @@ title: Denumiri vehicule modate
 | bhordmustangbb24       | Ford Mustang BB 24                                  | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhordmustangbb24.png" width="256" height="128" />      |
 | bhotasupragr20       | Toyota Supra 20                               | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhotasupragr20.png" width="256" height="128" />      |
 | bhw330i20       | BMW 330I 2020                               | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhw330i20.png" width="256" height="128" />      |
+| bheepgrandchtr418      | Jeep Grand Cherokee Trackhawk                              | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bheepgrandchtr418.png" width="256" height="128" />      |
+| bhodgeviper17       | Dodge Viper 2017                               | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhodgeviper17.png" width="256" height="128" />      |
+| bhlxlfanur11       | Lexus LFA Nürburgring edition                              | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhlxlfanur11.png" width="256" height="128" />      |
+| bhwx5m       | BMW X5M 2019                                | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhwx5m.png" width="256" height="128" />      |
