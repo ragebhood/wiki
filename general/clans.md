@@ -113,7 +113,7 @@ Cu ajutorul acestui meniu poți controla diferite aspecte ale clanului.
 ### Cum cumpăr?
 - **Premium**: Poți cumpăra acest upgrade din secțiunea **Other** având în seif la momentul respectiv suma de **1500 de premium points**.
 - **VIP**: Poți cumpăra acest upgrade din secțiunea **Other** având în seif la momentul respectiv suma de **3000 de premium points**.
-- **Zile la clan**: Poți să cumperi zile la clan din secțiunea **Other**, acestea costă **$50.000 / zi**.
+- **Zile la clan**: Poți să cumperi zile la clan din secțiunea **Other**, acestea costă **$100.000 / zi**.
 - **Schimbare nume clan**: Poți să-ți schimbi numele la clan din secțiunea **Other**, acest schimb costă suma de **700 premium points**
 - **Schimbare tag clan**: Poți să-ți schimbi tagul la clan din secțiunea **Other**, acest schimb costă suma de **500 premium points**
 - **Sloturi de membri**: Poți să cumperi sloturi de membri la clan din secțiunea **Other**, acestea costă **500 premium points / 30 sloturi**.
