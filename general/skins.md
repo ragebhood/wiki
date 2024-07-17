@@ -37,11 +37,11 @@ Nu există un Ticket universal, ci în funcție de nevoile tale, un ticket poate
   </tr>
   <tr>
     <td style="color:#ff5230;"><strong>Legendary Ticket</strong></td>
-    <td>$50,000, 20% boost la job, +1 Respect Point la ‘payday’</td>
+    <td>$500, 20% boost la job, +1 Respect Point la ‘payday’</td>
   </tr>
   <tr>
     <td style="color:#5FB6E0;"><strong>Winter Ticket</strong></td>
-    <td>+30% boost la job, $100,000 și 50 'B-Points' (la 1801 secunde), altfel $50,000 și 25 'B-Points'</td>
+    <td>+30% boost la job, $1,000 și 50 'B-Points' (la 1801 secunde), altfel $500 și 25 'B-Points'</td>
   </tr>
   <tr>
     <td style="color:#e31467;"><strong>Cupidon Ticket</strong></td>
@@ -61,7 +61,7 @@ Nu există un Ticket universal, ci în funcție de nevoile tale, un ticket poate
   </tr>
   <tr>
     <td style="color:#ffffff;"><strong>Summer Ticket</strong></td>
-    <td>$500,000, 3 Respect Points, +1 Premium Point (sub 1800 secunde) sau +2 Premium Points (peste 1800 secunde) la 'Payday'</td>
+    <td>$5,000, 3 Respect Points, +1 Premium Point (sub 1800 secunde) sau +2 Premium Points (peste 1800 secunde) la 'Payday'</td>
   </tr>
   <tr>
     <td style="color:#FF8B20;"><strong>Autumn Ticket</strong></td>
@@ -69,7 +69,7 @@ Nu există un Ticket universal, ci în funcție de nevoile tale, un ticket poate
   </tr>
   <tr>
     <td style="color:#ffffff;"><strong>Halloween Ticket</strong></td>
-    <td>77% 'JobBoost', 1 'BPoint' pentru fiecare $200,000 munciți (mai puțin la Miner, Hunter, și Industrial Fisherman)</td>
+    <td>77% 'JobBoost', 1 'BPoint' pentru fiecare $2,000 munciți (mai puțin la Miner, Hunter, și Industrial Fisherman)</td>
   </tr>
   <tr>
     <td style="color:#5FB6E0;"><strong>Winter Ticket V2</strong></td>
