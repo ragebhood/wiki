@@ -1,23 +1,5 @@
 <!DOCTYPE html>
 <html lang="ro">
-<head>
-    <meta charset="UTF-8">
-    <title>Calculator de Viteză pentru Mașini</title>
-    <style>
-        table {
-            width: 100%;
-            border-collapse: collapse;
-        }
-        th, td {
-            padding: 10px;
-            border: 1px solid #ddd;
-            text-align: center;
-        }
-        th {
-            background-color: #f4f4f4;
-        }
-    </style>
-</head>
 <body>
     <h1>Calculator de Viteză pentru Mașini</h1>
     <p>Acest document conține o listă de mașini și vitezele lor la diferite stadii de modificare.</p>
