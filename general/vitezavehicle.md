@@ -1,294 +1,372 @@
----
-title: Viteză vehicule
----
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <title>Calculator de Viteză pentru Mașini</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 10px;
+            border: 1px solid #ddd;
+            text-align: center;
+        }
+        th {
+            background-color: #f4f4f4;
+        }
+    </style>
+</head>
+<body>
+    <h1>Calculator de Viteză pentru Mașini</h1>
+    <p>Acest document conține o listă de mașini și vitezele lor la diferite stadii de modificare.</p>
 
-# Viteză vehicule 💨
-În acest tabel puteți regăsi viteza vehiculelor, vă recomand să folosiți `CTRL+F` pentru a vă fi mai ușor să gasiți un anume vehicul.
+    <h2>Formula</h2>
+    <ol>
+        <li><strong>Viteză Stock (km/h)</strong>: Viteza inițială a mașinii.</li>
+        <li><strong>Stage 1</strong>: Crește viteza stock cu 10%.</li>
+        <li><strong>Stage 2</strong>: Crește viteza rezultată din stage 1 cu încă 10%.</li>
+        <li><strong>Stage 3</strong>: Crește viteza rezultată din stage 2 cu încă 10%.</li>
+        <li><strong>Stage 4</strong>: Crește viteza rezultată din stage 3 cu încă 10%.</li>
+    </ol>
 
-<div class="danger-container">
-    <p class="title">ATENȚIE!</p>
-    <p class="description">Vitezele sunt rotunjite și pot varia de la un vehicul la altul.</p>
-</div>
+    <h2>Tabel cu Viteze</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Mașină</th>
+                <th>Viteza Stock</th>
+                <th>Stage 1</th>
+                <th>Stage 2</th>
+                <th>Stage 3</th>
+                <th>Stage 4</th>
+            </tr>
+        </thead>
+        <tbody id="car-speeds">
+            <!-- Rândurile vor fi populate automat -->
+        </tbody>
+    </table>
+
+    <script>
+        function calculateSpeeds(stockSpeed) {
+            let stage1 = stockSpeed + 10.0;
+            let stage2 = stage1 + 25.0;
+            let stage3 = stage2 + 50;
+            let stage4 = stage3;
+            return [stage1, stage2, stage3, stage4];
+        }
+
+        function populateTable() {
+            // Datele vehiculului
+            const data = [
+               { name: "Cheetah2", stockSpeed: 182 },
+                { name: "Bmx", stockSpeed: 58 },
+                { name: "Cruiser", stockSpeed: 58 },
+                { name: "Scorcher", stockSpeed: 61 },
+                { name: "Faggio", stockSpeed: 125 },
+                { name: "Manchez", stockSpeed: 175 },
+                { name: "Zombieb", stockSpeed: 165 },
+                { name: "Double", stockSpeed: 172 },
+                { name: "Bati2", stockSpeed: 189 },
+                { name: "Neon", stockSpeed: 170 },
+                { name: "Bati", stockSpeed: 189 },
+                { name: "Dubsta", stockSpeed: 155 },
+                { name: "Blazer", stockSpeed: 149 },
+                { name: "Rancherxl", stockSpeed: 151 },
+                { name: "Bfinjection", stockSpeed: 170 },
+                { name: "Asbo", stockSpeed: 145 },
+                { name: "Praire", stockSpeed: 154 },
+                { name: "Primo", stockSpeed: 160 },
+                { name: "Warrener", stockSpeed: 155 },
+                { name: "Tailgater", stockSpeed: 160 },
+                { name: "Premier", stockSpeed: 155 },
+                { name: "Asea", stockSpeed: 160 },
+                { name: "Stratum", stockSpeed: 160 },
+                { name: "Intruder", stockSpeed: 162 },
+                { name: "Glendale", stockSpeed: 160 },
+                { name: "Mesa", stockSpeed: 147 },
+                { name: "Baller", stockSpeed: 155 },
+                { name: "Landstalker", stockSpeed: 155 },
+                { name: "Habanero", stockSpeed: 158 },
+                { name: "Huntley", stockSpeed: 166 },
+                { name: "Toros", stockSpeed: 190 },
+                { name: "Voodoo", stockSpeed: 152 },
+                { name: "Buccaneer", stockSpeed: 173 },
+                { name: "Blade", stockSpeed: 170 },
+                { name: "Hustler", stockSpeed: 168 },
+                { name: "Stalion", stockSpeed: 168 },
+                { name: "Impaler", stockSpeed: 179 },
+                { name: "Gauntlet", stockSpeed: 175 },
+                { name: "Dominator", stockSpeed: 184 },
+                { name: "Banshee2", stockSpeed: 178 },
+                { name: "Sc1", stockSpeed: 185 },
+                { name: "Infernus", stockSpeed: 185 },
+                { name: "Cheetah", stockSpeed: 190 },
+                { name: "Reaper", stockSpeed: 185 },
+                { name: "Bullet", stockSpeed: 185 },
+                { name: "Furia", stockSpeed: 186 },
+                { name: "Cyclone", stockSpeed: 183 },
+                { name: "Tempesta", stockSpeed: 185 },
+                { name: "Osiris", stockSpeed: 185 },
+                { name: "Zentorno", stockSpeed: 188 },
+     	        { name: "Vacca", stockSpeed: 185 },
+           		{ name: "Nero", stockSpeed: 192 },
+           		{ name: "Adder", stockSpeed: 202 },
+            	{ name: "Casco", stockSpeed: 180 },
+            	{ name: "Monroe", stockSpeed: 190 },
+            	{ name: "Buffalo", stockSpeed: 172 },
+            	{ name: "Coquette", stockSpeed: 186 },
+            	{ name: "Banshee", stockSpeed: 175 },
+            	{ name: "Alpha", stockSpeed: 180 },
+            	{ name: "Turismo2", stockSpeed: 195 },
+            	{ name: "Pariah", stockSpeed: 184 },
+            	{ name: "Carbonizzare", stockSpeed: 182 },
+            	{ name: "Drafter", stockSpeed: 179 },
+            	{ name: "Specter", stockSpeed: 190 },
+            	{ name: "Seven70", stockSpeed: 190 },
+           		{ name: "Lynx", stockSpeed: 190 },
+            	{ name: "Surano", stockSpeed: 190 },
+            	{ name: "Elegy", stockSpeed: 185 },
+            	{ name: "Hotring", stockSpeed: 185 },
+            	{ name: "Jugular", stockSpeed: 200 },
+            	{ name: "Bf400", stockSpeed: 195 },
+            	{ name: "Enduro", stockSpeed: 158 },
+            	{ name: "Shotaro", stockSpeed: 185 },
+            	{ name: "Everon", stockSpeed: 160 },
+            	{ name: "Freecrawler", stockSpeed: 148 },
+            	{ name: "Blista", stockSpeed: 157 },
+            	{ name: "Novak", stockSpeed: 180 },
+            	{ name: "Xls", stockSpeed: 160 },
+            	{ name: "Dominator3", stockSpeed: 164 },
+            	{ name: "Gaunlet2", stockSpeed: 175 },
+            	{ name: "Emerus", stockSpeed: 190 },
+            	{ name: "Nero2", stockSpeed: 190 },
+            	{ name: "Tezeract", stockSpeed: 202 },
+            	{ name: "Flashgt", stockSpeed: 170 },
+            	{ name: "Imorgon", stockSpeed: 167 },
+            	{ name: "Neo", stockSpeed: 190 },
+            	{ name: "Jester2", stockSpeed: 180 },
+            	{ name: "Vortex", stockSpeed: 170 },
+           		{ name: "Zombiea", stockSpeed: 165 },
+            	{ name: "Blazer4", stockSpeed: 140 },
+            	{ name: "Bhatonmartvantage", stockSpeed: 245 },
+            	{ name: "Bhwx6mf96", stockSpeed: 230 },
+            	{ name: "Bhwasakinjh2", stockSpeed: 240 },
+            	{ name: "Bhudirs5", stockSpeed: 210 },
+            	{ name: "Bhlaren765lt", stockSpeed: 255 },
+            	{ name: "Bhwm2g87", stockSpeed: 215 },
+            	{ name: "Bhrrarifxxkevo", stockSpeed: 255 },
+            	{ name: "Bhagenmk6", stockSpeed: 190 },
+            	{ name: "Bhinijrgp", stockSpeed: 187 },
+            	{ name: "Bhndas2000", stockSpeed: 200 },
+                { name: "Bhazdarxspirit", stockSpeed: 205 },
+                { name: "Bhishileix", stockSpeed: 200 },
+                { name: "Bhugeotcc307", stockSpeed: 173 },
+                { name: "Bhenzc63amg", stockSpeed: 220 },
+                { name: "Bhorschetaytrs", stockSpeed: 230 },
+                { name: "Bhwf10xd", stockSpeed: 205 },
+                { name: "Bhws7lexdrv", stockSpeed: 220 },
+                { name: "Bhertsclass500", stockSpeed: 227 },
+                { name: "Bheslamsplaid", stockSpeed: 200 },
+                { name: "Bhorscemacpr", stockSpeed: 211 },
+                { name: "Bhodasuperb", stockSpeed: 188 },
+                { name: "Schlagen", stockSpeed: 190 },
+                { name: "Rebla", stockSpeed: 195 },
+                { name: "Panto", stockSpeed: 140 },
+                { name: "Growler", stockSpeed: 170 },
+                { name: "Visione", stockSpeed: 188 },
+                { name: "Bhws1000rr", stockSpeed: 215 },
+                { name: "Vstr", stockSpeed: 190 },
+                { name: "Tyrant", stockSpeed: 205 },
+                { name: "Hakuchou", stockSpeed: 185 },
+                { name: "Hakuchou2", stockSpeed: 185 },
+                { name: "Cliffhanger", stockSpeed: 182 },
+                { name: "Gargoyle", stockSpeed: 180 },
+                { name: "Baller3", stockSpeed: 168 },
+                { name: "T20", stockSpeed: 190 },
+                { name: "Brawler", stockSpeed: 173 },
+                { name: "Mesa2", stockSpeed: 130 },
+                { name: "Sentinel3", stockSpeed: 160 },
+                { name: "Bhuster", stockSpeed: 155 },
+                { name: "Bhcamry", stockSpeed: 180 },
+                { name: "Bhodgearger", stockSpeed: 225 },
+                { name: "Bhwi8", stockSpeed: 215 },
+                { name: "Bhertsgt63s", stockSpeed: 235 },
+                { name: "Sa_infernus", stockSpeed: 195 },
+                { name: "Nrg500sa", stockSpeed: 190 },
+                { name: "Sultansa", stockSpeed: 160 },
+                { name: "Bholetcorvettec7", stockSpeed: 230 },
+                { name: "Jester3", stockSpeed: 175 },
+                { name: "Bholf4", stockSpeed: 165 },
+                { name: "Bholos60", stockSpeed: 187 },
+                { name: "Bhert45", stockSpeed: 177 },
+                { name: "Bhstanggt", stockSpeed: 200 },
+                { name: "Bhudiq8", stockSpeed: 220 },
+                { name: "Bhudisbrs3", stockSpeed: 215 },
+                { name: "Bhchetbs", stockSpeed: 225 },
+                { name: "Comet5", stockSpeed: 190 },
+                { name: "Bhnaultrs", stockSpeed: 178 },
+                { name: "Bhordfocusrs", stockSpeed: 185 },
+                { name: "Bhwe46", stockSpeed: 190 },
+                { name: "Bhupra", stockSpeed: 195 },
+                { name: "Bhswagenps", stockSpeed: 165 },
+                { name: "Bhwx6", stockSpeed: 160 },
+                { name: "Raiden", stockSpeed: 177 },
+                { name: "Slamvan3", stockSpeed: 156 },
+                { name: "Bhishievox", stockSpeed: 200 },
+                { name: "Omnis", stockSpeed: 175 },
+                { name: "Ellie", stockSpeed: 160 },
+                { name: "Bhahawork", stockSpeed: 161 },
+                { name: "Bhbuswork", stockSpeed: 109 },
+                { name: "Bhertwork", stockSpeed: 132 },
+                { name: "Bhlumberwork", stockSpeed: 176 },
+                { name: "Bhtrashwork", stockSpeed: 140 },
+                { name: "Bhtractorwork", stockSpeed: 79 },
+                { name: "Bhiniaventadorlp700", stockSpeed: 248 },
+                { name: "Bagger", stockSpeed: 130 },
+                { name: "Brioso", stockSpeed: 165 },
+                { name: "Bhfaromeogiulia21", stockSpeed: 225 },
+                { name: "Bhsakizx10r", stockSpeed: 220 },
+                { name: "Bhssangtr17", stockSpeed: 230 },
+                { name: "Bhwm4competition21", stockSpeed: 225 },
+                { name: "Krieger", stockSpeed: 178 },
+                { name: "Khamelion", stockSpeed: 155 },
+                { name: "Paragon", stockSpeed: 161 },
+                { name: "Bhinioopers", stockSpeed: 177 },
+                { name: "Bhondacivictyper", stockSpeed: 200 },
+                { name: "Bhenzegle53c", stockSpeed: 215 },
+                { name: "Bhudirs6c8", stockSpeed: 235 },
+                { name: "Thrax", stockSpeed: 192 },
+                { name: "Prototipo", stockSpeed: 192 },
+                { name: "Longfin", stockSpeed: 190 },
+                { name: "Bhatonmartdb11", stockSpeed: 210 },
+                { name: "Sheava", stockSpeed: 180 },
+                { name: "Taipan", stockSpeed: 190 },
+                { name: "Fmj", stockSpeed: 190 },
+                { name: "Locust", stockSpeed: 180 },
+                { name: "Italigto", stockSpeed: 191 },
+                { name: "Vectre", stockSpeed: 170 },
+                { name: "Coquette4", stockSpeed: 191 },
+                { name: "Bhguarftyper22", stockSpeed: 220 },
+                { name: "Ruston", stockSpeed: 171 },
+                { name: "Bhyacht3b", stockSpeed: 110 },
+                { name: "Sheva", stockSpeed: 173 },
+                { name: "Bhwm4g83", stockSpeed: 220 },
+                { name: "Bhagenroccor", stockSpeed: 180 },
+                { name: "Bhota4rnpro", stockSpeed: 192 },
+                { name: "Bhstang63", stockSpeed: 205 },
+                { name: "Bhntleycontgt", stockSpeed: 240 },
+                { name: "Bhenzeg63amg", stockSpeed: 220 },
+                { name: "Bhlx570", stockSpeed: 205 },
+                { name: "Bhudirs7rabt", stockSpeed: 240 },
+                { name: "Bhwm8", stockSpeed: 235 },
+                { name: "Zorrusso", stockSpeed: 178 },
+                { name: "Bhundaisantafe", stockSpeed: 165 },
+                { name: "Bhswagenregr50", stockSpeed: 180 },
+                { name: "Bhotalandcruhat200", stockSpeed: 189 },
+                { name: "Bhmmerevgmc", stockSpeed: 210 },
+                { name: "Bhoversvrs", stockSpeed: 215 },
+                { name: "Bhentleybentayst", stockSpeed: 230 },
+                { name: "Bhupraformvz5", stockSpeed: 210 },
+                { name: "Bherts63cmatic", stockSpeed: 245 },
+                { name: "Bhurusperf23", stockSpeed: 245 },
+                { name: "Bhudir820", stockSpeed: 245 },
+                { name: "Bhotatacoma24", stockSpeed: 200 },
+                { name: "Bhotasupra", stockSpeed: 240 },
+                { name: "Bholvoxc90", stockSpeed: 205 },
+                { name: "Bhodgechallengersrt", stockSpeed: 230 },
+                { name: "bhssanskylinegtr", stockSpeed: 235 },
+                { name: "bhertcls63samg15", stockSpeed: 232 },
+                { name: "bhudia8lh22", stockSpeed: 220 },
+                { name: "bhorschegt2rs17", stockSpeed: 250 },
+                { name: "bhubaruwrxsti12", stockSpeed: 225 },
+                { name: "bhchevocam19", stockSpeed: 226 },
+                { name: "bhwm5e39", stockSpeed: 212 },
+                { name: "bhwm5cs22", stockSpeed: 235 },
+                { name: "bhwm3e30", stockSpeed: 223 },
+                { name: "bhswagenpassatb8", stockSpeed: 205 },
+                { name: "bhdillacct4vbw22", stockSpeed: 225 },
+                { name: "bhwm5e60v2", stockSpeed: 173 },
+                { name: "bhorschecayennegt22", stockSpeed: 230 },
+                { name: "bhcatipanigalev4", stockSpeed: 260 },
+                { name: "bhmcjavelinamx", stockSpeed: 233 },
+                { name: "bhntleybatur24", stockSpeed: 245 },
+                { name: "bhordgtmk2", stockSpeed: 255 },
+                { name: "bhrleydavfb", stockSpeed: 215 },
+                { name: "bhwx7g07", stockSpeed: 220 },
+                { name: "bheslaroadster20", stockSpeed: 230 },
+                { name: "bhswagengolfrmk75", stockSpeed: 223 },
+                { name: "bhertgtr22", stockSpeed: 245 },
+                { name: "bhotarav4pxse21", stockSpeed: 165 },
+                { name: "bhudietrongt", stockSpeed: 230 },
+                { name: "bhw760ig7024", stockSpeed: 230 },
+                { name: "bhertglsbrabus800", stockSpeed: 230 },
+                { name: "bhinihuracanperf18", stockSpeed: 250 },
+                { name: "bhrrariportofino18", stockSpeed: 243 },
+                { name: "bhotusevoragt430", stockSpeed: 234 },
+                { name: "bhseratileventemansory", stockSpeed: 233 },
+                { name: "bhwx7g0722", stockSpeed: 220 },
+                { name: "bherte63sbrabus800", stockSpeed: 233 },
+                { name: "bhordgtmk2", stockSpeed: 246 },
+                { name: "bhntleybatur24", stockSpeed: 243 },
+                { name: "bhcatipanigale43", stockSpeed: 240 },
+                { name: "bhmcajavelinamx", stockSpeed: 240 },
+                { name: "bhwx7g07", stockSpeed: 225 },
+                { name: "bhrleydavfb", stockSpeed: 220 },
+                { name: "bhgattiveyronvt", stockSpeed: 270 },
+                { name: "bholarisrzrxpesp", stockSpeed: 200 },
+                { name: "bhorschecarrera4sc911", stockSpeed: 240 },
+                { name: "Futo", stockSpeed: 175 },
+                { name: "Bhudirsq821", stockSpeed: 240 },
+                { name: "Bhbarubrz2ts24", stockSpeed: 220 },
+                { name: "Bhwm6e64c26", stockSpeed: 215 },
+                { name: "Bhotaprius24", stockSpeed: 180 },
+                { name: "Bhatonmartvalour24", stockSpeed: 247 },
+                { name: "Bhahayzfr1m20", stockSpeed: 235 },
+                { name: "Bhcidairsapphire23", stockSpeed: 227 },
+                { name: "Bhseratimc202", stockSpeed: 250 },
+                { name: "Bhoblem50022", stockSpeed: 245 },
+                { name: "Bhatonmartdbx70723", stockSpeed: 240 },
+                { name: "Bhuransxts22", stockSpeed: 230 },
+                { name: "bhuscher16", stockSpeed: 225 },
+                { name: "bhlxlfanur11", stockSpeed: 243 },
+                { name: "bhodgeviper17", stockSpeed: 243 },
+                { name: "bhwx5m", stockSpeed: 225 },
+                { name: "bheepgrandchtr418", stockSpeed: 225 },
+                { name: "bhesseyvenomgtsfe16", stockSpeed: 260 },
+                { name: "bhondaciviceg6kev95", stockSpeed: 230 },
+                { name: "bhordmustangbb24", stockSpeed: 238 },
+                { name: "bhotasupragr20", stockSpeed: 240 },
+                { name: "bhw330i20", stockSpeed: 235 }
 
 
-| Model       | Viteză Inițială | Stage 1 | Stage 2 | Stage 3 |
-|-------------|-----------------|---------|---------|---------|
-| Cheetah2    | 182 km/h        | 192 km/h | 217 km/h | 267 km/h |
-| Bmx         | 58 km/h         | 68 km/h  | 93 km/h  | 143 km/h |
-| Cruiser     | 58 km/h         | 68 km/h  | 93 km/h  | 143 km/h |
-| Scorcher    | 61 km/h         | 71 km/h  | 96 km/h  | 146 km/h |
-| Faggio      | 125 km/h        | 135 km/h | 160 km/h | 210 km/h |
-| Manchez     | 175 km/h        | 185 km/h | 210 km/h | 260 km/h |
-| Zombieb     | 165 km/h        | 175 km/h | 200 km/h | 250 km/h |
-| Double      | 172 km/h        | 182 km/h | 207 km/h | 257 km/h |
-| Bati2       | 189 km/h        | 199 km/h | 224 km/h | 274 km/h |
-| Neon        | 170 km/h        | 180 km/h | 205 km/h | 255 km/h |
-| Bati        | 189 km/h        | 199 km/h | 224 km/h | 274 km/h |
-| Dubsta      | 155 km/h        | 165 km/h | 190 km/h | 240 km/h |
-| Blazer      | 149 km/h        | 159 km/h | 184 km/h | 234 km/h |
-| Rancherxl   | 151 km/h        | 161 km/h | 186 km/h | 236 km/h |
-| Bfinjection | 170 km/h        | 180 km/h | 205 km/h | 255 km/h |
-| Asbo        | 145 km/h        | 155 km/h | 180 km/h | 230 km/h |
-| Praire      | 154 km/h        | 164 km/h | 189 km/h | 239 km/h |
-| Primo       | 160 km/h        | 170 km/h | 195 km/h | 245 km/h |
-| Warrener    | 155 km/h        | 165 km/h | 200 km/h | 250 km/h |
-| Tailgater   | 160 km/h        | 170 km/h | 195 km/h | 245 km/h |
-| Premier     | 155 km/h        | 165 km/h | 190 km/h | 240 km/h |
-| Asea        | 160 km/h        | 170 km/h | 195 km/h | 245 km/h |
-| Stratum     | 160 km/h        | 170 km/h | 195 km/h | 245 km/h |
-| Intruder    | 162 km/h        | 172 km/h | 197 km/h | 247 km/h |
-| Glendale    | 160 km/h        | 170 km/h | 195 km/h | 245 km/h |
-| Mesa        | 147 km/h        | 157 km/h | 182 km/h | 232 km/h |
-| Baller      | 155 km/h        | 165 km/h | 190 km/h | 240 km/h |
-| Landstalker | 155 km/h        | 165 km/h | 190 km/h | 240 km/h |
-| Habanero    | 158 km/h        | 168 km/h | 193 km/h | 243 km/h |
-| Huntley     | 166 km/h        | 176 km/h | 201 km/h | 251 km/h |
-| Toros       | 190 km/h        | 200 km/h | 225 km/h | 275 km/h |
-| Voodoo      | 152 km/h        | 162 km/h | 187 km/h | 237 km/h |
-| Buccaneer   | 173 km/h        | 183 km/h | 208 km/h | 258 km/h |
-| Blade       | 170 km/h        | 180 km/h | 205 km/h | 255 km/h |
-| Hustler     | 168 km/h        | 178 km/h | 203 km/h | 253 km/h |
-| Stalion     | 168 km/h        | 178 km/h | 203 km/h | 253 km/h |
-| Impaler     | 179 km/h        | 189 km/h | 214 km/h | 264 km/h |
-| Gauntlet    | 175 km/h        | 185 km/h | 210 km/h | 260 km/h |
-| Dominator   | 184 km/h        | 194 km/h | 219 km/h | 269 km/h |
-| Banshee2    | 178 km/h        | 188 km/h | 213 km/h | 263 km/h |
-| Sc1         | 185 km/h        | 195 km/h | 220 km/h | 270 km/h |
-| Infernus     | 185 km/h        | 195 km/h | 220 km/h | 270 km/h |
-| Cheetah      | 190 km/h        | 200 km/h | 225 km/h | 275 km/h |
-| Reaper       | 185 km/h        | 195 km/h | 220 km/h | 270 km/h |
-| Bullet’      | 185 km/h        | 195 km/h | 220 km/h | 270 km/h |
-| Furia        | 186 km/h        | 196 km/h | 221 km/h | 271 km/h |
-| Cyclone      | 183 km/h        | 193 km/h | 218 km/h | 268 km/h |
-| Tempesta     | 185 km/h        | 195 km/h | 220 km/h | 270 km/h |
-| Osiris       | 185 km/h        | 195 km/h | 220 km/h | 270 km/h |
-| Zentorno     | 188 km/h        | 198 km/h | 223 km/h | 273 km/h |
-| Vacca        | 185 km/h        | 195 km/h | 220 km/h | 270 km/h |
-| Nero         | 192 km/h        | 202 km/h | 227 km/h | 277 km/h |
-| Adder        | 202 km/h        | 212 km/h | 237 km/h | 287 km/h |
-| Casco        | 180 km/h        | 190 km/h | 215 km/h | 265 km/h |
-| Monroe       | 190 km/h        | 200 km/h | 225 km/h | 275 km/h |
-| Buffalo      | 172 km/h        | 182 km/h | 207 km/h | 257 km/h |
-| Coquette     | 186 km/h        | 196 km/h | 221 km/h | 271 km/h |
-| Banshee      | 175 km/h        | 185 km/h | 210 km/h | 260 km/h |
-| Alpha        | 180 km/h        | 190 km/h | 215 km/h | 265 km/h |
-| Turismo2     | 195 km/h        | 205 km/h | 230 km/h | 280 km/h |
-| Pariah       | 184 km/h        | 194 km/h | 219 km/h | 269 km/h |
-| Carbonizzare | 182 km/h        | 192 km/h | 217 km/h | 267 km/h |
-| Drafter      | 179 km/h        | 189 km/h | 214 km/h | 264 km/h |
-| Specter      | 190 km/h        | 200 km/h | 225 km/h | 275 km/h |
-| Seven70      | 190 km/h        | 200 km/h | 225 km/h | 275 km/h |
-| Lynx         | 190 km/h        | 200 km/h | 225 km/h | 275 km/h |
-| Surano       | 190 km/h        | 200 km/h | 225 km/h | 275 km/h |
-| Elegy        | 185 km/h        | 195 km/h | 220 km/h | 270 km/h |
-| Hotring      | 185 km/h        | 195 km/h | 220 km/h | 270 km/h |
-| Jugular      | 200 km/h        | 210 km/h | 235 km/h | 285 km/h |
-| Bf400        | 195 km/h        | 205 km/h | 230 km/h | 280 km/h |
-| Enduro       | 158 km/h        | 168 km/h | 193 km/h | 243 km/h |
-| Shotaro      | 185 km/h        | 195 km/h | 220 km/h | 270 km/h |
-| Everon       | 160 km/h        | 170 km/h | 195 km/h | 245 km/h |
-| Freecrawler  | 148 km/h        | 158 km/h | 183 km/h | 233 km/h |
-| Blista       | 157 km/h        | 167 km/h | 192 km/h | 242 km/h |
-| Novak        | 180 km/h        | 190 km/h | 215 km/h | 265 km/h |
-| Xls          | 160 km/h        | 170 km/h | 195 km/h | 245 km/h |
-| Dominator3   | 164 km/h        | 174 km/h | 199 km/h | 249 km/h |
-| Gaunlet2     | 175 km/h        | 185 km/h | 210 km/h | 260 km/h |
-| Emerus       | 190 km/h        | 200 km/h | 225 km/h | 275 km/h |
-| Nero2        | 190 km/h        | 200 km/h | 225 km/h | 275 km/h |
-| Tezeract     | 202 km/h        | 212 km/h | 237 km/h | 287 km/h |
-| Flashgt      | 170 km/h        | 180 km/h | 205 km/h | 255 km/h |
-| Imorgon      | 167 km/h        | 177 km/h | 202 km/h | 252 km/h |
-| Neo          | 190 km/h        | 200 km/h | 225 km/h | 275 km/h |
-| Jester2      | 180 km/h        | 190 km/h | 215 km/h | 265 km/h |
-| Vortex       | 170 km/h        | 180 km/h | 205 km/h | 255 km/h |
-| Zombiea            | 165 km/h        | 175 km/h | 200 km/h | 250 km/h |
-| Blazer4            | 140 km/h        | 150 km/h | 175 km/h | 225 km/h |
-| Bhatonmartvantage  | 245 km/h        | 255 km/h | 280 km/h | 330 km/h |
-| Bhwx6mf96          | 230 km/h        | 240 km/h | 265 km/h | 315 km/h |
-| Bhwasakinjh2       | 240 km/h        | 250 km/h | 275 km/h | 325 km/h |
-| Bhudirs5           | 210 km/h        | 220 km/h | 245 km/h | 295 km/h |
-| Bhlaren765lt       | 255 km/h        | 265 km/h | 290 km/h | 340 km/h |
-| Bhwm2g87           | 215 km/h        | 225 km/h | 250 km/h | 300 km/h |
-| Bhrrarifxxkevo     | 255 km/h        | 265 km/h | 290 km/h | 340 km/h |
-| Bhagenmk6          | 190 km/h        | 200 km/h | 225 km/h | 275 km/h |
-| Bhinijrgp          | 187 km/h        | 197 km/h | 222 km/h | 272 km/h |
-| Bhndas2000         | 200 km/h        | 210 km/h | 235 km/h | 285 km/h |
-| Bhazdarxspirit     | 205 km/h        | 215 km/h | 240 km/h | 290 km/h |
-| Bhishileix         | 200 km/h        | 210 km/h | 235 km/h | 285 km/h |
-| Bhugeotcc307       | 173 km/h        | 183 km/h | 208 km/h | 258 km/h |
-| Bhenzc63amg        | 220 km/h        | 230 km/h | 255 km/h | 305 km/h |
-| Bhorschetaytrs     | 230 km/h        | 240 km/h | 265 km/h | 315 km/h |
-| Bhwf10xd           |205 km/h        | 215 km/h | 240 km/h | 290 km/h |
-| Bhws7lexdrv        | 220 km/h        | 230 km/h | 255 km/h | 305 km/h |
-| Bhertsclass500     | 227 km/h        | 237 km/h | 262 km/h | 312 km/h |
-| Bheslamsplaid      | 200 km/h        | 210 km/h | 235 km/h | 285 km/h |
-| Bhorscemacpr       | 211 km/h        | 221 km/h | 246 km/h | 296 km/h |
-| Bhodasuperb        | 188 km/h        | 198 km/h | 223 km/h | 273 km/h |
-| Schlagen              | 190 km/h        | 200 km/h | 225 km/h | 275 km/h |
-| Rebla                 | 195 km/h        | 205 km/h | 230 km/h | 280 km/h |
-| Panto                 | 140 km/h        | 150 km/h | 175 km/h | 225 km/h |
-| Growler               | 170 km/h        | 180 km/h | 205 km/h | 255 km/h |
-| Visione               | 188 km/h        | 198 km/h | 223 km/h | 273 km/h |
-| Bhws1000rr            | 215 km/h        | 225 km/h | 250 km/h | 300 km/h |
-| Vstr                  | 190 km/h        | 200 km/h | 225 km/h | 275 km/h |
-| Tyrant                | 205 km/h        | 215 km/h | 240 km/h | 290 km/h |
-| Hakuchou              | 185 km/h        | 195 km/h | 220 km/h | 270 km/h |
-| Hakuchou2             | 185 km/h        | 195 km/h | 220 km/h | 270 km/h |
-| Cliffhanger           | 182 km/h        | 192 km/h | 217 km/h | 267 km/h |
-| Gargoyle              | 180 km/h        | 190 km/h | 215 km/h | 265 km/h |
-| Baller3               | 168 km/h        | 178 km/h | 203 km/h | 253 km/h |
-| T20                   | 190 km/h        | 200 km/h | 225 km/h | 275 km/h |
-| Brawler               | 173 km/h        | 183 km/h | 208 km/h | 258 km/h |
-| Mesa2                 | 130 km/h        | 140 km/h | 165 km/h | 215 km/h |
-| Sentinel3             | 160 km/h        | 170 km/h | 195 km/h | 245 km/h |
-| Bhuster               | 155 km/h        | 165 km/h | 190 km/h | 240 km/h |
-| Bhcamry               | 180 km/h        | 190 km/h | 215 km/h | 265 km/h |
-| Bhodgearger           | 225 km/h        | 235 km/h | 260 km/h | 310 km/h |
-| Bhwi8                 | 215 km/h        | 225 km/h | 250 km/h | 300 km/h |
-| Bhertsgt63s           | 235 km/h        | 245 km/h | 270 km/h | 320 km/h |
-| Sa_infernus           | 195 km/h        | 205 km/h | 230 km/h | 280 km/h |
-| Nrg500sa              | 190 km/h        | 200 km/h | 225 km/h | 275 km/h |
-| Sultansa              | 160 km/h        | 170 km/h | 195 km/h | 245 km/h |
-| Bholetcorvettec7      | 230 km/h        | 240 km/h | 265 km/h | 315 km/h |
-| Jester3               | 175 km/h        | 185 km/h | 210 km/h | 260 km/h |
-| Bholf4                | 165 km/h        | 175 km/h | 200 km/h | 250 km/h |
-| Bholos60              | 187 km/h        | 197 km/h | 222 km/h | 272 km/h |
-| Bhert45               | 177 km/h        | 187 km/h | 212 km/h | 262 km/h |
-| Bhstanggt              | 200 km/h        | 210 km/h | 235 km/h | 285 km/h |
-| Bhudiq8                | 220 km/h        | 230 km/h | 255 km/h | 305 km/h |
-| Bhudisbrs3             | 215 km/h        | 225 km/h | 250 km/h | 300 km/h |
-| Bhchetbs               | 225 km/h        | 235 km/h | 260 km/h | 310 km/h |
-| Comet5                 | 190 km/h        | 200 km/h | 225 km/h | 275 km/h |
-| Bhnaultrs              | 178 km/h        | 188 km/h | 213 km/h | 263 km/h |
-| Bhordfocusrs           | 185 km/h        | 195 km/h | 220 km/h | 270 km/h |
-| Bhwe46                 | 190 km/h        | 200 km/h | 225 km/h | 275 km/h |
-| Bhupra                 | 195 km/h        | 205 km/h | 230 km/h | 280 km/h |
-| Bhswagenps             | 165 km/h        | 175 km/h | 200 km/h | 250 km/h |
-| Bhwx6                  | 160 km/h        | 170 km/h | 195 km/h | 245 km/h |
-| Raiden                 | 177 km/h        | 187 km/h | 212 km/h | 262 km/h |
-| Slamvan3               | 156 km/h        | 166 km/h | 191 km/h | 241 km/h |
-| Bhishievox             | 200 km/h        | 210 km/h | 235 km/h | 285 km/h |
-| Omnis                  | 175 km/h        | 185 km/h | 210 km/h | 260 km/h |
-| Ellie                  | 160 km/h        | 170 km/h | 195 km/h | 245 km/h |
-| Bhahawork              | 161 km/h        | 171 km/h | 196 km/h | 246 km/h |
-| Bhbuswork              | 109 km/h        | 119 km/h | 144 km/h | 194 km/h |
-| Bhertwork              | 132 km/h        | 142 km/h | 167 km/h | 217 km/h |
-| Bhlumberwork           | 176 km/h        | 186 km/h | 211 km/h | 261 km/h |
-| Bhtrashwork            | 140 km/h        | 150 km/h | 175 km/h | 225 km/h |
-| Bhtractorwork          | 79 km/h         | 89 km/h  | 114 km/h | 164 km/h |
-| Bhiniaventadorlp700    | 248 km/h        | 258 km/h | 283 km/h | 333 km/h |
-| Bagger                 | 130 km/h        | 140 km/h | 165 km/h | 215 km/h |
-| Brioso                 | 165 km/h        | 175 km/h | 200 km/h | 250 km/h |
-| Bhfaromeogiulia21      | 225 km/h        | 235 km/h | 260 km/h | 310 km/h |
-| Bhsakizx10r            | 220 km/h        | 230 km/h | 255 km/h | 305 km/h |
-| Bhssangtr17            | 230 km/h        | 240 km/h | 265 km/h | 315 km/h |
-| Bhwm4competition21     | 225 km/h        | 235 km/h | 260 km/h | 310 km/h |
-| Krieger                | 178 km/h        | 188 km/h | 213 km/h | 263 km/h |
-| Khamelion              | 155 km/h        | 165 km/h | 190 km/h | 240 km/h |
-| Paragon                | 161 km/h        | 171 km/h | 196 km/h | 246 km/h |
-| Bhinioopers            | 177 km/h        | 187 km/h | 212 km/h | 262 km/h |
-| Bhondacivictyper       | 200 km/h        | 210 km/h | 235 km/h | 285 km/h |
-| Bhenzegle53c           | 215 km/h        | 225 km/h | 250 km/h | 300 km/h |
-| Bhudirs6c8             | 235 km/h        | 245 km/h | 270 km/h | 320 km/h |
-| Thrax                  | 192 km/h        | 202 km/h | 227 km/h | 277 km/h |
-| Prototipo              | 192 km/h        | 202 km/h | 227 km/h | 277 km/h |
-| Longfin                | 190 km/h        | 200 km/h | 225 km/h | 275 km/h |
-| Bhatonmartdb11         | 210 km/h        | 220 km/h | 245 km/h | 295 km/h |
-| Sheava                 | 180 km/h        | 190 km/h | 215 km/h | 265 km/h |
-| Taipan                 | 190 km/h        | 200 km/h | 225 km/h | 275 km/h |
-| Fmj                    | 190 km/h        | 200 km/h | 225 km/h | 275 km/h |
-| Locust                 | 180 km/h        | 190 km/h | 215 km/h | 265 km/h |
-| Italigto               | 191 km/h        | 201 km/h | 226 km/h | 276 km/h |
-| Vectre                 | 170 km/h        | 180 km/h | 205 km/h | 255 km/h |
-| Coquette4              | 191 km/h        | 201 km/h | 226 km/h | 276 km/h |
-| Bhguarftyper22         | 220 km/h        | 230 km/h | 255 km/h | 305 km/h |
-| Ruston                 | 171 km/h        | 181 km/h | 206 km/h | 256 km/h |
-| Bhyacht3b              | 110 km/h        | 120 km/h | 145 km/h | 195 km/h |
-| Sheva                  | 173 km/h        | 183 km/h | 208 km/h | 258 km/h |
-| Bhwm4g83               | 220 km/h        | 230 km/h | 255 km/h | 305 km/h |
-| Bhagenroccor           | 180 km/h        | 190 km/h | 215 km/h | 265 km/h |
-| Bhota4rnpro            | 192 km/h        | 202 km/h | 227 km/h | 277 km/h |
-| Bhstang63              | 205 km/h        | 215 km/h | 240 km/h | 290 km/h |
-| Bhntleycontgt          | 240 km/h        | 250 km/h | 275 km/h | 325 km/h |
-| Bhenzeg63amg           | 220 km/h        | 230 km/h | 255 km/h | 305 km/h |
-| Bhlx570                | 205 km/h        | 215 km/h | 240 km/h | 290 km/h |
-| Bhudirs7rabt           | 240 km/h        | 250 km/h | 275 km/h | 325 km/h |
-| Bhwm8                  | 235 km/h        | 245 km/h | 270 km/h | 320 km/h |
-| Zorrusso               | 178 km/h        | 188 km/h | 213 km/h | 263 km/h |
-| Bhundaisantafe         | 165 km/h        | 175 km/h | 200 km/h | 250 km/h |
-| Bhswagenregr50         | 180 km/h        | 190 km/h | 215 km/h | 265 km/h |
-| Bhotalandcruhat200     | 189 km/h        | 199 km/h | 224 km/h | 274 km/h |
-| Bhmmerevgmc           | 210 km/h         | 220 km/h | 245 km/h | 295 km/h |
-| Bhoversvrs            | 215 km/h         | 225 km/h | 250 km/h | 300 km/h |
-| Bhentleybentayst       | 230 km/h        | 240 km/h | 265 km/h | 315 km/h |
-| Bhupraformvz5          | 210 km/h        | 220 km/h  | 245 km/h  | 295 km/h  |
-| Bherts63cmatic        | 245 km/h        | 255 km/h | 270 km/h | 320 km/h |
-| Bhurusperf23          | 245 km/h        | 255 km/h | 280 km/h | 330 km/h |
-| Bhudir820             | 245 km/h        | 255 km/h | 280 km/h | 330 km/h |
-| Bhotatacoma24         | 200 km/h        | 210 km/h | 235 km/h | 285 km/h |
-| Bhotasupra            | 240 km/h        | 250 km/h | 275 km/h | 330 km/h |
-| Bholvoxc90            | 205 km/h        | 215 km/h | 240 km/h | 290 km/h |
-| Bhodgechallengersrt   | 230 km/h        | 240 km/h | 265 km/h | 315 km/h |
-| bhssanskylinegtr	    | 235 km/h	      | 245 km/h | 280 km/h | 330 km/h |
-| bhertcls63samg15	    | 232 km/h 	      | 242 km/h | 277 km/h | 327 km/h |
-| bhudia8lh22		        | 220 km/h	      | 230 km/h | 255 km/h | 305 km/h |
-| bhorschegt2rs17	      | 250 km/h	      | 260 km/h | 295 km/h | 345 km/h |
-| bhubaruwrxsti12 	    | 225 km/h 	      | 235 km/h | 270 km/h | 320 km/h |
-| bhchevocam19	        | 226 km/h 	      | 236 km/h | 271 km/h | 321 km/h |
-| bhwm5e39		          | 212 km/h 	      | 222 km/h | 257 km/h | 307 km/h |
-| bhwm5cs22		          | 235 km/h        | 245 km/h | 270 km/h | 320 km/h |
-| bhwm3e30              | 223 km/h        | 233 km/h | 258 km/h | 308 km/h |
-| bhswagenpassatb8      | 205 km/h        | 215 km/h | 240 km/h | 290 km/h |
-| bhdillacct4vbw22      | 225 km/h        | 235 km/h | 260 km/h | 310 km/h |
-| bhwm5e60v2		        | 173 km/h	       | 183 km/h | 208 km/h | 269 km/h |
-| bhorschecayennegt22    | 230 km/h    | 240 km/h | 265 km/h | 315 km/h |
-| bhcatipanigalev4       | 260 km/h         | 270 km/h | 295 km/h  | 345 km/h |
-| bhmcjavelinamx        | 233 km/h         | 243 km/h | 268 km/h  | 318 km/h |
-| bhntleybatur24          | 245 km/h         | 255 km/h | 280 km/h  | 330 km/h |
-| bhordgtmk2               | 255 km/h         | 265 km/h | 290 km/h | 340 km/h |
-| bhrleydavfb               | 215 km/h         | 225 km/h | 250 km/h | 300 km/h |
-| bhwx7g07                 | 220 km/h         | 230 km/h | 255 km/h | 305 km/h |
-| bheslaroadster20      | 230 km/h         | 240 km/h | 265 km/h | 315 km/h |
-| bhswagengolfrmk75  | 223 km/h        | 233 km/h | 258 km/h  | 308 km/h |
-| bhertgtr22                  | 245 km/h        | 255 km/h | 280 km/h  | 330 km/h |
-| bhotarav4pxse21      | 165 km/h         | 175 km/h | 200 km/h  | 250 km/h |
-| bhudietrongt           | 230 km/h | 240 km/h | 265 km/h | 325 km/h |
-| bhw760ig7024           | 230 km/h | 240 km/h | 265 km/h | 315 km/h |
-| bhertglsbrabus800      | 230 km/h | 240 km/h | 265 km/h | 315 km/h |
-| bhinihuracanperf18     | 250 km/h | 260 km/h | 285 km/h | 335 km/h |
-| bhrrariportofino18     | 243 km/h | 253 km/h | 278 km/h | 328 km/h |
-| bhotusevoragt430       | 234 km/h | 244 km/h | 269 km/h | 319 km/h |
-| bhseratileventemansory | 233 km/h | 243 km/h | 268 km/h | 318 km/h |
-| bhwx7g0722             | 220 km/h | 230 km/h | 255 km/h | 305 km/h |
-| bherte63sbrabus800     | 233 km/h | 243 km/h | 268 km/h | 318 km/h |
-| bhordgtmk2             | 246 km/h | 256 km/h | 281 km/h | 331 km/h |
-| bhntleybatur24         | 243 km/h | 253 km/h | 278 km/h | 328 km/h |
-| bhcatipanigale43       | 240 km/h | 250 km/h | 275 km/h | 325 km/h |
-| bhmcajavelinamx        | 240 km/h | 250 km/h | 275 km/h | 325 km/h |
-| bhwx7g07               | 225 km/h | 235 km/h | 260 km/h | 310 km/h |
-| bhrleydavfb            | 220 km/h | 230 km/h | 255 km/h | 305 km/h |
-| bhgattiveyronvt        | 270 km/h | 280 km/h | 305 km/h | 355 km/h |
-| bholarisrzrxpesp       | 200 km/h | 210 km/h | 235 km/h | 285 km/h |
-| bhorschecarrera4sc911  | 240 km/h | 250 km/h | 275 km/h | 325 km/h |
-| Futo                   | 175 km/h | 185 km/h | 210 km/h | 260 km/h |
-| Bhudirsq821          | 240 km/h| 250 km/h| 275 km/h| 325 km/h|
-| Bhbarubrz2ts24       | 220 km/h| 230 km/h| 255 km/h| 305 km/h|
-| Bhwm6e64c26          | 215 km/h| 225 km/h| 250 km/h| 300 km/h|
-| Bhotaprius24         | 180 km/h| 190 km/h| 215 km/h| 265 km/h|
-| Bhatonmartvalour24   | 247 km/h| 257 km/h| 282 km/h| 332 km/h|
-| Bhahayzfr1m20        | 235 km/h| 245 km/h| 270 km/h| 320 km/h|
-| Bhcidairsapphire23   | 227 km/h| 237 km/h| 262 km/h| 312 km/h|
-| Bhseratimc202        | 250 km/h| 260 km/h| 295 km/h| 335 km/h|
-| Bhoblem50022         | 245 km/h| 255 km/h| 280 km/h| 330 km/h|
-| Bhatonmartdbx70723   | 240 km/h| 250 km/h| 275 km/h| 325 km/h|
-| Bhuransxts22         | 230 km/h| 240 km/h| 265 km/h| 315 km/h|
-| bhuscher16           | 225 km/h| | | |
-| bhlxlfanur11 | 243 Km/h | 253 km/h | 278 km/h | 328 km/h|
-| bhodgeviper17      | 243 Km/h | 253 km/h | 278 km/h | 328 km/h |
-| bhwx5m          | 225 Km/h | 235 km/h | 260 km/h | 310 km/h |
-| bheepgrandchtr418 | 225 Km/h    | 235 km/h | 260 km/h| 310 km/h | 
-| bhesseyvenomgtsfe16 | 260 km/h | 270 km/h| 295 km/h| 345 km/h |
-| bhondaciviceg6kev95 | 230 km/h| 240 km/h| 265 km/h| 315 km/h|
-| bhordmustangbb24 | 238 km/h | 248 km/h | 273 km/h |  323 km/h |
-| bhotasupragr20 | 240 km/h | 250 km/h | 275 km/h | 325 km/h |
-| bhw330i20 | 235 km/h| 245 km/h| 270 km/h| 320 km/h|
+            ];
+
+            const tableBody = document.getElementById("car-speeds");
+            data.forEach(car => {
+                const speeds = calculateSpeeds(car.stockSpeed);
+                const row = document.createElement("tr");
+
+                const nameCell = document.createElement("td");
+                nameCell.textContent = car.name;
+                row.appendChild(nameCell);
+
+                const stockSpeedCell = document.createElement("td");
+                stockSpeedCell.textContent = `${car.stockSpeed} km/h`;
+                row.appendChild(stockSpeedCell);
+
+                speeds.forEach(speed => {
+                    const cell = document.createElement("td");
+                    cell.textContent = `${speed.toFixed(2)} km/h`;
+                    row.appendChild(cell);
+                });
+
+                tableBody.appendChild(row);
+            });
+        }
+
+        window.onload = populateTable;
+    </script>
+</body>
+</html>
