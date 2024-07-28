@@ -201,7 +201,7 @@ Premii: Money, Rob Points, Premium Account (14 days), Giftbox, Job-Boost, Bunny 
     <img width="200" src="https://i.imgur.com/bbLz2vh.png" alt="Summer V2">
 </p>
 
-❗Acest crate se poate achiziționa pentru suma de 5000 **BPoints** sau 250 de **Premium Points**
+❗Acest crate se poate achiziționa pentru suma de 6969 **BPoints** sau 250 de **Premium Points**
 
 Premii: Job Boost 100% 2h, Job Boost 200% 1h, Respect points, Rob Points, 5-7x Giftbox, 3x Moonlight, Job Boostt 300% 1h, VIP Ticket, Random shard, Random premium points 100-200, Voucher 500pp, Rolls shard 
 sau vehiculul SL 63 Mercedes 
