@@ -346,27 +346,32 @@ function calculateSpeeds(stockSpeed) {
 
             ];
 
-            const tableBody = document.getElementById("car-speeds");
-            data.forEach(car => {
-                const speeds = calculateSpeeds(car.stockSpeed);
-                const row = document.createElement("tr");
+             const tableBody = document.getElementById("car-speeds");
+    if (!tableBody) {
+        console.error("Element with id 'car-speeds' not found.");
+        return;
+    }
 
-                const nameCell = document.createElement("td");
-                nameCell.textContent = car.name;
-                row.appendChild(nameCell);
+    data.forEach(car => {
+        const speeds = calculateSpeeds(car.stockSpeed);
+        const row = document.createElement("tr");
 
-                const stockSpeedCell = document.createElement("td");
-                stockSpeedCell.textContent = `${car.stockSpeed} km/h`;
-                row.appendChild(stockSpeedCell);
+        const nameCell = document.createElement("td");
+        nameCell.textContent = car.name;
+        row.appendChild(nameCell);
 
-                speeds.forEach(speed => {
-                    const cell = document.createElement("td");
-                    cell.textContent = `${speed.toFixed(2)} km/h`;
-                    row.appendChild(cell);
-                });
+        const stockSpeedCell = document.createElement("td");
+        stockSpeedCell.textContent = `${car.stockSpeed} km/h`;
+        row.appendChild(stockSpeedCell);
 
-                tableBody.appendChild(row);
-            });
-        }
+        speeds.forEach(speed => {
+            const cell = document.createElement("td");
+            cell.textContent = `${speed.toFixed(2)} km/h`;
+            row.appendChild(cell);
+        });
 
-        window.onload = populateTable;
+        tableBody.appendChild(row);
+    });
+}
+
+window.onload = populateTable;
