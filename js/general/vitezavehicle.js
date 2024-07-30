@@ -1,4 +1,4 @@
-unction calculateSpeeds(stockSpeed) {
+function calculateSpeeds(stockSpeed) {
             let stage1 = stockSpeed * 1.10;
             let stage2 = stage1 * 1.10;
             let stage3 = stage2 * 1.10;
