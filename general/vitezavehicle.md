@@ -23,18 +23,18 @@ title: Viteza vehicule
 
 # Vehicule modate
 
-    <table>
-        <thead>
-            <tr>
-                <th style="color: orange;">Mașină</th>
-                <th>Viteza Stock</th>
-                <th>Stage 1</th>
-                <th>Stage 2</th>
-                <th>Stage 3</th>
-                <th>Stage 4</th>
-            </tr>
-        </thead>
-        <tbody id="car-speeds2">
-            <!-- Rândurile vor fi populate automat -->
-        </tbody>
-    </table>
+<table>
+<thead>
+    <tr>
+        <th style="color: orange;">Mașină</th>
+        <th>Viteza Stock</th>
+        <th>Stage 1</th>
+        <th>Stage 2</th>
+        <th>Stage 3</th>
+        <th>Stage 4</th>
+    </tr>
+</thead>
+<tbody id="car-speeds2">
+    <!-- Rândurile vor fi populate automat -->
+</tbody>
+</table>
