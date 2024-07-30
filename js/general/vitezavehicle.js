@@ -1,4 +1,4 @@
-function calculateSpeeds(stockSpeed) {
+unction calculateSpeeds(stockSpeed) {
             let stage1 = stockSpeed * 1.10;
             let stage2 = stage1 * 1.10;
             let stage3 = stage2 * 1.10;
@@ -6,10 +6,10 @@ function calculateSpeeds(stockSpeed) {
             return [stage1, stage2, stage3, stage4];
         }
 
-     function populateTable() {
+        function populateTable() {
             // Datele vehiculului
             const data = [
-                { name: "Cheetah2", stockSpeed: 192 },
+               { name: "Cheetah2", stockSpeed: 192 },
                 { name: "Bmx", stockSpeed: 58 },
                 { name: "Cruiser", stockSpeed: 58 },
                 { name: "Scorcher", stockSpeed: 61 },
