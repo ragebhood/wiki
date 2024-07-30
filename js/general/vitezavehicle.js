@@ -6,7 +6,8 @@ function calculateSpeeds(stockSpeed) {
             return [stage1, stage2, stage3, stage4];
         }
 
-        function populateTable() {
+     function populateTable() {
+            // Datele vehiculului
             const data = [
                 { name: "Cheetah2", stockSpeed: 192 },
                 { name: "Bmx", stockSpeed: 58 },
@@ -305,7 +306,7 @@ function calculateSpeeds(stockSpeed) {
                 { name: "bhgattiveyronvt", stockSpeed: 270 },
                 { name: "bholarisrzrxpesp", stockSpeed: 200 },
                 { name: "bhorschecarrera4sc911", stockSpeed: 240 },
-                { name: "zr350", stockSpeed: 186 },
+                { name: "zr350" ,stockSpeed: 186 },
                 { name: "Futo", stockSpeed: 196 },
                 { name: "Bhudirsq821", stockSpeed: 240 },
                 { name: "Bhbarubrz2ts24", stockSpeed: 220 },
@@ -330,6 +331,7 @@ function calculateSpeeds(stockSpeed) {
                 { name: "tenf" ,stockSpeed: 205 },
                 { name: "calico" ,stockSpeed: 188 },
                 { name: "bhw330i20", stockSpeed: 235 }
+
             ];
 
             const tableBody = document.getElementById("car-speeds");
