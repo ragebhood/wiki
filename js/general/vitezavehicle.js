@@ -329,7 +329,20 @@ function calculateSpeeds(stockSpeed) {
                 { name: "bhotasupragr20", stockSpeed: 240 },
                 { name: "tenf" ,stockSpeed: 205 },
                 { name: "calico" ,stockSpeed: 188 },
-                { name: "bhw330i20", stockSpeed: 235 }
+                { name: "bhw330i20", stockSpeed: 235 },
+                { name: "bhazdamx5miatana19", stockSpeed: 190 },
+                { name: "bhssan350zconv2006", stockSpeed: 195 },
+                { name: "bhodgechallengerrth97", stockSpeed: 205 },
+                { name: "bhert190eevo290", stockSpeed: 205 },
+                { name: "bhssans13silvia180sx98", stockSpeed: 207 },
+                { name: "bhwm3e36", stockSpeed: 210 },
+                { name: "bhrrari488gtb16", stockSpeed: 245 },
+                { name: "bhlaren675lts16", stockSpeed: 250 },
+                { name: "bhrrari812sf18", stockSpeed: 255 },
+                { name: "bhorsche918s15", stockSpeed: 265 },
+                { name: "bhlarenp114", stockSpeed: 270 },
+                { name: "bhgseggagerars18", stockSpeed: 275 },
+                { name: "bhssanznismo24", stockSpeed: 235 }
 
             ];
 
