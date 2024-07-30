@@ -4,7 +4,7 @@ title: Viteza vehicule
 
 În acest tabel puteți regăsi viteza vehiculelor, vă recomand să folosiți `CTRL+F` pentru a vă fi mai ușor să gasiți un anume vehicul.
 
-
+# Vehicule vanilla
 <table>
         <thead>
             <tr>
@@ -20,6 +20,9 @@ title: Viteza vehicule
             <!-- Rândurile vor fi populate automat -->
         </tbody>
     </table>
+
+# Vehicule modate
+
     <table>
         <thead>
             <tr>
