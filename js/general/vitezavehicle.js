@@ -8,6 +8,7 @@ function calculateSpeeds(stockSpeed) {
 
         function populateTable() {
             // Datele vehiculului
+            console.log("Verificarea 1.");
             const data = [
                { name: "Cheetah2", stockSpeed: 192 },
                 { name: "Bmx", stockSpeed: 58 },
@@ -345,33 +346,34 @@ function calculateSpeeds(stockSpeed) {
                 { name: "bhssanznismo24", stockSpeed: 235 }
 
             ];
-
-             const tableBody = document.getElementById("car-speeds");
-    if (!tableBody) {
-        console.error("Element with id 'car-speeds' not found.");
-        return;
-    }
-
-    data.forEach(car => {
-        const speeds = calculateSpeeds(car.stockSpeed);
-        const row = document.createElement("tr");
-
-        const nameCell = document.createElement("td");
-        nameCell.textContent = car.name;
-        row.appendChild(nameCell);
-
-        const stockSpeedCell = document.createElement("td");
-        stockSpeedCell.textContent = `${car.stockSpeed} km/h`;
-        row.appendChild(stockSpeedCell);
-
-        speeds.forEach(speed => {
+            console.log("Verificarea 2.");
+            const tableBody = document.getElementById("car-speeds");
+            if (!tableBody) {
+            console.error("Element with id 'car-speeds' not found.");
+            return;
+            }
+            console.log(calculateSpeeds(100))
+            data.forEach(car => {
+            const speeds = calculateSpeeds(car.stockSpeed);
+            const row = document.createElement("tr");
+            
+            const nameCell = document.createElement("td");
+            nameCell.textContent = car.name;
+            row.appendChild(nameCell);
+            
+            const stockSpeedCell = document.createElement("td");
+            stockSpeedCell.textContent = `${car.stockSpeed} km/h`;
+            row.appendChild(stockSpeedCell);
+            
+            speeds.forEach(speed => {
             const cell = document.createElement("td");
             cell.textContent = `${speed.toFixed(2)} km/h`;
             row.appendChild(cell);
-        });
-
-        tableBody.appendChild(row);
-    });
+            });
+            console.log("Verificarea 3.");
+            tableBody.appendChild(row);
+            });
 }
 
 window.onload = populateTable;
+console.log("Verificarea 4.");
