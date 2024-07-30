@@ -6,9 +6,9 @@ function calculateSpeeds(stockSpeed) {
             return [stage1, stage2, stage3, stage4];
         }
 
-        function populateTable() {
-            // Datele vehiculului
-         { name: "Cheetah2", stockSpeed: 192 },
+        function populateTable()
+        {
+                { name: "Cheetah2", stockSpeed: 192 },
                 { name: "Bmx", stockSpeed: 58 },
                 { name: "Cruiser", stockSpeed: 58 },
                 { name: "Scorcher", stockSpeed: 61 },
