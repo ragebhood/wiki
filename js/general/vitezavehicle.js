@@ -305,7 +305,7 @@ function calculateSpeeds(stockSpeed) {
                 { name: "bhgattiveyronvt", stockSpeed: 270 },
                 { name: "bholarisrzrxpesp", stockSpeed: 200 },
                 { name: "bhorschecarrera4sc911", stockSpeed: 240 },
-                { name: "zr350" ,stockSpeed: 186 },
+                { name: "zr350", stockSpeed: 186 },
                 { name: "Futo", stockSpeed: 196 },
                 { name: "Bhudirsq821", stockSpeed: 240 },
                 { name: "Bhbarubrz2ts24", stockSpeed: 220 },
