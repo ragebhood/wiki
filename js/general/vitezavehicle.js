@@ -244,7 +244,7 @@
               { name: "MTL Jumberjack Flatbed", spawncode: "bhlumberwork", stockSpeed: 176 },
               { name: "Jobuilt Trashmaster Custom", spawncode: "bhtrashwork", stockSpeed: 140 },
               { name: "Stanley Fieldmaster Custom", spawncode: "bhtractorwork", stockSpeed: 79 },
-              { name: "Pegassi Adventura", spawncode: "bhiniaventadorlp700", stockSpeed: 248 }
+              { name: "Pegassi Adventura", spawncode: "bhiniaventadorlp700", stockSpeed: 248 },
               { name: "Western Bagger", spawncode: "Bagger", stockSpeed: 130 },
               { name: "Grotti Brioso R/A", spawncode: "Brioso", stockSpeed: 165 },
               { name: "Western Sovereign", spawncode: "sovereign", stockSpeed: 167 },
@@ -299,7 +299,7 @@
               { name: "Enus Paragon MVZ5", spawncode: "Bhupraformvz5", stockSpeed: 210 },
               { name: "Bennys ER63 AMG", spawncode: "Bherts63cmatic", stockSpeed: 245 },
               { name: "Bennys URUS Perfomante", spawncode: "Bhurusperf23", stockSpeed: 245 },
-              { name: "Karin Calico GTF", spawncode: "calico", stockSpeed: 188 }
+              { name: "Karin Calico GTF", spawncode: "calico", stockSpeed: 188 },
                 { name: "Obey R Type 8", spawncode: "bhudir820", stockSpeed: 245 },
                 { name: "Karin Tacoma 2024", spawncode: "bhotatacoma24", stockSpeed: 200 },
                 { name: "Karin Spectra Spec 4", spawncode: "bhotasupra", stockSpeed: 240 },
