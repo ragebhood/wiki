@@ -287,7 +287,7 @@
               { name: "Enus Global", spawncode: "Bhntleycontgt", stockSpeed: 240 },
               { name: "Benefactor G Type 63", spawncode: "Bhenzeg63amg", stockSpeed: 220 },
               { name: "Emperor LX570", spawncode: "Bhlx570", stockSpeed: 205 },
-              { name: "Obey RS Type 7 RABT", spawncode: "Bhudirs7rabt", stockSpeed: 240 }
+              { name: "Obey RS Type 7 RABT", spawncode: "Bhudirs7rabt", stockSpeed: 240 },
               { name: "Obey M Type 8", spawncode: "Bhwm8", stockSpeed: 235 },
               { name: "Dewbauchee Zorrusso", spawncode: "Zorrusso", stockSpeed: 200 },
               { name: "Benefactor Landcruiser", spawncode: "Bhundaisantafe", stockSpeed: 165 },
