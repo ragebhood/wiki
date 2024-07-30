@@ -6,8 +6,8 @@ function calculateSpeeds(stockSpeed) {
             return [stage1, stage2, stage3, stage4];
         }
 
-        function populateTable()
-        {
+        function populateTable() {
+            const data = [
                 { name: "Cheetah2", stockSpeed: 192 },
                 { name: "Bmx", stockSpeed: 58 },
                 { name: "Cruiser", stockSpeed: 58 },
