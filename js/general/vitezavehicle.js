@@ -281,7 +281,6 @@ function calculateSpeeds(stockSpeed) {
                 { name: "bhcatipanigalev4", stockSpeed: 260 },
                 { name: "bhmcjavelinamx", stockSpeed: 233 },
                 { name: "bhntleybatur24", stockSpeed: 245 },
-                { name: "bhordgtmk2", stockSpeed: 255 },
                 { name: "bhrleydavfb", stockSpeed: 215 },
                 { name: "bhwx7g07", stockSpeed: 220 },
                 { name: "bheslaroadster20", stockSpeed: 230 },
