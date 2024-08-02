@@ -17,6 +17,7 @@
                 { name: "Western Zombie Chopper", spawncode: "Zombieb", stockSpeed: 168 },
                 { name: "Dinka Double-T", spawncode: "Double", stockSpeed: 183 },
                 { name: "Pegassi Bati 801RR", spawncode: "Bati2", stockSpeed: 189 },
+                { name: "Enus Daybreak", spawncode: "bhollsroycedawn16", stockSpeed: 234 },
                 { name: "Pfister Neon", spawncode: "Neon", stockSpeed: 184 },
                 { name: "Pegassi Bati 801", spawncode: "Bati", stockSpeed: 185 },
                 { name: "Benefactor Dubsta", spawncode: "Dubsta", stockSpeed: 167 },
