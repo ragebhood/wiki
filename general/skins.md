@@ -85,8 +85,8 @@ Nu există un Ticket universal, ci în funcție de nevoile tale, un ticket poate
   </tr>
    <tr>
     <td style="color:#88db14;"><strong>Spring V2 Ticket</strong></td>
-    <td> Daca te joci peste 1800 de seunde la un Payday, vei primi un Rob Points in plus, respectev 3 Free Points ca politist. Acest Ticket iti ofera 
-    plus 50% materiale si droguri atunci cand muncesti la job-urile aferente.</td>
+    <td> Daca te joci peste 1800 de seunde la un Payday, vei primi 2 Rob Points in plus, respectev 2 Free Points ca politist. Acest Ticket iti ofera 
+    50% mai multe materiale si droguri atunci cand muncesti la job-urile aferente.</td>
   </tr>
 </table>
 
