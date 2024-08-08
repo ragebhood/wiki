@@ -6,9 +6,9 @@ title: Activity Sistem
 Te simți plictisit și crezi că nu mai ai nimic de făcut? Încearcă comanda "/quests" și îți provoc curajul să completezi misiunile!
 
 ## Când mi se resetează misiunile?
-- **Misiunile zilnice** sunt resetate în fiecare zi la ora 7:00
-- **Misiunile săptămânale** sunt resetate la fiecare 7 zile
-- **Misiunile speciale** sunt resetate la fiecare 30 de zile.
+- **Misiunile zilnice** sunt resetate în fiecare zi la ora 7:00.
+- **Misiunile săptămânale** sunt resetate la fiecare 7 zile la ora 20:00.
+- **Misiunile speciale** sunt resetate la fiecare 30 de zile la ora 20:00.
 
 # Magazin
 
